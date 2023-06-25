@@ -37,8 +37,8 @@ export const lensData2Markdown = (lensData: LensData) => {
     `| Image Stabilizer  | ${hasStabilizer ? "YES" : ""}  |`,
     `| Dust / Moisture Resistance | ${hasDustMoistureResistance ? "YES" : ""}  |`,
     `| Filter Diameter | ${filterDiameter}mm |`,
-    `| weight | ${weight}g |`,
-    `| Official URL | ${officialUrl} |`,
+    `| weight | ${weight || '-' }g |`,
+    `| Official URL | ${officialUrl || ''} |`,
     
     "",
   ];

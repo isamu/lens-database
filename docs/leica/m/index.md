@@ -10,5 +10,5 @@
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 46mm |
-| weight | undefinedg |
-| Official URL | undefined |
+| weight | -g |
+| Official URL |  |

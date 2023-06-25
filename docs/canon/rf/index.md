@@ -37,7 +37,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 43mm |
 | weight | 160g |
-| Official URL | undefined |
+| Official URL |  |
 
 ### RF15-35mm F2.8 L IS USM
 |  | |
@@ -50,7 +50,7 @@
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 82mm |
 | weight | 840g |
-| Official URL | undefined |
+| Official URL |  |
 
 ### RF24-50mm F4.5-6.3 IS STM
 |  | |
@@ -63,7 +63,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
 | weight | 210g |
-| Official URL | undefined |
+| Official URL |  |
 
 ### RF100-400mm F5.6-8 IS USM
 |  | |
@@ -76,4 +76,4 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
 | weight | 635g |
-| Official URL | undefined |
+| Official URL |  |
