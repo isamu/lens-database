@@ -8,6 +8,7 @@ export type Focus = "AF" | "MF";
 
 export type LensData = {
   id: string; // EAN/JAN code
+  JANCode?: string;
   maker: Maker;
   name: string;
   mount: Mount;
