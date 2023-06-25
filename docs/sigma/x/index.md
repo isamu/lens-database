@@ -8,3 +8,7 @@
 | FStop | F2.8 |
 | Format  | APS-C |
 | Image Stabilizer  |   |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 55mm |
+| weight | 285g |
+| Official URL | undefined |

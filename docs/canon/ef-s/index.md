@@ -8,6 +8,10 @@
 | FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
+| Dust / Moisture Resistance |   |
+| Filter Diameter | 58mm |
+| weight | 215g |
+| Official URL | undefined |
 
 ### EF-S55-250mm F4-5.6 IS II
 |  | |
@@ -17,6 +21,10 @@
 | FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
+| Dust / Moisture Resistance |   |
+| Filter Diameter | 58mm |
+| weight | 390g |
+| Official URL | undefined |
 
 ### EF-S18-135mm F3.5-5.6 IS USM
 |  | |
@@ -26,3 +34,7 @@
 | FStop | F3.5 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
+| Dust / Moisture Resistance |   |
+| Filter Diameter | 67mm |
+| weight | 515g |
+| Official URL | undefined |

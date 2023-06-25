@@ -2,4 +2,5 @@
  - [Canon/EF-S](./canon/ef-s/index.md)
  - [Canon/RF](./canon/rf/index.md)
  - [Fujifilm/X](./fujifilm/x/index.md)
+ - [Leica/M](./leica/m/index.md)
  - [SIGMA/X](./sigma/x/index.md)

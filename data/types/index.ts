@@ -1,6 +1,6 @@
-export type Maker = "Canon" | "Fujifilm" | "SIGMA";
+export type Maker = "Canon" | "Fujifilm" | "SIGMA" | "Leica";
 
-export type Mount = "RF" | "EF" | "EF-S" | "X";
+export type Mount = "RF" | "EF" | "EF-S" | "X" | "M";
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
@@ -18,7 +18,7 @@ export type LensData = {
   hasStabilizer: boolean;
   hasDustMoistureResistance: boolean;
   filterDiameter: number;
-  weight: numner;
+  weight?: numner;
   officialUrl?: string;
   urls?: { [key: string]: string };
   releaseDate?: string;

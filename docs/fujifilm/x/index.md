@@ -8,3 +8,7 @@
 | FStop | F4 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 72mm |
+| weight | 385g |
+| Official URL | undefined |
