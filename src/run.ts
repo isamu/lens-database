@@ -49,15 +49,7 @@ const validateLensData = (dataObj: MakerMountDataObject) => {
   return ret;
 };
 
-const main = () => {
-  const dataObj = getLensDataObject(lens);
-
-  // validate
-  if (!validateLensData(dataObj)) {
-    console.log("invalid data");
-    return false;
-  }
-
+const createMarkdown = (dataObj: MakerMountDataObject) => {
   const index: string[] = [];
 
   Object.keys(dataObj).map((maker) => {
@@ -77,6 +69,23 @@ const main = () => {
   });
 
   fs.writeFileSync(`./docs/README.md`, index.join("\n"));
+};
+
+const createArtifacts = (dataObj: MakerMountDataObject) => {
+  fs.writeFileSync(`./artifacts/data.json`, JSON.stringify(dataObj, null, 2));
+  fs.writeFileSync(`./artifacts/data.ts`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
+};
+
+const main = () => {
+  const dataObj = getLensDataObject(lens);
+
+  // validate
+  if (!validateLensData(dataObj)) {
+    console.log("invalid data");
+    return false;
+  }
+  createMarkdown(dataObj);
+  createArtifacts(dataObj);
 };
 
 main();
