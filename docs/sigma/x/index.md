@@ -5,6 +5,6 @@
 | -- | -- |
 | Mount  | X mount |
 | Focus length | 18 - 50mm |
-| FStop | 2.8 |
+| FStop | F2.8 |
 | Format  | APS-C |
 | Image Stabilizer  |   |

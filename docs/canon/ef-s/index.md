@@ -5,7 +5,7 @@
 | -- | -- |
 | Mount  | EF-S mount |
 | Focus length | 18 - 55mm |
-| FStop | 4 - 5.6 |
+| FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 
@@ -14,7 +14,7 @@
 | -- | -- |
 | Mount  | EF-S mount |
 | Focus length | 55 - 250mm |
-| FStop | 4 - 5.6 |
+| FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 
@@ -23,6 +23,6 @@
 | -- | -- |
 | Mount  | EF-S mount |
 | Focus length | 18 - 135mm |
-| FStop | 3.5 - 5.6 |
+| FStop | F3.5 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |

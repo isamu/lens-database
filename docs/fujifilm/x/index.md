@@ -5,6 +5,6 @@
 | -- | -- |
 | Mount  | X mount |
 | Focus length | 10 - 24mm |
-| FStop | 4 |
+| FStop | F4 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |

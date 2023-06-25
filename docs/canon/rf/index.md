@@ -5,7 +5,7 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 24 - 70mm |
-| FStop | 2.8 |
+| FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 
@@ -14,7 +14,7 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 70 - 200mm |
-| FStop | 2.8 |
+| FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 
@@ -23,7 +23,7 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 50mm |
-| FStop | 1.8 |
+| FStop | F1.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  |   |
 
@@ -32,7 +32,7 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 15 - 35mm |
-| FStop | 2.8 |
+| FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 
@@ -41,7 +41,7 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 24 - 50mm |
-| FStop | 4.5 - 6.3 |
+| FStop | F4.5 - 6.3 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 
@@ -50,6 +50,6 @@
 | -- | -- |
 | Mount  | RF mount |
 | Focus length | 100 - 400mm |
-| FStop | 5.6 - 8 |
+| FStop | F5.6 - 8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
