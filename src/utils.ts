@@ -4,6 +4,7 @@ export const lensData2Markdown = (lensData: LensData) => {
   // console.log();
   const {
     id,
+    EANCode,
     maker,
     name,
     mount,
@@ -26,6 +27,11 @@ export const lensData2Markdown = (lensData: LensData) => {
       : `${focalLength[0]} - ${focalLength[1]}`;
   const fs = fStop.length === 1 ? fStop[0] : `${fStop[0]} - ${fStop[1]}`;
 
+  const _urls = urls || {};
+  const flattenUrls = Object.keys(_urls).map(key => {
+    return `[${key}](${urls[key]})`;
+  }).join("<br />");
+  
   return [
     `### ${name}`,
     `|  | |`,
@@ -42,7 +48,8 @@ export const lensData2Markdown = (lensData: LensData) => {
     `| weight | ${weight || "-"}g |`,
     `| Release Date | ${releaseDate || ""} |`,
     `| Official URL | ${officialUrl || ""} |`,
-
+    `| URL | ${flattenUrls || ""} |`,
+    `| EAN/JAN Code | ${EANCode || ""} |`,
     "",
   ];
   // return [];

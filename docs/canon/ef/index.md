@@ -13,3 +13,5 @@
 | weight | 710g |
 | Release Date |  |
 | Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0000910394/) |
+| EAN/JAN Code | 4549292037708 |

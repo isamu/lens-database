@@ -13,6 +13,8 @@
 | weight | 840g |
 | Release Date | 2019-09-27 |
 | Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001185356/) |
+| EAN/JAN Code | 4549292152272 |
 
 ### RF24-70mm F2.8 L IS USM
 |  | |
@@ -27,6 +29,8 @@
 | weight | 900g |
 | Release Date | 2019-09-27 |
 | Official URL | https://global.canon/en/c-museum/product/rf485.html |
+| URL | [kakaku](https://kakaku.com/item/K0001185357/)<br />[amazonjp](https://www.amazon.co.jp/dp/B07WQYHH1Q) |
+| EAN/JAN Code | 4549292148381 |
 
 ### RF70-200mm F2.8 L IS USM
 |  | |
@@ -41,6 +45,8 @@
 | weight | 1070g |
 | Release Date | 2019-11-21 |
 | Official URL | https://global.canon/en/c-museum/product/rf486.html |
+| URL | [kakaku](https://kakaku.com/item/K0001205003/) |
+| EAN/JAN Code | 4549292156263 |
 
 ### RF50mm F1.8 STM
 |  | |
@@ -55,6 +61,8 @@
 | weight | 160g |
 | Release Date |  |
 | Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001309216/) |
+| EAN/JAN Code | 4549292181623 |
 
 ### RF24-50mm F4.5-6.3 IS STM
 |  | |
@@ -69,6 +77,8 @@
 | weight | 210g |
 | Release Date |  |
 | Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001514881/) |
+| EAN/JAN Code | 4549292207446 |
 
 ### RF100-400mm F5.6-8 IS USM
 |  | |
@@ -83,3 +93,5 @@
 | weight | 635g |
 | Release Date |  |
 | Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001383775/) |
+| EAN/JAN Code | 4549292186765 |

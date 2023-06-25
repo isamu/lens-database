@@ -13,3 +13,5 @@
 | weight | -g |
 | Release Date |  |
 | Official URL |  |
+| URL |  |
+| EAN/JAN Code | 4975749000740 |
