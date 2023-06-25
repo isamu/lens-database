@@ -15,6 +15,7 @@ export const canonRFLLensDataSet: LensData[] = [
     hasDustMoistureResistance: true,
     filterDiameter: 82,
     weight: 840,
+    releaseDate: "2019-09-27",
     urls: {
       kakaku: "https://kakaku.com/item/K0001185356/",
     },
@@ -33,6 +34,7 @@ export const canonRFLLensDataSet: LensData[] = [
     hasDustMoistureResistance: true,
     filterDiameter: 82,
     weight: 900,
+    releaseDate: "2019-09-27",
     officialUrl: "https://global.canon/en/c-museum/product/rf485.html",
     urls: {
       kakaku: "https://kakaku.com/item/K0001185357/",
@@ -53,6 +55,7 @@ export const canonRFLLensDataSet: LensData[] = [
     hasDustMoistureResistance: true,
     filterDiameter: 77,
     weight: 1070,
+    releaseDate: "2019-11-21",
     officialUrl: "https://global.canon/en/c-museum/product/rf486.html",
     urls: {
       kakaku: "https://kakaku.com/item/K0001205003/",

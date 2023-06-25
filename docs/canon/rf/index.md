@@ -11,6 +11,7 @@
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 82mm |
 | weight | 840g |
+| Release Date | 2019-09-27 |
 | Official URL |  |
 
 ### RF24-70mm F2.8 L IS USM
@@ -24,6 +25,7 @@
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 82mm |
 | weight | 900g |
+| Release Date | 2019-09-27 |
 | Official URL | https://global.canon/en/c-museum/product/rf485.html |
 
 ### RF70-200mm F2.8 L IS USM
@@ -37,6 +39,7 @@
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 77mm |
 | weight | 1070g |
+| Release Date | 2019-11-21 |
 | Official URL | https://global.canon/en/c-museum/product/rf486.html |
 
 ### RF50mm F1.8 STM
@@ -50,6 +53,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 43mm |
 | weight | 160g |
+| Release Date |  |
 | Official URL |  |
 
 ### RF24-50mm F4.5-6.3 IS STM
@@ -63,6 +67,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
 | weight | 210g |
+| Release Date |  |
 | Official URL |  |
 
 ### RF100-400mm F5.6-8 IS USM
@@ -76,4 +81,5 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
 | weight | 635g |
+| Release Date |  |
 | Official URL |  |

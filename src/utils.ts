@@ -40,6 +40,7 @@ export const lensData2Markdown = (lensData: LensData) => {
     }  |`,
     `| Filter Diameter | ${filterDiameter}mm |`,
     `| weight | ${weight || "-"}g |`,
+    `| Release Date | ${releaseDate || ""} |`,
     `| Official URL | ${officialUrl || ""} |`,
 
     "",

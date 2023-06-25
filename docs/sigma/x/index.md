@@ -11,4 +11,5 @@
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 55mm |
 | weight | 285g |
+| Release Date |  |
 | Official URL |  |

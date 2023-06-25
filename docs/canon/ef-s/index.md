@@ -11,6 +11,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
 | weight | 215g |
+| Release Date |  |
 | Official URL |  |
 
 ### EF-S55-250mm F4-5.6 IS II
@@ -24,6 +25,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
 | weight | 390g |
+| Release Date |  |
 | Official URL |  |
 
 ### EF-S18-135mm F3.5-5.6 IS USM
@@ -37,4 +39,5 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
 | weight | 515g |
+| Release Date |  |
 | Official URL |  |
