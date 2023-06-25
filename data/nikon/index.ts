@@ -1,2 +1,2 @@
-export * "./z";
-export * "./f";
+export * from "./z";
+export * from "./f";

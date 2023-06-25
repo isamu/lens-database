@@ -1,6 +1,22 @@
-export type Maker = "Canon" | "Fujifilm" | "SIGMA" | "Leica" | "COSINA" | "ZEISS" | "Panasonic" | "OLYMPUS";
+export type Maker =
+  | "Canon"
+  | "Fujifilm"
+  | "SONY"
+  | "Nikon"
+  | "Leica"
+  | "ZEISS"
+  | "SIGMA"
+  | "Panasonic"
+  | "OLYMPUS"
+  | "PENTAX"
+  | "Tokina"
+  | "COSINA";
 
-export type Mount = "RF" | "EF" | "EF-S" | "X" | "M";
+export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
+export type FujifilmMount = "X" | "R";
+export type SonyMount = "A" | "E";
+
+export type Mount = CanonMount | FujifilmMount | SonyMount | "M";
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
