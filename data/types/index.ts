@@ -22,5 +22,5 @@ export type LensData = {
   weight?: numner;
   officialUrl?: string;
   urls?: { [key: string]: string };
-  releaseDate?: string;
+  releaseDate?: string; // YYYY or YYYY-MM-DD
 };

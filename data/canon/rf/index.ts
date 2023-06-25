@@ -1,45 +1,8 @@
 import { LensData } from "../../types";
+import { canonRFLLensDataSet } from "./l";
 
 export const canonRFLensDataSet: LensData[] = [
-  {
-    id: "4549292148381",
-    JANCode: "4549292148381",
-    maker: "Canon",
-    name: "RF24-70mm F2.8 L IS USM",
-    mount: "RF",
-    focalLength: [24, 70],
-    fStop: [2.8],
-    format: "Full-Frame",
-    focus: ["AF"],
-    hasStabilizer: true,
-    hasDustMoistureResistance: true,
-    filterDiameter: 82,
-    weight: 900,
-    officialUrl: "https://global.canon/en/c-museum/product/rf485.html",
-    urls: {
-      kakaku: "https://kakaku.com/item/K0001185357/",
-      amazonjp: "https://www.amazon.co.jp/dp/B07WQYHH1Q",
-    },
-  },
-  {
-    id: "4549292156263",
-    JANCode: "4549292156263",
-    maker: "Canon",
-    name: "RF70-200mm F2.8 L IS USM",
-    mount: "RF",
-    focalLength: [70, 200],
-    fStop: [2.8],
-    format: "Full-Frame",
-    focus: ["AF"],
-    hasStabilizer: true,
-    hasDustMoistureResistance: true,
-    filterDiameter: 77,
-    weight: 1070,
-    officialUrl: "https://global.canon/en/c-museum/product/rf486.html",
-    urls: {
-      kakaku: "https://kakaku.com/item/K0001205003/",
-    },
-  },
+  ...canonRFLLensDataSet,
   {
     id: "4549292181623",
     JANCode: "4549292181623",
@@ -56,24 +19,6 @@ export const canonRFLensDataSet: LensData[] = [
     weight: 160,
     urls: {
       kakaku: "https://kakaku.com/item/K0001309216/",
-    },
-  },
-  {
-    id: "4549292152272",
-    JANCode: "4549292152272",
-    maker: "Canon",
-    name: "RF15-35mm F2.8 L IS USM",
-    mount: "RF",
-    focalLength: [15, 35],
-    fStop: [2.8],
-    format: "Full-Frame",
-    focus: ["AF"],
-    hasStabilizer: true,
-    hasDustMoistureResistance: true,
-    filterDiameter: 82,
-    weight: 840,
-    urls: {
-      kakaku: "https://kakaku.com/item/K0001185356/",
     },
   },
   {

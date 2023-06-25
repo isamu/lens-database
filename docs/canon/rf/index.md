@@ -1,5 +1,18 @@
 # Canon/RF Mount
 
+### RF15-35mm F2.8 L IS USM
+|  | |
+| -- | -- |
+| Mount  | RF mount |
+| Focus length | 15 - 35mm |
+| FStop | F2.8 |
+| Format  | Full-Frame |
+| Image Stabilizer  | YES  |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 82mm |
+| weight | 840g |
+| Official URL |  |
+
 ### RF24-70mm F2.8 L IS USM
 |  | |
 | -- | -- |
@@ -37,19 +50,6 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 43mm |
 | weight | 160g |
-| Official URL |  |
-
-### RF15-35mm F2.8 L IS USM
-|  | |
-| -- | -- |
-| Mount  | RF mount |
-| Focus length | 15 - 35mm |
-| FStop | F2.8 |
-| Format  | Full-Frame |
-| Image Stabilizer  | YES  |
-| Dust / Moisture Resistance | YES  |
-| Filter Diameter | 82mm |
-| weight | 840g |
 | Official URL |  |
 
 ### RF24-50mm F4.5-6.3 IS STM
