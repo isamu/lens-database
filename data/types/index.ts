@@ -1,4 +1,4 @@
-export type Maker = "Canon" | "Fujifilm" | "SIGMA" | "Leica";
+export type Maker = "Canon" | "Fujifilm" | "SIGMA" | "Leica" | "COSINA" | "ZEISS" | "Panasonic" | "OLYMPUS";
 
 export type Mount = "RF" | "EF" | "EF-S" | "X" | "M";
 
