@@ -17,6 +17,5 @@ export const sigmaXLensDataSet: LensData[] = [
     urls: {
       kakaku: "https://kakaku.com/item/K0001491527/",
     },
-  }
-]
- 
+  },
+];

@@ -6,7 +6,6 @@ export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
 export type Focus = "AF" | "MF";
 
-
 export type LensData = {
   id: string; // EAN/JAN code
   maker: Maker;
@@ -21,6 +20,6 @@ export type LensData = {
   filterDiameter: number;
   weight: numner;
   officialUrl?: string;
-  urls?: {[key: string]: string};
+  urls?: { [key: string]: string };
   releaseDate?: string;
 };
