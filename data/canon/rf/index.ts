@@ -5,7 +5,7 @@ export const canonRFLensDataSet: LensData[] = [
   ...canonRFLLensDataSet,
   {
     id: "4549292181623",
-    JANCode: "4549292181623",
+    EANCode: "4549292181623",
     maker: "Canon",
     name: "RF50mm F1.8 STM",
     mount: "RF",
@@ -23,7 +23,7 @@ export const canonRFLensDataSet: LensData[] = [
   },
   {
     id: "4549292207446",
-    JANCode: "4549292207446",
+    EANCode: "4549292207446",
     maker: "Canon",
     name: "RF24-50mm F4.5-6.3 IS STM",
     mount: "RF",
@@ -41,7 +41,7 @@ export const canonRFLensDataSet: LensData[] = [
   },
   {
     id: "4549292186765",
-    JANCode: "4549292186765",
+    EANCode: "4549292186765",
     maker: "Canon",
     name: "RF100-400mm F5.6-8 IS USM",
     mount: "RF",

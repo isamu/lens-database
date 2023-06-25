@@ -32,7 +32,7 @@ Create a ticket with the lens name as the title in the issue and write the data 
 ```
   {
     id: "4549292156263",
-    JANCode: "4549292156263",
+    EANCode: "4549292156263",
     maker: "Canon",
     name: "RF70-200mm F2.8 L IS USM",
     mount: "RF",

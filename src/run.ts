@@ -30,18 +30,18 @@ const validateLensData = (dataObj: MakerMountDataObject) => {
   Object.keys(dataObj).map((maker) => {
     Object.keys(dataObj[maker]).map((mount) => {
       dataObj[maker][mount].map((data) => {
-        const { id, JANCode } = data;
-        // console.log(id, JANCode)
+        const { id, EANCode } = data;
+        // console.log(id, EANCode)
         if (ids[id]) {
           console.log("duplicate id: ", id);
           ret = false;
         }
-        if (jans[JANCode]) {
-          console.log("duplicate JANCode: ", JANCode);
+        if (jans[EANCode]) {
+          console.log("duplicate EANCode: ", EANCode);
           ret = false;
         }
         ids[id] = true;
-        jans[JANCode] = true;
+        jans[EANCode] = true;
       });
     });
   });

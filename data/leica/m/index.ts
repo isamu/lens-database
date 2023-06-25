@@ -3,7 +3,7 @@ import { LensData } from "../../types";
 export const leicaMLensDataSet: LensData[] = [
   {
     id: "4975749000740",
-    JANCode: "4975749000740",
+    EANCode: "4975749000740",
     maker: "Leica",
     name: "Elmarit M 28mm F/2.8 4th",
     mount: "M",

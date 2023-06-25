@@ -3,7 +3,7 @@ import { LensData } from "../../types";
 export const canonRFLLensDataSet: LensData[] = [
   {
     id: "4549292152272",
-    JANCode: "4549292152272",
+    EANCode: "4549292152272",
     maker: "Canon",
     name: "RF15-35mm F2.8 L IS USM",
     mount: "RF",
@@ -22,7 +22,7 @@ export const canonRFLLensDataSet: LensData[] = [
   },
   {
     id: "4549292148381",
-    JANCode: "4549292148381",
+    EANCode: "4549292148381",
     maker: "Canon",
     name: "RF24-70mm F2.8 L IS USM",
     mount: "RF",
@@ -43,7 +43,7 @@ export const canonRFLLensDataSet: LensData[] = [
   },
   {
     id: "4549292156263",
-    JANCode: "4549292156263",
+    EANCode: "4549292156263",
     maker: "Canon",
     name: "RF70-200mm F2.8 L IS USM",
     mount: "RF",
