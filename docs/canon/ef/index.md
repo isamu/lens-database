@@ -4,13 +4,13 @@
 |  | |
 | -- | -- |
 | Mount  | EF mount |
-| Focus length | 70 - 300mm |
+| Focus Length | 70 - 300mm |
 | FStop | F4.5 - 5.6 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
-| weight | 710g |
+| Weight | 710g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000910394/) |

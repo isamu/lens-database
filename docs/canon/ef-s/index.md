@@ -4,13 +4,13 @@
 |  | |
 | -- | -- |
 | Mount  | EF-S mount |
-| Focus length | 18 - 55mm |
+| Focus Length | 18 - 55mm |
 | FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
-| weight | 215g |
+| Weight | 215g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000944216/) |
@@ -20,13 +20,13 @@
 |  | |
 | -- | -- |
 | Mount  | EF-S mount |
-| Focus length | 55 - 250mm |
+| Focus Length | 55 - 250mm |
 | FStop | F4 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
-| weight | 390g |
+| Weight | 390g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000271169/) |
@@ -36,13 +36,13 @@
 |  | |
 | -- | -- |
 | Mount  | EF-S mount |
-| Focus length | 18 - 135mm |
+| Focus Length | 18 - 135mm |
 | FStop | F3.5 - 5.6 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
-| weight | 515g |
+| Weight | 515g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000856832/) |

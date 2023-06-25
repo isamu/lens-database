@@ -4,13 +4,13 @@
 |  | |
 | -- | -- |
 | Mount  | M mount |
-| Focus length | 28mm |
+| Focus Length | 28mm |
 | FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 46mm |
-| weight | -g |
+| Weight | -g |
 | Release Date |  |
 | Official URL |  |
 | URL |  |

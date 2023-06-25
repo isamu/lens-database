@@ -4,13 +4,13 @@
 |  | |
 | -- | -- |
 | Mount  | X mount |
-| Focus length | 16 - 55mm |
+| Focus Length | 16 - 55mm |
 | FStop | F2.8 |
 | Format  | APS-C |
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 77mm |
-| weight | 655g |
+| Weight | 655g |
 | Release Date | 2015-02-26 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000740692/) |
@@ -20,13 +20,13 @@
 |  | |
 | -- | -- |
 | Mount  | X mount |
-| Focus length | 10 - 24mm |
+| Focus Length | 10 - 24mm |
 | FStop | F4 |
 | Format  | APS-C |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 72mm |
-| weight | 385g |
+| Weight | 385g |
 | Release Date | 2020-11-26 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001302657/) |
@@ -36,13 +36,13 @@
 |  | |
 | -- | -- |
 | Mount  | X mount |
-| Focus length | 35mm |
+| Focus Length | 35mm |
 | FStop | F1.4 |
 | Format  | APS-C |
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 52mm |
-| weight | 187g |
+| Weight | 187g |
 | Release Date | 2012-02-18 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0000336433/) |
@@ -52,13 +52,13 @@
 |  | |
 | -- | -- |
 | Mount  | X mount |
-| Focus length | 50mm |
+| Focus Length | 50mm |
 | FStop | F1 |
 | Format  | APS-C |
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 77mm |
-| weight | 845g |
+| Weight | 845g |
 | Release Date | 2020-09-24 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001286475/) |

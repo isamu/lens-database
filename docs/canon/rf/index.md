@@ -4,13 +4,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 15 - 35mm |
+| Focus Length | 15 - 35mm |
 | FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 82mm |
-| weight | 840g |
+| Weight | 840g |
 | Release Date | 2019-09-27 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001185356/) |
@@ -20,13 +20,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 24 - 70mm |
+| Focus Length | 24 - 70mm |
 | FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 82mm |
-| weight | 900g |
+| Weight | 900g |
 | Release Date | 2019-09-27 |
 | Official URL | https://global.canon/en/c-museum/product/rf485.html |
 | URL | [kakaku](https://kakaku.com/item/K0001185357/)<br />[amazonjp](https://www.amazon.co.jp/dp/B07WQYHH1Q) |
@@ -36,13 +36,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 70 - 200mm |
+| Focus Length | 70 - 200mm |
 | FStop | F2.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance | YES  |
 | Filter Diameter | 77mm |
-| weight | 1070g |
+| Weight | 1070g |
 | Release Date | 2019-11-21 |
 | Official URL | https://global.canon/en/c-museum/product/rf486.html |
 | URL | [kakaku](https://kakaku.com/item/K0001205003/) |
@@ -52,13 +52,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 50mm |
+| Focus Length | 50mm |
 | FStop | F1.8 |
 | Format  | Full-Frame |
 | Image Stabilizer  |   |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 43mm |
-| weight | 160g |
+| Weight | 160g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001309216/) |
@@ -68,13 +68,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 24 - 50mm |
+| Focus Length | 24 - 50mm |
 | FStop | F4.5 - 6.3 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
-| weight | 210g |
+| Weight | 210g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001514881/) |
@@ -84,13 +84,13 @@
 |  | |
 | -- | -- |
 | Mount  | RF mount |
-| Focus length | 100 - 400mm |
+| Focus Length | 100 - 400mm |
 | FStop | F5.6 - 8 |
 | Format  | Full-Frame |
 | Image Stabilizer  | YES  |
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
-| weight | 635g |
+| Weight | 635g |
 | Release Date |  |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001383775/) |

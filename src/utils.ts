@@ -37,7 +37,7 @@ export const lensData2Markdown = (lensData: LensData) => {
     `|  | |`,
     `| -- | -- |`,
     `| Mount  | ${mount} mount |`,
-    `| Focus length | ${fl}mm |`,
+    `| Focus Length | ${fl}mm |`,
     `| FStop | F${fs} |`,
     `| Format  | ${format} |`,
     `| Image Stabilizer  | ${hasStabilizer ? "YES" : ""}  |`,
@@ -45,7 +45,7 @@ export const lensData2Markdown = (lensData: LensData) => {
       hasDustMoistureResistance ? "YES" : ""
     }  |`,
     `| Filter Diameter | ${filterDiameter}mm |`,
-    `| weight | ${weight || "-"}g |`,
+    `| Weight | ${weight || "-"}g |`,
     `| Release Date | ${releaseDate || ""} |`,
     `| Official URL | ${officialUrl || ""} |`,
     `| URL | ${flattenUrls || ""} |`,
