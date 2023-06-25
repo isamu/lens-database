@@ -2,7 +2,7 @@
   "name": "lens-database",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "artifacts/data.js",
   "scripts": {
     "generate": "npx ts-node --experimental-specifier-resolution=node --esm src/run.ts",
     "format": "prettier --write '{src,data}/**/*.ts'",

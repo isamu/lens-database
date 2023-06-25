@@ -74,6 +74,7 @@ const createMarkdown = (dataObj: MakerMountDataObject) => {
 const createArtifacts = (dataObj: MakerMountDataObject) => {
   fs.writeFileSync(`./artifacts/data.json`, JSON.stringify(dataObj, null, 2));
   fs.writeFileSync(`./artifacts/data.ts`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
+  fs.writeFileSync(`./artifacts/data.js`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
 };
 
 const main = () => {
