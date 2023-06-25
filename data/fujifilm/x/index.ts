@@ -1,23 +1,26 @@
 import { LensData } from "../../types";
+import { fujifilmXZoonLensDataSet } from "./zoom";
 
 export const fujifilmXLensDataSet: LensData[] = [
+  ...fujifilmXZoonLensDataSet,
   {
-    id: "4547410437881",
-    EANCode: "4547410437881",
+    id: "4547410206159",
+    EANCode: "4547410206159",
     maker: "Fujifilm",
-    name: "XF10-24mmF4 R OIS WR",
+    name: "XF35mmF1.4 R",
     mount: "X",
-    focalLength: [10, 24],
-    fStop: [4],
+    focalLength: [35],
+    fStop: [1.4],
     format: "APS-C",
-    focus: ["AF"],
-    hasStabilizer: true,
-    hasDustMoistureResistance: true,
-    filterDiameter: 72,
-    weight: 385,
+    focus: ["AF", "MF"],
+    hasStabilizer: false,
+    hasDustMoistureResistance: false,
+    filterDiameter: 52,
+    weight: 187,
     urls: {
-      kakaku: "https://kakaku.com/item/K0001302657/",
+      kakaku: "https://kakaku.com/item/K0000336433/",
     },
+    releaseDate: "2012-02-18",
   },
   {
     id: "4547410435856",
@@ -36,5 +39,6 @@ export const fujifilmXLensDataSet: LensData[] = [
     urls: {
       kakaku: "https://kakaku.com/item/K0001286475/",
     },
+    releaseDate: "2020-09-24",
   },
 ];
