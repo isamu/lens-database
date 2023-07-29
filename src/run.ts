@@ -1,34 +1,18 @@
 import * as fs from "fs";
-import * as lens from "../data/index";
+import allLens from "./data/all";
 
 import { lensData2Markdown } from "./utils";
-import { Maker, Mount, LensData } from "../data/types";
-
-type MakerMountDataObject = { [key in Maker]: { [key in Mount]: LensData[] } };
-
-const getLensDataObject = (lensDataSet: { [key: string]: LensData[] }) => {
-  const dataObj = Object.values(lensDataSet).reduce((tmp, dataSet) => {
-    dataSet.map((data: LensData) => {
-      if (!tmp[data.maker]) {
-        tmp[data.maker] = {} as { [key in Mount]: LensData[] };
-      }
-      if (!tmp[data.maker][data.mount]) {
-        tmp[data.maker][data.mount] = [] as LensData[];
-      }
-      tmp[data.maker][data.mount].push(data);
-    });
-    return tmp;
-  }, {} as MakerMountDataObject);
-  return dataObj;
-};
+import { Mount, MakerMountDataObject } from "./data/types";
 
 const validateLensData = (dataObj: MakerMountDataObject) => {
   const jans: { [key: string]: boolean } = {};
   const ids: { [key: string]: boolean } = {};
 
   let ret = true;
-  Object.keys(dataObj).map((maker) => {
-    Object.keys(dataObj[maker]).map((mount) => {
+  Object.keys(dataObj).map((_) => {
+    const maker = _ as keyof MakerMountDataObject;
+    Object.keys(dataObj[maker]).map((__) => {
+      const mount = __ as Mount;
       dataObj[maker][mount].map((data) => {
         const { id, EANCode } = data;
         // console.log(id, EANCode)
@@ -52,8 +36,10 @@ const validateLensData = (dataObj: MakerMountDataObject) => {
 const createMarkdown = (dataObj: MakerMountDataObject) => {
   const index: string[] = [];
 
-  Object.keys(dataObj).map((maker) => {
-    Object.keys(dataObj[maker]).map((mount) => {
+  Object.keys(dataObj).map((_) => {
+    const maker = _ as keyof MakerMountDataObject;
+    Object.keys(dataObj[maker]).map((__) => {
+      const mount = __ as Mount;
       const dir = `./docs/${maker.toLowerCase()}/${mount.toLowerCase()}`;
       fs.mkdirSync(dir, { recursive: true });
 
@@ -73,20 +59,18 @@ const createMarkdown = (dataObj: MakerMountDataObject) => {
 
 const createArtifacts = (dataObj: MakerMountDataObject) => {
   fs.writeFileSync(`./artifacts/data.json`, JSON.stringify(dataObj, null, 2));
-  fs.writeFileSync(`./artifacts/data.ts`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
-  fs.writeFileSync(`./artifacts/data.js`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
+  // fs.writeFileSync(`./artifacts/data.ts`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
+  // fs.writeFileSync(`./artifacts/data.js`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
 };
 
 const main = () => {
-  const dataObj = getLensDataObject(lens);
-
   // validate
-  if (!validateLensData(dataObj)) {
+  if (!validateLensData(allLens)) {
     console.log("invalid data");
     return false;
   }
-  createMarkdown(dataObj);
-  createArtifacts(dataObj);
+  createMarkdown(allLens);
+  createArtifacts(allLens);
 };
 
 main();

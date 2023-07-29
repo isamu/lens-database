@@ -1,4 +1,4 @@
-import { LensData } from "../data/types";
+import { LensData } from "./data/types";
 
 export const lensData2Markdown = (lensData: LensData) => {
   // console.log();

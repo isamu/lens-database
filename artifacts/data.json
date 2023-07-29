@@ -400,7 +400,8 @@
         ],
         "hasStabilizer": false,
         "hasDustMoistureResistance": false,
-        "filterDiameter": 46
+        "filterDiameter": 46,
+        "urls": {}
       }
     ]
   },
