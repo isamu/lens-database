@@ -1,6 +1,6 @@
 # Canon/EF Mount
 
-### CANON EF70-300mm F4-5.6 IS II USM
+### EF70-300mm F4-5.6 IS II USM
 |  | |
 | -- | -- |
 | Mount  | EF mount |

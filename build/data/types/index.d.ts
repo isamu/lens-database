@@ -18,6 +18,7 @@ export type LensData = {
     hasStabilizer: boolean;
     hasDustMoistureResistance: boolean;
     filterDiameter: number;
+    theShortestShootingDistance?: number;
     weight?: number;
     officialUrl?: string;
     urls: {

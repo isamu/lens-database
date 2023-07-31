@@ -48,6 +48,22 @@
 | URL | [kakaku](https://kakaku.com/item/K0001205003/) |
 | EAN/JAN Code | 4549292156263 |
 
+### RF28mm F2.8 STM
+|  | |
+| -- | -- |
+| Mount  | RF mount |
+| Focus Length | 28mm |
+| FStop | F2.8 |
+| Format  | Full-Frame |
+| Image Stabilizer  |   |
+| Dust / Moisture Resistance |   |
+| Filter Diameter | 55mm |
+| Weight | 120g |
+| Release Date | 2023-07-07 |
+| Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001539493/) |
+| EAN/JAN Code | 4549292219487 |
+
 ### RF50mm F1.8 STM
 |  | |
 | -- | -- |
@@ -59,7 +75,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 43mm |
 | Weight | 160g |
-| Release Date |  |
+| Release Date | 2020-12-24 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001309216/) |
 | EAN/JAN Code | 4549292181623 |
@@ -75,7 +91,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 58mm |
 | Weight | 210g |
-| Release Date |  |
+| Release Date | 2023-04-14 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001514881/) |
 | EAN/JAN Code | 4549292207446 |
@@ -91,7 +107,7 @@
 | Dust / Moisture Resistance |   |
 | Filter Diameter | 67mm |
 | Weight | 635g |
-| Release Date |  |
+| Release Date | 2021-10-28 |
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001383775/) |
 | EAN/JAN Code | 4549292186765 |

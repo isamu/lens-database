@@ -2,6 +2,26 @@ import { canonRFLLensDataSet } from "./l";
 export const canonRFLensDataSet = [
     ...canonRFLLensDataSet,
     {
+        id: "4549292219487",
+        EANCode: "4549292219487",
+        maker: "Canon",
+        name: "RF28mm F2.8 STM",
+        mount: "RF",
+        focalLength: [28],
+        fStop: [2.8],
+        format: "Full-Frame",
+        focus: ["AF", "MF"],
+        hasStabilizer: false,
+        hasDustMoistureResistance: false,
+        filterDiameter: 55,
+        theShortestShootingDistance: 0.23,
+        weight: 120,
+        urls: {
+            kakaku: "https://kakaku.com/item/K0001539493/",
+        },
+        releaseDate: "2023-07-07"
+    },
+    {
         id: "4549292181623",
         EANCode: "4549292181623",
         maker: "Canon",
@@ -10,7 +30,7 @@ export const canonRFLensDataSet = [
         focalLength: [50],
         fStop: [1.8],
         format: "Full-Frame",
-        focus: ["AF"],
+        focus: ["AF", "MF"],
         hasStabilizer: false,
         hasDustMoistureResistance: false,
         filterDiameter: 43,
@@ -18,6 +38,7 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001309216/",
         },
+        releaseDate: "2020-12-24"
     },
     {
         id: "4549292207446",
@@ -28,7 +49,7 @@ export const canonRFLensDataSet = [
         focalLength: [24, 50],
         fStop: [4.5, 6.3],
         format: "Full-Frame",
-        focus: ["AF"],
+        focus: ["AF", "MF"],
         hasStabilizer: true,
         hasDustMoistureResistance: false,
         filterDiameter: 58,
@@ -36,6 +57,7 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001514881/",
         },
+        releaseDate: "2023-04-14"
     },
     {
         id: "4549292186765",
@@ -46,7 +68,7 @@ export const canonRFLensDataSet = [
         focalLength: [100, 400],
         fStop: [5.6, 8],
         format: "Full-Frame",
-        focus: ["AF"],
+        focus: ["AF", "MF"],
         hasStabilizer: true,
         hasDustMoistureResistance: false,
         filterDiameter: 67,
@@ -54,5 +76,6 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001383775/",
         },
+        releaseDate: "2021-10-28"
     },
 ];
