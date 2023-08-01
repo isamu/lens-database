@@ -1,5 +1,24 @@
 export const fujifilmXZoonLensDataSet = [
     {
+        id: "4547410227345",
+        EANCode: "4547410227345",
+        maker: "Fujifilm",
+        name: "XF18-55mmF2.8-4 R LM OIS",
+        mount: "X",
+        focalLength: [18, 55],
+        fStop: [2.8, 4],
+        format: "APS-C",
+        focus: ["AF", "MF"],
+        hasStabilizer: false,
+        hasDustMoistureResistance: false,
+        filterDiameter: 58,
+        weight: 310,
+        urls: {
+            kakaku: "https://kakaku.com/item/K0000418422/",
+        },
+        releaseDate: "2012-11-17",
+    },
+    {
         id: "4547410289879",
         EANCode: "4547410289879",
         maker: "Fujifilm",

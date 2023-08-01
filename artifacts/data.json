@@ -307,6 +307,34 @@
   "Fujifilm": {
     "X": [
       {
+        "id": "4547410227345",
+        "EANCode": "4547410227345",
+        "maker": "Fujifilm",
+        "name": "XF18-55mmF2.8-4 R LM OIS",
+        "mount": "X",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 310,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000418422/"
+        },
+        "releaseDate": "2012-11-17"
+      },
+      {
         "id": "4547410289879",
         "EANCode": "4547410289879",
         "maker": "Fujifilm",
@@ -384,6 +412,58 @@
           "kakaku": "https://kakaku.com/item/K0000336433/"
         },
         "releaseDate": "2012-02-18"
+      },
+      {
+        "id": "4547410310405",
+        "EANCode": "4547410310405",
+        "maker": "Fujifilm",
+        "name": " XF35mmF2 R WR",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 43,
+        "weight": 170,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001379950/"
+        },
+        "releaseDate": "2015-11-19"
+      },
+      {
+        "id": "4547410455465",
+        "EANCode": "4547410455465",
+        "maker": "Fujifilm",
+        "name": "XF33mm F1.4 R LM WR",
+        "mount": "X",
+        "focalLength": [
+          33
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 360,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001379950/"
+        },
+        "releaseDate": "2021-09-29"
       },
       {
         "id": "4547410435856",
