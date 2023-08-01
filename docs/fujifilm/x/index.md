@@ -48,6 +48,38 @@
 | URL | [kakaku](https://kakaku.com/item/K0001302657/) |
 | EAN/JAN Code | 4547410437881 |
 
+### XF70-300mmF4-5.6 R LM OIS WR
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focus Length | 70 - 300mm |
+| FStop | F4 - 5.6 |
+| Format  | APS-C |
+| Image Stabilizer  | YES  |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 67mm |
+| Weight | 580g |
+| Release Date | 2021-03-18 |
+| Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001328214/) |
+| EAN/JAN Code | 4547410437980 |
+
+### XF150-600mmF5.6-8 R LM OIS WR
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focus Length | 150 - 600mm |
+| FStop | F5.6 - 8 |
+| Format  | APS-C |
+| Image Stabilizer  | YES  |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 82mm |
+| Weight | 1605g |
+| Release Date | 2022-07-14 |
+| Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001446804/) |
+| EAN/JAN Code | 4547410467031 |
+
 ### XF35mmF1.4 R
 |  | |
 | -- | -- |
@@ -79,6 +111,22 @@
 | Official URL |  |
 | URL | [kakaku](https://kakaku.com/item/K0001379950/) |
 | EAN/JAN Code | 4547410310405 |
+
+### XF18mmF1.4 R LM WR
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focus Length | 18mm |
+| FStop | F1.4 |
+| Format  | APS-C |
+| Image Stabilizer  |   |
+| Dust / Moisture Resistance | YES  |
+| Filter Diameter | 62mm |
+| Weight | 370g |
+| Release Date | 2021-05-27 |
+| Official URL |  |
+| URL | [kakaku](https://kakaku.com/item/K0001348957/) |
+| EAN/JAN Code | 4547410442557 |
 
 ### XF33mm F1.4 R LM WR
 |  | |
