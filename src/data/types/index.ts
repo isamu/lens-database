@@ -34,7 +34,7 @@ export type LensData = {
   focus: Focus[];
   hasStabilizer: boolean;
   hasDustMoistureResistance: boolean;
-  filterDiameter: number;
+  filterDiameter?: number;
   theShortestShootingDistance?: number;
   weight?: number;
   officialUrl?: string;
