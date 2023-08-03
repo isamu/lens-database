@@ -38,6 +38,7 @@ export type LensData = {
   theShortestShootingDistance?: number;
   weight?: number;
   officialUrl?: string;
+  images?: string[];
   urls: { [key: string]: string };
   releaseDate?: string; // YYYY or YYYY-MM-DD
 };
