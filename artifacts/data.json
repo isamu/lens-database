@@ -803,6 +803,9 @@
         "hasDustMoistureResistance": true,
         "filterDiameter": 62,
         "weight": 215,
+        "images": [
+          "https://raw.githubusercontent.com/isamu/lens-database-images/e1a7eac5a579e1f20a876cd35631ec8bd841eddf/images/fujifilm/x/4547410493856.jpg"
+        ],
         "urls": {
           "kakaku": "https://kakaku.com/item/K0001539680/"
         },
