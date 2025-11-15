@@ -14,7 +14,7 @@ export const canonRFLensDataSet = [
         hasStabilizer: false,
         hasDustMoistureResistance: false,
         filterDiameter: 55,
-        theShortestShootingDistance: 0.23,
+        minFocusDistance: 0.23,
         weight: 120,
         urls: {
             kakaku: "https://kakaku.com/item/K0001539493/",

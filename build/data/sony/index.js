@@ -1,1 +1,2 @@
-"use strict";
+export * from "./a";
+export * from "./e";

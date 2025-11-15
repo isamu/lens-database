@@ -18,6 +18,6 @@ export const sigmaEFLensDataSet: LensData[] = [
     urls: {
       kakaku: "https://kakaku.com/item/10505011367/",
     },
-    releaseDate: "2007-09-08"
+    releaseDate: "2007-09-08",
   },
 ];

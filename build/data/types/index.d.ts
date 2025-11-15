@@ -2,12 +2,26 @@ export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "R";
 export type SonyMount = "A" | "E";
-export type Mount = CanonMount | FujifilmMount | SonyMount | "M";
+export type NikonMount = "Z" | "F";
+export type OlympusMount = "FourThirds";
+export type PanasonicMount = "L" | "FourThirds";
+export type PentaxMount = "K";
+export type SigmaMount = "SA";
+export type LeicaMount = "M" | "L";
+export type Mount = CanonMount | FujifilmMount | SonyMount | NikonMount | OlympusMount | PanasonicMount | PentaxMount | SigmaMount | LeicaMount;
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 export type Focus = "AF" | "MF";
+export type LensUrls = {
+    kakaku?: string;
+    amazonjp?: string;
+    official?: string;
+    bcn?: string;
+    yodobashi?: string;
+    [key: string]: string | undefined;
+};
 export type LensData = {
     id: string;
-    EANCode: string;
+    EANCode?: string;
     maker: Maker;
     name: string;
     mount: Mount;
@@ -18,14 +32,23 @@ export type LensData = {
     hasStabilizer: boolean;
     hasDustMoistureResistance: boolean;
     filterDiameter?: number;
-    theShortestShootingDistance?: number;
+    minFocusDistance?: number;
     weight?: number;
+    maxMagnification?: number;
+    bladesCount?: number;
+    elements?: number;
+    groups?: number;
+    diameter?: number;
+    length?: number;
+    isInternalFocus?: boolean;
     officialUrl?: string;
     images?: string[];
-    urls: {
-        [key: string]: string;
-    };
+    urls?: LensUrls;
     releaseDate?: string;
+    discontinued?: boolean;
+    discontinuedDate?: string;
+    hoodModel?: string;
+    caseModel?: string;
 };
 export type MakerMountDataObject = {
     [key in Maker]: {

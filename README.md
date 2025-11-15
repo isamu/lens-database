@@ -74,24 +74,48 @@ lens-database/
 
 ```typescript
 export type LensData = {
-  id: string;                           // EAN/JANコード
-  EANCode: string;                      // EAN/JANコード
+  // 基本情報
+  id: string;                           // プライマリキー (EAN/JANコードまたは一意のID)
+  EANCode?: string;                     // EAN/JANコード (存在する場合)
   maker: Maker;                         // メーカー名
   name: string;                         // レンズ名
   mount: Mount;                         // マウントタイプ
+
+  // 光学仕様
   focalLength: number[];                // 焦点距離 [単焦点の場合は1つ、ズームは[min, max]]
-  fStop: number[];                      // F値 [固定の場合は1つ、可変は[min, max]]
+  fStop: number[];                      // F値 [固定の場合は1つ、可変は[ワイド端, テレ端]]
   format: Format;                       // センサーフォーマット
-  focus: Focus[];                       // フォーカス方式
+  focus: Focus[];                       // フォーカス方式 (AF, MF)
+  minFocusDistance?: number;            // 最短撮影距離 (m)
+  maxMagnification?: number;            // 最大撮影倍率
+  bladesCount?: number;                 // 絞り羽根枚数
+  elements?: number;                    // レンズ構成枚数
+  groups?: number;                      // レンズ構成群数
+
+  // 機能
   hasStabilizer: boolean;               // 手ぶれ補正の有無
-  hasDustMoistureResistance: boolean;   // 防塵防滴の有無
+  hasDustMoistureResistance: boolean;   // 防塵防滴構造
+  isInternalFocus?: boolean;            // インナーフォーカス方式
+
+  // 物理仕様
   filterDiameter?: number;              // フィルター径 (mm)
-  theShortestShootingDistance?: number; // 最短撮影距離 (m)
+  diameter?: number;                    // レンズ直径 (mm)
+  length?: number;                      // レンズ長 (mm)
   weight?: number;                      // 重量 (g)
+
+  // URL・参照情報
   officialUrl?: string;                 // 公式URL
   images?: string[];                    // 画像URL
-  urls: { [key: string]: string };      // その他URL (価格.comなど)
+  urls?: LensUrls;                      // その他URL (価格.com、Amazonなど)
+
+  // 発売・生産状況
   releaseDate?: string;                 // 発売日 (YYYY or YYYY-MM-DD)
+  discontinued?: boolean;               // 生産終了
+  discontinuedDate?: string;            // 生産終了日 (YYYY or YYYY-MM-DD)
+
+  // アクセサリ
+  hoodModel?: string;                   // レンズフード型番
+  caseModel?: string;                   // レンズケース型番
 };
 ```
 
@@ -115,7 +139,12 @@ export type LensData = {
 - Canon: RF, RF-S, EF, EF-S, EF-M, FD
 - Fujifilm: X, R
 - Sony: A, E
-- その他: M (Leica)
+- Nikon: Z, F
+- Leica: M, L
+- Panasonic: L, FourThirds
+- Olympus: FourThirds
+- Pentax: K
+- SIGMA: SA (他社マウント用レンズもサポート)
 
 ### フォーマット
 

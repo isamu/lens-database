@@ -5,7 +5,7 @@
   "main": "build/data/all.js",
   "types": "build/data/all.d.ts",
   "scripts": {
-    "build": "tsc", 
+    "build": "tsc",
     "generate": "npx ts-node --experimental-specifier-resolution=node --esm src/run.ts",
     "format": "prettier --write '{src,data}/**/*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,18 +15,17 @@
     "url": "git+https://github.com/isamu/lens-database.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/isamu/lens-database/issues"
   },
   "type": "module",
   "homepage": "https://github.com/isamu/lens-database#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/node": "^20.3.1",
-    "prettier": "^2.8.8",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
+    "@types/node": "^24.10.1",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }

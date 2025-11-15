@@ -20,12 +20,14 @@ const validateLensData = (dataObj: MakerMountDataObject) => {
           console.log("duplicate id: ", id);
           ret = false;
         }
-        if (jans[EANCode]) {
+        if (EANCode && jans[EANCode]) {
           console.log("duplicate EANCode: ", EANCode);
           ret = false;
         }
         ids[id] = true;
-        jans[EANCode] = true;
+        if (EANCode) {
+          jans[EANCode] = true;
+        }
       });
     });
   });
@@ -45,7 +47,7 @@ const createMarkdown = (dataObj: MakerMountDataObject) => {
 
       const texts = [`# ${maker}/${mount} Mount`, ""];
       index.push(
-        ` - [${maker}/${mount}](./${maker.toLowerCase()}/${mount.toLowerCase()}/index.md)`
+        ` - [${maker}/${mount}](./${maker.toLowerCase()}/${mount.toLowerCase()}/index.md)`,
       );
       dataObj[maker][mount].map((data) => {
         texts.push(lensData2Markdown(data).join("\n"));

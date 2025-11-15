@@ -22,12 +22,15 @@ const getLensDataObject = (lensDataSet: { [key: string]: LensData[] }) => {
 const allData = getLensDataObject(lens);
 
 const getFlatLensDataObject = (lensDataSet: { [key: string]: LensData[] }) => {
-  const dataObj = Object.values(lensDataSet).reduce((tmp, dataSet) => {
-    dataSet.map((data: LensData) => {
-      tmp[data.id] = data;
-    });
-    return tmp;
-  }, {} as {[key: string]: LensData});
+  const dataObj = Object.values(lensDataSet).reduce(
+    (tmp, dataSet) => {
+      dataSet.map((data: LensData) => {
+        tmp[data.id] = data;
+      });
+      return tmp;
+    },
+    {} as { [key: string]: LensData },
+  );
   return dataObj;
 };
 

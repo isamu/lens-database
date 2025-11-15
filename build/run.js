@@ -16,12 +16,14 @@ const validateLensData = (dataObj) => {
                     console.log("duplicate id: ", id);
                     ret = false;
                 }
-                if (jans[EANCode]) {
+                if (EANCode && jans[EANCode]) {
                     console.log("duplicate EANCode: ", EANCode);
                     ret = false;
                 }
                 ids[id] = true;
-                jans[EANCode] = true;
+                if (EANCode) {
+                    jans[EANCode] = true;
+                }
             });
         });
     });
