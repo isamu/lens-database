@@ -49,6 +49,7 @@ export type LensData = {
     discontinuedDate?: string;
     hoodModel?: string;
     caseModel?: string;
+    note?: string;
 };
 export type MakerMountDataObject = {
     [key in Maker]: {
