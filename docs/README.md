@@ -10,3 +10,5 @@
  - [Nikon/Z](./nikon/z/index.md)
  - [SIGMA/EF-S](./sigma/ef-s/index.md)
  - [SIGMA/X](./sigma/x/index.md)
+ - [SONY/A](./sony/a/index.md)
+ - [SONY/E](./sony/e/index.md)
