@@ -6525,6 +6525,4605 @@
       }
     ]
   },
+  "Nikon": {
+    "F": [
+      {
+        "id": "4960759025296",
+        "EANCode": "4960759025296",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 14-24mm f/2.8G ED",
+        "mount": "F",
+        "focalLength": [
+          14,
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 970,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2007-11-30",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_14-24mm_f28g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511872/"
+        }
+      },
+      {
+        "id": "4960759025876",
+        "EANCode": "4960759025876",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 16-35mm f/4G ED VR",
+        "mount": "F",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 680,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2010-02-26",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_16-35mm_f4g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000089612/"
+        }
+      },
+      {
+        "id": "4960759027436",
+        "EANCode": "4960759027436",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 18-35mm f/3.5-4.5G ED",
+        "mount": "F",
+        "focalLength": [
+          18,
+          35
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 385,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2013-03",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_18-35mm_f35-45g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000463205/"
+        }
+      },
+      {
+        "id": "4960759021779",
+        "EANCode": "4960759021779",
+        "maker": "Nikon",
+        "name": "AI AF Zoom-Nikkor 18-35mm f/3.5-4.5D IF-ED",
+        "mount": "F",
+        "focalLength": [
+          18,
+          35
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 370,
+        "minFocusDistance": 0.33,
+        "releaseDate": "2000-09",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_zoom-nikkor_18-35mm_f35-45d_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510206/"
+        }
+      },
+      {
+        "id": "4960759148193",
+        "EANCode": "4960759148193",
+        "maker": "Nikon",
+        "name": "AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED",
+        "mount": "F",
+        "focalLength": [
+          8,
+          15
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 485,
+        "minFocusDistance": 0.16,
+        "releaseDate": "2017-06-30",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_fisheye_nikkor_8-15mm_f35-45e_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000970237/"
+        },
+        "note": "フィッシュアイズームレンズ。フィルターはレンズ後部に装着"
+      },
+      {
+        "id": "4960759025302",
+        "EANCode": "4960759025302",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24-70mm f/2.8G ED",
+        "mount": "F",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 900,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2007-11-30",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-70mm_f28g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511873/"
+        }
+      },
+      {
+        "id": "4960759029232",
+        "EANCode": "4960759029232",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24-70mm f/2.8E ED VR",
+        "mount": "F",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 1070,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2015-10-22",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-70mm_f28e_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000799663/"
+        }
+      },
+      {
+        "id": "nikon-f-af-s-zoom-nikkor-24-85mm-f3.5-4.5g-if",
+        "maker": "Nikon",
+        "name": "AF-S Zoom Nikkor 24～85mm F3.5～4.5G（IF）",
+        "mount": "F",
+        "focalLength": [
+          24,
+          85
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 415,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2002-03",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_zoom_nikkor_24-85mm_f35-45g_if/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510208/"
+        }
+      },
+      {
+        "id": "4960759026880",
+        "EANCode": "4960759026880",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24-85mm f/3.5-4.5G ED VR",
+        "mount": "F",
+        "focalLength": [
+          24,
+          85
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 465,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2012-06-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-85mm_f35-45g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000390896/"
+        }
+      },
+      {
+        "id": "4960759021823",
+        "EANCode": "4960759021823",
+        "maker": "Nikon",
+        "name": "AI AF Zoom-Nikkor 24-85mm f/2.8-4D IF",
+        "mount": "F",
+        "focalLength": [
+          24,
+          85
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 545,
+        "minFocusDistance": 0.21,
+        "releaseDate": "2000-10",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_zoom-nikkor_24-85mm_f28-4d_if/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510209/"
+        }
+      },
+      {
+        "id": "4960759024107",
+        "EANCode": "4960759024107",
+        "maker": "Nikon",
+        "name": "AF-S VR Zoom-Nikkor 24-120mm f/3.5-5.6G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          24,
+          120
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 575,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2003-06-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_24-120mm_f35-56g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510211/"
+        }
+      },
+      {
+        "id": "4960759026057",
+        "EANCode": "4960759026057",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24-120mm f/4G ED VR",
+        "mount": "F",
+        "focalLength": [
+          24,
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 710,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2010-09",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-120mm_f4g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000139413/"
+        }
+      },
+      {
+        "id": "4960759026002",
+        "EANCode": "4960759026002",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 28-300mm f/3.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          28,
+          300
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 800,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2010-09-02",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28-300mm_f35-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000139412/"
+        }
+      },
+      {
+        "id": "4960759023315",
+        "EANCode": "4960759023315",
+        "maker": "Nikon",
+        "name": "AF-S VR Zoom-Nikkor ED 70-200mm F2.8G（IF）",
+        "mount": "F",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 1470,
+        "minFocusDistance": 1.4,
+        "releaseDate": "2003-03",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_ed_70-200mm_f28g_if/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510224/"
+        },
+        "note": "ブラックとライトグレーの2色展開（JANコードはライトグレーのもの）"
+      },
+      {
+        "id": "4960759025913",
+        "EANCode": "4960759025913",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 70-200mm f/2.8G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 1540,
+        "minFocusDistance": 1.4,
+        "releaseDate": "2009-11-27",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f28g_ed_vr_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000049476/"
+        }
+      },
+      {
+        "id": "4960759146595",
+        "EANCode": "4960759146595",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 70-200mm f/2.8E FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1430,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2016-11-11",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f28e_fl_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000917326/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2016/1019_nikkor_01.html"
+        }
+      },
+      {
+        "id": "4960759026736",
+        "EANCode": "4960759026736",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 70-200mm f/4G ED VR",
+        "mount": "F",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 850,
+        "minFocusDistance": 1,
+        "releaseDate": "2012-11-29",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f4g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000431530/"
+        }
+      },
+      {
+        "id": "4960759025173",
+        "EANCode": "4960759025173",
+        "maker": "Nikon",
+        "name": "AF-S VR Zoom-Nikkor 70-300mm f/4.5-5.6G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 745,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2006-12-07",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_70-300mm_f45-56g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511804/"
+        }
+      },
+      {
+        "id": "4960759148353",
+        "EANCode": "4960759148353",
+        "maker": "Nikon",
+        "name": "AF-P NIKKOR 70-300mm f/4.5-5.6E ED VR",
+        "mount": "F",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 680,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2017-07-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_nikkor_70-300mm_f45-56e_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000981063/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2017/0711_nikkor_01/"
+        }
+      },
+      {
+        "id": "4960759022028",
+        "EANCode": "4960759022028",
+        "maker": "Nikon",
+        "name": "AF Zoom-Nikkor 70-300mm f/4-5.6G",
+        "mount": "F",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 425,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2000",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom-nikkor_70-300mm_f4-56g/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510228/"
+        },
+        "note": "ブラックとシルバーの2色展開（JANコードはブラックのもの）"
+      },
+      {
+        "id": "4960759021656",
+        "EANCode": "4960759021656",
+        "maker": "Nikon",
+        "name": "AI AF VR Zoom-Nikkor 80-400mm f/4.5-5.6D ED",
+        "mount": "F",
+        "focalLength": [
+          80,
+          400
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 1360,
+        "minFocusDistance": 2.3,
+        "releaseDate": "2000-11",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_vr_zoom-nikkor_80-400mm_f45-56d_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510233/"
+        },
+        "note": "ニコン初のVR（手ブレ補正）搭載レンズ"
+      },
+      {
+        "id": "4960759027542",
+        "EANCode": "4960759027542",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 80-400mm f/4.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          80,
+          400
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 1570,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2013-03-14",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_80-400mm_f45-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000475380/"
+        }
+      },
+      {
+        "id": "nikon-f-af-s-vr-zoom-nikkor-200-400mm-f4g-if-ed",
+        "maker": "Nikon",
+        "name": "AF-S VR Zoom-Nikkor 200-400mm f/4G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          200,
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 3275,
+        "minFocusDistance": 2,
+        "releaseDate": "2004-02",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_200-400mm_f4g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510226/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025982",
+        "EANCode": "4960759025982",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 200-400mm f/4G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          200,
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 3360,
+        "minFocusDistance": 2,
+        "releaseDate": "2010-05-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200-400mm_f4g_ed_vr_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000108326/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759145765",
+        "EANCode": "4960759145765",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 200-500mm f/5.6E ED VR",
+        "mount": "F",
+        "focalLength": [
+          200,
+          500
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "weight": 2300,
+        "minFocusDistance": 2.2,
+        "releaseDate": "2015-09-17",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200-500mm_f56e_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000799664/"
+        }
+      },
+      {
+        "id": "4960759148971",
+        "EANCode": "4960759148971",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 180-400mm f/4E TC1.4 FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          180,
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 40.5,
+        "weight": 3500,
+        "minFocusDistance": 2,
+        "releaseDate": "2018-03-09",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_180-400mm_f4e_tc14_fl_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001024195/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2018/0109_nikkor_01.html"
+        },
+        "note": "1.4倍テレコンバーター内蔵。フィルターは40.5mm差し込み式"
+      },
+      {
+        "id": "4960759902016",
+        "EANCode": "4960759902016",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 120-300mm f/2.8E FL ED SR VR",
+        "mount": "F",
+        "focalLength": [
+          120,
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 112,
+        "weight": 3250,
+        "minFocusDistance": 2,
+        "releaseDate": "2020-02-29",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_120-300mm_f28e_fl_ed_sr_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001222493/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2020/0107_nikkor_02/"
+        }
+      },
+      {
+        "id": "4960759023773",
+        "EANCode": "4960759023773",
+        "maker": "Nikon",
+        "name": "AF Zoom Nikkor ED 28-200mm F3.5-5.6G（IF）",
+        "mount": "F",
+        "focalLength": [
+          28,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 360,
+        "minFocusDistance": 0.44,
+        "releaseDate": "2003",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_ed_28-200mm_f35-56g_if/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510220/"
+        },
+        "note": "ブラックとシルバーの2色展開（JANコードはブラックのもの）"
+      },
+      {
+        "id": "nikon-f-af-zoom-nikkor-28-80mm-f3.3-5.6g",
+        "maker": "Nikon",
+        "name": "AF Zoom Nikkor 28-80mm F3.3-5.6G",
+        "mount": "F",
+        "focalLength": [
+          28,
+          80
+        ],
+        "fStop": [
+          3.3,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 195,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2001-03-10",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_28-80mm_f33-56g/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510214/",
+          "nikonHistory": "https://nij.nikon.com/enjoy/life/historynikkor/0063/index.html"
+        },
+        "note": "ブラックとシルバーの2色展開。ニコン初のGタイプレンズ"
+      },
+      {
+        "id": "nikon-f-af-zoom-nikkor-28-100mm-f3.5-5.6g",
+        "maker": "Nikon",
+        "name": "AF Zoom Nikkor 28-100mm F3.5-5.6G",
+        "mount": "F",
+        "focalLength": [
+          28,
+          100
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 245,
+        "minFocusDistance": 0.56,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_28-100mm_f35-56g/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510216/"
+        },
+        "note": "ブラックとシルバーの2色展開"
+      },
+      {
+        "id": "4960759148209",
+        "EANCode": "4960759148209",
+        "maker": "Nikon",
+        "name": "AF-P DX NIKKOR 10-20mm f/4.5-5.6G VR",
+        "mount": "F",
+        "focalLength": [
+          10,
+          20
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 230,
+        "minFocusDistance": 0.22,
+        "releaseDate": "2017-06-30",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_10-20mm_f45-56g_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000970239/"
+        }
+      },
+      {
+        "id": "4960759025869",
+        "EANCode": "4960759025869",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 10-24mm f/3.5-4.5G ED",
+        "mount": "F",
+        "focalLength": [
+          10,
+          24
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 460,
+        "minFocusDistance": 0.22,
+        "releaseDate": "2009-05",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_10-24mm_f35-45g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000030214/"
+        }
+      },
+      {
+        "id": "4960759023858",
+        "EANCode": "4960759023858",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 12-24mm f/4G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          12,
+          24
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 465,
+        "minFocusDistance": 0.3,
+        "releaseDate": "2003-06-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_12-24mm_f4g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510310/",
+          "nikonHistory": "https://nij.nikon.com/enjoy/life/historynikkor/0068/index.html"
+        }
+      },
+      {
+        "id": "4960759029218",
+        "EANCode": "4960759029218",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 16-80mm f/2.8-4E ED VR",
+        "mount": "F",
+        "focalLength": [
+          16,
+          80
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 480,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2015-07-16",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_16-80mm_f28-4e_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000791593/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2015/0702_nikkor_02.html"
+        }
+      },
+      {
+        "id": "4960759025265",
+        "EANCode": "4960759025265",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 16-85mm f/3.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          16,
+          85
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 485,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2008-02-22",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_16-85mm_f35-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511928/"
+        }
+      },
+      {
+        "id": "4960759024237",
+        "EANCode": "4960759024237",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 17-55mm f/2.8G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          17,
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 755,
+        "minFocusDistance": 0.36,
+        "releaseDate": "2004-06-25",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_17-55mm_f28g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510311/"
+        }
+      },
+      {
+        "id": "nikon-f-af-s-dx-zoom-nikkor-18-55mm-f3.5-5.6g-ed",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED",
+        "mount": "F",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 210,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2005-10-14",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-55mm_f35-56g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511392/"
+        },
+        "note": "ブラックとシルバーの2色展開。D50のキットレンズとして先行供給"
+      },
+      {
+        "id": "4960759025234",
+        "EANCode": "4960759025234",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 18-55mm f/3.5-5.6G ED II",
+        "mount": "F",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 205,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2006-12-01",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-55mm_f35-56g_ed_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511826/"
+        },
+        "note": "ブラックとシルバーの2色展開（JANコードはブラックのもの）"
+      },
+      {
+        "id": "4960759025593",
+        "EANCode": "4960759025593",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 265,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2008-02-22",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-55mm_f35-56g_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511943/"
+        }
+      },
+      {
+        "id": "4960759028419",
+        "EANCode": "4960759028419",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR II",
+        "mount": "F",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 195,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2014-02-06",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-55mm_f35-56g_vr_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000610337/"
+        },
+        "note": "沈胴機構を採用した小型軽量標準ズーム"
+      },
+      {
+        "id": "4960759145963",
+        "EANCode": "4960759145963",
+        "maker": "Nikon",
+        "name": "AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 205,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2016-09-16",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_18-55mm_f35-56g_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000902956/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2016/0823_nikkor_02.html"
+        }
+      },
+      {
+        "id": "4960759024466",
+        "EANCode": "4960759024466",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          18,
+          70
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 390,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2004-06-25",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-70mm_f35-45g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503510800/"
+        }
+      },
+      {
+        "id": "4960759025630",
+        "EANCode": "4960759025630",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-105mm f/3.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          105
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 420,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2008-09-19",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-105mm_f35-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503512019/"
+        }
+      },
+      {
+        "id": "4960759025210",
+        "EANCode": "4960759025210",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor ED 18-135mm F3.5-5.6G（IF）",
+        "mount": "F",
+        "focalLength": [
+          18,
+          135
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 385,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2006-12-22",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_ed_18-135mm_f35-56g_if/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511803/"
+        }
+      },
+      {
+        "id": "4960759028327",
+        "EANCode": "4960759028327",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          140
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 490,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2013-08-29",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-140mm_f35-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000554130/"
+        }
+      },
+      {
+        "id": "4960759024657",
+        "EANCode": "4960759024657",
+        "maker": "Nikon",
+        "name": "AF-S DX VR Zoom-Nikkor 18-200mm f/3.5-5.6G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          18,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 560,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2005-12-16",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_vr_zoom-nikkor_18-200mm_f35-56g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511500/"
+        }
+      },
+      {
+        "id": "4960759026026",
+        "EANCode": "4960759026026",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-200mm f/3.5-5.6G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          18,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 565,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2009-09-04",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-200mm_f35-56g_ed_vr_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000049475/"
+        }
+      },
+      {
+        "id": "4960759026293",
+        "EANCode": "4960759026293",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-300mm f/3.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          300
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 830,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2012-06-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-300mm_f35-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000390897/"
+        }
+      },
+      {
+        "id": "4960759028518",
+        "EANCode": "4960759028518",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 18-300mm f/3.5-6.3G ED VR",
+        "mount": "F",
+        "focalLength": [
+          18,
+          300
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 550,
+        "minFocusDistance": 0.48,
+        "releaseDate": "2014-04-24",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-300mm_f35-63g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000643176/"
+        }
+      },
+      {
+        "id": "nikon-f-af-s-dx-zoom-nikkor-55-200mm-f4-5.6g-ed",
+        "maker": "Nikon",
+        "name": "AF-S DX Zoom-Nikkor 55-200mm f/4-5.6G ED",
+        "mount": "F",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 255,
+        "minFocusDistance": 0.95,
+        "releaseDate": "2005-06-17",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_55-200mm_f4-56g_ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511393/"
+        },
+        "note": "ブラックとシルバーの2色展開"
+      },
+      {
+        "id": "4960759025241",
+        "EANCode": "4960759025241",
+        "maker": "Nikon",
+        "name": "AF-S DX VR Zoom-Nikkor 55-200mm f/4-5.6G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 335,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2007-03-29",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_vr_zoom-nikkor_55-200mm_f4-56g_if-ed/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10503511837/"
+        }
+      },
+      {
+        "id": "4960759029140",
+        "EANCode": "4960759029140",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 55-200mm f/4-5.6G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 300,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2015-02-05",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_55-200mm_f4-56g_ed_vr_2/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000732507/",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2015/0114_nikkor_05.html"
+        },
+        "note": "沈胴機構を採用した小型軽量望遠ズーム"
+      },
+      {
+        "id": "4960759026255",
+        "EANCode": "4960759026255",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 55-300mm f/4.5-5.6G ED VR",
+        "mount": "F",
+        "focalLength": [
+          55,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 530,
+        "minFocusDistance": 1.4,
+        "releaseDate": "2010-09-02",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_55-300mm_f45-56g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000139410/"
+        }
+      },
+      {
+        "id": "4960759146113",
+        "EANCode": "4960759146113",
+        "maker": "Nikon",
+        "name": "AF-P DX NIKKOR 70-300mm f/4.5-6.3G ED VR",
+        "mount": "F",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 415,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2016-09-16",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_70-300mm_f45-63g_ed_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000902955/"
+        }
+      },
+      {
+        "id": "4960759029157",
+        "EANCode": "4960759029157",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 20mm f/1.8G ED",
+        "mount": "F",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 355,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.23,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 11,
+        "releaseDate": "2014-09-25",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_20mm_f18g_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759029157"
+        }
+      },
+      {
+        "id": "4960759025890",
+        "EANCode": "4960759025890",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24mm f/1.4G ED",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 620,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 0.18,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2010-03-19",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24mm_f14g_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025890"
+        }
+      },
+      {
+        "id": "4960759145666",
+        "EANCode": "4960759145666",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 24mm f/1.8G ED",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 355,
+        "minFocusDistance": 0.23,
+        "maxMagnification": 0.2,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 9,
+        "releaseDate": "2015-09-17",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24mm_f18g_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759145666"
+        }
+      },
+      {
+        "id": "4960759148407",
+        "EANCode": "4960759148407",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 28mm f/1.4E ED",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 645,
+        "minFocusDistance": 0.28,
+        "maxMagnification": 0.17,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2017-06-30",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28mm_f14e_ed/spec.html",
+          "kakaku": "https://kakaku.com/item/K0000970238/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759148407"
+        }
+      },
+      {
+        "id": "4960759026750",
+        "EANCode": "4960759026750",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 28mm f/1.8G",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 330,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 0.21,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2012-05-24",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28mm_f18g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026750"
+        }
+      },
+      {
+        "id": "4960759025821",
+        "EANCode": "4960759025821",
+        "maker": "Nikon",
+        "name": "AF-S DX NIKKOR 35mm f/1.8G",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 200,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.16,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2009-03-06",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_35mm_f18g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025821"
+        }
+      },
+      {
+        "id": "4960759026262",
+        "EANCode": "4960759026262",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 35mm f/1.4G",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 600,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.19,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 7,
+        "releaseDate": "2010-11-19",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_35mm_f14g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026262"
+        }
+      },
+      {
+        "id": "4960759028457",
+        "EANCode": "4960759028457",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 35mm f/1.8G ED",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 305,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 0.23,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2014-02-06",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_35mm_f18g_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759028457"
+        }
+      },
+      {
+        "id": "4960759025807",
+        "EANCode": "4960759025807",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 50mm f/1.4G",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 280,
+        "minFocusDistance": 0.45,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "2008-12-05",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f14g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025807"
+        }
+      },
+      {
+        "id": "4960759026309",
+        "EANCode": "4960759026309",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 50mm f/1.8G",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 185,
+        "minFocusDistance": 0.45,
+        "maxMagnification": 0.15,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2011-06-02",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f18g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026309"
+        }
+      },
+      {
+        "id": "4960759028037",
+        "EANCode": "4960759028037",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 58mm f/1.4G",
+        "mount": "F",
+        "focalLength": [
+          58
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 385,
+        "minFocusDistance": 0.58,
+        "maxMagnification": 0.12,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 6,
+        "releaseDate": "2013-10-31",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_58mm_f14g/spec.html",
+          "kakaku": "https://kakaku.com/item/K0000586667/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759028037"
+        }
+      },
+      {
+        "id": "4960759026194",
+        "EANCode": "4960759026194",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 85mm f/1.4G",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 595,
+        "minFocusDistance": 0.85,
+        "maxMagnification": 0.11,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "2010-09-02",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_85mm_f14g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026194"
+        }
+      },
+      {
+        "id": "4960759026477",
+        "EANCode": "4960759026477",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 85mm f/1.8G",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 350,
+        "minFocusDistance": 0.8,
+        "maxMagnification": 0.12,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 9,
+        "releaseDate": "2012-02-16",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_85mm_f18g/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026477"
+        }
+      },
+      {
+        "id": "4960759146656",
+        "EANCode": "4960759146656",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 105mm f/1.4E ED",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 985,
+        "minFocusDistance": 1,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 9,
+        "releaseDate": "2016-08-26",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_105mm_f14e_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759146656"
+        }
+      },
+      {
+        "id": "4960759026316",
+        "EANCode": "4960759026316",
+        "maker": "Nikon",
+        "name": "AF-S DX Micro NIKKOR 40mm f/2.8G",
+        "mount": "F",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 235,
+        "minFocusDistance": 0.163,
+        "maxMagnification": 1,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2011-08-25",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_micro_nikkor_40mm_f28g/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2011/0712_nikkor_01.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759026316"
+        }
+      },
+      {
+        "id": "4960759025623",
+        "EANCode": "4960759025623",
+        "maker": "Nikon",
+        "name": "AF-S Micro NIKKOR 60mm f/2.8G ED",
+        "mount": "F",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 425,
+        "minFocusDistance": 0.185,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 9,
+        "releaseDate": "2008-03-14",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_micro_nikkor_60mm_f28g_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025623"
+        }
+      },
+      {
+        "id": "4960759025999",
+        "EANCode": "4960759025999",
+        "maker": "Nikon",
+        "name": "AF-S DX Micro NIKKOR 85mm f/3.5G ED VR",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 355,
+        "minFocusDistance": 0.286,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 10,
+        "releaseDate": "2009-12-04",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_micro_nikkor_85mm_f35g_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2009/1014_nikkor_02.html",
+          "kakaku": "https://kakaku.com/item/K0000063198/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025999"
+        }
+      },
+      {
+        "id": "4960759025159",
+        "EANCode": "4960759025159",
+        "maker": "Nikon",
+        "name": "AF-S VR Micro-Nikkor 105mm f/2.8G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 750,
+        "minFocusDistance": 0.314,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 12,
+        "isInternalFocus": true,
+        "releaseDate": "2006-03-24",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_micro-nikkor_105mm_f28g_if-ed/spec.html",
+          "kakaku": "https://kakaku.com/item/10503511532/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025159"
+        }
+      },
+      {
+        "id": "4960759028426",
+        "EANCode": "4960759028426",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 50mm f/1.8G(Special Edition)",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.45,
+        "maxMagnification": 0.15,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2013-11-28",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f18g_special_edition/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759028426"
+        }
+      },
+      {
+        "id": "4960759146663",
+        "EANCode": "4960759146663",
+        "maker": "Nikon",
+        "name": "PC NIKKOR 19mm f/4E ED",
+        "mount": "F",
+        "focalLength": [
+          19
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 885,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 0.18,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 13,
+        "releaseDate": "2016-10-28",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/pc_nikkor_19mm_f4e_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759146663"
+        }
+      },
+      {
+        "id": "4960759025432",
+        "EANCode": "4960759025432",
+        "maker": "Nikon",
+        "name": "PC-E NIKKOR 24mm f/3.5D ED",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 730,
+        "minFocusDistance": 0.21,
+        "maxMagnification": 0.36,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2008-02-22",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_nikkor_24mm_f35d_ed/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025432"
+        }
+      },
+      {
+        "id": "4960759025555",
+        "EANCode": "4960759025555",
+        "maker": "Nikon",
+        "name": "PC-E Micro NIKKOR 45mm f/2.8D ED",
+        "mount": "F",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 740,
+        "minFocusDistance": 0.253,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2008-07-18",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_micro_nikkor_45mm_f28d_ed/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2008/0701_pce45_02.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025555"
+        }
+      },
+      {
+        "id": "4960759025579",
+        "EANCode": "4960759025579",
+        "maker": "Nikon",
+        "name": "PC-E Micro NIKKOR 85mm f/2.8D",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 635,
+        "minFocusDistance": 0.39,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "2008-08",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_micro_nikkor_85mm_f28d/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2008/0701_pce45_02.html",
+          "kakaku": "https://kakaku.com/item/10503511932/"
+        }
+      },
+      {
+        "id": "4960759023216",
+        "EANCode": "4960759023216",
+        "maker": "Nikon",
+        "name": "Ai Nikkor 45mm F2.8P",
+        "mount": "F",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 120,
+        "minFocusDistance": 0.45,
+        "bladesCount": 7,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_nikkor_45mm_f28p/spec.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759023216"
+        },
+        "note": "ブラック(JAN 4960759023216)とシルバーの2色展開。2005年生産終了"
+      },
+      {
+        "id": "4960759022158",
+        "EANCode": "4960759022158",
+        "maker": "Nikon",
+        "name": "AI AF-S Nikkor 300mm f/4D IF-ED",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 1440,
+        "minFocusDistance": 1.45,
+        "maxMagnification": 0.27,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 6,
+        "isInternalFocus": true,
+        "releaseDate": "2000-08",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_300mm_f4d_if-ed/spec.html",
+          "kakaku": "https://kakaku.com/item/10503510257/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759022158"
+        },
+        "note": "ブラック(JAN 4960759022158)とライトグレー(JAN 4960759022202)の2色展開。質量は三脚座込み約1440g"
+      },
+      {
+        "id": "4960759029126",
+        "EANCode": "4960759029126",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 300mm f/4E PF ED VR",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 755,
+        "minFocusDistance": 1.4,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 10,
+        "releaseDate": "2015-01-29",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_300mm_f4e_pf_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2015/0114_nikkor_04.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759029126"
+        }
+      },
+      {
+        "id": "4960759149923",
+        "EANCode": "4960759149923",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 500mm f/5.6E PF ED VR",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1460,
+        "minFocusDistance": 3,
+        "maxMagnification": 0.18,
+        "bladesCount": 9,
+        "elements": 19,
+        "groups": 11,
+        "releaseDate": "2018-09-14",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f56e_pf_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2018/0823_nikkor_03/",
+          "kakaku": "https://kakaku.com/item/K0001083385/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759149923"
+        }
+      },
+      {
+        "id": "4960759024275",
+        "EANCode": "4960759024275",
+        "maker": "Nikon",
+        "name": "AF-S VR Nikkor 200mm f/2G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 2900,
+        "minFocusDistance": 1.9,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 9,
+        "isInternalFocus": true,
+        "releaseDate": "2004-09-10",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_nikkor_200mm_f2g_if-ed/spec.html",
+          "kakaku": "https://kakaku.com/item/10503510816/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025944",
+        "EANCode": "4960759025944",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 200mm f/2G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 2930,
+        "minFocusDistance": 1.9,
+        "maxMagnification": 0.12,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 9,
+        "releaseDate": "2010-10-01",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200mm_f2g_ed_vr_2/spec.html",
+          "kakaku": "https://kakaku.com/item/K0000151492/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759028914",
+        "EANCode": "4960759028914",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 400mm f/2.8E FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "weight": 3800,
+        "minFocusDistance": 2.6,
+        "maxMagnification": 0.17,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 12,
+        "isInternalFocus": true,
+        "releaseDate": "2014-08-28",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_400mm_f28e_fl_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2014/0514_nikkor_02.html",
+          "kakaku": "https://kakaku.com/item/K0000652528/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759028914"
+        },
+        "note": "フィルターは40.5mm差し込み式。公式特長ページに防滴性の記載あり(防塵の明記なし)"
+      },
+      {
+        "id": "4960759029263",
+        "EANCode": "4960759029263",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 500mm f/4E FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "weight": 3090,
+        "minFocusDistance": 3.6,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 12,
+        "releaseDate": "2015-07-16",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f4e_fl_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2015/0702_nikkor_01.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759029263"
+        },
+        "note": "フィルターは40.5mm差し込み式"
+      },
+      {
+        "id": "4960759029287",
+        "EANCode": "4960759029287",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 600mm f/4E FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "weight": 3810,
+        "minFocusDistance": 4.4,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 12,
+        "releaseDate": "2015-07-16",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_600mm_f4e_fl_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2015/0702_nikkor_01.html",
+          "kakaku": "https://kakaku.com/item/K0000791592/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759029287"
+        },
+        "note": "フィルターは40.5mm差し込み式"
+      },
+      {
+        "id": "nikon-f-af-s-vr-nikkor-300mm-f28g-if-ed",
+        "maker": "Nikon",
+        "name": "AF-S VR Nikkor 300mm f/2.8G IF-ED",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 2870,
+        "minFocusDistance": 2.3,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "isInternalFocus": true,
+        "releaseDate": "2005-01-21",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_nikkor_300mm_f28g_if-ed/spec.html",
+          "kakaku": "https://kakaku.com/item/10503511347/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025975",
+        "EANCode": "4960759025975",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 300mm f/2.8G ED VR II",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 2900,
+        "minFocusDistance": 2.3,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2010-01-29",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_300mm_f28g_ed_vr_2/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2009/1210_nikkor_01/",
+          "kakaku": "https://kakaku.com/item/K0000076702/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025975"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025463",
+        "EANCode": "4960759025463",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 400mm f/2.8G ED VR",
+        "mount": "F",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 4620,
+        "minFocusDistance": 2.9,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2007-11-30",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_400mm_f28g_ed_vr/spec.html",
+          "kakaku": "https://kakaku.com/item/10503511874/"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759028198",
+        "EANCode": "4960759028198",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 800mm f/5.6E FL ED VR",
+        "mount": "F",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 4590,
+        "minFocusDistance": 5.9,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 20,
+        "groups": 13,
+        "releaseDate": "2013-05-31",
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_800mm_f56e_fl_ed_vr/spec.html",
+          "nikonNews": "https://www.jp.nikon.com/company/news/2013/0129_nikkor_05.html",
+          "kakaku": "https://kakaku.com/item/K0000463204/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759028198"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025470",
+        "EANCode": "4960759025470",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 500mm f/4G ED VR",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 3880,
+        "minFocusDistance": 4,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2008-01-30",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f4g_ed_vr/spec.html",
+          "kakaku": "https://kakaku.com/item/10503511875/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025470"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759025487",
+        "EANCode": "4960759025487",
+        "maker": "Nikon",
+        "name": "AF-S NIKKOR 600mm f/4G ED VR",
+        "mount": "F",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 5060,
+        "minFocusDistance": 5,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2008-01-30",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_600mm_f4g_ed_vr/spec.html",
+          "kakaku": "https://kakaku.com/item/10503511876/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759025487"
+        },
+        "note": "フィルターは52mm差し込み式"
+      },
+      {
+        "id": "4960759022394",
+        "EANCode": "4960759022394",
+        "maker": "Nikon",
+        "name": "AI AF-S Nikkor ED 300mm F2.8D II (IF)",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 2560,
+        "minFocusDistance": 2.3,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "isInternalFocus": true,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_ed_300mm_f28d_2_if/spec.html",
+          "fujiya": "https://www.fujiya-camera.co.jp/shop/g/gC4960759022394/"
+        },
+        "note": "フィルターは52mm差し込み式。JAN 4960759022394はライトグレー。ブラックもあり"
+      },
+      {
+        "id": "4960759022516",
+        "EANCode": "4960759022516",
+        "maker": "Nikon",
+        "name": "AI AF-S Nikkor ED 400mm F2.8D II (IF)",
+        "mount": "F",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 4440,
+        "minFocusDistance": 3.5,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "isInternalFocus": true,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_ed_400mm_f28d_2_if/spec.html",
+          "kakaku": "https://kakaku.com/item/10503510261/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759022516"
+        },
+        "note": "フィルターは52mm差し込み式。ブラックとライトグレーの2色展開"
+      },
+      {
+        "id": "4960759022998",
+        "EANCode": "4960759022998",
+        "maker": "Nikon",
+        "name": "AI AF-S Nikkor ED 500mm F4D II (IF)",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 3430,
+        "minFocusDistance": 4.6,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "isInternalFocus": true,
+        "releaseDate": "2001-07-25",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_ed_500mm_f4d_2_if/spec.html",
+          "astroarts": "https://www.astroarts.co.jp/news/2001/07/18nikon/index-j.shtml",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759022998"
+        },
+        "note": "フィルターは52mm差し込み式。ブラックとライトグレーの2色展開"
+      },
+      {
+        "id": "4960759023063",
+        "EANCode": "4960759023063",
+        "maker": "Nikon",
+        "name": "AI AF-S Nikkor ED 600mm F4D II (IF)",
+        "mount": "F",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 4750,
+        "minFocusDistance": 5.6,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 7,
+        "isInternalFocus": true,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "urls": {
+          "official": "https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_ed_600mm_f4d_2_if/spec.html",
+          "astroarts": "https://www.astroarts.co.jp/news/2001/07/18nikon/index-j.shtml",
+          "fujiya": "https://www.fujiya-camera.co.jp/shop/g/gC4960759023063/"
+        },
+        "note": "フィルターは52mm差し込み式。JAN 4960759023063はブラック。ライトグレーもあり"
+      }
+    ],
+    "Z": [
+      {
+        "id": "4960759903570",
+        "EANCode": "4960759903570",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 14-24mm f/2.8 S",
+        "mount": "Z",
+        "focalLength": [
+          14,
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 112,
+        "weight": 650,
+        "minFocusDistance": 0.28,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 11,
+        "diameter": 88.5,
+        "length": 124.5,
+        "releaseDate": "2020-10-30",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_14-24mm_f28_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2020/0916_nikkor-z_01.html",
+          "kakaku": "https://kakaku.com/item/K0001290457/"
+        },
+        "note": "フィルター112mmはバヨネットフードHB-97使用時のみ装着可能"
+      },
+      {
+        "id": "4960759149480",
+        "EANCode": "4960759149480",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 14-30mm f/4 S",
+        "mount": "Z",
+        "focalLength": [
+          14,
+          30
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 485,
+        "minFocusDistance": 0.28,
+        "maxMagnification": 0.16,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 12,
+        "diameter": 89,
+        "length": 85,
+        "releaseDate": "2019-04-19",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_14-30mm_f4_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2019/0214_nikkor-z_02/",
+          "mapcamera": "https://www.mapcamera.com/item/4960759149480"
+        }
+      },
+      {
+        "id": "4960759910332",
+        "EANCode": "4960759910332",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 17-28mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          17,
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 450,
+        "minFocusDistance": 0.19,
+        "maxMagnification": 0.19,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 75,
+        "length": 101,
+        "releaseDate": "2022-10-28",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_17-28mm_f28/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001473712/"
+        }
+      },
+      {
+        "id": "4960759904256",
+        "EANCode": "4960759904256",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-50mm f/4-6.3",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          50
+        ],
+        "fStop": [
+          4,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 195,
+        "minFocusDistance": 0.35,
+        "maxMagnification": 0.17,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 73.5,
+        "length": 51,
+        "releaseDate": "2020-08-28",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-50mm_f4-63/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001274578/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759904256"
+        }
+      },
+      {
+        "id": "4960759902115",
+        "EANCode": "4960759902115",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-70mm f/2.8 S",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 805,
+        "minFocusDistance": 0.38,
+        "maxMagnification": 0.22,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 15,
+        "diameter": 89,
+        "length": 126,
+        "releaseDate": "2019-04-19",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-70mm_f28_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2019/0214_nikkor-z_01/"
+        },
+        "note": "ニコン公式サイトで旧製品表記（後継はNIKKOR Z 24-70mm f/2.8 S II）"
+      },
+      {
+        "id": "4960759916679",
+        "EANCode": "4960759916679",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-70mm f/2.8 S II",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 675,
+        "minFocusDistance": 0.24,
+        "maxMagnification": 0.32,
+        "bladesCount": 11,
+        "elements": 14,
+        "groups": 10,
+        "diameter": 84,
+        "length": 142,
+        "releaseDate": "2025-09-26",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-70mm_f28_s_2/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2025/0822_01.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759916679",
+          "mapcamera": "https://www.mapcamera.com/item/4960759916679"
+        }
+      },
+      {
+        "id": "4960759149534",
+        "EANCode": "4960759149534",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-70mm f/4 S",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 500,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.3,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 77.5,
+        "length": 88.5,
+        "releaseDate": "2018-09-28",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-70mm_f4_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2018/0823_nikkor-z_02.html",
+          "kakaku": "https://kakaku.com/item/K0001083382/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759149534"
+        }
+      },
+      {
+        "id": "4960759917577",
+        "EANCode": "4960759917577",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-105mm f/4-7.1",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4,
+          7.1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 350,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.5,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 73.5,
+        "length": 106.5,
+        "releaseDate": "2026-01-30",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-105mm_f4-71/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2026/0115_01.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759917577",
+          "mapcamera": "https://www.mapcamera.com/item/4960759917577"
+        }
+      },
+      {
+        "id": "4960759906274",
+        "EANCode": "4960759906274",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-120mm f/4 S",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 630,
+        "minFocusDistance": 0.35,
+        "maxMagnification": 0.39,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 84,
+        "length": 118,
+        "releaseDate": "2022-01-28",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-120mm_f4_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2021/1028_nikkor-z_02.html",
+          "mapcamera": "https://www.mapcamera.com/item/4960759906274"
+        }
+      },
+      {
+        "id": "4960759902887",
+        "EANCode": "4960759902887",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24-200mm f/4-6.3 VR",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          200
+        ],
+        "fStop": [
+          4,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 570,
+        "minFocusDistance": 0.5,
+        "maxMagnification": 0.28,
+        "bladesCount": 7,
+        "elements": 19,
+        "groups": 15,
+        "diameter": 76.5,
+        "length": 114,
+        "releaseDate": "2020-07-03",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24-200mm_f4-63_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001231902/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759902887"
+        }
+      },
+      {
+        "id": "4960759909077",
+        "EANCode": "4960759909077",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 28-75mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          28,
+          75
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 565,
+        "minFocusDistance": 0.19,
+        "maxMagnification": 0.34,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 75,
+        "length": 120.5,
+        "releaseDate": "2022-01-28",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_28-75mm_f28/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001408559/"
+        }
+      },
+      {
+        "id": "4960759915955",
+        "EANCode": "4960759915955",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 28-135mm f/4 PZ",
+        "mount": "Z",
+        "focalLength": [
+          28,
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1210,
+        "minFocusDistance": 0.34,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 18,
+        "groups": 13,
+        "diameter": 105,
+        "length": 177.5,
+        "releaseDate": "2025-04-25",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_28-135mm_f4_pz/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2025/0213_02.html",
+          "nikonInfo": "https://nij.nikon.com/products/info/2025/0408_02.html"
+        },
+        "note": "動画向けのパワーズーム（PZ）搭載だが写真撮影兼用の標準ズーム。質量約1210gは三脚座含む（三脚座なしは約1120g）"
+      },
+      {
+        "id": "4960759912893",
+        "EANCode": "4960759912893",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 28-400mm f/4-8 VR",
+        "mount": "Z",
+        "focalLength": [
+          28,
+          400
+        ],
+        "fStop": [
+          4,
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 725,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.35,
+        "bladesCount": 9,
+        "elements": 21,
+        "groups": 15,
+        "diameter": 84.5,
+        "length": 141.5,
+        "releaseDate": "2024-04-19",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_28-400mm_f4-8_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001615741/"
+        }
+      },
+      {
+        "id": "4960759911087",
+        "EANCode": "4960759911087",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 70-180mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          70,
+          180
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 795,
+        "minFocusDistance": 0.27,
+        "maxMagnification": 0.48,
+        "bladesCount": 9,
+        "elements": 19,
+        "groups": 14,
+        "diameter": 83.5,
+        "length": 151,
+        "releaseDate": "2023-07-14",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_70-180mm_f28/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2023/0621_nikkor-z_02.html",
+          "kakaku": "https://kakaku.com/item/K0001546732/"
+        }
+      },
+      {
+        "id": "4960759902191",
+        "EANCode": "4960759902191",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 70-200mm f/2.8 VR S",
+        "mount": "Z",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1440,
+        "minFocusDistance": 0.5,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 21,
+        "groups": 18,
+        "diameter": 89,
+        "length": 220,
+        "releaseDate": "2020-08-28",
+        "discontinued": true,
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_70-200mm_f28_vr_s/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001222494/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759902191"
+        },
+        "note": "質量約1440gは三脚座リング含む（三脚座リングなしは約1360g）。ニコン公式サイトで旧製品表記（後継はNIKKOR Z 70-200mm f/2.8 VR S II）"
+      },
+      {
+        "id": "4960759917089",
+        "EANCode": "4960759917089",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 70-200mm f/2.8 VR S II",
+        "mount": "Z",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 998,
+        "minFocusDistance": 0.38,
+        "maxMagnification": 0.3,
+        "bladesCount": 11,
+        "elements": 18,
+        "groups": 16,
+        "diameter": 90,
+        "length": 208,
+        "releaseDate": "2026-04-24",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_70-200mm_f28_vr_s_2/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2026/0224_01/",
+          "kakaku": "https://kakaku.com/item/K0001770628/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759917089"
+        },
+        "note": "質量約998gはレンズ単体（三脚座リング装着時は約1180g）。インナーズーム採用"
+      },
+      {
+        "id": "4960759906557",
+        "EANCode": "4960759906557",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 100-400mm f/4.5-5.6 VR S",
+        "mount": "Z",
+        "focalLength": [
+          100,
+          400
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1435,
+        "minFocusDistance": 0.75,
+        "maxMagnification": 0.38,
+        "bladesCount": 9,
+        "elements": 25,
+        "groups": 20,
+        "diameter": 98,
+        "length": 222,
+        "releaseDate": "2022-02-04",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_100-400mm_f45-56_vr_s/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2021/1028_nikkor-z_02.html",
+          "kakaku": "https://kakaku.com/item/K0001395593/",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759906557"
+        },
+        "note": "質量約1435gは三脚座リング含む（三脚座リングなしは約1355g）"
+      },
+      {
+        "id": "4960759911049",
+        "EANCode": "4960759911049",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 180-600mm f/5.6-6.3 VR",
+        "mount": "Z",
+        "focalLength": [
+          180,
+          600
+        ],
+        "fStop": [
+          5.6,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 2140,
+        "minFocusDistance": 1.3,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 25,
+        "groups": 17,
+        "diameter": 110,
+        "length": 315.5,
+        "releaseDate": "2023-08-31",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_180-600mm_f56-63_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001546731/"
+        },
+        "note": "質量約2140gは三脚座リング含む（三脚座リングなしは約1955g）"
+      },
+      {
+        "id": "4960759910998",
+        "EANCode": "4960759910998",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 12-28mm f/3.5-5.6 PZ VR",
+        "mount": "Z",
+        "focalLength": [
+          12,
+          28
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 205,
+        "minFocusDistance": 0.19,
+        "maxMagnification": 0.21,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 72,
+        "length": 63.5,
+        "releaseDate": "2023-05-19",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_12-28mm_f35-56_pz_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001530315/"
+        },
+        "note": "NIKKOR Zレンズ初のパワーズーム（PZ）搭載超広角ズーム"
+      },
+      {
+        "id": "4960759919595",
+        "EANCode": "4960759919595",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 16-50mm f/2.8 VR",
+        "mount": "Z",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 330,
+        "minFocusDistance": 0.15,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 74.5,
+        "length": 88,
+        "releaseDate": "2025-10-31",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_16-50mm_f28_vr/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2025/1016_01.html",
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4960759919595",
+          "mapcamera": "https://www.mapcamera.com/item/4960759919595"
+        }
+      },
+      {
+        "id": "4960759900159",
+        "EANCode": "4960759900159",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+        "mount": "Z",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 135,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.2,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 70,
+        "length": 32,
+        "releaseDate": "2019-11-22",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_16-50mm_f35-63_vr/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2019/1010_nikkor-z_02.html",
+          "kakaku": "https://kakaku.com/item/K0001201320/"
+        },
+        "note": "ブラックのJANコード。シルバーは別JANコード（kakaku K0001365533）"
+      },
+      {
+        "id": "4960759906137",
+        "EANCode": "4960759906137",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "mount": "Z",
+        "focalLength": [
+          18,
+          140
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 315,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.33,
+        "bladesCount": 7,
+        "elements": 17,
+        "groups": 13,
+        "diameter": 73,
+        "length": 90,
+        "releaseDate": "2021-11-26",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_18-140mm_f35-63_vr/",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001391181/"
+        }
+      },
+      {
+        "id": "4960759900340",
+        "EANCode": "4960759900340",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "mount": "Z",
+        "focalLength": [
+          50,
+          250
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 405,
+        "minFocusDistance": 0.5,
+        "elements": 16,
+        "groups": 12,
+        "diameter": 74,
+        "length": 110,
+        "releaseDate": "2019-11-22",
+        "officialUrl": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_50-250mm_f45-63_vr/",
+        "urls": {
+          "official": "https://www.jp.nikon.com/company/news/2019/1010_nikkor-z_02.html",
+          "kakaku": "https://kakaku.com/item/K0001201321/",
+          "mapcamera": "https://www.mapcamera.com/item/4960759900340"
+        }
+      },
+      {
+        "id": "4960759903372",
+        "EANCode": "4960759903372",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 20mm f/1.8 S",
+        "mount": "Z",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 505,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2020-03-27",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001231901/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_20mm_f18_s/"
+        }
+      },
+      {
+        "id": "4960759149855",
+        "EANCode": "4960759149855",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 24mm f/1.8 S",
+        "mount": "Z",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 450,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2019-10-18",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001196983/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24mm_f18_s/"
+        }
+      },
+      {
+        "id": "4960759910967",
+        "EANCode": "4960759910967",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 26mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          26
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 125,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2023-03-03",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001514530/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_26mm_f28/"
+        }
+      },
+      {
+        "id": "4960759904911",
+        "EANCode": "4960759904911",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 28mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 155,
+        "minFocusDistance": 0.19,
+        "releaseDate": "2021-12-10",
+        "note": "外装違いの NIKKOR Z 28mm f/2.8 (Special Edition)(JAN 4960759909275、2021-11-19発売)あり",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001400637/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_28mm_f28/"
+        }
+      },
+      {
+        "id": "4960759911858",
+        "EANCode": "4960759911858",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 35mm f/1.2 S",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1060,
+        "minFocusDistance": 0.3,
+        "releaseDate": "2025-02-28",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001674895/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f12_s/"
+        }
+      },
+      {
+        "id": "4960759915917",
+        "EANCode": "4960759915917",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 35mm f/1.4",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 415,
+        "minFocusDistance": 0.27,
+        "releaseDate": "2024-07-19",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001635786/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f14/"
+        }
+      },
+      {
+        "id": "4960759149862",
+        "EANCode": "4960759149862",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 35mm f/1.8 S",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 370,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2018-09-28",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001083383/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f18_s/"
+        }
+      },
+      {
+        "id": "4960759904928",
+        "EANCode": "4960759904928",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 40mm f/2",
+        "mount": "Z",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 170,
+        "minFocusDistance": 0.29,
+        "releaseDate": "2021-10-01",
+        "note": "外装違いの NIKKOR Z 40mm f/2 (SE)(2023-01-20発売)あり",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001383586/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_40mm_f2/"
+        }
+      },
+      {
+        "id": "4960759903495",
+        "EANCode": "4960759903495",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 50mm f/1.2 S",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1090,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2020-12-11",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001290458/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f12_s/"
+        }
+      },
+      {
+        "id": "4960759915979",
+        "EANCode": "4960759915979",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 50mm f/1.4",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 420,
+        "minFocusDistance": 0.37,
+        "releaseDate": "2024-09-27",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001652518/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f14/"
+        }
+      },
+      {
+        "id": "4960759900067",
+        "EANCode": "4960759900067",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 50mm f/1.8 S",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 415,
+        "minFocusDistance": 0.4,
+        "releaseDate": "2018-12-07",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001083384/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f18_s/"
+        }
+      },
+      {
+        "id": "4960759905659",
+        "EANCode": "4960759905659",
+        "maker": "Nikon",
+        "name": "NIKKOR Z MC 50mm f/2.8",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 260,
+        "minFocusDistance": 0.16,
+        "maxMagnification": 1,
+        "releaseDate": "2021-06-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001359147/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_mc_50mm_f28/"
+        }
+      },
+      {
+        "id": "4960759900951",
+        "EANCode": "4960759900951",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 58mm f/0.95 S Noct",
+        "mount": "Z",
+        "focalLength": [
+          58
+        ],
+        "fStop": [
+          0.95
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 2000,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2019-10",
+        "note": "受注生産(2019-10-12受注開始)。マニュアルフォーカス専用",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001201593/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_58mm_f095_s_noct/"
+        }
+      },
+      {
+        "id": "4960759910318",
+        "EANCode": "4960759910318",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 85mm f/1.2 S",
+        "mount": "Z",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1160,
+        "minFocusDistance": 0.85,
+        "releaseDate": "2023-03-24",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001514529/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_85mm_f12_s/"
+        }
+      },
+      {
+        "id": "4960759902184",
+        "EANCode": "4960759902184",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 85mm f/1.8 S",
+        "mount": "Z",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 470,
+        "minFocusDistance": 0.8,
+        "releaseDate": "2019-09-05",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001178925/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_85mm_f18_s/"
+        }
+      },
+      {
+        "id": "4960759904850",
+        "EANCode": "4960759904850",
+        "maker": "Nikon",
+        "name": "NIKKOR Z MC 105mm f/2.8 VR S",
+        "mount": "Z",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 630,
+        "minFocusDistance": 0.29,
+        "maxMagnification": 1,
+        "releaseDate": "2021-06-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001359148/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_mc_105mm_f28_vr_s/"
+        }
+      },
+      {
+        "id": "4960759911957",
+        "EANCode": "4960759911957",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 135mm f/1.8 S Plena",
+        "mount": "Z",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 995,
+        "minFocusDistance": 0.82,
+        "releaseDate": "2023-10-13",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001572218/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_135mm_f18_s_plena/"
+        }
+      },
+      {
+        "id": "4960759906984",
+        "EANCode": "4960759906984",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 400mm f/2.8 TC VR S",
+        "mount": "Z",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 2950,
+        "minFocusDistance": 2.5,
+        "releaseDate": "2022-02-18",
+        "note": "1.4倍テレコンバーター内蔵(使用時560mm)。フィルターは46mm組み込み式",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001416825/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_400mm_f28_tc_vr_s/"
+        }
+      },
+      {
+        "id": "4960759909459",
+        "EANCode": "4960759909459",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 400mm f/4.5 VR S",
+        "mount": "Z",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1160,
+        "minFocusDistance": 2.5,
+        "releaseDate": "2022-07-15",
+        "note": "質量は三脚座なし(三脚座含む場合は約1245g)",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001454527/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_400mm_f45_vr_s/"
+        }
+      },
+      {
+        "id": "4960759911247",
+        "EANCode": "4960759911247",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 600mm f/4 TC VR S",
+        "mount": "Z",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 3260,
+        "minFocusDistance": 4.3,
+        "releaseDate": "2022-11-25",
+        "note": "1.4倍テレコンバーター内蔵(使用時840mm)。フィルターは46mm組み込み式",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001488833/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_600mm_f4_tc_vr_s/"
+        }
+      },
+      {
+        "id": "4960759911346",
+        "EANCode": "4960759911346",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 600mm f/6.3 VR S",
+        "mount": "Z",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1390,
+        "minFocusDistance": 4,
+        "releaseDate": "2023-10-27",
+        "note": "質量は三脚座なし(三脚座含む場合は約1470g)",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001576082/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_600mm_f63_vr_s/"
+        }
+      },
+      {
+        "id": "4960759909091",
+        "EANCode": "4960759909091",
+        "maker": "Nikon",
+        "name": "NIKKOR Z 800mm f/6.3 VR S",
+        "mount": "Z",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 2385,
+        "minFocusDistance": 5,
+        "releaseDate": "2022-04-22",
+        "note": "受注生産で販売開始。フィルターは46mm組み込み式",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001433498/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_800mm_f63_vr_s/"
+        }
+      },
+      {
+        "id": "4960759911001",
+        "EANCode": "4960759911001",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX 24mm f/1.7",
+        "mount": "Z",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 135,
+        "minFocusDistance": 0.18,
+        "releaseDate": "2023-06-23",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001543091/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_24mm_f17/"
+        }
+      },
+      {
+        "id": "4960759917416",
+        "EANCode": "4960759917416",
+        "maker": "Nikon",
+        "name": "NIKKOR Z DX MC 35mm f/1.7",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 220,
+        "minFocusDistance": 0.16,
+        "maxMagnification": 0.67,
+        "releaseDate": "2025-10-31",
+        "note": "最大撮影倍率0.67倍(35mm判換算で等倍相当)",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001715105/",
+          "official": "https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_mc_35mm_f17/"
+        }
+      }
+    ]
+  },
   "SIGMA": {
     "EF-S": [
       {
