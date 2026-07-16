@@ -2,10 +2,956 @@
   "Canon": {
     "EF": [
       {
+        "id": "4960999665030",
+        "EANCode": "4960999665030",
+        "maker": "Canon",
+        "name": "EF8-15mm F4L フィッシュアイ USM",
+        "mount": "EF",
+        "focalLength": [
+          8,
+          15
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "weight": 540,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2011-07-29",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef415.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000141297/"
+        }
+      },
+      {
+        "id": "4549292010169",
+        "EANCode": "4549292010169",
+        "maker": "Canon",
+        "name": "EF11-24mm F4L USM",
+        "mount": "EF",
+        "focalLength": [
+          11,
+          24
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "weight": 1180,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2015-02",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef438.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000741228/"
+        }
+      },
+      {
+        "id": "canon-ef-16-35mm-f2.8l-usm",
+        "maker": "Canon",
+        "name": "EF16-35mm F2.8L USM",
+        "mount": "EF",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 600,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2001-12",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef367.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010028/"
+        }
+      },
+      {
+        "id": "4960999416632",
+        "EANCode": "4960999416632",
+        "maker": "Canon",
+        "name": "EF16-35mm F2.8L II USM",
+        "mount": "EF",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 640,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2007-03",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef393.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011835/"
+        }
+      },
+      {
+        "id": "4549292037722",
+        "EANCode": "4549292037722",
+        "maker": "Canon",
+        "name": "EF16-35mm F2.8L III USM",
+        "mount": "EF",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 790,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2016-10",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef458.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000903379/"
+        }
+      },
+      {
+        "id": "4549292009903",
+        "EANCode": "4549292009903",
+        "maker": "Canon",
+        "name": "EF16-35mm F4L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 615,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2014-06",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef432.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000651904/"
+        }
+      },
+      {
+        "id": "4960999189949",
+        "EANCode": "4960999189949",
+        "maker": "Canon",
+        "name": "EF17-40mm F4L USM",
+        "mount": "EF",
+        "focalLength": [
+          17,
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 475,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2003-05",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef373.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010030/"
+        }
+      },
+      {
+        "id": "4960999114385",
+        "EANCode": "4960999114385",
+        "maker": "Canon",
+        "name": "EF24-70mm F2.8L USM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 950,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2002-11",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef372.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010033/"
+        }
+      },
+      {
+        "id": "4960999780719",
+        "EANCode": "4960999780719",
+        "maker": "Canon",
+        "name": "EF24-70mm F2.8L II USM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 805,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2012-09",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef424.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000339864/"
+        }
+      },
+      {
+        "id": "4960999845807",
+        "EANCode": "4960999845807",
+        "maker": "Canon",
+        "name": "EF24-70mm F4L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 600,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2012-12",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef425.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000436356/"
+        }
+      },
+      {
+        "id": "4960999272351",
+        "EANCode": "4960999272351",
+        "maker": "Canon",
+        "name": "EF24-105mm F4L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 670,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2005-10",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef387.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011452/"
+        }
+      },
+      {
+        "id": "4549292063615",
+        "EANCode": "4549292063615",
+        "maker": "Canon",
+        "name": "EF24-105mm F4L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 795,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2016-11-03",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef457.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000903378/"
+        }
+      },
+      {
+        "id": "canon-ef-24-105mm-f3.5-5.6-is-stm",
+        "maker": "Canon",
+        "name": "EF24-105mm F3.5-5.6 IS STM",
+        "mount": "EF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 525,
+        "minFocusDistance": 0.4,
+        "releaseDate": "2014-11-13",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef436.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000693675/"
+        }
+      },
+      {
+        "id": "canon-ef-28-90mm-f4-5.6-usm",
+        "maker": "Canon",
+        "name": "EF28-90mm F4-5.6 USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2000-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef359.html"
+      },
+      {
+        "id": "canon-ef-28-90mm-f4-5.6",
+        "note": "海外専用モデル",
+        "maker": "Canon",
+        "name": "EF28-90mm F4-5.6",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 180,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2000-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef358.html"
+      },
+      {
+        "id": "canon-ef-28-90mm-f4-5.6-ii-usm",
+        "note": "国内はEOS Kiss 5キット専売(単体販売なし)",
+        "maker": "Canon",
+        "name": "EF28-90mm F4-5.6 II USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2002-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef370.html"
+      },
+      {
+        "id": "canon-ef-28-90mm-f4-5.6-ii",
+        "note": "海外専用モデル",
+        "maker": "Canon",
+        "name": "EF28-90mm F4-5.6 II",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 180,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2003-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef374.html"
+      },
+      {
+        "id": "canon-ef-28-90mm-f4-5.6-iii",
+        "note": "国内キット専売・JANなし(Canon FAQ明記)",
+        "maker": "Canon",
+        "name": "EF28-90mm F4-5.6 III",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.38,
+        "releaseDate": "2004-09",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef382.html",
+        "urls": {
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/65702/"
+        }
+      },
+      {
+        "id": "4960999214382",
+        "EANCode": "4960999214382",
+        "maker": "Canon",
+        "name": "EF28-105mm F3.5-4.5 II USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          105
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 375,
+        "minFocusDistance": 0.5,
+        "releaseDate": "2000-10",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef362.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010039/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/65706/"
+        }
+      },
+      {
+        "id": "4960999114026",
+        "EANCode": "4960999114026",
+        "maker": "Canon",
+        "name": "EF28-105mm F4-5.6 USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          105
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 210,
+        "minFocusDistance": 0.48,
+        "releaseDate": "2002-09",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef369.html",
+        "urls": {
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/65707/"
+        }
+      },
+      {
+        "id": "canon-ef-28-105mm-f4-5.6",
+        "note": "海外専用モデル",
+        "maker": "Canon",
+        "name": "EF28-105mm F4-5.6",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          105
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 210,
+        "minFocusDistance": 0.48,
+        "releaseDate": "2002-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef368.html"
+      },
+      {
+        "id": "canon-ef-28-200mm-f3.5-5.6-usm",
+        "maker": "Canon",
+        "name": "EF28-200mm F3.5-5.6 USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 500,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2000-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef361.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010042/"
+        }
+      },
+      {
+        "id": "canon-ef-28-200mm-f3.5-5.6",
+        "note": "海外専用モデル",
+        "maker": "Canon",
+        "name": "EF28-200mm F3.5-5.6",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 495,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2000-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef360.html"
+      },
+      {
+        "id": "canon-ef-28-300mm-f3.5-5.6l-is-usm",
+        "maker": "Canon",
+        "name": "EF28-300mm F3.5-5.6L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          28,
+          300
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1670,
+        "minFocusDistance": 0.7,
+        "releaseDate": "2004-06",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef377.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010801/"
+        }
+      },
+      {
+        "id": "4960999196718",
+        "EANCode": "4960999196718",
+        "maker": "Canon",
+        "name": "EF55-200mm F4.5-5.6 II USM",
+        "mount": "EF",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 310,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2003-09",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef375.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010044/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/64054/"
+        }
+      },
+      {
+        "id": "4960999009926",
+        "EANCode": "4960999009926",
+        "maker": "Canon",
+        "name": "EF70-200mm F2.8L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1470,
+        "minFocusDistance": 1.4,
+        "releaseDate": "2001-09",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef365.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010046/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/61248/"
+        }
+      },
+      {
+        "id": "4960999575070",
+        "EANCode": "4960999575070",
+        "maker": "Canon",
+        "name": "EF70-200mm F2.8L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1490,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2010-03",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef406.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000079167/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/95753/"
+        }
+      },
+      {
+        "id": "4549292118513",
+        "EANCode": "4549292118513",
+        "maker": "Canon",
+        "name": "EF70-200mm F2.8L IS III USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1480,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2018-09-13",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef469.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001060743/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/94346/"
+        }
+      },
+      {
+        "id": "4960999354989",
+        "EANCode": "4960999354989",
+        "maker": "Canon",
+        "name": "EF70-200mm F4L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 760,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2006-11",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef391.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011809/"
+        }
+      },
+      {
+        "id": "4549292095135",
+        "EANCode": "4549292095135",
+        "maker": "Canon",
+        "name": "EF70-200mm F4L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 780,
+        "minFocusDistance": 1,
+        "releaseDate": "2018-06-28",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef467.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001060744/"
+        }
+      },
+      {
+        "id": "4960999295756",
+        "EANCode": "4960999295756",
+        "maker": "Canon",
+        "name": "EF70-300mm F4-5.6 IS USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 630,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2005-10",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef388.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011451/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/91426/"
+        }
+      },
+      {
         "id": "4549292037708",
         "EANCode": "4549292037708",
         "maker": "Canon",
         "name": "EF70-300mm F4-5.6 IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 710,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2016-12",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef459.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000910394/"
+        }
+      },
+      {
+        "id": "4960999207315",
+        "EANCode": "4960999207315",
+        "maker": "Canon",
+        "name": "EF70-300mm F4.5-5.6 DO IS USM",
         "mount": "EF",
         "focalLength": [
           70,
@@ -17,18 +963,1547 @@
         ],
         "format": "Full-Frame",
         "focus": [
-          "AF"
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 720,
+        "minFocusDistance": 1.4,
+        "releaseDate": "2004-06",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef378.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010802/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/91412/"
+        }
+      },
+      {
+        "id": "4960999665023",
+        "EANCode": "4960999665023",
+        "maker": "Canon",
+        "name": "EF70-300mm F4-5.6L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 1050,
+        "minFocusDistance": 1.2,
+        "releaseDate": "2010-11",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef407.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000141302/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/91413/"
+        }
+      },
+      {
+        "id": "canon-ef-90-300mm-f4.5-5.6-usm",
+        "maker": "Canon",
+        "name": "EF90-300mm F4.5-5.6 USM",
+        "mount": "EF",
+        "focalLength": [
+          90,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 420,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2002-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef371.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010051/"
+        }
+      },
+      {
+        "id": "canon-ef-90-300mm-f4.5-5.6",
+        "maker": "Canon",
+        "name": "EF90-300mm F4.5-5.6",
+        "mount": "EF",
+        "focalLength": [
+          90,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 420,
+        "minFocusDistance": 1.5,
+        "releaseDate": "2003-09",
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef376.html"
+      },
+      {
+        "id": "4549292010350",
+        "EANCode": "4549292010350",
+        "maker": "Canon",
+        "name": "EF100-400mm F4.5-5.6L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          100,
+          400
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1570,
+        "minFocusDistance": 0.98,
+        "releaseDate": "2014-12",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef437.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000713956/"
+        }
+      },
+      {
+        "id": "4960999780726",
+        "EANCode": "4960999780726",
+        "maker": "Canon",
+        "name": "EF200-400mm F4L IS USM エクステンダー 1.4×",
+        "mount": "EF",
+        "focalLength": [
+          200,
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3620,
+        "minFocusDistance": 2,
+        "releaseDate": "2013-05-30",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/ja/c-museum/product/ef428.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000510139/"
+        }
+      },
+      {
+        "id": "4960999450070",
+        "EANCode": "4960999450070",
+        "maker": "Canon",
+        "name": "EF14mm F2.8L II USM",
+        "mount": "EF",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "weight": 645,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2007-09",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011870/",
+          "canonFaq": "https://faq.canon.jp/app/answers/detail/a_id/38313/"
+        }
+      },
+      {
+        "id": "4960999635156",
+        "EANCode": "4960999635156",
+        "maker": "Canon",
+        "name": "TS-E17mm F4L",
+        "mount": "EF",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 820,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2009-06-12",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000020993/"
+        }
+      },
+      {
+        "id": "4960999575063",
+        "EANCode": "4960999575063",
+        "maker": "Canon",
+        "name": "EF24mm F1.4L II USM",
+        "mount": "EF",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 650,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2008-12-19",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501012025/"
+        }
+      },
+      {
+        "id": "4960999788067",
+        "EANCode": "4960999788067",
+        "maker": "Canon",
+        "name": "EF24mm F2.8 IS USM",
+        "mount": "EF",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 280,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2012-06",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000339865/"
+        }
+      },
+      {
+        "id": "4960999635163",
+        "EANCode": "4960999635163",
+        "maker": "Canon",
+        "name": "TS-E24mm F3.5L II",
+        "mount": "EF",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 780,
+        "minFocusDistance": 0.21,
+        "releaseDate": "2009-06-12",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000020994/"
+        }
+      },
+      {
+        "id": "4960999780740",
+        "EANCode": "4960999780740",
+        "maker": "Canon",
+        "name": "EF28mm F2.8 IS USM",
+        "mount": "EF",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 260,
+        "minFocusDistance": 0.23,
+        "releaseDate": "2012-06",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000339866/"
+        }
+      },
+      {
+        "id": "4549292010237",
+        "EANCode": "4549292010237",
+        "maker": "Canon",
+        "name": "EF35mm F1.4L II USM",
+        "mount": "EF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 760,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2015-09-17",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000807109/"
+        }
+      },
+      {
+        "id": "4960999780733",
+        "EANCode": "4960999780733",
+        "maker": "Canon",
+        "name": "EF35mm F2 IS USM",
+        "mount": "EF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
         ],
         "hasStabilizer": true,
         "hasDustMoistureResistance": false,
         "filterDiameter": 67,
-        "weight": 710,
+        "weight": 335,
+        "minFocusDistance": 0.24,
+        "releaseDate": "2012-12-07",
+        "discontinued": true,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000910394/"
+          "kakaku": "https://kakaku.com/item/K0000436357/"
+        }
+      },
+      {
+        "id": "4960999845715",
+        "EANCode": "4960999845715",
+        "maker": "Canon",
+        "name": "EF40mm F2.8 STM",
+        "mount": "EF",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 130,
+        "minFocusDistance": 0.3,
+        "releaseDate": "2012-06",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000388425/"
+        }
+      },
+      {
+        "id": "4960999354972",
+        "EANCode": "4960999354972",
+        "maker": "Canon",
+        "name": "EF50mm F1.2L USM",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 590,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2007-01",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011808/"
+        }
+      },
+      {
+        "id": "4960999212722",
+        "EANCode": "4960999212722",
+        "maker": "Canon",
+        "name": "EF50mm F1.8 II",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 130,
+        "minFocusDistance": 0.45,
+        "releaseDate": "1990-12",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010010/"
+        }
+      },
+      {
+        "id": "4549292037692",
+        "EANCode": "4549292037692",
+        "maker": "Canon",
+        "name": "EF50mm F1.8 STM",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 160,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2015-05-21",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000775509/"
+        }
+      },
+      {
+        "id": "4549292091984",
+        "EANCode": "4549292091984",
+        "maker": "Canon",
+        "name": "TS-E50mm F2.8L マクロ",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 945,
+        "minFocusDistance": 0.273,
+        "releaseDate": "2017-12-22",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000992218/"
+        }
+      },
+      {
+        "id": "4960999326429",
+        "EANCode": "4960999326429",
+        "maker": "Canon",
+        "name": "EF85mm F1.2L II USM",
+        "mount": "EF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 1025,
+        "minFocusDistance": 0.95,
+        "releaseDate": "2006-03",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011534/"
+        }
+      },
+      {
+        "id": "4549292091656",
+        "EANCode": "4549292091656",
+        "maker": "Canon",
+        "name": "EF85mm F1.4L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 950,
+        "minFocusDistance": 0.85,
+        "releaseDate": "2017-11",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000992217/"
+        }
+      },
+      {
+        "id": "4549292091991",
+        "EANCode": "4549292091991",
+        "maker": "Canon",
+        "name": "TS-E90mm F2.8L マクロ",
+        "mount": "EF",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 915,
+        "minFocusDistance": 0.39,
+        "releaseDate": "2017-12-22",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000992219/"
+        }
+      },
+      {
+        "id": "4960999214245",
+        "EANCode": "4960999214245",
+        "maker": "Canon",
+        "name": "EF100mm F2.8 マクロ USM",
+        "mount": "EF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 600,
+        "minFocusDistance": 0.31,
+        "releaseDate": "2000-03",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010058/"
+        }
+      },
+      {
+        "id": "4960999635170",
+        "EANCode": "4960999635170",
+        "maker": "Canon",
+        "name": "EF100mm F2.8L マクロ IS USM",
+        "mount": "EF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 625,
+        "minFocusDistance": 0.3,
+        "releaseDate": "2009-10",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000055485/"
+        }
+      },
+      {
+        "id": "4549292092004",
+        "EANCode": "4549292092004",
+        "maker": "Canon",
+        "name": "TS-E135mm F4L マクロ",
+        "mount": "EF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 1110,
+        "minFocusDistance": 0.486,
+        "releaseDate": "2017-12-22",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000992220/"
+        }
+      },
+      {
+        "id": "4960999483252",
+        "EANCode": "4960999483252",
+        "maker": "Canon",
+        "name": "EF200mm F2L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 2520,
+        "minFocusDistance": 1.9,
+        "releaseDate": "2008-04",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011921/"
+        }
+      },
+      {
+        "id": "4960999664842",
+        "EANCode": "4960999664842",
+        "maker": "Canon",
+        "name": "EF300mm F2.8L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 2350,
+        "minFocusDistance": 2,
+        "releaseDate": "2011-08-31",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000141298/"
+        }
+      },
+      {
+        "id": "canon-ef-400mm-f4-do-is-usm",
+        "maker": "Canon",
+        "name": "EF400mm F4 DO IS USM",
+        "mount": "EF",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 1940,
+        "minFocusDistance": 3.5,
+        "releaseDate": "2001-12",
+        "discontinued": true,
+        "officialUrl": "https://global.canon/en/c-museum/product/ef366.html",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501010021/"
+        }
+      },
+      {
+        "id": "4960999977270",
+        "EANCode": "4960999977270",
+        "maker": "Canon",
+        "name": "EF400mm F4 DO IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 2100,
+        "minFocusDistance": 3.3,
+        "releaseDate": "2014-11-28",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000693674/"
+        }
+      },
+      {
+        "id": "4960999664859",
+        "EANCode": "4960999664859",
+        "maker": "Canon",
+        "name": "EF400mm F2.8L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3850,
+        "minFocusDistance": 2.7,
+        "releaseDate": "2011-08-31",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000141299/"
+        }
+      },
+      {
+        "id": "4549292118520",
+        "EANCode": "4549292118520",
+        "maker": "Canon",
+        "name": "EF400mm F2.8L IS III USM",
+        "mount": "EF",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 2840,
+        "minFocusDistance": 2.5,
+        "releaseDate": "2018-12-20",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086551/"
+        }
+      },
+      {
+        "id": "4960999780672",
+        "EANCode": "4960999780672",
+        "maker": "Canon",
+        "name": "EF500mm F4L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3190,
+        "minFocusDistance": 3.7,
+        "releaseDate": "2012-05-31",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000226443/"
+        }
+      },
+      {
+        "id": "4960999780696",
+        "EANCode": "4960999780696",
+        "maker": "Canon",
+        "name": "EF600mm F4L IS II USM",
+        "mount": "EF",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3920,
+        "minFocusDistance": 4.5,
+        "releaseDate": "2012-05-31",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000226444/"
+        }
+      },
+      {
+        "id": "4549292136364",
+        "EANCode": "4549292136364",
+        "maker": "Canon",
+        "name": "EF600mm F4L IS III USM",
+        "mount": "EF",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3050,
+        "minFocusDistance": 4.2,
+        "releaseDate": "2018-12-20",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086552/"
+        }
+      },
+      {
+        "id": "4960999575025",
+        "EANCode": "4960999575025",
+        "maker": "Canon",
+        "name": "EF800mm F5.6L IS USM",
+        "mount": "EF",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 4500,
+        "minFocusDistance": 6,
+        "releaseDate": "2008-05",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011922/"
+        }
+      }
+    ],
+    "EF-M": [
+      {
+        "id": "4960999841120",
+        "EANCode": "4960999841120",
+        "maker": "Canon",
+        "name": "EF-M22mm F2 STM",
+        "mount": "EF-M",
+        "focalLength": [
+          22
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 105,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2012-09-29",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000401906/",
+          "official": "https://global.canon/ja/c-museum/product/ef423.html"
+        }
+      },
+      {
+        "id": "4960999819631",
+        "EANCode": "4960999819631",
+        "maker": "Canon",
+        "name": "EF-M18-55mm F3.5-5.6 IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 210,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2012-09-29",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000401905/",
+          "official": "https://global.canon/ja/c-museum/product/ef422.html"
+        }
+      },
+      {
+        "id": "4960999921624",
+        "EANCode": "4960999921624",
+        "maker": "Canon",
+        "name": "EF-M11-22mm F4-5.6 IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          11,
+          22
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 220,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2013-07-11",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000517953/",
+          "official": "https://global.canon/ja/c-museum/product/ef429.html"
+        }
+      },
+      {
+        "id": "4549292009873",
+        "EANCode": "4549292009873",
+        "maker": "Canon",
+        "name": "EF-M55-200mm F4.5-6.3 IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 260,
+        "minFocusDistance": 1,
+        "releaseDate": "2014-07-10",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000665676/",
+          "official": "https://global.canon/ja/c-museum/product/ef433.html"
+        }
+      },
+      {
+        "id": "4549292037715",
+        "EANCode": "4549292037715",
+        "maker": "Canon",
+        "name": "EF-M15-45mm F3.5-6.3 IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          15,
+          45
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 130,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2015-10",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000819935/",
+          "official": "https://global.canon/ja/c-museum/product/ef453.html"
+        }
+      },
+      {
+        "id": "4549292063127",
+        "EANCode": "4549292063127",
+        "maker": "Canon",
+        "name": "EF-M28mm F3.5 マクロ IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 130,
+        "minFocusDistance": 0.093,
+        "releaseDate": "2016-06-30",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000876231/",
+          "official": "https://global.canon/ja/c-museum/product/ef456.html"
+        }
+      },
+      {
+        "id": "4549292063455",
+        "EANCode": "4549292063455",
+        "maker": "Canon",
+        "name": "EF-M18-150mm F3.5-6.3 IS STM",
+        "mount": "EF-M",
+        "focalLength": [
+          18,
+          150
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 300,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2016-11",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000910395/",
+          "official": "https://global.canon/ja/c-museum/product/ef462.html"
+        }
+      },
+      {
+        "id": "4549292102413",
+        "EANCode": "4549292102413",
+        "maker": "Canon",
+        "name": "EF-M32mm F1.4 STM",
+        "mount": "EF-M",
+        "focalLength": [
+          32
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 235,
+        "minFocusDistance": 0.23,
+        "releaseDate": "2018-09-21",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086550/",
+          "official": "https://global.canon/ja/c-museum/product/ef470.html"
         }
       }
     ],
     "EF-S": [
+      {
+        "id": "4549292010152",
+        "EANCode": "4549292010152",
+        "maker": "Canon",
+        "name": "EF-S10-18mm F4.5-5.6 IS STM",
+        "mount": "EF-S",
+        "focalLength": [
+          10,
+          18
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 240,
+        "minFocusDistance": 0.22,
+        "releaseDate": "2014-05-29",
+        "discontinued": false,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000651905/"
+        }
+      },
+      {
+        "id": "4960999240176",
+        "EANCode": "4960999240176",
+        "maker": "Canon",
+        "name": "EF-S10-22mm F3.5-4.5 USM",
+        "mount": "EF-S",
+        "focalLength": [
+          10,
+          22
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 385,
+        "minFocusDistance": 0.24,
+        "releaseDate": "2004-11-13",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011326/"
+        }
+      },
+      {
+        "id": "4960999635262",
+        "EANCode": "4960999635262",
+        "maker": "Canon",
+        "name": "EF-S15-85mm F3.5-5.6 IS USM",
+        "mount": "EF-S",
+        "focalLength": [
+          15,
+          85
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 575,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2009-10",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000055483/"
+        }
+      },
+      {
+        "id": "4960999354798",
+        "EANCode": "4960999354798",
+        "maker": "Canon",
+        "name": "EF-S17-55mm F2.8 IS USM",
+        "mount": "EF-S",
+        "focalLength": [
+          17,
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 645,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2006-05-26",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011533/"
+        }
+      },
+      {
+        "id": "4960999240169",
+        "EANCode": "4960999240169",
+        "maker": "Canon",
+        "name": "EF-S17-85mm F4-5.6 IS USM",
+        "mount": "EF-S",
+        "focalLength": [
+          17,
+          85
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 475,
+        "minFocusDistance": 0.35,
+        "releaseDate": "2004-09",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011325/"
+        }
+      },
+      {
+        "id": "canon-efs-18-55mm-f3.5-5.6-usm",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 USM",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2003-09",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011327/",
+          "official": "https://global.canon/ja/c-museum/product/ef381.html"
+        }
+      },
+      {
+        "id": "4960999277851",
+        "EANCode": "4960999277851",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 II USM",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2005-03",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011377/",
+          "official": "https://global.canon/ja/c-museum/product/ef385.html"
+        }
+      },
+      {
+        "id": "4960999419930",
+        "EANCode": "4960999419930",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 IS",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 200,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2007-09",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011868/",
+          "official": "https://global.canon/ja/c-museum/product/ef394.html"
+        }
+      },
+      {
+        "id": "canon-efs-18-55mm-f3.5-5.6-iii",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 III",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 190,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2011-03",
+        "discontinued": true,
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/ef410.html"
+        }
+      },
+      {
+        "id": "4960999689500",
+        "EANCode": "4960999689500",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 IS II",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 200,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2011-03-03",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000226445/",
+          "official": "https://global.canon/ja/c-museum/product/ef411.html"
+        }
+      },
+      {
+        "id": "4960999970295",
+        "EANCode": "4960999970295",
+        "maker": "Canon",
+        "name": "EF-S18-55mm F3.5-5.6 IS STM",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 205,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2013-04",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000484111/",
+          "official": "https://global.canon/ja/c-museum/product/ef427.html"
+        }
+      },
       {
         "id": "4549292075199",
         "EANCode": "4549292075199",
@@ -52,22 +2527,26 @@
         "hasDustMoistureResistance": false,
         "filterDiameter": 58,
         "weight": 215,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2017-04",
+        "discontinued": true,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000944216/"
+          "kakaku": "https://kakaku.com/item/K0000944216/",
+          "official": "https://global.canon/ja/c-museum/product/ef499.html"
         }
       },
       {
-        "id": "4960999689524",
-        "EANCode": "4960999689524",
+        "id": "4960999635255",
+        "EANCode": "4960999635255",
         "maker": "Canon",
-        "name": "EF-S55-250mm F4-5.6 IS II",
+        "name": "EF-S18-135mm F3.5-5.6 IS",
         "mount": "EF-S",
         "focalLength": [
-          55,
-          250
+          18,
+          135
         ],
         "fStop": [
-          4,
+          3.5,
           5.6
         ],
         "format": "APS-C",
@@ -77,10 +2556,45 @@
         ],
         "hasStabilizer": true,
         "hasDustMoistureResistance": false,
-        "filterDiameter": 58,
-        "weight": 390,
+        "filterDiameter": 67,
+        "weight": 455,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2009-10",
+        "discontinued": true,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000271169/"
+          "kakaku": "https://kakaku.com/item/K0000055484/",
+          "official": "https://global.canon/ja/c-museum/product/ef404.html"
+        }
+      },
+      {
+        "id": "4960999841113",
+        "EANCode": "4960999841113",
+        "maker": "Canon",
+        "name": "EF-S18-135mm F3.5-5.6 IS STM",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          135
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 480,
+        "minFocusDistance": 0.39,
+        "releaseDate": "2012-06",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000388424/",
+          "official": "https://global.canon/ja/c-museum/product/ef418.html"
         }
       },
       {
@@ -106,12 +2620,280 @@
         "hasDustMoistureResistance": false,
         "filterDiameter": 67,
         "weight": 515,
+        "minFocusDistance": 0.39,
+        "releaseDate": "2016-03",
+        "discontinued": true,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000856832/"
+          "kakaku": "https://kakaku.com/item/K0000856832/",
+          "official": "https://global.canon/ja/c-museum/product/ef454.html"
+        }
+      },
+      {
+        "id": "4960999575056",
+        "EANCode": "4960999575056",
+        "maker": "Canon",
+        "name": "EF-S18-200mm F3.5-5.6 IS",
+        "mount": "EF-S",
+        "focalLength": [
+          18,
+          200
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 595,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2008-09-27",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501012018/",
+          "official": "https://global.canon/ja/c-museum/product/ef399.html"
+        }
+      },
+      {
+        "id": "4549292010220",
+        "EANCode": "4549292010220",
+        "maker": "Canon",
+        "name": "EF-S24mm F2.8 STM",
+        "mount": "EF-S",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 125,
+        "minFocusDistance": 0.16,
+        "releaseDate": "2014-11-13",
+        "discontinued": false,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000693676/"
+        }
+      },
+      {
+        "id": "4549292090130",
+        "EANCode": "4549292090130",
+        "maker": "Canon",
+        "name": "EF-S35mm F2.8 マクロ IS STM",
+        "mount": "EF-S",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 190,
+        "minFocusDistance": 0.13,
+        "releaseDate": "2017-06-29",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000957476/"
+        }
+      },
+      {
+        "id": "4960999271200",
+        "EANCode": "4960999271200",
+        "maker": "Canon",
+        "name": "EF-S60mm F2.8 マクロ USM",
+        "mount": "EF-S",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 335,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2005-03-17",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011376/"
+        }
+      },
+      {
+        "id": "4960999450018",
+        "EANCode": "4960999450018",
+        "maker": "Canon",
+        "name": "EF-S55-250mm F4-5.6 IS",
+        "mount": "EF-S",
+        "focalLength": [
+          55,
+          250
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 390,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2007-11",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/10501011869/",
+          "official": "https://global.canon/ja/c-museum/product/ef396.html"
+        }
+      },
+      {
+        "id": "4960999689524",
+        "EANCode": "4960999689524",
+        "maker": "Canon",
+        "name": "EF-S55-250mm F4-5.6 IS II",
+        "mount": "EF-S",
+        "focalLength": [
+          55,
+          250
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 390,
+        "minFocusDistance": 1.1,
+        "releaseDate": "2011-07",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000271169/",
+          "official": "https://global.canon/ja/c-museum/product/ef414.html"
+        }
+      },
+      {
+        "id": "4960999979373",
+        "EANCode": "4960999979373",
+        "maker": "Canon",
+        "name": "EF-S55-250mm F4-5.6 IS STM",
+        "mount": "EF-S",
+        "focalLength": [
+          55,
+          250
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 375,
+        "minFocusDistance": 0.85,
+        "releaseDate": "2013-09",
+        "discontinued": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000566027/",
+          "official": "https://global.canon/ja/c-museum/product/ef430.html"
         }
       }
     ],
     "RF": [
+      {
+        "id": "4549292115796",
+        "EANCode": "4549292115796",
+        "maker": "Canon",
+        "name": "RF24-105mm F4 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 700,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2018-10-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086555/"
+        }
+      },
+      {
+        "id": "4549292115611",
+        "EANCode": "4549292115611",
+        "maker": "Canon",
+        "name": "RF28-70mm F2 L USM",
+        "mount": "RF",
+        "focalLength": [
+          28,
+          70
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1430,
+        "minFocusDistance": 0.39,
+        "releaseDate": "2018-12-13",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086556/"
+        }
+      },
       {
         "id": "4549292152272",
         "EANCode": "4549292152272",
@@ -127,12 +2909,14 @@
         ],
         "format": "Full-Frame",
         "focus": [
-          "AF"
+          "AF",
+          "MF"
         ],
         "hasStabilizer": true,
         "hasDustMoistureResistance": true,
         "filterDiameter": 82,
         "weight": 840,
+        "minFocusDistance": 0.28,
         "releaseDate": "2019-09-27",
         "urls": {
           "kakaku": "https://kakaku.com/item/K0001185356/"
@@ -153,12 +2937,14 @@
         ],
         "format": "Full-Frame",
         "focus": [
-          "AF"
+          "AF",
+          "MF"
         ],
         "hasStabilizer": true,
         "hasDustMoistureResistance": true,
         "filterDiameter": 82,
         "weight": 900,
+        "minFocusDistance": 0.21,
         "releaseDate": "2019-09-27",
         "officialUrl": "https://global.canon/en/c-museum/product/rf485.html",
         "urls": {
@@ -181,12 +2967,14 @@
         ],
         "format": "Full-Frame",
         "focus": [
-          "AF"
+          "AF",
+          "MF"
         ],
         "hasStabilizer": true,
         "hasDustMoistureResistance": true,
         "filterDiameter": 77,
         "weight": 1070,
+        "minFocusDistance": 0.7,
         "releaseDate": "2019-11-21",
         "officialUrl": "https://global.canon/en/c-museum/product/rf486.html",
         "urls": {
@@ -194,13 +2982,100 @@
         }
       },
       {
-        "id": "4549292219487",
-        "EANCode": "4549292219487",
+        "id": "4549292153682",
+        "EANCode": "4549292153682",
         "maker": "Canon",
-        "name": "RF28mm F2.8 STM",
+        "name": "RF100-500mm F4.5-7.1 L IS USM",
         "mount": "RF",
         "focalLength": [
-          28
+          100,
+          500
+        ],
+        "fStop": [
+          4.5,
+          7.1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1365,
+        "minFocusDistance": 0.9,
+        "releaseDate": "2020-09-24",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001272156/"
+        }
+      },
+      {
+        "id": "4549292172966",
+        "EANCode": "4549292172966",
+        "maker": "Canon",
+        "name": "RF70-200mm F4 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 695,
+        "minFocusDistance": 0.6,
+        "releaseDate": "2021-03-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001301755/"
+        }
+      },
+      {
+        "id": "4549292186758",
+        "EANCode": "4549292186758",
+        "maker": "Canon",
+        "name": "RF14-35mm F4 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          14,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 540,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2021-09",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001365534/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf14-35-f4l"
+        }
+      },
+      {
+        "id": "4549292216165",
+        "EANCode": "4549292216165",
+        "maker": "Canon",
+        "name": "RF100-300mm F2.8 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          100,
+          300
         ],
         "fStop": [
           2.8
@@ -210,15 +3085,803 @@
           "AF",
           "MF"
         ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 112,
+        "weight": 2590,
+        "minFocusDistance": 1.8,
+        "releaseDate": "2023-05-26",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001530716/",
+          "official": "https://corporate.jp.canon/newsrelease/2023/pr-rf100-300-f28"
+        }
+      },
+      {
+        "id": "4549292220582",
+        "EANCode": "4549292220582",
+        "maker": "Canon",
+        "name": "RF10-20mm F4 L IS STM",
+        "mount": "RF",
+        "focalLength": [
+          10,
+          20
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "weight": 570,
+        "minFocusDistance": 0.25,
+        "releaseDate": "2023-10-27",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001576083/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf10-20-f4l"
+        }
+      },
+      {
+        "id": "4549292223156",
+        "EANCode": "4549292223156",
+        "maker": "Canon",
+        "name": "RF24-105mm F2.8 L IS USM Z",
+        "mount": "RF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1330,
+        "minFocusDistance": 0.45,
+        "releaseDate": "2023-12-08",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001581281/",
+          "official": "https://corporate.jp.canon/newsrelease/2023/pr-1102"
+        }
+      },
+      {
+        "id": "4549292240603",
+        "EANCode": "4549292240603",
+        "maker": "Canon",
+        "name": "RF70-200mm F2.8 L IS USM Z",
+        "mount": "RF",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1110,
+        "minFocusDistance": 0.49,
+        "releaseDate": "2024-11-29",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001660996/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf70-200-f28lz"
+        }
+      },
+      {
+        "id": "4549292252385",
+        "EANCode": "4549292252385",
+        "maker": "Canon",
+        "name": "RF7-14mm F2.8-3.5 L FISHEYE STM",
+        "mount": "RF",
+        "focalLength": [
+          7,
+          14
+        ],
+        "fStop": [
+          2.8,
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "weight": 476,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2026-02-20",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001768013/",
+          "official": "https://corporate.jp.canon/newsrelease/2026/pr-0205c"
+        }
+      },
+      {
+        "id": "4549292251227",
+        "EANCode": "4549292251227",
+        "maker": "Canon",
+        "name": "RF20-50mm F4 L IS USM PZ",
+        "mount": "RF",
+        "focalLength": [
+          20,
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 420,
+        "minFocusDistance": 0.24,
+        "releaseDate": "2026-06",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001784964/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf20-50-f4lpz"
+        }
+      },
+      {
+        "id": "4549292115581",
+        "EANCode": "4549292115581",
+        "maker": "Canon",
+        "name": "RF50mm F1.2 L USM",
+        "mount": "RF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 950,
+        "minFocusDistance": 0.4,
+        "releaseDate": "2018-10-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086554/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf50-f12l"
+        }
+      },
+      {
+        "id": "4549292146691",
+        "EANCode": "4549292146691",
+        "maker": "Canon",
+        "name": "RF85mm F1.2 L USM",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1195,
+        "minFocusDistance": 0.85,
+        "releaseDate": "2019-06-20",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001154121/"
+        }
+      },
+      {
+        "id": "4549292159608",
+        "EANCode": "4549292159608",
+        "maker": "Canon",
+        "name": "RF85mm F1.2 L USM DS",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1195,
+        "minFocusDistance": 0.85,
+        "releaseDate": "2019-12-19",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001205004/"
+        }
+      },
+      {
+        "id": "4549292168075",
+        "EANCode": "4549292168075",
+        "maker": "Canon",
+        "name": "RF100mm F2.8 L MACRO IS USM",
+        "mount": "RF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 730,
+        "minFocusDistance": 0.26,
+        "releaseDate": "2021-07-15",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001348490/"
+        }
+      },
+      {
+        "id": "4549292184440",
+        "EANCode": "4549292184440",
+        "maker": "Canon",
+        "name": "RF400mm F2.8 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 2890,
+        "minFocusDistance": 2.5,
+        "releaseDate": "2021-07-15",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001348488/"
+        }
+      },
+      {
+        "id": "4549292184457",
+        "EANCode": "4549292184457",
+        "maker": "Canon",
+        "name": "RF600mm F4 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3090,
+        "minFocusDistance": 4.2,
+        "releaseDate": "2021-07-15",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001348489/"
+        }
+      },
+      {
+        "id": "4549292195675",
+        "EANCode": "4549292195675",
+        "maker": "Canon",
+        "name": "RF5.2mm F2.8 L DUAL FISHEYE",
+        "mount": "RF",
+        "focalLength": [
+          5.2
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
         "hasStabilizer": false,
         "hasDustMoistureResistance": false,
-        "filterDiameter": 55,
-        "minFocusDistance": 0.23,
-        "weight": 120,
+        "weight": 350,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2021-12-24",
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001539493/"
+          "kakaku": "https://kakaku.com/item/K0001389649/"
+        }
+      },
+      {
+        "id": "4549292184464",
+        "EANCode": "4549292184464",
+        "maker": "Canon",
+        "name": "RF800mm F5.6 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3140,
+        "minFocusDistance": 2.6,
+        "releaseDate": "2022-05-26",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001423536/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf800-f56l"
+        }
+      },
+      {
+        "id": "4549292184471",
+        "EANCode": "4549292184471",
+        "maker": "Canon",
+        "name": "RF1200mm F8 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          1200
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "weight": 3340,
+        "minFocusDistance": 4.3,
+        "releaseDate": "2022-05-26",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001423537/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf1200-f8l"
+        }
+      },
+      {
+        "id": "4549292207385",
+        "EANCode": "4549292207385",
+        "maker": "Canon",
+        "name": "RF135mm F1.8 L IS USM",
+        "mount": "RF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 935,
+        "minFocusDistance": 0.7,
+        "releaseDate": "2023-01-26",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001488832/"
+        }
+      },
+      {
+        "id": "4549292235012",
+        "EANCode": "4549292235012",
+        "maker": "Canon",
+        "name": "RF35mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 555,
+        "minFocusDistance": 0.28,
+        "releaseDate": "2024-07-12",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001630403/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf35-f14lv"
+        }
+      },
+      {
+        "id": "4549292241730",
+        "EANCode": "4549292241730",
+        "maker": "Canon",
+        "name": "RF24mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 515,
+        "minFocusDistance": 0.24,
+        "releaseDate": "2024-12-20",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001660998/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf24-f14lv"
+        }
+      },
+      {
+        "id": "4549292241747",
+        "EANCode": "4549292241747",
+        "maker": "Canon",
+        "name": "RF50mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 580,
+        "minFocusDistance": 0.4,
+        "releaseDate": "2024-12-20",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001660999/"
+        }
+      },
+      {
+        "id": "4549292244960",
+        "EANCode": "4549292244960",
+        "maker": "Canon",
+        "name": "RF20mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 519,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2025-04-25",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001682858/",
+          "official": "https://corporate.jp.canon/newsrelease/2025/pr-0327b"
+        }
+      },
+      {
+        "id": "4549292249484",
+        "EANCode": "4549292249484",
+        "maker": "Canon",
+        "name": "RF85mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 636,
+        "minFocusDistance": 0.75,
+        "releaseDate": "2025-09-27",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001709589/",
+          "official": "https://corporate.jp.canon/newsrelease/2025/pr-0910c"
+        }
+      },
+      {
+        "id": "4549292254068",
+        "EANCode": "4549292254068",
+        "maker": "Canon",
+        "name": "RF14mm F1.4 L VCM",
+        "mount": "RF",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "weight": 578,
+        "minFocusDistance": 0.24,
+        "releaseDate": "2026-02-20",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001768014/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf14-f14lv"
+        }
+      },
+      {
+        "id": "4549292115727",
+        "EANCode": "4549292115727",
+        "maker": "Canon",
+        "name": "RF35mm F1.8 MACRO IS STM",
+        "mount": "RF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.17,
+        "weight": 305,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 74.4,
+        "length": 62.8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001086556/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf35-f18"
         },
-        "releaseDate": "2023-07-07"
+        "releaseDate": "2018-11-15"
+      },
+      {
+        "id": "4549292151411",
+        "EANCode": "4549292151411",
+        "maker": "Canon",
+        "name": "RF24-240mm F4-6.3 IS USM",
+        "mount": "RF",
+        "focalLength": [
+          24,
+          240
+        ],
+        "fStop": [
+          4,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.5,
+        "weight": 750,
+        "maxMagnification": 0.26,
+        "bladesCount": 7,
+        "elements": 21,
+        "groups": 15,
+        "diameter": 80.4,
+        "length": 122.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001172969/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf24-240-f4-63"
+        },
+        "releaseDate": "2019-08-29"
+      },
+      {
+        "id": "4549292167498",
+        "EANCode": "4549292167498",
+        "maker": "Canon",
+        "name": "RF24-105mm F4-7.1 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4,
+          7.1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.2,
+        "weight": 395,
+        "maxMagnification": 0.4,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 76.6,
+        "length": 88.8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001232561/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf24-105-f4-71"
+        },
+        "releaseDate": "2020-04-09"
+      },
+      {
+        "id": "4549292162042",
+        "EANCode": "4549292162042",
+        "maker": "Canon",
+        "name": "RF600mm F11 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          11
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 4.5,
+        "weight": 930,
+        "maxMagnification": 0.14,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 93,
+        "length": 269.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001272157/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf600-f11"
+        },
+        "releaseDate": "2020-07-30"
+      },
+      {
+        "id": "4549292162059",
+        "EANCode": "4549292162059",
+        "maker": "Canon",
+        "name": "RF800mm F11 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          11
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 6,
+        "weight": 1260,
+        "maxMagnification": 0.14,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 101.6,
+        "length": 351.8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001272156/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf800-f11"
+        },
+        "releaseDate": "2020-07-30"
+      },
+      {
+        "id": "4549292168068",
+        "EANCode": "4549292168068",
+        "maker": "Canon",
+        "name": "RF85mm F2 MACRO IS STM",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.35,
+        "weight": 500,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 78,
+        "length": 90.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001272158/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf85-f2"
+        },
+        "releaseDate": "2020-10-22"
       },
       {
         "id": "4549292181623",
@@ -240,39 +3903,52 @@
         "hasStabilizer": false,
         "hasDustMoistureResistance": false,
         "filterDiameter": 43,
+        "minFocusDistance": 0.3,
         "weight": 160,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 69.2,
+        "length": 40.5,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001309216/"
+          "kakaku": "https://kakaku.com/item/K0001309216/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf50-f18"
         },
         "releaseDate": "2020-12-24"
       },
       {
-        "id": "4549292207446",
-        "EANCode": "4549292207446",
+        "id": "4549292186772",
+        "EANCode": "4549292186772",
         "maker": "Canon",
-        "name": "RF24-50mm F4.5-6.3 IS STM",
+        "name": "RF16mm F2.8 STM",
         "mount": "RF",
         "focalLength": [
-          24,
-          50
+          16
         ],
         "fStop": [
-          4.5,
-          6.3
+          2.8
         ],
         "format": "Full-Frame",
         "focus": [
           "AF",
           "MF"
         ],
-        "hasStabilizer": true,
+        "hasStabilizer": false,
         "hasDustMoistureResistance": false,
-        "filterDiameter": 58,
-        "weight": 210,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.13,
+        "weight": 165,
+        "maxMagnification": 0.26,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 69.2,
+        "length": 40.2,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001514881/"
+          "kakaku": "https://kakaku.com/item/K0001383774/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf16-f28"
         },
-        "releaseDate": "2023-04-14"
+        "releaseDate": "2021-10-28"
       },
       {
         "id": "4549292186765",
@@ -296,11 +3972,540 @@
         "hasStabilizer": true,
         "hasDustMoistureResistance": false,
         "filterDiameter": 67,
+        "minFocusDistance": 0.88,
         "weight": 635,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 79.5,
+        "length": 164.7,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001383775/"
+          "kakaku": "https://kakaku.com/item/K0001383775/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf100-400-f56-8"
         },
         "releaseDate": "2021-10-28"
+      },
+      {
+        "id": "4549292207347",
+        "EANCode": "4549292207347",
+        "maker": "Canon",
+        "name": "RF15-30mm F4.5-6.3 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          15,
+          30
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.28,
+        "weight": 390,
+        "maxMagnification": 0.16,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 76.6,
+        "length": 88.4,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001457517/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf15-30-f45-63"
+        },
+        "releaseDate": "2022-08-26"
+      },
+      {
+        "id": "4549292207309",
+        "EANCode": "4549292207309",
+        "maker": "Canon",
+        "name": "RF24mm F1.8 MACRO IS STM",
+        "mount": "RF",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.14,
+        "weight": 270,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 74.4,
+        "length": 63.1,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001457500/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf24-f18"
+        },
+        "releaseDate": "2022-08-26"
+      },
+      {
+        "id": "4549292207446",
+        "EANCode": "4549292207446",
+        "maker": "Canon",
+        "name": "RF24-50mm F4.5-6.3 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          24,
+          50
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 210,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 69.6,
+        "length": 58,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001514881/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf24-50-f45-63"
+        },
+        "releaseDate": "2023-04-14"
+      },
+      {
+        "id": "4549292219487",
+        "EANCode": "4549292219487",
+        "maker": "Canon",
+        "name": "RF28mm F2.8 STM",
+        "mount": "RF",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.23,
+        "weight": 120,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 69.2,
+        "length": 24.7,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001539493/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf28-f28"
+        },
+        "releaseDate": "2023-07-07"
+      },
+      {
+        "id": "4549292222050",
+        "EANCode": "4549292222050",
+        "maker": "Canon",
+        "name": "RF200-800mm F6.3-9 IS USM",
+        "mount": "RF",
+        "focalLength": [
+          200,
+          800
+        ],
+        "fStop": [
+          6.3,
+          9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.8,
+        "weight": 2050,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 11,
+        "diameter": 102.3,
+        "length": 314.1,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001581280/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf200-800-f63-9"
+        },
+        "releaseDate": "2023-12-08"
+      },
+      {
+        "id": "4549292229134",
+        "EANCode": "4549292229134",
+        "maker": "Canon",
+        "name": "RF28-70mm F2.8 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          28,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.27,
+        "weight": 495,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 76.5,
+        "length": 92.2,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001653219/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf28-70-f28"
+        },
+        "releaseDate": "2024-09-27"
+      },
+      {
+        "id": "4549292241716",
+        "EANCode": "4549292241716",
+        "maker": "Canon",
+        "name": "RF16-28mm F2.8 IS STM",
+        "mount": "RF",
+        "focalLength": [
+          16,
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.2,
+        "weight": 445,
+        "maxMagnification": 0.26,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 76.5,
+        "length": 91,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001672793/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf16-28-f28"
+        },
+        "releaseDate": "2025-02-21"
+      },
+      {
+        "id": "4549292247756",
+        "EANCode": "4549292247756",
+        "maker": "Canon",
+        "name": "RF75-300mm F4-5.6",
+        "mount": "RF",
+        "focalLength": [
+          75,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 507,
+        "maxMagnification": 0.25,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 9,
+        "diameter": 71.2,
+        "length": 146.1,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001688039/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf75-300-f4-56"
+        },
+        "releaseDate": "2025-05-30"
+      },
+      {
+        "id": "4549292248982",
+        "EANCode": "4549292248982",
+        "maker": "Canon",
+        "name": "RF45mm F1.2 STM",
+        "mount": "RF",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.45,
+        "weight": 346,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 78,
+        "length": 75,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001718494/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf45-f12"
+        },
+        "releaseDate": "2025-11-28"
+      }
+    ],
+    "RF-S": [
+      {
+        "id": "4549292188325",
+        "EANCode": "4549292188325",
+        "maker": "Canon",
+        "name": "RF-S18-45mm F4.5-6.3 IS STM",
+        "mount": "RF-S",
+        "focalLength": [
+          18,
+          45
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 130,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2022-06-23",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001445167/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s18-45-f45-63"
+        }
+      },
+      {
+        "id": "4549292195798",
+        "EANCode": "4549292195798",
+        "maker": "Canon",
+        "name": "RF-S18-150mm F3.5-6.3 IS STM",
+        "mount": "RF-S",
+        "focalLength": [
+          18,
+          150
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 310,
+        "minFocusDistance": 0.17,
+        "releaseDate": "2022-06-23",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001445168/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s18-150-f35-63"
+        }
+      },
+      {
+        "id": "4549292207729",
+        "EANCode": "4549292207729",
+        "maker": "Canon",
+        "name": "RF-S55-210mm F5-7.1 IS STM",
+        "mount": "RF-S",
+        "focalLength": [
+          55,
+          210
+        ],
+        "fStop": [
+          5,
+          7.1
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 270,
+        "minFocusDistance": 0.73,
+        "releaseDate": "2023-03-17",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001514880/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s55-210-f5-71"
+        }
+      },
+      {
+        "id": "4549292222012",
+        "EANCode": "4549292222012",
+        "maker": "Canon",
+        "name": "RF-S10-18mm F4.5-6.3 IS STM",
+        "mount": "RF-S",
+        "focalLength": [
+          10,
+          18
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 150,
+        "minFocusDistance": 0.14,
+        "releaseDate": "2023-12-08",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001581279/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s10-18-f45-63"
+        }
+      },
+      {
+        "id": "4549292230185",
+        "EANCode": "4549292230185",
+        "maker": "Canon",
+        "name": "RF-S3.9mm F3.5 STM DUAL FISHEYE",
+        "mount": "RF-S",
+        "focalLength": [
+          3.9
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 30.5,
+        "weight": 290,
+        "minFocusDistance": 0.2,
+        "releaseDate": "2024-06-28",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001630970/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s39-f35-dfe"
+        }
+      },
+      {
+        "id": "4549292237610",
+        "EANCode": "4549292237610",
+        "maker": "Canon",
+        "name": "RF-S7.8mm F4 STM DUAL",
+        "mount": "RF-S",
+        "focalLength": [
+          7.8
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 131,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2024-11-15",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001661000/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s78-f4d"
+        }
+      },
+      {
+        "id": "4549292241815",
+        "EANCode": "4549292241815",
+        "maker": "Canon",
+        "name": "RF-S14-30mm F4-6.3 IS STM PZ",
+        "mount": "RF-S",
+        "focalLength": [
+          14,
+          30
+        ],
+        "fStop": [
+          4,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 181,
+        "minFocusDistance": 0.15,
+        "releaseDate": "2025-07-11",
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001682859/",
+          "official": "https://personal.canon.jp/product/camera/rf/rf-s14-30-f4-63pz"
+        }
       }
     ]
   },

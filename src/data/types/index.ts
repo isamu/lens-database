@@ -95,6 +95,8 @@ export type LensData = {
   // Accessories
   hoodModel?: string; // Lens hood model number
   caseModel?: string; // Lens case model number
+
+  note?: string; // Free-form remark (e.g. overseas-only model, kit-only)
 };
 
 export type MakerMountDataObject = {
