@@ -4510,6 +4510,576 @@
     ]
   },
   "Fujifilm": {
+    "G": [
+      {
+        "id": "4547410341027",
+        "EANCode": "4547410341027",
+        "maker": "Fujifilm",
+        "name": "GF63mmF2.8 R WR",
+        "mount": "G",
+        "focalLength": [
+          63
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 405,
+        "minFocusDistance": 0.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000936470/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf63mmf28-r-wr/"
+        },
+        "releaseDate": "2017-02-28"
+      },
+      {
+        "id": "4547410341034",
+        "EANCode": "4547410341034",
+        "maker": "Fujifilm",
+        "name": "GF32-64mmF4 R LM WR",
+        "mount": "G",
+        "focalLength": [
+          32,
+          64
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 875,
+        "minFocusDistance": 0.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000936471/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf32-64mmf4-r-lm-wr/"
+        },
+        "releaseDate": "2017-02-28"
+      },
+      {
+        "id": "4547410341041",
+        "EANCode": "4547410341041",
+        "maker": "Fujifilm",
+        "name": "GF120mmF4 R LM OIS WR Macro",
+        "mount": "G",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 980,
+        "minFocusDistance": 0.45,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000936472/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf120mmf4-r-lm-ois-wr-macro/"
+        },
+        "releaseDate": "2017-02-28"
+      },
+      {
+        "id": "4547410345452",
+        "EANCode": "4547410345452",
+        "maker": "Fujifilm",
+        "name": "GF23mmF4 R LM WR",
+        "mount": "G",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 845,
+        "minFocusDistance": 0.38,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000960236/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf23mmf4-r-lm-wr/"
+        },
+        "releaseDate": "2017-06-22"
+      },
+      {
+        "id": "4547410345445",
+        "EANCode": "4547410345445",
+        "maker": "Fujifilm",
+        "name": "GF110mmF2 R LM WR",
+        "mount": "G",
+        "focalLength": [
+          110
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1010,
+        "minFocusDistance": 0.9,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000960235/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf2-r-lm-wr/"
+        },
+        "releaseDate": "2017-06-22"
+      },
+      {
+        "id": "4547410357493",
+        "EANCode": "4547410357493",
+        "maker": "Fujifilm",
+        "name": "GF45mmF2.8 R WR",
+        "mount": "G",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 490,
+        "minFocusDistance": 0.45,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000994971/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45mmf28-r-wr/"
+        },
+        "releaseDate": "2017-11-16"
+      },
+      {
+        "id": "4547410370133",
+        "EANCode": "4547410370133",
+        "maker": "Fujifilm",
+        "name": "GF250mmF4 R LM OIS WR",
+        "mount": "G",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1425,
+        "minFocusDistance": 1.4,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001046911/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf250mmf4-r-lm-ois-wr/"
+        },
+        "releaseDate": "2018-05-31"
+      },
+      {
+        "id": "4547410391732",
+        "EANCode": "4547410391732",
+        "maker": "Fujifilm",
+        "name": "GF100-200mmF5.6 R LM OIS WR",
+        "mount": "G",
+        "focalLength": [
+          100,
+          200
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 1050,
+        "minFocusDistance": 0.6,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001121719/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf100-200mmf56-r-lm-ois-wr/"
+        },
+        "releaseDate": "2019-02-14"
+      },
+      {
+        "id": "4547410413045",
+        "EANCode": "4547410413045",
+        "maker": "Fujifilm",
+        "name": "GF50mmF3.5 R LM WR",
+        "mount": "G",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 335,
+        "minFocusDistance": 0.55,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001175405/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf50mmf35-r-lm-wr/"
+        },
+        "releaseDate": "2019-09-26"
+      },
+      {
+        "id": "4547410420333",
+        "EANCode": "4547410420333",
+        "maker": "Fujifilm",
+        "name": "GF45-100mmF4 R LM OIS WR",
+        "mount": "G",
+        "focalLength": [
+          45,
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1005,
+        "minFocusDistance": 0.65,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001226657/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45-100mmf4-r-lm-ois-wr/"
+        },
+        "releaseDate": "2020-02-27"
+      },
+      {
+        "id": "4547410429091",
+        "EANCode": "4547410429091",
+        "maker": "Fujifilm",
+        "name": "GF30mmF3.5 R WR",
+        "mount": "G",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "weight": 510,
+        "minFocusDistance": 0.32,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001269502/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf35-r-wr/"
+        },
+        "releaseDate": "2020-07-22"
+      },
+      {
+        "id": "4547410437775",
+        "EANCode": "4547410437775",
+        "maker": "Fujifilm",
+        "name": "GF80mmF1.7 R WR",
+        "mount": "G",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 795,
+        "minFocusDistance": 0.7,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001328212/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf80mmf17-r-wr/"
+        },
+        "releaseDate": "2021-02-25"
+      },
+      {
+        "id": "4547410455472",
+        "EANCode": "4547410455472",
+        "maker": "Fujifilm",
+        "name": "GF35-70mmF4.5-5.6 WR",
+        "mount": "G",
+        "focalLength": [
+          35,
+          70
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 390,
+        "minFocusDistance": 0.35,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001379948/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf35-70mmf45-56-wr/"
+        },
+        "releaseDate": "2021-11-30"
+      },
+      {
+        "id": "4547410483802",
+        "EANCode": "4547410483802",
+        "maker": "Fujifilm",
+        "name": "GF20-35mmF4 R WR",
+        "mount": "G",
+        "focalLength": [
+          20,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 725,
+        "minFocusDistance": 0.35,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001471400/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf20-35mmf4-r-wr/"
+        },
+        "releaseDate": "2022-09-29"
+      },
+      {
+        "id": "4547410486803",
+        "EANCode": "4547410486803",
+        "maker": "Fujifilm",
+        "name": "GF55mmF1.7 R WR",
+        "mount": "G",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 780,
+        "minFocusDistance": 0.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001566845/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf55mmf17-r-wr/"
+        },
+        "releaseDate": "2023-09-28"
+      },
+      {
+        "id": "4547410518290",
+        "EANCode": "4547410518290",
+        "maker": "Fujifilm",
+        "name": "GF30mmF5.6 T/S",
+        "mount": "G",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 105,
+        "weight": 1340,
+        "minFocusDistance": 0.3,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001566854/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf56-ts/"
+        },
+        "releaseDate": "2023-12"
+      },
+      {
+        "id": "4547410522099",
+        "EANCode": "4547410522099",
+        "maker": "Fujifilm",
+        "name": "GF110mmF5.6 T/S Macro",
+        "mount": "G",
+        "focalLength": [
+          110
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 1255,
+        "minFocusDistance": 0.43,
+        "maxMagnification": 0.5,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001566855/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf56-ts-macro/"
+        },
+        "releaseDate": "2023-12"
+      },
+      {
+        "id": "4547410527261",
+        "EANCode": "4547410527261",
+        "maker": "Fujifilm",
+        "name": "GF500mmF5.6 R LM OIS WR",
+        "mount": "G",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1375,
+        "minFocusDistance": 2.75,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001625880/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf500mmf56-r-lm-ois-wr/"
+        },
+        "releaseDate": "2024-06-28"
+      },
+      {
+        "id": "4547410559835",
+        "EANCode": "4547410559835",
+        "maker": "Fujifilm",
+        "name": "GF32-90mmT3.5 PZ OIS WR",
+        "mount": "G",
+        "focalLength": [
+          32,
+          90
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 111,
+        "weight": 2150,
+        "minFocusDistance": 0.8,
+        "urls": {
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf32-90mmt35-pz-ois-wr/",
+          "fujiya": "https://www.fujiya-camera.co.jp/shop/g/gC4547410559835/"
+        },
+        "releaseDate": "2025-10",
+        "note": "映像制作向け電動パワーズームレンズ。開放値はT値表記(T3.5)"
+      },
+      {
+        "id": "fujifilm-gf-19-35mm-t3-5-pz-ois-wr",
+        "maker": "Fujifilm",
+        "name": "GF19-35mmT3.5 PZ OIS WR",
+        "mount": "G",
+        "focalLength": [
+          19,
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 111,
+        "weight": 2090,
+        "minFocusDistance": 0.55,
+        "urls": {
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf19-35mmt35-pz-ois-wr/",
+          "news": "https://www.fujifilm.com/jp/en/news/hq/13714"
+        },
+        "releaseDate": "2026-07-23",
+        "note": "映像制作向け電動パワーズームレンズ。開放値はT値表記(T3.5)"
+      }
+    ],
     "X": [
       {
         "id": "4547410227345",
@@ -4530,14 +5100,134 @@
           "AF",
           "MF"
         ],
-        "hasStabilizer": false,
+        "hasStabilizer": true,
         "hasDustMoistureResistance": false,
         "filterDiameter": 58,
         "weight": 310,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000418422/"
+          "kakaku": "https://kakaku.com/item/K0000418422/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf18-55mmf28-4-r-lm-ois/"
         },
         "releaseDate": "2012-11-17"
+      },
+      {
+        "id": "4547410248524",
+        "EANCode": "4547410248524",
+        "maker": "Fujifilm",
+        "name": "XF55-200mmF3.5-4.8 R LM OIS",
+        "mount": "X",
+        "focalLength": [
+          55,
+          200
+        ],
+        "fStop": [
+          3.5,
+          4.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 580,
+        "minFocusDistance": 1.1,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000502111/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf55-200mmf35-48-r-lm-ois/"
+        },
+        "releaseDate": "2013-05-25"
+      },
+      {
+        "id": "4547410263923",
+        "EANCode": "4547410263923",
+        "maker": "Fujifilm",
+        "name": "XF10-24mmF4 R OIS",
+        "mount": "X",
+        "focalLength": [
+          10,
+          24
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 410,
+        "minFocusDistance": 0.24,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000606050/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf10-24mmf4-r-ois/"
+        },
+        "releaseDate": "2014-03-15",
+        "discontinued": true
+      },
+      {
+        "id": "4547410282320",
+        "EANCode": "4547410282320",
+        "maker": "Fujifilm",
+        "name": "XF18-135mmF3.5-5.6 R LM OIS WR",
+        "mount": "X",
+        "focalLength": [
+          18,
+          135
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 490,
+        "minFocusDistance": 0.45,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000665111/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/"
+        },
+        "releaseDate": "2014-07-05"
+      },
+      {
+        "id": "4547410289862",
+        "EANCode": "4547410289862",
+        "maker": "Fujifilm",
+        "name": "XF50-140mmF2.8 R LM OIS WR",
+        "mount": "X",
+        "focalLength": [
+          50,
+          140
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 995,
+        "minFocusDistance": 1,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000692177/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf50-140mmf28-r-lm-ois-wr/"
+        },
+        "releaseDate": "2014-11"
       },
       {
         "id": "4547410289879",
@@ -4562,9 +5252,40 @@
         "filterDiameter": 77,
         "weight": 655,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000740692/"
+          "kakaku": "https://kakaku.com/item/K0000740692/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-55mmf28-r-lm-wr/"
         },
         "releaseDate": "2015-02-26"
+      },
+      {
+        "id": "4547410316193",
+        "EANCode": "4547410316193",
+        "maker": "Fujifilm",
+        "name": "XF100-400mmF4.5-5.6 R LM OIS WR",
+        "mount": "X",
+        "focalLength": [
+          100,
+          400
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1375,
+        "minFocusDistance": 1.75,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000845885/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/"
+        },
+        "releaseDate": "2016-02-18"
       },
       {
         "id": "4547410379464",
@@ -4588,9 +5309,39 @@
         "hasDustMoistureResistance": true,
         "weight": 805,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001073851/"
+          "kakaku": "https://kakaku.com/item/K0001073851/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf8-16mmf28-r-lm-wr/"
         },
         "releaseDate": "2018-11-29"
+      },
+      {
+        "id": "4547410416572",
+        "EANCode": "4547410416572",
+        "maker": "Fujifilm",
+        "name": "XF16-80mmF4 R OIS WR",
+        "mount": "X",
+        "focalLength": [
+          16,
+          80
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 440,
+        "minFocusDistance": 0.35,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001175406/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-80mmf4-r-ois-wr/"
+        },
+        "releaseDate": "2019-09-26"
       },
       {
         "id": "4547410437881",
@@ -4615,7 +5366,8 @@
         "filterDiameter": 72,
         "weight": 385,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001302657/"
+          "kakaku": "https://kakaku.com/item/K0001302657/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf10-24mmf4-r-ois-wr/"
         },
         "releaseDate": "2020-11-26"
       },
@@ -4643,7 +5395,8 @@
         "filterDiameter": 67,
         "weight": 580,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001328214/"
+          "kakaku": "https://kakaku.com/item/K0001328214/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/"
         },
         "releaseDate": "2021-03-18"
       },
@@ -4671,9 +5424,98 @@
         "filterDiameter": 82,
         "weight": 1605,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001446804/"
+          "kakaku": "https://kakaku.com/item/K0001446804/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/"
         },
         "releaseDate": "2022-07-14"
+      },
+      {
+        "id": "4547410470901",
+        "EANCode": "4547410470901",
+        "maker": "Fujifilm",
+        "name": "XF18-120mmF4 LM PZ WR",
+        "mount": "X",
+        "focalLength": [
+          18,
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 460,
+        "minFocusDistance": 0.6,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001446803/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf18-120mmf4-lm-pz-wr/"
+        },
+        "releaseDate": "2022-09-29"
+      },
+      {
+        "id": "4547410522129",
+        "EANCode": "4547410522129",
+        "maker": "Fujifilm",
+        "name": "XF16-50mmF2.8-4.8 R LM WR",
+        "mount": "X",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          2.8,
+          4.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "weight": 240,
+        "minFocusDistance": 0.24,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001625881/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-50mmf28-48-r-lm-wr/"
+        },
+        "releaseDate": "2024-06-28"
+      },
+      {
+        "id": "4547410540208",
+        "EANCode": "4547410540208",
+        "maker": "Fujifilm",
+        "name": "XF16-55mmF2.8 R LM WR II",
+        "mount": "X",
+        "focalLength": [
+          16,
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 410,
+        "minFocusDistance": 0.3,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001658464/",
+          "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-55mmf28-r-lm-wr-ii/"
+        },
+        "releaseDate": "2024-12-20"
       },
       {
         "id": "4547410206159",
@@ -4728,6 +5570,189 @@
         "releaseDate": "2012-02-18"
       },
       {
+        "id": "4547410206166",
+        "EANCode": "4547410206166",
+        "maker": "Fujifilm",
+        "name": "XF60mmF2.4 R Macro",
+        "mount": "X",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 215,
+        "minFocusDistance": 0.267,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "urls": {
+          "kitamura": "https://shop.kitamura.jp/ec/pd/4547410206166",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf60mmf24-r-macro/"
+        },
+        "releaseDate": "2012-02-18"
+      },
+      {
+        "id": "4547410227598",
+        "EANCode": "4547410227598",
+        "maker": "Fujifilm",
+        "name": "XF14mmF2.8 R",
+        "mount": "X",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 235,
+        "minFocusDistance": 0.18,
+        "bladesCount": 7,
+        "elements": 10,
+        "groups": 7,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000418423/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf14mmf28-r/"
+        },
+        "releaseDate": "2013-01-19"
+      },
+      {
+        "id": "4547410251388",
+        "EANCode": "4547410251388",
+        "maker": "Fujifilm",
+        "name": "XF27mmF2.8",
+        "mount": "X",
+        "focalLength": [
+          27
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 78,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000529433/"
+        },
+        "releaseDate": "2013-07-27",
+        "discontinued": true
+      },
+      {
+        "id": "4547410261417",
+        "EANCode": "4547410261417",
+        "maker": "Fujifilm",
+        "name": "XF23mmF1.4 R",
+        "mount": "X",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 300,
+        "minFocusDistance": 0.28,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000572435/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf23mmf14-r/"
+        },
+        "releaseDate": "2013-10-12",
+        "discontinued": true
+      },
+      {
+        "id": "4547410266627",
+        "EANCode": "4547410266627",
+        "maker": "Fujifilm",
+        "name": "XF56mmF1.2 R",
+        "mount": "X",
+        "focalLength": [
+          56
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 405,
+        "minFocusDistance": 0.7,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000616778/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf56mmf12-r/"
+        },
+        "releaseDate": "2014-02-22",
+        "discontinued": true
+      },
+      {
+        "id": "4547410289855",
+        "EANCode": "4547410289855",
+        "maker": "Fujifilm",
+        "name": "XF56mmF1.2 R APD",
+        "mount": "X",
+        "focalLength": [
+          56
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 405,
+        "minFocusDistance": 0.7,
+        "bladesCount": 7,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000692178/"
+        },
+        "releaseDate": "2014-12",
+        "discontinued": true
+      },
+      {
         "id": "4547410302783",
         "EANCode": "4547410302783",
         "maker": "Fujifilm",
@@ -4775,7 +5800,7 @@
         "filterDiameter": 62,
         "weight": 540,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001379950/"
+          "kakaku": "https://kakaku.com/item/K0000777288/"
         },
         "releaseDate": "2015-07-16"
       },
@@ -4801,7 +5826,7 @@
         "filterDiameter": 43,
         "weight": 170,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0001379950/"
+          "kakaku": "https://kakaku.com/item/K0000822289/"
         },
         "releaseDate": "2015-11-19"
       },
@@ -4830,6 +5855,129 @@
           "kakaku": "https://kakaku.com/item/K0000903386/"
         },
         "releaseDate": "2016-10-06"
+      },
+      {
+        "id": "4547410340990",
+        "EANCode": "4547410340990",
+        "maker": "Fujifilm",
+        "name": "XF50mmF2 R WR",
+        "mount": "X",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "weight": 200,
+        "minFocusDistance": 0.39,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000936473/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf50mmf2-r-wr/"
+        },
+        "releaseDate": "2017-02-23"
+      },
+      {
+        "id": "4547410357479",
+        "EANCode": "4547410357479",
+        "maker": "Fujifilm",
+        "name": "XF80mmF2.8 R LM OIS WR Macro",
+        "mount": "X",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "weight": 750,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 12,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000994970/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf80mmf28-r-lm-ois-wr-macro/"
+        },
+        "releaseDate": "2017-11-30"
+      },
+      {
+        "id": "4547410376111",
+        "EANCode": "4547410376111",
+        "maker": "Fujifilm",
+        "name": "XF200mmF2 R LM OIS WR",
+        "mount": "X",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "weight": 2265,
+        "minFocusDistance": 1.8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001073850/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf200mmf2-r-lm-ois-wr/"
+        },
+        "releaseDate": "2018-10",
+        "note": "テレコンバーター XF1.4X TC F2 WR 同梱キットとして販売"
+      },
+      {
+        "id": "4547410397307",
+        "EANCode": "4547410397307",
+        "maker": "Fujifilm",
+        "name": "XF16mmF2.8 R WR",
+        "mount": "X",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 49,
+        "weight": 155,
+        "minFocusDistance": 0.17,
+        "elements": 10,
+        "groups": 8,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001130073/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf16mmf28-r-wr/"
+        },
+        "releaseDate": "2019-03-20"
       },
       {
         "id": "4547410435856",
@@ -4988,6 +6136,38 @@
         "releaseDate": "2022-02-24"
       },
       {
+        "id": "4547410485868",
+        "EANCode": "4547410485868",
+        "maker": "Fujifilm",
+        "name": "XF30mmF2.8 R LM WR Macro",
+        "mount": "X",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 43,
+        "weight": 195,
+        "minFocusDistance": 0.1,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001489404/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf30mmf28-r-lm-wr-macro/"
+        },
+        "releaseDate": "2022-11-25"
+      },
+      {
         "id": "4547410493856",
         "EANCode": "4547410493856",
         "maker": "Fujifilm",
@@ -5015,6 +6195,308 @@
           "kakaku": "https://kakaku.com/item/K0001539680/"
         },
         "releaseDate": "2023-06-29"
+      },
+      {
+        "id": "4547410547412",
+        "EANCode": "4547410547412",
+        "maker": "Fujifilm",
+        "name": "XF500mmF5.6 R LM OIS WR",
+        "mount": "X",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "weight": 1335,
+        "minFocusDistance": 2.75,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 21,
+        "groups": 14,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001658465/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf500mmf56-r-lm-ois-wr/",
+          "news": "https://www.fujifilm.com/jp/ja/news/list/11805"
+        },
+        "releaseDate": "2024-12-20"
+      },
+      {
+        "id": "4547410554656",
+        "EANCode": "4547410554656",
+        "maker": "Fujifilm",
+        "name": "XF23mmF2.8 R WR",
+        "mount": "X",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 39,
+        "weight": 90,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.15,
+        "bladesCount": 11,
+        "elements": 8,
+        "groups": 6,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001694181/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf23mmf28-r-wr/",
+          "news": "https://www.fujifilm.com/jp/ja/news/list/12429"
+        },
+        "releaseDate": "2025-12-05"
+      },
+      {
+        "id": "fujifilm-xc-16-50mm-f3.5-5.6-ois",
+        "maker": "Fujifilm",
+        "name": "XC16-50mmF3.5-5.6 OIS",
+        "mount": "X",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 195,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.15,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 10,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000530689/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/discontinued-lenses/xc16-50mmf35-56-ois/"
+        },
+        "releaseDate": "2013-10-12",
+        "discontinued": true,
+        "note": "2013-07-27発売のFUJIFILM X-M1キットレンズとして先行提供、単体発売は2013-10-12"
+      },
+      {
+        "id": "4547410301472",
+        "EANCode": "4547410301472",
+        "maker": "Fujifilm",
+        "name": "XC16-50mmF3.5-5.6 OIS II",
+        "mount": "X",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 195,
+        "minFocusDistance": 0.15,
+        "maxMagnification": 0.2,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 10,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000777297/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/discontinued-lenses/xc16-50mmf35-56-ois-2/"
+        },
+        "releaseDate": "2015-06-25",
+        "discontinued": true
+      },
+      {
+        "id": "fujifilm-xc-50-230mm-f4.5-6.7-ois",
+        "maker": "Fujifilm",
+        "name": "XC50-230mmF4.5-6.7 OIS",
+        "mount": "X",
+        "focalLength": [
+          50,
+          230
+        ],
+        "fStop": [
+          4.5,
+          6.7
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 375,
+        "minFocusDistance": 1.1,
+        "maxMagnification": 0.2,
+        "elements": 13,
+        "groups": 10,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000587190/"
+        },
+        "releaseDate": "2013-12-14",
+        "discontinued": true
+      },
+      {
+        "id": "4547410301496",
+        "EANCode": "4547410301496",
+        "maker": "Fujifilm",
+        "name": "XC50-230mmF4.5-6.7 OIS II",
+        "mount": "X",
+        "focalLength": [
+          50,
+          230
+        ],
+        "fStop": [
+          4.5,
+          6.7
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 375,
+        "minFocusDistance": 1.1,
+        "maxMagnification": 0.2,
+        "elements": 13,
+        "groups": 10,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0000777299/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc50-230mmf45-67-ois-2/"
+        },
+        "releaseDate": "2015-06-25"
+      },
+      {
+        "id": "4547410363517",
+        "EANCode": "4547410363517",
+        "maker": "Fujifilm",
+        "name": "XC15-45mmF3.5-5.6 OIS PZ",
+        "mount": "X",
+        "focalLength": [
+          15,
+          45
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 135,
+        "minFocusDistance": 0.13,
+        "maxMagnification": 0.24,
+        "bladesCount": 7,
+        "elements": 10,
+        "groups": 9,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001029930/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc15-45mmf35-56-ois-pz/"
+        },
+        "releaseDate": "2018-03-15"
+      },
+      {
+        "id": "4547410425604",
+        "EANCode": "4547410425604",
+        "maker": "Fujifilm",
+        "name": "XC35mmF2",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 130,
+        "minFocusDistance": 0.35,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 6,
+        "isInternalFocus": true,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001227599/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc35mmf2/"
+        },
+        "releaseDate": "2020-02-27"
+      },
+      {
+        "id": "4547410562330",
+        "EANCode": "4547410562330",
+        "maker": "Fujifilm",
+        "name": "XC13-33mmF3.5-6.3 OIS",
+        "mount": "X",
+        "focalLength": [
+          13,
+          33
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 125,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 9,
+        "urls": {
+          "kakaku": "https://kakaku.com/item/K0001716315/",
+          "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc13-33mmf35-63-ois/"
+        },
+        "releaseDate": "2026-01-30"
       }
     ]
   },
