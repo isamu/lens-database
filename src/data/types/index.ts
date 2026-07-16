@@ -6,19 +6,26 @@ export type Maker =
   | "Leica"
   | "ZEISS"
   | "SIGMA"
+  | "TAMRON"
   | "Panasonic"
   | "OLYMPUS"
+  | "OM SYSTEM"
   | "PENTAX"
   | "Tokina"
-  | "COSINA";
+  | "COSINA"
+  | "Voigtländer"
+  | "TTArtisan"
+  | "7Artisans"
+  | "SG-image"
+  | "Thypoch";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
-export type FujifilmMount = "X" | "R";
+export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F";
-export type OlympusMount = "FourThirds";
-export type PanasonicMount = "L" | "FourThirds";
-export type PentaxMount = "K";
+export type OlympusMount = "FourThirds" | "MicroFourThirds";
+export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
+export type PentaxMount = "K" | "645";
 export type SigmaMount = "SA";
 export type LeicaMount = "M" | "L";
 

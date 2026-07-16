@@ -19,7 +19,7 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001539493/",
         },
-        releaseDate: "2023-07-07"
+        releaseDate: "2023-07-07",
     },
     {
         id: "4549292181623",
@@ -38,7 +38,7 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001309216/",
         },
-        releaseDate: "2020-12-24"
+        releaseDate: "2020-12-24",
     },
     {
         id: "4549292207446",
@@ -57,7 +57,7 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001514881/",
         },
-        releaseDate: "2023-04-14"
+        releaseDate: "2023-04-14",
     },
     {
         id: "4549292186765",
@@ -76,6 +76,6 @@ export const canonRFLensDataSet = [
         urls: {
             kakaku: "https://kakaku.com/item/K0001383775/",
         },
-        releaseDate: "2021-10-28"
+        releaseDate: "2021-10-28",
     },
 ];
