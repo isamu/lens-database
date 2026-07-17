@@ -24,17 +24,21 @@ export type Maker =
   | "Meike"
   | "Zhongyi"
   | "AstrHori"
-  | "Sirui";
+  | "Sirui"
+  | "Yashica"
+  | "Konica";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F";
-export type OlympusMount = "FourThirds" | "MicroFourThirds";
+export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645";
 export type SigmaMount = "SA";
 export type LeicaMount = "M" | "L" | "R";
+export type YashicaMount = "CY";
+export type KonicaMount = "AR";
 
 export type Mount =
   | CanonMount
@@ -45,7 +49,9 @@ export type Mount =
   | PanasonicMount
   | PentaxMount
   | SigmaMount
-  | LeicaMount;
+  | LeicaMount
+  | YashicaMount
+  | KonicaMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 

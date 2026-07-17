@@ -22,4 +22,6 @@ export * from "./meike";
 export * from "./zhongyi";
 export * from "./astrhori";
 export * from "./sirui";
+export * from "./yashica";
+export * from "./konica";
 export * from "./types";
