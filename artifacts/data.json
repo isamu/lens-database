@@ -4579,6 +4579,1937 @@
           "fujiya": "https://www.fujiya-camera.co.jp/shop/g/gC4530076131521/"
         },
         "note": "VM mount. Single Coating (S.C) variant; a Multi Coating (MC) variant also exists."
+      },
+      {
+        "id": "voigtlander-nokton-classic-40mm-f1.4-mc-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON classic 40mm F1.4 MC",
+        "mount": "M",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 175,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 55,
+        "length": 29.7,
+        "releaseDate": "2004-04-10",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/"
+        },
+        "note": "VM mount. Multi Coating (MC) sibling of the S.C variant. Higher contrast; slightly different color rendering."
+      },
+      {
+        "id": "voigtlander-nokton-classic-35mm-f1.4-ii-sc-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON classic 35mm F1.4 II S.C",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 180,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 55,
+        "length": 28.7,
+        "releaseDate": "2020-10",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/"
+        },
+        "note": "VM mount. Version II with revised optical design over the original 2005 model. Single Coating (S.C) variant."
+      },
+      {
+        "id": "voigtlander-nokton-classic-35mm-f1.4-ii-mc-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON classic 35mm F1.4 II MC",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "weight": 180,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 55,
+        "length": 28.7,
+        "releaseDate": "2020-10",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/"
+        },
+        "note": "VM mount. Version II Multi Coating (MC) variant."
+      },
+      {
+        "id": "voigtlander-nokton-21mm-f1.4-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON 21mm F1.4 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 340,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 67.6,
+        "length": 54.9,
+        "releaseDate": "2022-03",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/"
+        },
+        "note": "VM mount. Rangefinder coupling to 0.7m, live-view focus down to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-nokton-35mm-f1.2-aspherical-iii-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON 35mm F1.2 Aspherical III",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 195,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 55.5,
+        "length": 39.2,
+        "releaseDate": "2019-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-35mm-f1-2-iii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-35mm-f1-2-iii/"
+        },
+        "note": "VM mount. Third-generation, dramatically smaller than II. Rangefinder coupling to 0.7m, LV to 0.5m."
+      },
+      {
+        "id": "voigtlander-nokton-50mm-f1.2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON 50mm F1.2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 51,
+        "weight": 343,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 62.8,
+        "length": 46.5,
+        "releaseDate": "2020-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/"
+        },
+        "note": "VM mount. Rangefinder coupling to 0.7m, LV focus to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-nokton-vintage-line-50mm-f1.5-ii-mc-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON Vintage Line 50mm F1.5 Aspherical II MC",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 244,
+        "minFocusDistance": 0.7,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 55.3,
+        "length": 37.7,
+        "releaseDate": "2019-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/"
+        },
+        "note": "VM mount. Vintage Line design (retro barrel). MC (multi-coated) variant."
+      },
+      {
+        "id": "voigtlander-nokton-vintage-line-50mm-f1.5-ii-sc-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON Vintage Line 50mm F1.5 Aspherical II S.C",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 244,
+        "minFocusDistance": 0.7,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 55.3,
+        "length": 37.7,
+        "releaseDate": "2019-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/"
+        },
+        "note": "VM mount. Vintage Line, Single Coating (S.C) variant; classic rendering."
+      },
+      {
+        "id": "voigtlander-nokton-75mm-f1.5-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON Vintage Line 75mm F1.5 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 342,
+        "minFocusDistance": 0.7,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 62.6,
+        "length": 65.1,
+        "releaseDate": "2018-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/"
+        },
+        "note": "VM mount. Vintage Line barrel design. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-nokton-90mm-f1.5-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON 90mm F1.5 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 545,
+        "minFocusDistance": 0.9,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 67.4,
+        "length": 79.9,
+        "releaseDate": "2020-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-90mm-f1-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-90mm-f1-5/"
+        },
+        "note": "VM mount. Rangefinder coupled. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 35mm F2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 178,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 55,
+        "length": 39.2,
+        "releaseDate": "2022-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/"
+        },
+        "note": "VM mount. Apochromatic design. Rangefinder coupling to 0.7m, LV focus to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 50mm F2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 364,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 55,
+        "length": 57.2,
+        "releaseDate": "2020-08",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/"
+        },
+        "note": "VM mount. Rangefinder coupling to 0.7m, LV focus to 0.45m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-65mm-f2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 65mm F2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 405,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 63.4,
+        "length": 78.4,
+        "releaseDate": "2023-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-65mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-65mm-f2/"
+        },
+        "note": "VM mount. Rangefinder coupling to 0.7m, LV focus to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-ultron-21mm-f1.8-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "ULTRON 21mm F1.8 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 350,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 63.3,
+        "length": 76.7,
+        "releaseDate": "2013-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-21mm/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-21mm/"
+        },
+        "note": "VM mount. Rangefinder coupled. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-ultron-28mm-f2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "ULTRON Vintage Line 28mm F2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 244,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 55.3,
+        "length": 45.4,
+        "releaseDate": "2020-01",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/"
+        },
+        "note": "VM mount. Vintage Line barrel. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-ultron-35mm-f1.7-aspherical-ii-vm",
+        "maker": "Voigtländer",
+        "name": "ULTRON 35mm F1.7 Aspherical II",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 240,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 55.3,
+        "length": 39.6,
+        "releaseDate": "2022-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-35mm-f1-7-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-35mm-f1-7-ii/"
+        },
+        "note": "VM mount. Version II. Rangefinder coupling to 0.7m, LV focus to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-ultron-vintage-line-35mm-f2-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "ULTRON Vintage Line 35mm F2 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 170,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 55.3,
+        "length": 28.7,
+        "releaseDate": "2019-05",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/"
+        },
+        "note": "VM mount. Vintage Line barrel design. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-heliar-40mm-f2.8-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "HELIAR classic 40mm F2.8",
+        "mount": "M",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 175,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "diameter": 55,
+        "length": 34.5,
+        "releaseDate": "2022-03",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/"
+        },
+        "note": "VM mount. Classic 5-element Heliar-type design. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-heliar-50mm-f3.5-vm",
+        "maker": "Voigtländer",
+        "name": "HELIAR classic 50mm F3.5",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 34,
+        "weight": 158,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "diameter": 51.6,
+        "length": 39.7,
+        "releaseDate": "2021-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-50mm-f3-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-50mm-f3-5/"
+        },
+        "note": "VM mount. Classic Heliar-type design; compact pancake style. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-heliar-75mm-f1.8-vm",
+        "maker": "Voigtländer",
+        "name": "HELIAR 75mm F1.8",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 305,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 58.4,
+        "length": 57.9,
+        "releaseDate": "2023-05",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-75mm-f1-8/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-75mm-f1-8/"
+        },
+        "note": "VM mount. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-super-wide-heliar-15mm-f4.5-iii-vm",
+        "maker": "Voigtländer",
+        "name": "SUPER WIDE-HELIAR 15mm F4.5 Aspherical III",
+        "mount": "M",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 294,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 63.4,
+        "length": 49.5,
+        "releaseDate": "2016-02",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/"
+        },
+        "note": "VM mount. Third generation. Rangefinder coupled. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-color-skopar-21mm-f3.5-aspherical-vm",
+        "maker": "Voigtländer",
+        "name": "COLOR-SKOPAR 21mm F3.5 Aspherical",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 176,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 55,
+        "length": 29.7,
+        "releaseDate": "2018-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-21mm/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-21mm/"
+        },
+        "note": "VM mount. Vintage Line. Rangefinder coupling to 0.7m, LV focus to 0.5m. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-color-skopar-vintage-line-28mm-f2.8-vm",
+        "maker": "Voigtländer",
+        "name": "COLOR-SKOPAR Vintage Line 28mm F2.8 Aspherical Type I",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 240,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 55,
+        "length": 44.5,
+        "releaseDate": "2019-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-vintageline-28mm-f2-8/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-vintageline-28mm-f2-8/"
+        },
+        "note": "VM mount. Vintage Line Type I barrel. 6-bit coded. TODO: verify Type I vs Type II naming on current cosina.co.jp product page."
+      },
+      {
+        "id": "voigtlander-color-skopar-35mm-f2.5-p-ii-vm",
+        "maker": "Voigtländer",
+        "name": "COLOR-SKOPAR 35mm F2.5 P II",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 135,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 55,
+        "length": 23,
+        "releaseDate": "2007-10",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/"
+        },
+        "note": "VM mount. Pancake (P) design, Type II. Rangefinder coupled."
+      },
+      {
+        "id": "voigtlander-color-skopar-vintage-line-50mm-f2.5-vm",
+        "maker": "Voigtländer",
+        "name": "COLOR-SKOPAR Vintage Line 50mm F2.5",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 200,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 55,
+        "length": 41.8,
+        "releaseDate": "2024-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-50mm-f2-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-50mm-f2-5/"
+        },
+        "note": "VM mount. Vintage Line barrel; classic Skopar-type design. 6-bit coded."
+      },
+      {
+        "id": "voigtlander-nokton-40mm-f1.2-aspherical-ii-vm",
+        "maker": "Voigtländer",
+        "name": "NOKTON 40mm F1.2 Aspherical II",
+        "mount": "M",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 305,
+        "minFocusDistance": 0.5,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 60.8,
+        "length": 43.3,
+        "releaseDate": "2025-06-20",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/"
+        },
+        "note": "VM mount. Version II successor to the original 2017 NOKTON 40mm F1.2. Redesigned with 12-blade aperture. Rangefinder coupling to 0.7m, LV to 0.5m. 6-bit coded."
+      }
+    ],
+    "E": [
+      {
+        "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 35mm F2 Aspherical E-mount",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 372,
+        "minFocusDistance": 0.35,
+        "bladesCount": 12,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 62.6,
+        "length": 39.5,
+        "releaseDate": "2021-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/"
+        },
+        "note": "Sony E-mount. Electronic contacts (EXIF + focus magnifier). Apochromatic design."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 50mm F2 Aspherical E-mount",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 364,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 62.8,
+        "length": 59.9,
+        "releaseDate": "2019-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/"
+        },
+        "note": "Sony E-mount. Electronic contacts. Apochromatic design."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-65mm-f2-macro-e",
+        "maker": "Voigtländer",
+        "name": "MACRO APO-LANTHAR 65mm F2 Aspherical E-mount",
+        "mount": "E",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 625,
+        "minFocusDistance": 0.31,
+        "maxMagnification": 0.5,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 78,
+        "length": 91.3,
+        "releaseDate": "2017-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/"
+        },
+        "note": "Sony E-mount. 1:2 half-life macro. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-21mm-f1.4-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 21mm F1.4 Aspherical E-mount",
+        "mount": "E",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 560,
+        "minFocusDistance": 0.25,
+        "bladesCount": 12,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 70,
+        "length": 89,
+        "releaseDate": "2020-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/"
+        },
+        "note": "Sony E-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-35mm-f1.2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 35mm F1.2 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 456,
+        "minFocusDistance": 0.3,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 66.8,
+        "length": 79.7,
+        "releaseDate": "2020-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-35mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-35mm-f1-2/"
+        },
+        "note": "Sony E-mount (marketed as SE). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-40mm-f1.2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 40mm F1.2 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 415,
+        "minFocusDistance": 0.35,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 59.6,
+        "releaseDate": "2019-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/"
+        },
+        "note": "Sony E-mount (SE). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-50mm-f1-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 50mm F1 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 673,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 73.5,
+        "length": 79.4,
+        "releaseDate": "2022-08",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/"
+        },
+        "note": "Sony E-mount (SE). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-50mm-f1.2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 50mm F1.2 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 400,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 59.4,
+        "releaseDate": "2021-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/"
+        },
+        "note": "Sony E-mount (SE). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-60mm-f0.95-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 60mm F0.95 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          0.95
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 852,
+        "minFocusDistance": 0.6,
+        "bladesCount": 12,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 82.6,
+        "length": 89.4,
+        "releaseDate": "2024-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-60mm-f0-95/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-60mm-f0-95/"
+        },
+        "note": "Sony E-mount (SE). Electronic contacts. Fastest FF-covering Voigtländer."
+      },
+      {
+        "id": "voigtlander-nokton-75mm-f1.5-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "NOKTON 75mm F1.5 Aspherical SE",
+        "mount": "E",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 351,
+        "minFocusDistance": 0.55,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 68.6,
+        "releaseDate": "2023-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/"
+        },
+        "note": "Sony E-mount (SE). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-heliar-hyperwide-10mm-f5.6-e",
+        "maker": "Voigtländer",
+        "name": "HELIAR-HYPER WIDE 10mm F5.6 Aspherical E-mount",
+        "mount": "E",
+        "focalLength": [
+          10
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 375,
+        "minFocusDistance": 0.3,
+        "bladesCount": 10,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 68.8,
+        "length": 66.5,
+        "releaseDate": "2022-08",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/"
+        },
+        "note": "Sony E-mount. Ultra-wide rectilinear; no front filter thread (rear gel filter). Electronic contacts."
+      },
+      {
+        "id": "voigtlander-super-wide-heliar-15mm-f4.5-iii-e",
+        "maker": "Voigtländer",
+        "name": "SUPER WIDE-HELIAR 15mm F4.5 Aspherical III E-mount",
+        "mount": "E",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 294,
+        "minFocusDistance": 0.13,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 66.5,
+        "length": 61,
+        "releaseDate": "2019-01",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/"
+        },
+        "note": "Sony E-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-ultron-27mm-f2-e",
+        "maker": "Voigtländer",
+        "name": "ULTRON 27mm F2 E-mount",
+        "mount": "E",
+        "focalLength": [
+          27
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 130,
+        "minFocusDistance": 0.25,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 60.6,
+        "length": 27.2,
+        "releaseDate": "2023-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/"
+        },
+        "note": "Sony E-mount, APS-C only. Pancake. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-ultron-35mm-f2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "ULTRON Vintage Line 35mm F2 Aspherical Type I E-mount",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 199,
+        "minFocusDistance": 0.3,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 58,
+        "length": 39.6,
+        "releaseDate": "2022-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-vintageline-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-vintageline-35mm-f2/"
+        },
+        "note": "Sony E-mount. Vintage Line. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-ultron-40mm-f2-aspherical-e",
+        "maker": "Voigtländer",
+        "name": "ULTRON 40mm F2 Aspherical SL IIs E-mount",
+        "mount": "E",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 265,
+        "minFocusDistance": 0.25,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 37,
+        "releaseDate": "2024-01",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-40mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-40mm-f2/"
+        },
+        "note": "Sony E-mount. Electronic contacts. TODO: confirm exact Sony-mount release date on cosina.co.jp; date approximate."
+      }
+    ],
+    "Z": [
+      {
+        "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 35mm F2 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 370,
+        "minFocusDistance": 0.35,
+        "bladesCount": 12,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 62.6,
+        "length": 39.5,
+        "releaseDate": "2023-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts (EXIF + focus assist)."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 50mm F2 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 364,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 62.8,
+        "length": 59.9,
+        "releaseDate": "2022-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-macro-apo-lanthar-65mm-f2-z",
+        "maker": "Voigtländer",
+        "name": "MACRO APO-LANTHAR 65mm F2 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 640,
+        "minFocusDistance": 0.31,
+        "maxMagnification": 0.5,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 78,
+        "length": 91.3,
+        "releaseDate": "2022-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/"
+        },
+        "note": "Nikon Z-mount. 1:2 half-life macro. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-40mm-f1.2-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "NOKTON 40mm F1.2 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 415,
+        "minFocusDistance": 0.35,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 59.6,
+        "releaseDate": "2022-03",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-55mm-f1.2-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "NOKTON 55mm F1.2 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 500,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 66.8,
+        "releaseDate": "2022-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-55mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-55mm-f1-2/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-75mm-f1.5-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "NOKTON 75mm F1.5 Aspherical Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 351,
+        "minFocusDistance": 0.55,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 66.8,
+        "length": 68.6,
+        "releaseDate": "2024-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-super-wide-heliar-15mm-f4.5-iii-z",
+        "maker": "Voigtländer",
+        "name": "SUPER WIDE-HELIAR 15mm F4.5 Aspherical III Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 294,
+        "minFocusDistance": 0.13,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 66.5,
+        "length": 61,
+        "releaseDate": "2023-04",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-ultron-40mm-f2-aspherical-z",
+        "maker": "Voigtländer",
+        "name": "ULTRON 40mm F2 Aspherical SL IIs Z-mount",
+        "mount": "Z",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 265,
+        "minFocusDistance": 0.25,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 37,
+        "releaseDate": "2024-01",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/ultron-40mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/z-mount/ultron-40mm-f2/"
+        },
+        "note": "Nikon Z-mount. Electronic contacts. TODO: confirm exact Z-mount release date."
+      }
+    ],
+    "X": [
+      {
+        "id": "voigtlander-nokton-23mm-f1.2-aspherical-x",
+        "maker": "Voigtländer",
+        "name": "NOKTON 23mm F1.2 Aspherical X-mount",
+        "mount": "X",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 262,
+        "minFocusDistance": 0.18,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 60.6,
+        "length": 46.6,
+        "releaseDate": "2023-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/"
+        },
+        "note": "Fujifilm X-mount, APS-C. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-35mm-f1.2-aspherical-x",
+        "maker": "Voigtländer",
+        "name": "NOKTON 35mm F1.2 Aspherical X-mount",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 265,
+        "minFocusDistance": 0.3,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 60.6,
+        "length": 49.7,
+        "releaseDate": "2022-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/"
+        },
+        "note": "Fujifilm X-mount, APS-C. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-nokton-50mm-f1-aspherical-x",
+        "maker": "Voigtländer",
+        "name": "NOKTON 50mm F1.0 Aspherical X-mount",
+        "mount": "X",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 585,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 73.5,
+        "length": 66.9,
+        "releaseDate": "2024-01",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-50mm-f1/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-50mm-f1/"
+        },
+        "note": "Fujifilm X-mount, APS-C (though image circle covers larger). Electronic contacts. TODO: confirm image-circle coverage per cosina."
+      },
+      {
+        "id": "voigtlander-ultron-27mm-f2-x",
+        "maker": "Voigtländer",
+        "name": "ULTRON 27mm F2 X-mount",
+        "mount": "X",
+        "focalLength": [
+          27
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 130,
+        "minFocusDistance": 0.25,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 60.6,
+        "length": 27.2,
+        "releaseDate": "2023-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/"
+        },
+        "note": "Fujifilm X-mount, APS-C. Pancake. Electronic contacts."
+      },
+      {
+        "id": "voigtlander-ultron-35mm-f2-x",
+        "maker": "Voigtländer",
+        "name": "ULTRON 35mm F2 X-mount",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 200,
+        "minFocusDistance": 0.3,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 60.6,
+        "length": 39.4,
+        "releaseDate": "2024-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-35mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-35mm-f2/"
+        },
+        "note": "Fujifilm X-mount, APS-C. Electronic contacts. TODO: verify final spec sheet on cosina."
+      }
+    ],
+    "RF": [
+      {
+        "id": "voigtlander-nokton-50mm-f1-aspherical-rf",
+        "maker": "Voigtländer",
+        "name": "NOKTON 50mm F1 Aspherical RF-mount",
+        "mount": "RF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 673,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 73.5,
+        "length": 79.4,
+        "releaseDate": "2024-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/"
+        },
+        "note": "Canon RF-mount. Voigtländer's first RF-mount lens. Electronic contacts (EXIF + focus magnifier). TODO: verify exact release date; based on 2024 Cosina announcement."
+      },
+      {
+        "id": "voigtlander-nokton-35mm-f1.2-aspherical-rf",
+        "maker": "Voigtländer",
+        "name": "NOKTON 35mm F1.2 Aspherical RF-mount",
+        "mount": "RF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 456,
+        "minFocusDistance": 0.3,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 66.8,
+        "length": 79.7,
+        "releaseDate": "2025-06",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-35mm-f1-2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-35mm-f1-2/"
+        },
+        "note": "Canon RF-mount. Electronic contacts. TODO: verify exact release date; announcement-based entry."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-rf",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 50mm F2 Aspherical RF-mount",
+        "mount": "RF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 364,
+        "minFocusDistance": 0.45,
+        "bladesCount": 12,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 62.8,
+        "length": 59.9,
+        "releaseDate": "2025-11",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/rf-mount/apo-lanthar-50mm-f2/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/rf-mount/apo-lanthar-50mm-f2/"
+        },
+        "note": "Canon RF-mount. Electronic contacts. TODO: verify exact release date; entry based on Cosina roadmap."
+      }
+    ],
+    "F": [
+      {
+        "id": "voigtlander-nokton-58mm-f1.4-sl-iis-f",
+        "maker": "Voigtländer",
+        "name": "NOKTON 58mm F1.4 SL IIs",
+        "mount": "F",
+        "focalLength": [
+          58
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 326,
+        "minFocusDistance": 0.45,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 63,
+        "length": 48.8,
+        "releaseDate": "2019-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/"
+        },
+        "note": "Nikon F-mount. AI-S CPU (SL IIs). Manual focus only. Compatible with FX/DX bodies with proper metering."
+      },
+      {
+        "id": "voigtlander-ultron-40mm-f2-sl-iis-f",
+        "maker": "Voigtländer",
+        "name": "ULTRON 40mm F2 Aspherical SL IIs",
+        "mount": "F",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 200,
+        "minFocusDistance": 0.25,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 27.5,
+        "releaseDate": "2019-07",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/f-mount/ultron-40mm-f2-sl-iis/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/f-mount/ultron-40mm-f2-sl-iis/"
+        },
+        "note": "Nikon F-mount. AI-S CPU (SL IIs). Pancake. Manual focus only."
+      },
+      {
+        "id": "voigtlander-apo-lanthar-90mm-f3.5-sl-iis-f",
+        "maker": "Voigtländer",
+        "name": "APO-LANTHAR 90mm F3.5 SL IIs",
+        "mount": "F",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 320,
+        "minFocusDistance": 0.5,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 60,
+        "length": 65,
+        "releaseDate": "2019-10",
+        "officialUrl": "https://www.cosina.co.jp/voigtlander/f-mount/apo-lanthar-90mm-f3-5-sl-iis/",
+        "urls": {
+          "official": "https://www.cosina.co.jp/voigtlander/f-mount/apo-lanthar-90mm-f3-5-sl-iis/"
+        },
+        "note": "Nikon F-mount. AI-S CPU (SL IIs). Apochromatic Heliar-type design. Manual focus only."
       }
     ]
   },
@@ -6574,7 +8505,1587 @@
     ]
   },
   "Leica": {
+    "L": [
+      {
+        "id": "leica-vario-elmarit-sl-24-70-f2.8-asph",
+        "maker": "Leica",
+        "name": "Vario-Elmarit-SL 24-70 f/2.8 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 856,
+        "minFocusDistance": 0.38,
+        "maxMagnification": 0.25,
+        "bladesCount": 11,
+        "elements": 19,
+        "groups": 15,
+        "diameter": 88,
+        "length": 125,
+        "releaseDate": "2022-06",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-70-f-28-asph"
+        }
+      },
+      {
+        "id": "leica-vario-elmarit-sl-24-90-f2.8-4-asph",
+        "maker": "Leica",
+        "name": "Vario-Elmarit-SL 24-90 f/2.8-4 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          24,
+          90
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1140,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.27,
+        "bladesCount": 11,
+        "elements": 18,
+        "groups": 15,
+        "diameter": 88,
+        "length": 138,
+        "releaseDate": "2015-10",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-90-f-28-4-asph"
+        }
+      },
+      {
+        "id": "leica-apo-vario-elmarit-sl-90-280-f2.8-4",
+        "maker": "Leica",
+        "name": "APO-Vario-Elmarit-SL 90-280 f/2.8-4",
+        "mount": "L",
+        "focalLength": [
+          90,
+          280
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1720,
+        "minFocusDistance": 0.6,
+        "maxMagnification": 0.19,
+        "bladesCount": 11,
+        "elements": 23,
+        "groups": 17,
+        "diameter": 88,
+        "length": 238,
+        "releaseDate": "2016-03",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-vario-elmarit-sl-90-280"
+        }
+      },
+      {
+        "id": "leica-apo-vario-elmarit-sl-100-400-f5-6.3",
+        "maker": "Leica",
+        "name": "Vario-Elmar-SL 100-400 f/5-6.3",
+        "mount": "L",
+        "focalLength": [
+          100,
+          400
+        ],
+        "fStop": [
+          5,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "weight": 1580,
+        "minFocusDistance": 1.1,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 22,
+        "groups": 15,
+        "diameter": 88,
+        "length": 232,
+        "releaseDate": "2023-11",
+        "note": "Sold as Vario-Elmar-SL 100-400 f/5-6.3; 1.4x extender available.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmar-sl-100-400"
+        }
+      },
+      {
+        "id": "leica-super-vario-elmar-sl-16-35-f3.5-4.5-asph",
+        "maker": "Leica",
+        "name": "Super-Vario-Elmar-SL 16-35 f/3.5-4.5 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 1080,
+        "minFocusDistance": 0.25,
+        "maxMagnification": 0.2,
+        "bladesCount": 11,
+        "elements": 18,
+        "groups": 12,
+        "diameter": 88,
+        "length": 123,
+        "releaseDate": "2018-08",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/super-vario-elmar-sl-16-35-f-35-45-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-sl-28-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-SL 28 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 419,
+        "minFocusDistance": 0.24,
+        "maxMagnification": 0.19,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 73,
+        "length": 74,
+        "releaseDate": "2023-04",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summicron-sl-28-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-sl-35-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-SL 35 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 400,
+        "minFocusDistance": 0.27,
+        "maxMagnification": 0.18,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 73,
+        "length": 71,
+        "releaseDate": "2022-11",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summicron-sl-35-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-sl-50-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-SL 50 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 400,
+        "minFocusDistance": 0.35,
+        "maxMagnification": 0.17,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 73,
+        "length": 71,
+        "releaseDate": "2022-11",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summicron-sl-50-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-sl-75-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-SL 75 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 428,
+        "minFocusDistance": 0.6,
+        "maxMagnification": 0.14,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 73,
+        "length": 81,
+        "releaseDate": "2023-10",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summicron-sl-75-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-sl-90-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-SL 90 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 500,
+        "minFocusDistance": 0.85,
+        "maxMagnification": 0.13,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 73,
+        "length": 91,
+        "releaseDate": "2023-10",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summicron-sl-90-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-21-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 21 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 780,
+        "minFocusDistance": 0.34,
+        "maxMagnification": 0.1,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 12,
+        "diameter": 73,
+        "length": 106,
+        "releaseDate": "2021-04",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-21-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-28-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 28 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 670,
+        "minFocusDistance": 0.24,
+        "maxMagnification": 0.14,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 12,
+        "diameter": 73,
+        "length": 102,
+        "releaseDate": "2020-10",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-28-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-35-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 35 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 750,
+        "minFocusDistance": 0.27,
+        "maxMagnification": 0.19,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 73,
+        "length": 102,
+        "releaseDate": "2020-02",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-35-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-50-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 50 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 740,
+        "minFocusDistance": 0.35,
+        "maxMagnification": 0.2,
+        "bladesCount": 11,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 73,
+        "length": 102,
+        "releaseDate": "2019-05",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-50-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-75-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 75 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 720,
+        "minFocusDistance": 0.5,
+        "maxMagnification": 0.19,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 73,
+        "length": 102,
+        "releaseDate": "2019-09",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-75-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-sl-90-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-SL 90 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 700,
+        "minFocusDistance": 0.6,
+        "maxMagnification": 0.19,
+        "bladesCount": 11,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 73,
+        "length": 102,
+        "releaseDate": "2019-09",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-90-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-sl-21-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-SL 21 f/1.4 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 995,
+        "minFocusDistance": 0.3,
+        "bladesCount": 11,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 88,
+        "length": 132,
+        "releaseDate": "2025-04",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summilux-sl-21-f-14-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-sl-35-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-SL 35 f/1.4 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 830,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.17,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 12,
+        "diameter": 82,
+        "length": 124,
+        "releaseDate": "2024-08",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summilux-sl-35-f-14-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-sl-50-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-SL 50 f/1.4 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "weight": 750,
+        "minFocusDistance": 0.4,
+        "maxMagnification": 0.15,
+        "bladesCount": 11,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 82,
+        "length": 108,
+        "releaseDate": "2023-11",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/summilux-sl-50-f-14-asph"
+        }
+      },
+      {
+        "id": "leica-elmarit-sl-24-f2.8-asph",
+        "maker": "Leica",
+        "name": "Elmarit-SL 24 f/2.8 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 393,
+        "minFocusDistance": 0.24,
+        "maxMagnification": 0.14,
+        "bladesCount": 10,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 73,
+        "length": 74,
+        "releaseDate": "2024-04",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/sl/elmarit-sl-24-f-28-asph"
+        }
+      },
+      {
+        "id": "leica-super-vario-elmar-t-11-23-f3.5-4.5-asph",
+        "maker": "Leica",
+        "name": "Super-Vario-Elmar-T 11-23 f/3.5-4.5 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          11,
+          23
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 386,
+        "minFocusDistance": 0.2,
+        "maxMagnification": 0.09,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 10,
+        "diameter": 73,
+        "length": 79,
+        "releaseDate": "2014-11",
+        "note": "35mm equivalent: 17-35mm.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/super-vario-elmar-t-11-23-f-35-45-asph"
+        }
+      },
+      {
+        "id": "leica-vario-elmar-t-18-56-f3.5-5.6-asph",
+        "maker": "Leica",
+        "name": "Vario-Elmar-T 18-56 f/3.5-5.6 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          18,
+          56
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 256,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 63,
+        "length": 60,
+        "releaseDate": "2014-04",
+        "note": "35mm equivalent: 27-84mm. Standard zoom for Leica T system.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/vario-elmar-t-18-56-f-35-56-asph"
+        }
+      },
+      {
+        "id": "leica-apo-vario-elmar-t-55-135-f3.5-4.5-asph",
+        "maker": "Leica",
+        "name": "APO-Vario-Elmar-T 55-135 f/3.5-4.5 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          55,
+          135
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "weight": 500,
+        "minFocusDistance": 1,
+        "maxMagnification": 0.19,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 11,
+        "diameter": 67,
+        "length": 99,
+        "releaseDate": "2015-04",
+        "note": "35mm equivalent: 83-203mm.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/apo-vario-elmar-t-55-135-f-35-45-asph"
+        }
+      },
+      {
+        "id": "leica-summicron-t-23-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-T 23 f/2 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 154,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 6,
+        "diameter": 63,
+        "length": 46,
+        "releaseDate": "2014-04",
+        "note": "35mm equivalent: 35mm.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/summicron-t-23-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-elmarit-tl-18-f2.8-asph",
+        "maker": "Leica",
+        "name": "Elmarit-TL 18 f/2.8 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 80,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.09,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 63,
+        "length": 20.5,
+        "releaseDate": "2016-11",
+        "note": "35mm equivalent: 27mm. Pancake design.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/elmarit-tl-18-f-28-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-tl-35-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-TL 35 f/1.4 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "weight": 400,
+        "minFocusDistance": 0.3,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 68,
+        "length": 74,
+        "releaseDate": "2016-11",
+        "note": "35mm equivalent: 52mm.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/summilux-tl-35-f-14-asph"
+        }
+      },
+      {
+        "id": "leica-apo-macro-elmarit-tl-60-f2.8-asph",
+        "maker": "Leica",
+        "name": "APO-Macro-Elmarit-TL 60 f/2.8 ASPH.",
+        "mount": "L",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "weight": 320,
+        "minFocusDistance": 0.16,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 68,
+        "length": 89,
+        "releaseDate": "2016-11",
+        "note": "35mm equivalent: 90mm. 1:1 macro capability.",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/tl/apo-macro-elmarit-tl-60-f-28-asph"
+        }
+      }
+    ],
     "M": [
+      {
+        "id": "leica-noctilux-m-50mm-f0.95-asph",
+        "maker": "Leica",
+        "name": "Noctilux-M 50mm F/0.95 ASPH",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          0.95
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "weight": 700,
+        "minFocusDistance": 1,
+        "bladesCount": 11,
+        "elements": 8,
+        "groups": 5,
+        "diameter": 73,
+        "length": 75.2,
+        "releaseDate": "2008-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-50-f-0-95-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-50-f-0-95-asph"
+        },
+        "note": "Flagship ultra-fast standard; two aspherical surfaces. Black and silver-chrome variants."
+      },
+      {
+        "id": "leica-noctilux-m-50mm-f1.2-asph",
+        "maker": "Leica",
+        "name": "Noctilux-M 50mm F/1.2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 452,
+        "minFocusDistance": 1,
+        "bladesCount": 11,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 60.6,
+        "length": 51.4,
+        "releaseDate": "2021-11",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-50-f-1-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-50-f-1-2-asph"
+        },
+        "note": "Reissue of the 1966 f/1.2 with modern aspherical construction."
+      },
+      {
+        "id": "leica-noctilux-m-75mm-f1.25-asph",
+        "maker": "Leica",
+        "name": "Noctilux-M 75mm F/1.25 ASPH",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.25
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 1055,
+        "minFocusDistance": 0.85,
+        "bladesCount": 11,
+        "elements": 9,
+        "groups": 6,
+        "diameter": 74,
+        "length": 91,
+        "releaseDate": "2017-10",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-75-f-1-25-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/noctilux-m-75-f-1-25-asph"
+        },
+        "note": "Short-tele Noctilux; features floating element group."
+      },
+      {
+        "id": "leica-summilux-m-21mm-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-M 21mm F/1.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 580,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 65.4,
+        "length": 76.4,
+        "releaseDate": "2008-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-21-f-1-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-21-f-1-4-asph"
+        },
+        "note": "Ultra-fast super-wide."
+      },
+      {
+        "id": "leica-summilux-m-24mm-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-M 24mm F/1.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "weight": 500,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 65.4,
+        "length": 75.6,
+        "releaseDate": "2008-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-24-f-1-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-24-f-1-4-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-m-28mm-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-M 28mm F/1.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 440,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 61.7,
+        "length": 64.7,
+        "releaseDate": "2015-10",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-28-f-1-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-28-f-1-4-asph"
+        }
+      },
+      {
+        "id": "leica-summilux-m-35mm-f1.4-asph-fle",
+        "maker": "Leica",
+        "name": "Summilux-M 35mm F/1.4 ASPH FLE",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 320,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 5,
+        "diameter": 53,
+        "length": 46.6,
+        "releaseDate": "2010-09",
+        "discontinued": true,
+        "discontinuedDate": "2022",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35-f-1-4-asph",
+        "urls": {},
+        "note": "First 'FLE' (Floating Lens Element) version; replaced by FLE II in 2022."
+      },
+      {
+        "id": "leica-summilux-m-35mm-f1.4-asph-fle-ii",
+        "maker": "Leica",
+        "name": "Summilux-M 35mm F/1.4 ASPH FLE II",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 306,
+        "minFocusDistance": 0.4,
+        "bladesCount": 11,
+        "elements": 10,
+        "groups": 5,
+        "diameter": 53,
+        "length": 46.6,
+        "releaseDate": "2022-10",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35-f-1-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35-f-1-4-asph"
+        },
+        "note": "Current FLE II: closer 0.4m focus, 11-blade diaphragm."
+      },
+      {
+        "id": "leica-summilux-m-50mm-f1.4-asph",
+        "maker": "Leica",
+        "name": "Summilux-M 50mm F/1.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 335,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 5,
+        "diameter": 53.5,
+        "length": 52.5,
+        "releaseDate": "2004-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-50-f-1-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-50-f-1-4-asph"
+        },
+        "note": "Long-running reference standard; also produced as Summilux-M 50 f/1.4 ASPH 'Close Focus' variant in 2023."
+      },
+      {
+        "id": "leica-summilux-m-75mm-f1.4",
+        "maker": "Leica",
+        "name": "Summilux-M 75mm F/1.4",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "weight": 560,
+        "minFocusDistance": 0.8,
+        "bladesCount": 12,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2007",
+        "urls": {},
+        "note": "Classic non-ASPH short tele; long since discontinued. Superseded by APO-Summicron-M 75."
+      },
+      {
+        "id": "leica-summilux-m-90mm-f1.5-asph",
+        "maker": "Leica",
+        "name": "Summilux-M 90mm F/1.5 ASPH",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 1030,
+        "minFocusDistance": 1,
+        "bladesCount": 11,
+        "elements": 9,
+        "groups": 6,
+        "diameter": 74,
+        "length": 108,
+        "releaseDate": "2023-10",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-90-f-1-5-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summilux-m-90-f-1-5-asph"
+        },
+        "note": "Modern reissue of the classic Summarex focal length; fastest 90 in the M lineup."
+      },
+      {
+        "id": "leica-apo-summicron-m-28mm-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-M 28mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 265,
+        "minFocusDistance": 0.7,
+        "bladesCount": 11,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 53,
+        "length": 50.9,
+        "releaseDate": "2023-04",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-28-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-28-f-2-asph"
+        },
+        "note": "Newest addition to the APO-Summicron-M family."
+      },
+      {
+        "id": "leica-apo-summicron-m-35mm-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-M 35mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 255,
+        "minFocusDistance": 0.3,
+        "bladesCount": 11,
+        "elements": 10,
+        "groups": 5,
+        "diameter": 53,
+        "length": 41,
+        "releaseDate": "2021-04",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-35-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-35-f-2-asph"
+        },
+        "note": "0.3 m close focus with dual floating element groups."
+      },
+      {
+        "id": "leica-apo-summicron-m-50mm-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-M 50mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 300,
+        "minFocusDistance": 0.7,
+        "bladesCount": 11,
+        "elements": 8,
+        "groups": 5,
+        "diameter": 53,
+        "length": 47,
+        "releaseDate": "2012-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-50-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-50-f-2-asph"
+        },
+        "note": "Reference-grade standard; widely regarded as one of the finest 50s ever made."
+      },
+      {
+        "id": "leica-apo-summicron-m-75mm-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-M 75mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 430,
+        "minFocusDistance": 0.7,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 58,
+        "length": 66.8,
+        "releaseDate": "2005-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-75-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-75-f-2-asph"
+        }
+      },
+      {
+        "id": "leica-apo-summicron-m-90mm-f2-asph",
+        "maker": "Leica",
+        "name": "APO-Summicron-M 90mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 500,
+        "minFocusDistance": 1,
+        "bladesCount": 11,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 58,
+        "length": 78,
+        "releaseDate": "1998",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-90-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-summicron-m-90-f-2-asph"
+        },
+        "note": "Long-standing benchmark portrait tele; replaced non-ASPH APO-Summicron-M 90."
+      },
+      {
+        "id": "leica-summicron-m-28mm-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-M 28mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 240,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 53,
+        "length": 41,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summicron-m-28-f-2-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summicron-m-28-f-2-asph"
+        },
+        "note": "Current Type V (2016); redesigned from earlier 2000 Type IV."
+      },
+      {
+        "id": "leica-summicron-m-35mm-f2-asph",
+        "maker": "Leica",
+        "name": "Summicron-M 35mm F/2 ASPH",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 255,
+        "minFocusDistance": 0.7,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 53,
+        "length": 34.5,
+        "releaseDate": "1997",
+        "discontinued": true,
+        "discontinuedDate": "2023",
+        "urls": {},
+        "note": "'7-element' Type IV ASPH (1997-2023); replaced by APO-Summicron-M 35 ASPH."
+      },
+      {
+        "id": "leica-summicron-m-50mm-f2",
+        "maker": "Leica",
+        "name": "Summicron-M 50mm F/2",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 240,
+        "minFocusDistance": 0.7,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 53,
+        "length": 43.5,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2024",
+        "urls": {},
+        "note": "Classic Type IV (1979-2024); succeeded by Summicron-M 50 f/2 (2024, new optical design)."
+      },
+      {
+        "id": "leica-summicron-m-50mm-f2-2024",
+        "maker": "Leica",
+        "name": "Summicron-M 50mm F/2 (2024)",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 260,
+        "minFocusDistance": 0.45,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 53,
+        "length": 42,
+        "releaseDate": "2024-10",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/summicron-m-50-f-2",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/summicron-m-50-f-2"
+        },
+        "note": "Fifth-generation Summicron-M 50; closer 0.45m focus, 11-blade aperture."
+      },
+      {
+        "id": "leica-summicron-m-90mm-f2",
+        "maker": "Leica",
+        "name": "Summicron-M 90mm F/2",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 475,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1998",
+        "urls": {},
+        "note": "Non-ASPH; superseded by APO-Summicron-M 90 ASPH in 1998."
+      },
+      {
+        "id": "leica-elmarit-m-21mm-f2.8-asph",
+        "maker": "Leica",
+        "name": "Elmarit-M 21mm F/2.8 ASPH",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 290,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1997",
+        "discontinued": true,
+        "discontinuedDate": "2008",
+        "urls": {},
+        "note": "Discontinued when Summilux-M 21 f/1.4 ASPH and Super-Elmar-M 21 f/3.4 arrived."
+      },
+      {
+        "id": "leica-elmarit-m-24mm-f2.8-asph",
+        "maker": "Leica",
+        "name": "Elmarit-M 24mm F/2.8 ASPH",
+        "mount": "M",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 290,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "1996",
+        "discontinued": true,
+        "discontinuedDate": "2011",
+        "urls": {},
+        "note": "Replaced within 24mm slot by Summilux-M 24 f/1.4 ASPH and Elmar-M 24 f/3.8 ASPH."
+      },
       {
         "id": "4975749000740",
         "EANCode": "4975749000740",
@@ -6595,6 +10106,409 @@
         "hasDustMoistureResistance": false,
         "filterDiameter": 46,
         "urls": {}
+      },
+      {
+        "id": "leica-elmarit-m-28mm-f2.8-asph",
+        "maker": "Leica",
+        "name": "Elmarit-M 28mm F/2.8 ASPH",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 180,
+        "minFocusDistance": 0.7,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 52,
+        "length": 30.8,
+        "releaseDate": "2006-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/elmarit-m-28-f-2-8-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/elmarit-m-28-f-2-8-asph"
+        },
+        "note": "Current 5th-generation ASPH; compact pancake-style 28."
+      },
+      {
+        "id": "leica-elmarit-m-90mm-f2.8",
+        "maker": "Leica",
+        "name": "Elmarit-M 90mm F/2.8",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 410,
+        "minFocusDistance": 1,
+        "bladesCount": 12,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1990",
+        "discontinued": true,
+        "discontinuedDate": "2008",
+        "urls": {},
+        "note": "Compact tele; replaced by Summarit-M 75/90 line."
+      },
+      {
+        "id": "leica-elmar-m-24mm-f3.8-asph",
+        "maker": "Leica",
+        "name": "Elmar-M 24mm F/3.8 ASPH",
+        "mount": "M",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          3.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 260,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 53,
+        "length": 42.5,
+        "releaseDate": "2008-09",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "urls": {},
+        "note": "Compact slow 24; discontinued but frequently sought after used."
+      },
+      {
+        "id": "leica-elmar-m-50mm-f2.8",
+        "maker": "Leica",
+        "name": "Elmar-M 50mm F/2.8",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 200,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 52,
+        "length": 32.5,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2007",
+        "urls": {},
+        "note": "Collapsible design; classic 4-element Elmar formula."
+      },
+      {
+        "id": "leica-super-elmar-m-18mm-f3.8-asph",
+        "maker": "Leica",
+        "name": "Super-Elmar-M 18mm F/3.8 ASPH",
+        "mount": "M",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          3.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "weight": 310,
+        "minFocusDistance": 0.7,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 61.5,
+        "length": 58,
+        "releaseDate": "2009-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/super-elmar-m-18-f-3-4-asph",
+        "urls": {},
+        "note": "Ultra-wide; still catalogued alongside the 21 f/3.4 Super-Elmar."
+      },
+      {
+        "id": "leica-super-elmar-m-21mm-f3.4-asph",
+        "maker": "Leica",
+        "name": "Super-Elmar-M 21mm F/3.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          3.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 274,
+        "minFocusDistance": 0.7,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 53,
+        "length": 44,
+        "releaseDate": "2011-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/super-elmar-m-21-f-3-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/super-elmar-m-21-f-3-4-asph"
+        },
+        "note": "Compact, near-symmetrical Super-Elmar 21; retains rangefinder coupling."
+      },
+      {
+        "id": "leica-tri-elmar-m-16-18-21mm-f4-asph",
+        "maker": "Leica",
+        "name": "Tri-Elmar-M 16-18-21mm F/4 ASPH (Super-Vario-Elmar-M)",
+        "mount": "M",
+        "focalLength": [
+          16,
+          21
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 335,
+        "minFocusDistance": 0.5,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 62,
+        "length": 61,
+        "releaseDate": "2006-09",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/tri-elmar-m-16-18-21-f-4-asph",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/tri-elmar-m-16-18-21-f-4-asph"
+        },
+        "note": "Three-position ultra-wide 'zoom' (WATE); requires external viewfinder."
+      },
+      {
+        "id": "leica-apo-telyt-m-135mm-f3.4",
+        "maker": "Leica",
+        "name": "APO-Telyt-M 135mm F/3.4",
+        "mount": "M",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 450,
+        "minFocusDistance": 1.5,
+        "bladesCount": 16,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 58.5,
+        "length": 104.7,
+        "releaseDate": "1998",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/apo-telyt-m-135-f-3-4",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/apo-telyt-m-135-f-3-4"
+        },
+        "note": "Longest rangefinder-coupled M lens still in catalogue."
+      },
+      {
+        "id": "leica-summarit-m-35mm-f2.4-asph",
+        "maker": "Leica",
+        "name": "Summarit-M 35mm F/2.4 ASPH",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 220,
+        "minFocusDistance": 0.8,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 51,
+        "length": 34.5,
+        "releaseDate": "2014-04",
+        "discontinued": true,
+        "discontinuedDate": "2019",
+        "urls": {},
+        "note": "Second-generation Summarit line (f/2.4). All Summarit-M lenses were discontinued in the late 2010s."
+      },
+      {
+        "id": "leica-summarit-m-50mm-f2.4",
+        "maker": "Leica",
+        "name": "Summarit-M 50mm F/2.4",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 220,
+        "minFocusDistance": 0.8,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 51,
+        "length": 33,
+        "releaseDate": "2014-04",
+        "discontinued": true,
+        "discontinuedDate": "2019",
+        "urls": {}
+      },
+      {
+        "id": "leica-summarit-m-75mm-f2.4",
+        "maker": "Leica",
+        "name": "Summarit-M 75mm F/2.4",
+        "mount": "M",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 345,
+        "minFocusDistance": 0.9,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 55,
+        "length": 60,
+        "releaseDate": "2014-04",
+        "discontinued": true,
+        "discontinuedDate": "2019",
+        "urls": {}
+      },
+      {
+        "id": "leica-summarit-m-90mm-f2.4",
+        "maker": "Leica",
+        "name": "Summarit-M 90mm F/2.4",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 360,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 55,
+        "length": 68,
+        "releaseDate": "2014-04",
+        "discontinued": true,
+        "discontinuedDate": "2019",
+        "urls": {}
+      },
+      {
+        "id": "leica-thambar-m-90mm-f2.2",
+        "maker": "Leica",
+        "name": "Thambar-M 90mm F/2.2",
+        "mount": "M",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 500,
+        "minFocusDistance": 1,
+        "bladesCount": 20,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 54,
+        "length": 82,
+        "releaseDate": "2017-11",
+        "officialUrl": "https://leica-camera.com/en-int/photography/lenses/m/thambar-m-90-f-2-2",
+        "urls": {
+          "official": "https://leica-camera.com/en-int/photography/lenses/m/thambar-m-90-f-2-2"
+        },
+        "note": "Soft-focus reissue of the 1935 Thambar; deliberate uncorrected spherical aberration, comes with center-spot filter."
       }
     ]
   },
@@ -46248,6 +50162,1912 @@
           "prtimes": "https://prtimes.jp/main/html/rd/p/000000611.000071960.html"
         },
         "note": "Orange Pop limited edition (1,000 units per mount, released 2026-02-13 in Japan). STM autofocus, USB Type-C firmware updates."
+      }
+    ]
+  },
+  "ZEISS": {
+    "EF": [
+      {
+        "id": "zeiss-otus-1-4-28-ze",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/28 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.3,
+        "weight": 1350,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "releaseDate": "2015-11",
+        "note": "APO Distagon design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-55-ze",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/55 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.5,
+        "weight": 1030,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2013-10",
+        "note": "APO Distagon design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-85-ze",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/85 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 86,
+        "minFocusDistance": 0.8,
+        "weight": 1200,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2014-11",
+        "note": "APO Planar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-100-ze",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/100 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 86,
+        "minFocusDistance": 1,
+        "weight": 1405,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2019-04",
+        "note": "APO Sonnar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-15-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/15 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.25,
+        "weight": 947,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-18-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/18 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.25,
+        "weight": 721,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 12,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-21-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/21 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.22,
+        "weight": 851,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-25-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/25 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.25,
+        "weight": 1226,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "2017-05",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-25-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2/25 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 693,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-35-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/35 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.3,
+        "weight": 1131,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-35-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2/35 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 686,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-50-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/50 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.45,
+        "weight": 922,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-50m-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2/50M (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.24,
+        "weight": 660,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2015-09",
+        "note": "Makro-Planar, 1:2 magnification",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-85-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/85 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.8,
+        "weight": 1210,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-100m-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2/100M (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.44,
+        "weight": 933,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2015-09",
+        "note": "Makro-Planar, 1:2 magnification",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-135-ze",
+        "maker": "ZEISS",
+        "name": "Milvus 2/135 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.8,
+        "weight": 1123,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2016-09",
+        "note": "APO Sonnar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html"
+        }
+      },
+      {
+        "id": "zeiss-distagon-3-5-18-ze",
+        "maker": "ZEISS",
+        "name": "Distagon T* 3.5/18 (ZE)",
+        "mount": "EF",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.3,
+        "weight": 470,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "discontinued": true,
+        "note": "Classic Distagon; no direct Milvus replacement at f/3.5"
+      }
+    ],
+    "E": [
+      {
+        "id": "zeiss-batis-2-8-18",
+        "maker": "ZEISS",
+        "name": "Batis 2.8/18",
+        "mount": "E",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.25,
+        "weight": 330,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "2017-04",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-2818.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-2818.html"
+        }
+      },
+      {
+        "id": "zeiss-batis-2-25",
+        "maker": "ZEISS",
+        "name": "Batis 2/25",
+        "mount": "E",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.2,
+        "weight": 335,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2015-10",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-225.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-225.html"
+        }
+      },
+      {
+        "id": "zeiss-batis-2-40-cf",
+        "maker": "ZEISS",
+        "name": "Batis 2/40 CF",
+        "mount": "E",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.24,
+        "weight": 361,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2018-09",
+        "note": "CF = Close Focus",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-240.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-240.html"
+        }
+      },
+      {
+        "id": "zeiss-batis-1-8-85",
+        "maker": "ZEISS",
+        "name": "Batis 1.8/85",
+        "mount": "E",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.8,
+        "weight": 475,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2015-10",
+        "note": "Optical Image Stabilization",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-1885.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-1885.html"
+        }
+      },
+      {
+        "id": "zeiss-batis-2-8-135",
+        "maker": "ZEISS",
+        "name": "Batis 2.8/135",
+        "mount": "E",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.87,
+        "weight": 614,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2017-09",
+        "note": "Optical Image Stabilization",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-28135.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-28135.html"
+        }
+      },
+      {
+        "id": "zeiss-loxia-2-8-21",
+        "maker": "ZEISS",
+        "name": "Loxia 2.8/21",
+        "mount": "E",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 394,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2015-10",
+        "note": "Distagon design; de-clickable aperture ring",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2821.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2821.html"
+        }
+      },
+      {
+        "id": "zeiss-loxia-2-4-25",
+        "maker": "ZEISS",
+        "name": "Loxia 2.4/25",
+        "mount": "E",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 393,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2018-09",
+        "note": "Distagon design; de-clickable aperture ring",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2425.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2425.html"
+        }
+      },
+      {
+        "id": "zeiss-loxia-2-35",
+        "maker": "ZEISS",
+        "name": "Loxia 2/35",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 340,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 6,
+        "releaseDate": "2014-12",
+        "note": "Biogon design; de-clickable aperture ring",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-235.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-235.html"
+        }
+      },
+      {
+        "id": "zeiss-loxia-2-50",
+        "maker": "ZEISS",
+        "name": "Loxia 2/50",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.45,
+        "weight": 320,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "2014-12",
+        "note": "Planar design; de-clickable aperture ring",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-250.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-250.html"
+        }
+      },
+      {
+        "id": "zeiss-loxia-2-4-85",
+        "maker": "ZEISS",
+        "name": "Loxia 2.4/85",
+        "mount": "E",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.8,
+        "weight": 594,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "2016-09",
+        "note": "Sonnar design; de-clickable aperture ring",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2485.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2485.html"
+        }
+      },
+      {
+        "id": "zeiss-touit-2-8-12-e",
+        "maker": "ZEISS",
+        "name": "Touit 2.8/12 Distagon (E-mount)",
+        "mount": "E",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.18,
+        "weight": 260,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2013-06",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html"
+        }
+      },
+      {
+        "id": "zeiss-touit-1-8-32-e",
+        "maker": "ZEISS",
+        "name": "Touit 1.8/32 Planar (E-mount)",
+        "mount": "E",
+        "focalLength": [
+          32
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 210,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 5,
+        "releaseDate": "2013-06",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html"
+        }
+      },
+      {
+        "id": "zeiss-touit-2-8-50m-e",
+        "maker": "ZEISS",
+        "name": "Touit 2.8/50M Makro-Planar (E-mount)",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.15,
+        "weight": 290,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2014-04",
+        "note": "1:1 macro",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html"
+        }
+      }
+    ],
+    "F": [
+      {
+        "id": "zeiss-otus-1-4-28-zf2",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/28 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.3,
+        "weight": 1390,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "releaseDate": "2015-11",
+        "note": "APO Distagon design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-55-zf2",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/55 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.5,
+        "weight": 970,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2013-10",
+        "note": "APO Distagon design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-85-zf2",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/85 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 86,
+        "minFocusDistance": 0.8,
+        "weight": 1140,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2014-11",
+        "note": "APO Planar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html"
+        }
+      },
+      {
+        "id": "zeiss-otus-1-4-100-zf2",
+        "maker": "ZEISS",
+        "name": "Otus 1.4/100 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 86,
+        "minFocusDistance": 1,
+        "weight": 1336,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2019-04",
+        "note": "APO Sonnar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-15-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/15 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.25,
+        "weight": 947,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-18-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/18 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.25,
+        "weight": 721,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 12,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-8-21-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2.8/21 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.22,
+        "weight": 851,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-25-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/25 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.25,
+        "weight": 1226,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "2017-05",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-25-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2/25 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 693,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-35-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/35 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.3,
+        "weight": 1131,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-35-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2/35 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 686,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-50-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/50 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.45,
+        "weight": 875,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2015-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-50m-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2/50M (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.24,
+        "weight": 620,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2015-09",
+        "note": "Makro-Planar, 1:2 magnification",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-1-4-85-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 1.4/85 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.8,
+        "weight": 1280,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2016-09",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-100m-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2/100M (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.44,
+        "weight": 843,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2015-09",
+        "note": "Makro-Planar, 1:2 magnification",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html"
+        }
+      },
+      {
+        "id": "zeiss-milvus-2-135-zf2",
+        "maker": "ZEISS",
+        "name": "Milvus 2/135 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.8,
+        "weight": 1103,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2016-09",
+        "note": "APO Sonnar design",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html"
+        }
+      },
+      {
+        "id": "zeiss-distagon-3-5-18-zf2",
+        "maker": "ZEISS",
+        "name": "Distagon T* 3.5/18 (ZF.2)",
+        "mount": "F",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.3,
+        "weight": 510,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "discontinued": true,
+        "note": "Classic Distagon; no direct Milvus replacement at f/3.5"
+      }
+    ],
+    "M": [
+      {
+        "id": "zeiss-distagon-2-8-15-zm",
+        "maker": "ZEISS",
+        "name": "Distagon T* 2.8/15 ZM",
+        "mount": "M",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.3,
+        "weight": 550,
+        "bladesCount": 10,
+        "elements": 15,
+        "groups": 12,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-2815-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-2815-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-distagon-4-18-zm",
+        "maker": "ZEISS",
+        "name": "Distagon T* 4/18 ZM",
+        "mount": "M",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.5,
+        "weight": 350,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-418-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-418-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-c-biogon-4-5-21-zm",
+        "maker": "ZEISS",
+        "name": "C Biogon T* 4.5/21 ZM",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 190,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-4521-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-4521-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-biogon-2-8-21-zm",
+        "maker": "ZEISS",
+        "name": "Biogon T* 2.8/21 ZM",
+        "mount": "M",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 300,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2821-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2821-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-distagon-1-4-35-zm",
+        "maker": "ZEISS",
+        "name": "Distagon T* 1.4/35 ZM",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.7,
+        "weight": 381,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-1435-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-1435-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-c-biogon-2-8-25-zm",
+        "maker": "ZEISS",
+        "name": "C Biogon T* 2.8/25 ZM",
+        "mount": "M",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.5,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2825-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2825-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-biogon-2-8-25-zm",
+        "maker": "ZEISS",
+        "name": "Biogon T* 2.8/25 ZM",
+        "mount": "M",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 260,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2825-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2825-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-biogon-2-28-zm",
+        "maker": "ZEISS",
+        "name": "Biogon T* 2/28 ZM",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 300,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-228-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-228-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-c-biogon-2-8-28-zm",
+        "maker": "ZEISS",
+        "name": "C Biogon T* 2.8/28 ZM",
+        "mount": "M",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 230,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "note": "TODO: verify — some sources list this focal length under C Biogon line",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html"
+        }
+      },
+      {
+        "id": "zeiss-biogon-2-35-zm",
+        "maker": "ZEISS",
+        "name": "Biogon T* 2/35 ZM",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.7,
+        "weight": 230,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 6,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-235-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-235-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-c-biogon-2-8-35-zm",
+        "maker": "ZEISS",
+        "name": "C Biogon T* 2.8/35 ZM",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.7,
+        "weight": 200,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2835-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2835-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-planar-2-35-zm",
+        "maker": "ZEISS",
+        "name": "Planar T* 2/35 ZM",
+        "mount": "M",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.7,
+        "weight": 210,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "note": "TODO: verify — Planar 35 exists in some ZM catalogs",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html"
+        }
+      },
+      {
+        "id": "zeiss-c-sonnar-1-5-50-zm",
+        "maker": "ZEISS",
+        "name": "C Sonnar T* 1.5/50 ZM",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.9,
+        "weight": 250,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-sonnar-t-1550-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-sonnar-t-1550-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-planar-2-50-zm",
+        "maker": "ZEISS",
+        "name": "Planar T* 2/50 ZM",
+        "mount": "M",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.7,
+        "weight": 210,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/planar-t-250-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/planar-t-250-zm.html"
+        }
+      },
+      {
+        "id": "zeiss-sonnar-2-85-zm",
+        "maker": "ZEISS",
+        "name": "Sonnar T* 2/85 ZM",
+        "mount": "M",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1,
+        "weight": 560,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses/tele-tessar-t-485-zm.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html"
+        }
+      }
+    ],
+    "X": [
+      {
+        "id": "zeiss-touit-2-8-12-x",
+        "maker": "ZEISS",
+        "name": "Touit 2.8/12 Distagon (X-mount)",
+        "mount": "X",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.18,
+        "weight": 270,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2013-06",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html"
+        }
+      },
+      {
+        "id": "zeiss-touit-1-8-32-x",
+        "maker": "ZEISS",
+        "name": "Touit 1.8/32 Planar (X-mount)",
+        "mount": "X",
+        "focalLength": [
+          32
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 210,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 5,
+        "releaseDate": "2013-06",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html"
+        }
+      },
+      {
+        "id": "zeiss-touit-2-8-50m-x",
+        "maker": "ZEISS",
+        "name": "Touit 2.8/50M Makro-Planar (X-mount)",
+        "mount": "X",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.15,
+        "weight": 290,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2014-04",
+        "note": "1:1 macro",
+        "officialUrl": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html",
+        "urls": {
+          "official": "https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html"
+        }
       }
     ]
   }
