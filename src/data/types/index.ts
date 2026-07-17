@@ -19,7 +19,12 @@ export type Maker =
   | "SG-image"
   | "Thypoch"
   | "Viltrox"
-  | "Laowa";
+  | "Laowa"
+  | "Samyang"
+  | "Meike"
+  | "Zhongyi"
+  | "AstrHori"
+  | "Sirui";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
@@ -29,7 +34,7 @@ export type OlympusMount = "FourThirds" | "MicroFourThirds";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645";
 export type SigmaMount = "SA";
-export type LeicaMount = "M" | "L";
+export type LeicaMount = "M" | "L" | "R";
 
 export type Mount =
   | CanonMount
