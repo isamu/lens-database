@@ -6,7 +6,7 @@
   "types": "build/data/all.d.ts",
   "scripts": {
     "build": "tsc",
-    "generate": "npx ts-node --experimental-specifier-resolution=node --esm src/run.ts",
+    "generate": "tsx src/run.ts",
     "format": "prettier --write '{src,data}/**/*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +26,7 @@
     "@types/node": "^24.10.1",
     "prettier": "^3.6.2",
     "ts-node": "^10.9.2",
+    "tsx": "^4.23.1",
     "typescript": "^5.9.3"
   }
 }

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0e1116;
+  --color-card: #171b22;
+  --color-card2: #1f242d;
+  --color-line: #2b313c;
+  --color-line2: #4b5566;
+  --color-txt: #e8ecf3;
+  --color-mut: #97a1b2;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-txt);
+  font-family:
+    system-ui,
+    -apple-system,
+    "Hiragino Kaku Gothic ProN",
+    sans-serif;
+}

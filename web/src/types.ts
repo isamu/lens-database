@@ -1,0 +1,37 @@
+export type Lens = {
+  id: string;
+  EANCode?: string;
+  maker: string;
+  name: string;
+  mount: string;
+  focalLength: number[];
+  fStop: number[];
+  format: string;
+  focus: string[];
+  hasStabilizer: boolean;
+  hasDustMoistureResistance: boolean;
+  filterDiameter?: number;
+  minFocusDistance?: number;
+  weight?: number;
+  maxMagnification?: number;
+  bladesCount?: number;
+  elements?: number;
+  groups?: number;
+  diameter?: number;
+  length?: number;
+  isInternalFocus?: boolean;
+  officialUrl?: string;
+  images?: string[];
+  urls?: Record<string, string | undefined>;
+  releaseDate?: string;
+  discontinued?: boolean;
+  discontinuedDate?: string;
+  hoodModel?: string;
+  caseModel?: string;
+  note?: string;
+};
+
+export type ViewMode = "bars" | "list" | "gallery";
+export type SortKey = "focal" | "fstop" | "release" | "name";
+export type SortDir = "asc" | "desc";
+export type StatusFilter = "all" | "current" | "discontinued";
