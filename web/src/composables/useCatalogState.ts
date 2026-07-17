@@ -1,6 +1,22 @@
 import { computed, type WritableComputedRef } from "vue";
 import { useRoute, useRouter, type LocationQuery } from "vue-router";
-import type { SortDir, SortKey, StatusFilter, ViewMode } from "../types";
+import type { ChartAxis, SortDir, SortKey, StatusFilter, ViewMode } from "../types";
+
+const CHART_AXES: readonly ChartAxis[] = [
+  "focal",
+  "fstop",
+  "weight",
+  "length",
+  "diameter",
+  "filterDiameter",
+  "minFocusDistance",
+  "maxMagnification",
+  "elements",
+  "bladesCount",
+  "angleOfView",
+  "releaseYear",
+  "msrp",
+];
 
 const queryString = (query: LocationQuery, key: string): string | undefined => {
   const value = query[key];
@@ -59,9 +75,16 @@ export const useCatalogState = () => {
     focalTo: numberParam("fmax"),
     fstopMax: numberParam("fs"),
     status: choiceParam<StatusFilter>("status", ["all", "current", "discontinued"], "all"),
-    mode: choiceParam<ViewMode>("mode", ["bars", "list", "gallery"], "bars"),
+    mode: choiceParam<ViewMode>("mode", ["bars", "list", "gallery", "chart"], "bars"),
     sort: choiceParam<SortKey>("sort", ["focal", "fstop", "release", "name"], "focal"),
     dir: choiceParam<SortDir>("dir", ["asc", "desc"], "asc"),
+    // Chart mode: which spec on X / Y, and per-axis log override.
+    // Log state is three-way: "1" forces log, "0" forces linear, absent =
+    // use each axis's own default (focal / fstop / weight / etc. default log).
+    chartX: choiceParam<ChartAxis>("cx", CHART_AXES, "focal"),
+    chartY: choiceParam<ChartAxis>("cy", CHART_AXES, "fstop"),
+    chartLogX: choiceParam<"" | "1" | "0">("lx", ["", "1", "0"], ""),
+    chartLogY: choiceParam<"" | "1" | "0">("ly", ["", "1", "0"], ""),
     equiv: computed({
       get: () => route.query.eq === "1",
       set: (value: boolean) => update({ eq: value ? "1" : undefined }),
