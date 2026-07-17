@@ -1072,6 +1072,86 @@
 | URL | [kakaku](https://kakaku.com/item/K0000902955/) |
 | EAN/JAN Code | 4960759146113 |
 
+### Ai-S NIKKOR 25-50mm f/4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 25 - 50mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 0.6m |
+| Weight | 610g |
+| Aperture Blades | 9 |
+| Optical Construction | 12 elements in 10 groups |
+| Angle of View | 81.7° - 46.8° |
+| Release Date | 1979 |
+| Discontinued | YES (1985) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 35-70mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35 - 70mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 1m |
+| Weight | 645g |
+| Aperture Blades | 7 |
+| Optical Construction | 10 elements in 8 groups |
+| Angle of View | 63.4° - 34.3° |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 35-105mm f/3.5-4.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35 - 105mm |
+| Aperture | F3.5 - 4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1.4m |
+| Weight | 495g |
+| Aperture Blades | 7 |
+| Optical Construction | 16 elements in 12 groups |
+| Angle of View | 63.4° - 23.3° |
+| Release Date | 1983 |
+| Discontinued | YES (1990) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 80-200mm f/2.8 ED
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 80 - 200mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 77mm |
+| Min Focus Distance | 1.8m |
+| Weight | 1900g |
+| Aperture Blades | 9 |
+| Optical Construction | 16 elements in 11 groups |
+| Angle of View | 30.3° - 12.3° |
+| Release Date | 1982 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
 ### AF-S NIKKOR 20mm f/1.8G ED
 |  | |
 | -- | -- |
@@ -1970,3 +2050,791 @@
 | Discontinued | YES |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af-s_nikkor_ed_600mm_f4d_2_if/spec.html)<br />[astroarts](https://www.astroarts.co.jp/news/2001/07/18nikon/index-j.shtml)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4960759023063/) |
 | EAN/JAN Code | 4960759023063 |
+
+### Fisheye-NIKKOR 6mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 6mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.25m |
+| Weight | 5200g |
+| Aperture Blades | 7 |
+| Optical Construction | 12 elements in 9 groups |
+| Fisheye | YES |
+| Release Date | 1972 |
+| Discontinued | YES (2000) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Fisheye-NIKKOR 8mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 8mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.3m |
+| Weight | 1000g |
+| Aperture Blades | 7 |
+| Optical Construction | 10 elements in 8 groups |
+| Fisheye | YES |
+| Release Date | 1970 |
+| Discontinued | YES (1998) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai NIKKOR 16mm f/2.8 Fisheye
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 16mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.3m |
+| Weight | 320g |
+| Aperture Blades | 7 |
+| Optical Construction | 8 elements in 5 groups |
+| Fisheye | YES |
+| Release Date | 1979 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 15mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 15mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 0.3m |
+| Weight | 630g |
+| Aperture Blades | 9 |
+| Optical Construction | 14 elements in 12 groups |
+| Angle of View | 110.5° |
+| Release Date | 1980 |
+| Discontinued | YES (2001) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai NIKKOR 18mm f/4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 18mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 0.3m |
+| Weight | 350g |
+| Aperture Blades | 7 |
+| Optical Construction | 12 elements in 10 groups |
+| Angle of View | 100.5° |
+| Release Date | 1974 |
+| Discontinued | YES (1982) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 20mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 20mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 0.25m |
+| Weight | 270g |
+| Aperture Blades | 7 |
+| Optical Construction | 12 elements in 9 groups |
+| Angle of View | 94.5° |
+| Release Date | 1984 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai NIKKOR 24mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 24mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 320g |
+| Aperture Blades | 7 |
+| Optical Construction | 11 elements in 10 groups |
+| Angle of View | 84.1° |
+| Release Date | 1977 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 24mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 24mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 270g |
+| Aperture Blades | 7 |
+| Optical Construction | 9 elements in 9 groups |
+| Angle of View | 84.1° |
+| Release Date | 1981 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 28mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 28mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.25m |
+| Weight | 250g |
+| Aperture Blades | 7 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 75.4° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 28mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 28mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.2m |
+| Weight | 250g |
+| Aperture Blades | 7 |
+| Optical Construction | 8 elements in 8 groups |
+| Angle of View | 75.4° |
+| Release Date | 1981 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 28mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 28mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 235g |
+| Aperture Blades | 7 |
+| Optical Construction | 6 elements in 6 groups |
+| Angle of View | 75.4° |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 35mm f/1.4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 400g |
+| Aperture Blades | 9 |
+| Optical Construction | 9 elements in 7 groups |
+| Angle of View | 63.4° |
+| Release Date | 1981 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 35mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 235g |
+| Aperture Blades | 7 |
+| Optical Construction | 8 elements in 6 groups |
+| Angle of View | 63.4° |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 35mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 195g |
+| Aperture Blades | 7 |
+| Optical Construction | 6 elements in 6 groups |
+| Angle of View | 63.4° |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Noct-NIKKOR 58mm f/1.2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 58mm |
+| Aperture | F1.2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.5m |
+| Weight | 470g |
+| Aperture Blades | 7 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 40.9° |
+| Release Date | 1977 |
+| Discontinued | YES (1997) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 50mm f/1.2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 50mm |
+| Aperture | F1.2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.5m |
+| Weight | 360g |
+| Aperture Blades | 9 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
+| Release Date | 1981 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 50mm f/1.4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.45m |
+| Weight | 255g |
+| Aperture Blades | 7 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 50mm f/1.8 (Pancake)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 50mm |
+| Aperture | F1.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.45m |
+| Weight | 155g |
+| Aperture Blades | 7 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
+| Release Date | 1980 |
+| Discontinued | YES (1985) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 50mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.45m |
+| Weight | 210g |
+| Aperture Blades | 7 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
+| Release Date | 1979 |
+| Discontinued | YES (1985) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 85mm f/1.4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 85mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 0.85m |
+| Weight | 620g |
+| Aperture Blades | 9 |
+| Optical Construction | 8 elements in 7 groups |
+| Angle of View | 28.6° |
+| Release Date | 1981 |
+| Discontinued | YES (2006) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 85mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 85mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.85m |
+| Weight | 355g |
+| Aperture Blades | 7 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 28.6° |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 105mm f/1.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 105mm |
+| Aperture | F1.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 1m |
+| Weight | 640g |
+| Aperture Blades | 9 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 23.3° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 105mm f/2.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 105mm |
+| Aperture | F2.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1m |
+| Weight | 435g |
+| Aperture Blades | 7 |
+| Optical Construction | 5 elements in 4 groups |
+| Angle of View | 23.3° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 135mm f/2
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 135mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 1.3m |
+| Weight | 830g |
+| Aperture Blades | 9 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 18.2° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 135mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 135mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1.3m |
+| Weight | 465g |
+| Aperture Blades | 7 |
+| Optical Construction | 4 elements in 4 groups |
+| Angle of View | 18.2° |
+| Release Date | 1981 |
+| Discontinued | YES (1993) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 135mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 135mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1.3m |
+| Weight | 380g |
+| Aperture Blades | 7 |
+| Optical Construction | 4 elements in 4 groups |
+| Angle of View | 18.2° |
+| Release Date | 1981 |
+| Discontinued | YES (1985) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 180mm f/2.8 ED
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 180mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 1.8m |
+| Weight | 800g |
+| Aperture Blades | 9 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 13.7° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 200mm f/4
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 200mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 2m |
+| Weight | 530g |
+| Aperture Blades | 7 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 12.3° |
+| Release Date | 1981 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 300mm f/2.8 ED
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 300mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 122mm |
+| Min Focus Distance | 4m |
+| Weight | 2500g |
+| Aperture Blades | 9 |
+| Optical Construction | 8 elements in 6 groups |
+| Angle of View | 8.2° |
+| Internal Focus | YES |
+| Release Date | 1981 |
+| Discontinued | YES (1988) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 300mm f/4.5 ED (IF)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 300mm |
+| Aperture | F4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 2.5m |
+| Weight | 990g |
+| Aperture Blades | 9 |
+| Optical Construction | 8 elements in 6 groups |
+| Angle of View | 8.2° |
+| Internal Focus | YES |
+| Release Date | 1981 |
+| Discontinued | YES (1993) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 400mm f/3.5 ED IF
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 400mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 39mm |
+| Min Focus Distance | 4m |
+| Weight | 2900g |
+| Aperture Blades | 9 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 6.2° |
+| Internal Focus | YES |
+| Release Date | 1985 |
+| Discontinued | YES (1993) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S NIKKOR 500mm f/4P IF-ED
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 500mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 39mm |
+| Min Focus Distance | 5m |
+| Weight | 3000g |
+| Aperture Blades | 9 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 5° |
+| Internal Focus | YES |
+| Release Date | 1988 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Reflex-NIKKOR 500mm f/8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 500mm |
+| Aperture | F8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 39mm |
+| Min Focus Distance | 1.5m |
+| Weight | 840g |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 5° |
+| Release Date | 1983 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Reflex-NIKKOR 1000mm f/11
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 1000mm |
+| Aperture | F11 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 39mm |
+| Min Focus Distance | 8m |
+| Weight | 1900g |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 2.5° |
+| Release Date | 1974 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S Micro-NIKKOR 55mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 55mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.25m |
+| Weight | 290g |
+| Max Magnification | 0.5x |
+| Aperture Blades | 7 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 42.9° |
+| Macro | YES |
+| Release Date | 1979 |
+| Discontinued | YES (2020) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S Micro-NIKKOR 105mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 105mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.41m |
+| Weight | 515g |
+| Max Magnification | 1x |
+| Aperture Blades | 9 |
+| Optical Construction | 10 elements in 9 groups |
+| Angle of View | 23.3° |
+| Macro | YES |
+| Release Date | 1983 |
+| Discontinued | YES (2005) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### Ai-S Micro-NIKKOR 200mm f/4 IF
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 200mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.71m |
+| Weight | 800g |
+| Max Magnification | 1x |
+| Aperture Blades | 9 |
+| Optical Construction | 9 elements in 6 groups |
+| Angle of View | 12.3° |
+| Internal Focus | YES |
+| Macro | YES |
+| Release Date | 1978 |
+| Discontinued | YES (1993) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### PC-NIKKOR 28mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 28mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 72mm |
+| Min Focus Distance | 0.3m |
+| Weight | 400g |
+| Aperture Blades | 7 |
+| Optical Construction | 12 elements in 10 groups |
+| Angle of View | 75.4° |
+| Tilt / Shift | YES |
+| Release Date | 1981 |
+| Discontinued | YES (2006) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
+
+### PC-NIKKOR 35mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 320g |
+| Aperture Blades | 7 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 63.4° |
+| Tilt / Shift | YES |
+| Release Date | 1980 |
+| Discontinued | YES (1992) |
+| Official URL | https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/ |
