@@ -39,15 +39,50 @@ const matchesStatus = (lens: Lens): boolean => {
 const matchesList = (selected: string[], value: string): boolean =>
   selected.length === 0 || selected.includes(value);
 
+const matchesFocal = (lens: Lens): boolean => {
+  const from = state.focalFrom.value;
+  const to = state.focalTo.value;
+  if (from === undefined && to === undefined) return true;
+  const lo = equivMin(lens, state.equiv.value);
+  const hi = equivMax(lens, state.equiv.value);
+  return (from === undefined || hi >= from) && (to === undefined || lo <= to);
+};
+
+const matchesFStop = (lens: Lens): boolean =>
+  state.fstopMax.value === undefined ||
+  (lens.fStop.length > 0 && lens.fStop[0] <= state.fstopMax.value);
+
 const filtered = computed(() =>
   lenses.filter(
     (lens) =>
       matchesList(state.makers.value, lens.maker) &&
       matchesList(state.mounts.value, lens.mount) &&
       matchesList(state.formats.value, lens.format) &&
+      matchesFocal(lens) &&
+      matchesFStop(lens) &&
       matchesStatus(lens),
   ),
 );
+
+const F_STOP_CHOICES = [1, 1.4, 1.8, 2, 2.8, 4, 5.6] as const;
+
+const numberInput = (param: typeof state.focalFrom): ReturnType<typeof computed<number | "">> =>
+  computed({
+    get: () => param.value ?? "",
+    set: (value) => {
+      param.value = typeof value === "number" && value > 0 ? value : undefined;
+    },
+  });
+
+const focalFromInput = numberInput(state.focalFrom);
+const focalToInput = numberInput(state.focalTo);
+
+const fstopSelect = computed({
+  get: () => state.fstopMax.value ?? 0,
+  set: (value: number) => {
+    state.fstopMax.value = value > 0 ? value : undefined;
+  },
+});
 
 const sorted = computed(() =>
   sortLenses(filtered.value, state.sort.value, state.dir.value, state.equiv.value),
@@ -67,6 +102,9 @@ const hasFilters = computed(
     state.makers.value.length > 0 ||
     state.mounts.value.length > 0 ||
     state.formats.value.length > 0 ||
+    state.focalFrom.value !== undefined ||
+    state.focalTo.value !== undefined ||
+    state.fstopMax.value !== undefined ||
     state.status.value !== "all",
 );
 
@@ -121,6 +159,36 @@ const statusOptions = computed((): { value: StatusFilter; label: string }[] => [
         :label="t('filter.format')"
         :options="formatOptions"
       />
+      <div class="flex flex-wrap items-center gap-1.5">
+        <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.focal") }}</span>
+        <input
+          v-model.number="focalFromInput"
+          type="number"
+          min="1"
+          inputmode="numeric"
+          placeholder="min"
+          class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+        />
+        <span class="text-mut text-xs">–</span>
+        <input
+          v-model.number="focalToInput"
+          type="number"
+          min="1"
+          inputmode="numeric"
+          placeholder="max"
+          class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+        />
+        <span class="text-mut ml-3 shrink-0 text-[11px]">{{ t("filter.fstopMax") }}</span>
+        <select
+          v-model.number="fstopSelect"
+          class="bg-card border-line text-txt cursor-pointer rounded-lg border px-2 py-1 text-xs"
+        >
+          <option :value="0">{{ t("filter.fstopAny") }}</option>
+          <option v-for="f in F_STOP_CHOICES" :key="f" :value="f">
+            {{ t("filter.fstopAtMost", { value: f }) }}
+          </option>
+        </select>
+      </div>
       <div class="flex flex-wrap items-center gap-1.5">
         <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.status") }}</span>
         <button

@@ -18,6 +18,10 @@ const en = {
     current: "In production",
     discontinued: "Discontinued",
     clear: "Clear filters",
+    focal: "Focal (mm)",
+    fstopMax: "Max aperture",
+    fstopAny: "Any",
+    fstopAtMost: "f/{value} or faster",
   },
   sort: {
     label: "Sort",
@@ -84,6 +88,10 @@ const ja = {
     current: "現行",
     discontinued: "生産終了",
     clear: "クリア",
+    focal: "焦点距離 (mm)",
+    fstopMax: "開放F値",
+    fstopAny: "指定なし",
+    fstopAtMost: "F{value} 以下",
   },
   sort: {
     label: "並び順",
