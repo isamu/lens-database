@@ -1599,3 +1599,771 @@
 | Length | 46.5mm |
 | Macro | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-da-macro-35/) |
+
+### smc PENTAX-M 15mmF3.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 15mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.3m |
+| Weight | 600g |
+| Aperture Blades | 8 |
+| Optical Construction | 13 elements in 12 groups |
+| Angle of View | 110.5° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 20mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 20mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.25m |
+| Weight | 210g |
+| Aperture Blades | 6 |
+| Optical Construction | 10 elements in 9 groups |
+| Angle of View | 94.5° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 24mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 24mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.25m |
+| Weight | 235g |
+| Aperture Blades | 6 |
+| Optical Construction | 9 elements in 9 groups |
+| Angle of View | 84.1° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 28mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 28mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.3m |
+| Weight | 245g |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 75.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 28mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 28mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.3m |
+| Weight | 155g |
+| Aperture Blades | 6 |
+| Optical Construction | 7 elements in 7 groups |
+| Angle of View | 75.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 28mmF3.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 28mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.3m |
+| Weight | 165g |
+| Aperture Blades | 6 |
+| Optical Construction | 7 elements in 7 groups |
+| Angle of View | 75.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 35mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 35mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.35m |
+| Weight | 195g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 63.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 35mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 35mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.35m |
+| Weight | 165g |
+| Aperture Blades | 6 |
+| Optical Construction | 6 elements in 6 groups |
+| Angle of View | 63.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A 20mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 20mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.25m |
+| Weight | 250g |
+| Aperture Blades | 8 |
+| Optical Construction | 10 elements in 9 groups |
+| Angle of View | 94.5° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A 28mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 28mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.3m |
+| Weight | 160g |
+| Aperture Blades | 6 |
+| Optical Construction | 7 elements in 7 groups |
+| Angle of View | 75.4° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A 35mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 35mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.35m |
+| Weight | 190g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 63.4° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M 40mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 40mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.6m |
+| Weight | 110g |
+| Aperture Blades | 5 |
+| Optical Construction | 5 elements in 4 groups |
+| Angle of View | 56.8° |
+| Release Date | 1976 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 50mmF1.4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 235g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 50mmF1.7
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F1.7 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 175g |
+| Aperture Blades | 6 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M 50mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 165g |
+| Aperture Blades | 6 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1979 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M MACRO 50mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.234m |
+| Weight | 210g |
+| Max Magnification | 0.5x |
+| Aperture Blades | 8 |
+| Optical Construction | 4 elements in 3 groups |
+| Angle of View | 46.8° |
+| Macro | YES |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M MACRO 100mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 100mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 385g |
+| Max Magnification | 0.5x |
+| Aperture Blades | 8 |
+| Optical Construction | 5 elements in 3 groups |
+| Angle of View | 24.4° |
+| Macro | YES |
+| Release Date | 1979 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A 50mmF1.2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F1.2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.45m |
+| Weight | 385g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A 50mmF1.4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 235g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A 50mmF1.7
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F1.7 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 175g |
+| Aperture Blades | 6 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A 50mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.45m |
+| Weight | 165g |
+| Aperture Blades | 6 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1985 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M 85mmF2
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 85mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.85m |
+| Weight | 300g |
+| Aperture Blades | 8 |
+| Optical Construction | 5 elements in 4 groups |
+| Angle of View | 28.6° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A* 85mmF1.4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 85mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.85m |
+| Weight | 550g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 28.6° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M 100mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 100mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 1m |
+| Weight | 280g |
+| Aperture Blades | 8 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 24.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A MACRO 100mmF2.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 100mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.31m |
+| Weight | 500g |
+| Max Magnification | 1x |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
+| Macro | YES |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M 135mmF3.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 135mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 1.5m |
+| Weight | 335g |
+| Aperture Blades | 6 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 18.2° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A* 135mmF1.8
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 135mm |
+| Aperture | F1.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 82mm |
+| Min Focus Distance | 1.2m |
+| Weight | 915g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 18.2° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M 200mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 200mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 2m |
+| Weight | 405g |
+| Aperture Blades | 8 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 12.3° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M* 300mmF4 ED
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 300mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 77mm |
+| Min Focus Distance | 4m |
+| Weight | 1300g |
+| Aperture Blades | 8 |
+| Optical Construction | 8 elements in 6 groups |
+| Angle of View | 8.2° |
+| Release Date | 1983 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A* MACRO 200mmF4 ED
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 200mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.5m |
+| Weight | 970g |
+| Max Magnification | 1x |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 12.3° |
+| Macro | YES |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A* 300mmF2.8 ED (IF)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 300mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 112mm |
+| Min Focus Distance | 3m |
+| Weight | 3100g |
+| Aperture Blades | 9 |
+| Optical Construction | 8 elements in 7 groups |
+| Angle of View | 8.2° |
+| Internal Focus | YES |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A* 400mmF2.8 ED (IF)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 400mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 4m |
+| Weight | 5500g |
+| Aperture Blades | 9 |
+| Optical Construction | 10 elements in 8 groups |
+| Angle of View | 6.2° |
+| Internal Focus | YES |
+| Release Date | 1985 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A* 600mmF5.6 ED (IF)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 600mm |
+| Aperture | F5.6 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 6m |
+| Weight | 3700g |
+| Aperture Blades | 9 |
+| Optical Construction | 9 elements in 7 groups |
+| Angle of View | 4.1° |
+| Internal Focus | YES |
+| Release Date | 1985 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-M ZOOM 35-70mmF3.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 35 - 70mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 1m |
+| Weight | 325g |
+| Aperture Blades | 6 |
+| Optical Construction | 8 elements in 8 groups |
+| Angle of View | 63.4° - 34.3° |
+| Release Date | 1978 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M ZOOM 40-80mmF2.8-4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 40 - 80mm |
+| Aperture | F2.8 - 4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 1m |
+| Weight | 315g |
+| Aperture Blades | 6 |
+| Optical Construction | 8 elements in 8 groups |
+| Angle of View | 56.8° - 30.3° |
+| Release Date | 1979 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M ZOOM 75-150mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 75 - 150mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1.2m |
+| Weight | 445g |
+| Aperture Blades | 6 |
+| Optical Construction | 12 elements in 9 groups |
+| Angle of View | 32.2° - 16.4° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-M ZOOM 80-200mmF4.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 80 - 200mm |
+| Aperture | F4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 1.6m |
+| Weight | 555g |
+| Aperture Blades | 6 |
+| Optical Construction | 11 elements in 8 groups |
+| Angle of View | 30.3° - 12.3° |
+| Release Date | 1977 |
+| Discontinued | YES (1990) |
+
+### smc PENTAX-A ZOOM 28-135mmF4-4.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 28 - 135mm |
+| Aperture | F4 - 4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 1.5m |
+| Weight | 690g |
+| Aperture Blades | 8 |
+| Optical Construction | 16 elements in 12 groups |
+| Angle of View | 75.4° - 18.2° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A ZOOM 35-135mmF3.5-4.5
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 35 - 135mm |
+| Aperture | F3.5 - 4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 1.6m |
+| Weight | 550g |
+| Aperture Blades | 8 |
+| Optical Construction | 13 elements in 12 groups |
+| Angle of View | 63.4° - 18.2° |
+| Release Date | 1985 |
+| Discontinued | YES (2000) |
+
+### smc PENTAX-A ZOOM 70-210mmF4
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 70 - 210mm |
+| Aperture | F4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 1.1m |
+| Weight | 685g |
+| Aperture Blades | 8 |
+| Optical Construction | 13 elements in 10 groups |
+| Angle of View | 34.3° - 11.8° |
+| Release Date | 1984 |
+| Discontinued | YES (2000) |

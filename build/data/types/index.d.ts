@@ -1,4 +1,4 @@
-export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa" | "Samyang" | "Meike" | "Zhongyi" | "AstrHori" | "Sirui" | "Yashica" | "Konica";
+export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa" | "Samyang" | "Meike" | "Zhongyi" | "AstrHori" | "Sirui" | "Yashica" | "Konica" | "Minolta" | "Pergear" | "Brightin" | "Kamlan" | "Kowa";
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
@@ -10,7 +10,8 @@ export type SigmaMount = "SA";
 export type LeicaMount = "M" | "L" | "R";
 export type YashicaMount = "CY";
 export type KonicaMount = "AR";
-export type Mount = CanonMount | FujifilmMount | SonyMount | NikonMount | OlympusMount | PanasonicMount | PentaxMount | SigmaMount | LeicaMount | YashicaMount | KonicaMount;
+export type MinoltaMount = "MD";
+export type Mount = CanonMount | FujifilmMount | SonyMount | NikonMount | OlympusMount | PanasonicMount | PentaxMount | SigmaMount | LeicaMount | YashicaMount | KonicaMount | MinoltaMount;
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 export type Focus = "AF" | "MF";
 export type LensUrls = {
