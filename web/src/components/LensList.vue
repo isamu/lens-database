@@ -4,6 +4,7 @@ import { fStopLabel, focalLabel, releaseYear } from "../lib/lens";
 import { useLangPath } from "../composables/useLangPath";
 import LensImage from "./LensImage.vue";
 import MountChip from "./MountChip.vue";
+import CompareButton from "./CompareButton.vue";
 
 defineProps<{ lenses: Lens[]; equiv: boolean }>();
 const { lensPath } = useLangPath();
@@ -39,6 +40,7 @@ const { lensPath } = useLangPath();
         >
           {{ $t("badge.discontinued") }}
         </span>
+        <CompareButton :lens="lens" />
       </div>
     </RouterLink>
   </div>
