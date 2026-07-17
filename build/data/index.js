@@ -15,4 +15,6 @@ export * from "./ttartisan";
 export * from "./sevenartisans";
 export * from "./sg-image";
 export * from "./thypoch";
+export * from "./viltrox";
+export * from "./laowa";
 export * from "./types";

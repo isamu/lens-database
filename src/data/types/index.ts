@@ -17,7 +17,9 @@ export type Maker =
   | "TTArtisan"
   | "7Artisans"
   | "SG-image"
-  | "Thypoch";
+  | "Thypoch"
+  | "Viltrox"
+  | "Laowa";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
