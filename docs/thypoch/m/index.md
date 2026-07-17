@@ -15,6 +15,7 @@
 | Weight | 131g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 91.7° |
 | Diameter | 42mm |
 | Length | 27mm |
 | Release Date | 2026-01 |
@@ -36,6 +37,7 @@
 | Weight | 330g |
 | Aperture Blades | 14 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 54mm |
 | Length | 55mm |
 | Release Date | 2024-01 |
@@ -57,6 +59,7 @@
 | Weight | 272g |
 | Aperture Blades | 14 |
 | Optical Construction | 9 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 54mm |
 | Length | 51mm |
 | Release Date | 2024-01 |
@@ -79,6 +82,7 @@
 | Max Magnification | 0.156x |
 | Aperture Blades | 14 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 54mm |
 | Length | 53mm |
 | Release Date | 2025-09-19 |
@@ -100,6 +104,7 @@
 | Weight | 372g |
 | Aperture Blades | 16 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 32.2° |
 | Diameter | 62mm |
 | Length | 64mm |
 | Release Date | 2025-09-19 |
@@ -120,6 +125,7 @@
 | Min Focus Distance | 0.4m |
 | Aperture Blades | 14 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 75.4° |
 | Release Date | 2025-10-10 |
 | Official URL | https://thypoch.com/en/simera/28mm |
 | URL | [official](https://thypoch.com/en/simera/28mm)<br />[stkb](https://www.stkb.jp/shopdetail/000000002334/)<br />[stkbinfo](https://stkb.co.jp/info/?p=46720) |
@@ -139,6 +145,7 @@
 | Weight | 280g |
 | Aperture Blades | 14 |
 | Optical Construction | 9 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 56mm |
 | Length | 51mm |
 | Release Date | 2025-10-10 |

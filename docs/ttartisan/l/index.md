@@ -14,6 +14,7 @@
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 7 groups |
 | Diameter | 67mm |
+| Fisheye | YES |
 | Release Date | 2020-04-15 |
 | Official URL | https://ttartisan.com/?full-frame-lenses%2F62.html= |
 | URL | [official](https://ttartisan.com/?full-frame-lenses%2F62.html=)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586054/) |
@@ -34,6 +35,7 @@
 | Weight | 458g |
 | Aperture Blades | 10 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 91.7° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586863/) |
 | EAN/JAN Code | 4589457586863 |
 
@@ -52,6 +54,7 @@
 | Weight | 400g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Official URL | https://ttartisan.store/products/50mm-f1-4-asph |
 | URL | [official](https://ttartisan.store/products/50mm-f1-4-asph) |
 
@@ -70,6 +73,7 @@
 | Weight | 1010g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 7 groups |
+| Angle of View | 27° |
 
 ### 100mm f/2.8 Macro 2X
 |  | |
@@ -87,6 +91,8 @@
 | Max Magnification | 2x |
 | Aperture Blades | 12 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 24.4° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457582995/) |
 | EAN/JAN Code | 4589457582995 |
 
@@ -106,6 +112,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 39.1° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457587716/) |
 | EAN/JAN Code | 4589457587716 |
 
@@ -124,6 +132,7 @@
 | Weight | 165g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 39.1° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056432/) |
 | EAN/JAN Code | 4582733056432 |
 
@@ -142,5 +151,6 @@
 | Weight | 240g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 21.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733055923/)<br />[stkb](https://stkb.co.jp/info/?p=42378) |
 | EAN/JAN Code | 4582733055923 |

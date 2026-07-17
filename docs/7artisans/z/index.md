@@ -13,6 +13,7 @@
 | Min Focus Distance | 0.15m |
 | Weight | 265g |
 | Optical Construction | 9 elements in 7 groups |
+| Fisheye | YES |
 | Release Date | 2021-05 |
 
 ### 10mm F3.5
@@ -25,6 +26,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 109.7° |
 | Release Date | 2025-07 |
 | URL | [kakaku](https://kakaku.com/item/K0001698206/) |
 
@@ -38,6 +40,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 44.2° |
 
 ### 50mm F1.05
 |  | |
@@ -52,6 +55,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.57m |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 46.8° |
 
 ### 75mm F1.4
 |  | |
@@ -63,6 +67,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 32.2° |
 | URL | [kakaku](https://kakaku.com/item/K0001725200/) |
 
 ### AF 50mm F1.8
@@ -79,6 +84,7 @@
 | Min Focus Distance | 0.5m |
 | Weight | 450g |
 | Optical Construction | 9 elements in 11 groups |
+| Angle of View | 46.8° |
 | Diameter | 72mm |
 | Length | 100mm |
 | Release Date | 2024-06-13 |
@@ -94,6 +100,7 @@
 | Focus | AF, MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 31.7° |
 | Release Date | 2026-06-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001791255/) |
 
@@ -110,5 +117,6 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.68m |
 | Weight | 1035g |
+| Angle of View | 18.2° |
 | Release Date | 2026-06-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001788296/) |

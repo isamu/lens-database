@@ -16,6 +16,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 114.2° - 84.1° |
 | Diameter | 88.5mm |
 | Length | 124.5mm |
 | Release Date | 2020-10-30 |
@@ -39,6 +40,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 114.2° - 71.6° |
 | Diameter | 89mm |
 | Length | 85mm |
 | Release Date | 2019-04-19 |
@@ -62,6 +64,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 103.7° - 75.4° |
 | Diameter | 75mm |
 | Length | 101mm |
 | Release Date | 2022-10-28 |
@@ -85,6 +88,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 84.1° - 46.8° |
 | Diameter | 73.5mm |
 | Length | 51mm |
 | Release Date | 2020-08-28 |
@@ -108,6 +112,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 15 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 89mm |
 | Length | 126mm |
 | Release Date | 2019-04-19 |
@@ -132,6 +137,7 @@
 | Max Magnification | 0.32x |
 | Aperture Blades | 11 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 84mm |
 | Length | 142mm |
 | Release Date | 2025-09-26 |
@@ -155,6 +161,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 77.5mm |
 | Length | 88.5mm |
 | Release Date | 2018-09-28 |
@@ -178,6 +185,7 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 84.1° - 23.3° |
 | Diameter | 73.5mm |
 | Length | 106.5mm |
 | Release Date | 2026-01-30 |
@@ -201,6 +209,7 @@
 | Max Magnification | 0.39x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 84.1° - 20.4° |
 | Diameter | 84mm |
 | Length | 118mm |
 | Release Date | 2022-01-28 |
@@ -224,6 +233,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 7 |
 | Optical Construction | 19 elements in 15 groups |
+| Angle of View | 84.1° - 12.3° |
 | Diameter | 76.5mm |
 | Length | 114mm |
 | Release Date | 2020-07-03 |
@@ -247,6 +257,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 75.4° - 32.2° |
 | Diameter | 75mm |
 | Length | 120.5mm |
 | Release Date | 2022-01-28 |
@@ -270,6 +281,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 75.4° - 18.2° |
 | Diameter | 105mm |
 | Length | 177.5mm |
 | Release Date | 2025-04-25 |
@@ -293,6 +305,7 @@
 | Max Magnification | 0.35x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 75.4° - 6.2° |
 | Diameter | 84.5mm |
 | Length | 141.5mm |
 | Release Date | 2024-04-19 |
@@ -316,6 +329,7 @@
 | Max Magnification | 0.48x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 14 groups |
+| Angle of View | 34.3° - 13.7° |
 | Diameter | 83.5mm |
 | Length | 151mm |
 | Release Date | 2023-07-14 |
@@ -339,6 +353,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 18 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 89mm |
 | Length | 220mm |
 | Release Date | 2020-08-28 |
@@ -363,6 +378,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 11 |
 | Optical Construction | 18 elements in 16 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 90mm |
 | Length | 208mm |
 | Release Date | 2026-04-24 |
@@ -386,6 +402,7 @@
 | Max Magnification | 0.38x |
 | Aperture Blades | 9 |
 | Optical Construction | 25 elements in 20 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 98mm |
 | Length | 222mm |
 | Release Date | 2022-02-04 |
@@ -409,6 +426,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 25 elements in 17 groups |
+| Angle of View | 13.7° - 4.1° |
 | Diameter | 110mm |
 | Length | 315.5mm |
 | Release Date | 2023-08-31 |
@@ -432,6 +450,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 99.6° - 53.8° |
 | Diameter | 72mm |
 | Length | 63.5mm |
 | Release Date | 2023-05-19 |
@@ -455,6 +474,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 74.5mm |
 | Length | 88mm |
 | Release Date | 2025-10-31 |
@@ -478,6 +498,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 70mm |
 | Length | 32mm |
 | Release Date | 2019-11-22 |
@@ -501,6 +522,7 @@
 | Max Magnification | 0.33x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 76.5° - 11.6° |
 | Diameter | 73mm |
 | Length | 90mm |
 | Release Date | 2021-11-26 |
@@ -522,6 +544,7 @@
 | Min Focus Distance | 0.5m |
 | Weight | 405g |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 31.7° - 6.5° |
 | Diameter | 74mm |
 | Length | 110mm |
 | Release Date | 2019-11-22 |
@@ -542,6 +565,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.2m |
 | Weight | 505g |
+| Angle of View | 94.5° |
 | Release Date | 2020-03-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001231901/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_20mm_f18_s/) |
 | EAN/JAN Code | 4960759903372 |
@@ -559,6 +583,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.25m |
 | Weight | 450g |
+| Angle of View | 84.1° |
 | Release Date | 2019-10-18 |
 | URL | [kakaku](https://kakaku.com/item/K0001196983/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_24mm_f18_s/) |
 | EAN/JAN Code | 4960759149855 |
@@ -576,6 +601,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.2m |
 | Weight | 125g |
+| Angle of View | 79.5° |
 | Release Date | 2023-03-03 |
 | URL | [kakaku](https://kakaku.com/item/K0001514530/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_26mm_f28/) |
 | EAN/JAN Code | 4960759910967 |
@@ -593,6 +619,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.19m |
 | Weight | 155g |
+| Angle of View | 75.4° |
 | Release Date | 2021-12-10 |
 | URL | [kakaku](https://kakaku.com/item/K0001400637/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_28mm_f28/) |
 | EAN/JAN Code | 4960759904911 |
@@ -610,6 +637,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.3m |
 | Weight | 1060g |
+| Angle of View | 63.4° |
 | Release Date | 2025-02-28 |
 | URL | [kakaku](https://kakaku.com/item/K0001674895/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f12_s/) |
 | EAN/JAN Code | 4960759911858 |
@@ -627,6 +655,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.27m |
 | Weight | 415g |
+| Angle of View | 63.4° |
 | Release Date | 2024-07-19 |
 | URL | [kakaku](https://kakaku.com/item/K0001635786/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f14/) |
 | EAN/JAN Code | 4960759915917 |
@@ -644,6 +673,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.25m |
 | Weight | 370g |
+| Angle of View | 63.4° |
 | Release Date | 2018-09-28 |
 | URL | [kakaku](https://kakaku.com/item/K0001083383/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_35mm_f18_s/) |
 | EAN/JAN Code | 4960759149862 |
@@ -661,6 +691,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.29m |
 | Weight | 170g |
+| Angle of View | 56.8° |
 | Release Date | 2021-10-01 |
 | URL | [kakaku](https://kakaku.com/item/K0001383586/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_40mm_f2/) |
 | EAN/JAN Code | 4960759904928 |
@@ -678,6 +709,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.45m |
 | Weight | 1090g |
+| Angle of View | 46.8° |
 | Release Date | 2020-12-11 |
 | URL | [kakaku](https://kakaku.com/item/K0001290458/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f12_s/) |
 | EAN/JAN Code | 4960759903495 |
@@ -695,6 +727,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.37m |
 | Weight | 420g |
+| Angle of View | 46.8° |
 | Release Date | 2024-09-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001652518/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f14/) |
 | EAN/JAN Code | 4960759915979 |
@@ -712,6 +745,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.4m |
 | Weight | 415g |
+| Angle of View | 46.8° |
 | Release Date | 2018-12-07 |
 | URL | [kakaku](https://kakaku.com/item/K0001083384/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_50mm_f18_s/) |
 | EAN/JAN Code | 4960759900067 |
@@ -730,6 +764,7 @@
 | Min Focus Distance | 0.16m |
 | Weight | 260g |
 | Max Magnification | 1x |
+| Angle of View | 46.8° |
 | Release Date | 2021-06-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001359147/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_mc_50mm_f28/) |
 | EAN/JAN Code | 4960759905659 |
@@ -747,6 +782,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.5m |
 | Weight | 2000g |
+| Angle of View | 40.9° |
 | Release Date | 2019-10 |
 | URL | [kakaku](https://kakaku.com/item/K0001201593/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_58mm_f095_s_noct/) |
 | EAN/JAN Code | 4960759900951 |
@@ -764,6 +800,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.85m |
 | Weight | 1160g |
+| Angle of View | 28.6° |
 | Release Date | 2023-03-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001514529/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_85mm_f12_s/) |
 | EAN/JAN Code | 4960759910318 |
@@ -781,6 +818,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.8m |
 | Weight | 470g |
+| Angle of View | 28.6° |
 | Release Date | 2019-09-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001178925/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_85mm_f18_s/) |
 | EAN/JAN Code | 4960759902184 |
@@ -799,6 +837,7 @@
 | Min Focus Distance | 0.29m |
 | Weight | 630g |
 | Max Magnification | 1x |
+| Angle of View | 23.3° |
 | Release Date | 2021-06-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001359148/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_mc_105mm_f28_vr_s/) |
 | EAN/JAN Code | 4960759904850 |
@@ -816,6 +855,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.82m |
 | Weight | 995g |
+| Angle of View | 18.2° |
 | Release Date | 2023-10-13 |
 | URL | [kakaku](https://kakaku.com/item/K0001572218/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_135mm_f18_s_plena/) |
 | EAN/JAN Code | 4960759911957 |
@@ -833,6 +873,7 @@
 | Filter Diameter | 46mm |
 | Min Focus Distance | 2.5m |
 | Weight | 2950g |
+| Angle of View | 6.2° |
 | Release Date | 2022-02-18 |
 | URL | [kakaku](https://kakaku.com/item/K0001416825/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_400mm_f28_tc_vr_s/) |
 | EAN/JAN Code | 4960759906984 |
@@ -850,6 +891,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 2.5m |
 | Weight | 1160g |
+| Angle of View | 6.2° |
 | Release Date | 2022-07-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001454527/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_400mm_f45_vr_s/) |
 | EAN/JAN Code | 4960759909459 |
@@ -867,6 +909,7 @@
 | Filter Diameter | 46mm |
 | Min Focus Distance | 4.3m |
 | Weight | 3260g |
+| Angle of View | 4.1° |
 | Release Date | 2022-11-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001488833/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_600mm_f4_tc_vr_s/) |
 | EAN/JAN Code | 4960759911247 |
@@ -884,6 +927,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 4m |
 | Weight | 1390g |
+| Angle of View | 4.1° |
 | Release Date | 2023-10-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001576082/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_600mm_f63_vr_s/) |
 | EAN/JAN Code | 4960759911346 |
@@ -901,6 +945,7 @@
 | Filter Diameter | 46mm |
 | Min Focus Distance | 5m |
 | Weight | 2385g |
+| Angle of View | 3.1° |
 | Release Date | 2022-04-22 |
 | URL | [kakaku](https://kakaku.com/item/K0001433498/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_800mm_f63_vr_s/) |
 | EAN/JAN Code | 4960759909091 |
@@ -918,6 +963,7 @@
 | Filter Diameter | 46mm |
 | Min Focus Distance | 0.18m |
 | Weight | 135g |
+| Angle of View | 61.2° |
 | Release Date | 2023-06-23 |
 | URL | [kakaku](https://kakaku.com/item/K0001543091/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_24mm_f17/) |
 | EAN/JAN Code | 4960759911001 |
@@ -936,6 +982,7 @@
 | Min Focus Distance | 0.16m |
 | Weight | 220g |
 | Max Magnification | 0.67x |
+| Angle of View | 44.2° |
 | Release Date | 2025-10-31 |
 | URL | [kakaku](https://kakaku.com/item/K0001715105/)<br />[official](https://nij.nikon.com/products/lineup/nikkor/zmount/nikkor_z_dx_mc_35mm_f17/) |
 | EAN/JAN Code | 4960759917416 |

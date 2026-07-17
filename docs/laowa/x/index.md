@@ -16,8 +16,10 @@
 | Max Magnification | 2x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 24.6° |
 | Diameter | 66mm |
 | Length | 100mm |
+| Macro | YES |
 | Official URL | https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/ |
 | URL | [official](https://www.venuslens.net/product/laowa-65mm-f-2-8-2x-ultra-macro-apo/) |
 
@@ -36,6 +38,7 @@
 | Weight | 620g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 59.2° |
 | Diameter | 71.5mm |
 | Length | 91mm |
 | Official URL | https://www.venuslens.net/product/argus-25mm-f-0-95/ |
@@ -56,6 +59,7 @@
 | Weight | 590g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 46.6° |
 | Diameter | 71.5mm |
 | Length | 82mm |
 | Official URL | https://www.venuslens.net/product/argus-33mm-f-0-95-cf-apo/ |

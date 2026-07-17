@@ -13,6 +13,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.45m |
 | Weight | 700g |
+| Angle of View | 84.1° - 23.3° |
 | Release Date | 2018-10-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001086555/) |
 | EAN/JAN Code | 4549292115796 |
@@ -30,6 +31,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 0.39m |
 | Weight | 1430g |
+| Angle of View | 75.4° - 34.3° |
 | Release Date | 2018-12-13 |
 | URL | [kakaku](https://kakaku.com/item/K0001086556/) |
 | EAN/JAN Code | 4549292115611 |
@@ -47,6 +49,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.28m |
 | Weight | 840g |
+| Angle of View | 110.5° - 63.4° |
 | Release Date | 2019-09-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001185356/) |
 | EAN/JAN Code | 4549292152272 |
@@ -64,6 +67,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.21m |
 | Weight | 900g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2019-09-27 |
 | Official URL | https://global.canon/en/c-museum/product/rf485.html |
 | URL | [kakaku](https://kakaku.com/item/K0001185357/)<br />[amazonjp](https://www.amazon.co.jp/dp/B07WQYHH1Q) |
@@ -82,6 +86,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.7m |
 | Weight | 1070g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2019-11-21 |
 | Official URL | https://global.canon/en/c-museum/product/rf486.html |
 | URL | [kakaku](https://kakaku.com/item/K0001205003/) |
@@ -100,6 +105,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.9m |
 | Weight | 1365g |
+| Angle of View | 24.4° - 5° |
 | Release Date | 2020-09-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001272156/) |
 | EAN/JAN Code | 4549292153682 |
@@ -117,6 +123,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.6m |
 | Weight | 695g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2021-03-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001301755/) |
 | EAN/JAN Code | 4549292172966 |
@@ -134,6 +141,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.2m |
 | Weight | 540g |
+| Angle of View | 114.2° - 63.4° |
 | Release Date | 2021-09 |
 | URL | [kakaku](https://kakaku.com/item/K0001365534/)<br />[official](https://personal.canon.jp/product/camera/rf/rf14-35-f4l) |
 | EAN/JAN Code | 4549292186758 |
@@ -151,6 +159,7 @@
 | Filter Diameter | 112mm |
 | Min Focus Distance | 1.8m |
 | Weight | 2590g |
+| Angle of View | 24.4° - 8.2° |
 | Release Date | 2023-05-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001530716/)<br />[official](https://corporate.jp.canon/newsrelease/2023/pr-rf100-300-f28) |
 | EAN/JAN Code | 4549292216165 |
@@ -167,6 +176,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.25m |
 | Weight | 570g |
+| Angle of View | 130.4° - 94.5° |
 | Release Date | 2023-10-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001576083/)<br />[official](https://personal.canon.jp/product/camera/rf/rf10-20-f4l) |
 | EAN/JAN Code | 4549292220582 |
@@ -184,6 +194,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.45m |
 | Weight | 1330g |
+| Angle of View | 84.1° - 23.3° |
 | Release Date | 2023-12-08 |
 | URL | [kakaku](https://kakaku.com/item/K0001581281/)<br />[official](https://corporate.jp.canon/newsrelease/2023/pr-1102) |
 | EAN/JAN Code | 4549292223156 |
@@ -201,6 +212,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.49m |
 | Weight | 1110g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2024-11-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001660996/)<br />[official](https://personal.canon.jp/product/camera/rf/rf70-200-f28lz) |
 | EAN/JAN Code | 4549292240603 |
@@ -217,6 +229,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.15m |
 | Weight | 476g |
+| Fisheye | YES |
 | Release Date | 2026-02-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001768013/)<br />[official](https://corporate.jp.canon/newsrelease/2026/pr-0205c) |
 | EAN/JAN Code | 4549292252385 |
@@ -234,6 +247,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.24m |
 | Weight | 420g |
+| Angle of View | 94.5° - 46.8° |
 | Release Date | 2026-06 |
 | URL | [kakaku](https://kakaku.com/item/K0001784964/)<br />[official](https://personal.canon.jp/product/camera/rf/rf20-50-f4lpz) |
 | EAN/JAN Code | 4549292251227 |
@@ -251,6 +265,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.4m |
 | Weight | 950g |
+| Angle of View | 46.8° |
 | Release Date | 2018-10-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001086554/)<br />[official](https://personal.canon.jp/product/camera/rf/rf50-f12l) |
 | EAN/JAN Code | 4549292115581 |
@@ -268,6 +283,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.85m |
 | Weight | 1195g |
+| Angle of View | 28.6° |
 | Release Date | 2019-06-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001154121/) |
 | EAN/JAN Code | 4549292146691 |
@@ -285,6 +301,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.85m |
 | Weight | 1195g |
+| Angle of View | 28.6° |
 | Release Date | 2019-12-19 |
 | URL | [kakaku](https://kakaku.com/item/K0001205004/) |
 | EAN/JAN Code | 4549292159608 |
@@ -302,6 +319,8 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.26m |
 | Weight | 730g |
+| Angle of View | 24.4° |
+| Macro | YES |
 | Release Date | 2021-07-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001348490/) |
 | EAN/JAN Code | 4549292168075 |
@@ -319,6 +338,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 2.5m |
 | Weight | 2890g |
+| Angle of View | 6.2° |
 | Release Date | 2021-07-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001348488/) |
 | EAN/JAN Code | 4549292184440 |
@@ -336,6 +356,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 4.2m |
 | Weight | 3090g |
+| Angle of View | 4.1° |
 | Release Date | 2021-07-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001348489/) |
 | EAN/JAN Code | 4549292184457 |
@@ -352,6 +373,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.2m |
 | Weight | 350g |
+| Fisheye | YES |
 | Release Date | 2021-12-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001389649/) |
 | EAN/JAN Code | 4549292195675 |
@@ -369,6 +391,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 2.6m |
 | Weight | 3140g |
+| Angle of View | 3.1° |
 | Release Date | 2022-05-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001423536/)<br />[official](https://personal.canon.jp/product/camera/rf/rf800-f56l) |
 | EAN/JAN Code | 4549292184464 |
@@ -386,6 +409,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 4.3m |
 | Weight | 3340g |
+| Angle of View | 2.1° |
 | Release Date | 2022-05-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001423537/)<br />[official](https://personal.canon.jp/product/camera/rf/rf1200-f8l) |
 | EAN/JAN Code | 4549292184471 |
@@ -403,6 +427,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.7m |
 | Weight | 935g |
+| Angle of View | 18.2° |
 | Release Date | 2023-01-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001488832/) |
 | EAN/JAN Code | 4549292207385 |
@@ -420,6 +445,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.28m |
 | Weight | 555g |
+| Angle of View | 63.4° |
 | Release Date | 2024-07-12 |
 | URL | [kakaku](https://kakaku.com/item/K0001630403/)<br />[official](https://personal.canon.jp/product/camera/rf/rf35-f14lv) |
 | EAN/JAN Code | 4549292235012 |
@@ -437,6 +463,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.24m |
 | Weight | 515g |
+| Angle of View | 84.1° |
 | Release Date | 2024-12-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001660998/)<br />[official](https://personal.canon.jp/product/camera/rf/rf24-f14lv) |
 | EAN/JAN Code | 4549292241730 |
@@ -454,6 +481,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.4m |
 | Weight | 580g |
+| Angle of View | 46.8° |
 | Release Date | 2024-12-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001660999/) |
 | EAN/JAN Code | 4549292241747 |
@@ -471,6 +499,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.2m |
 | Weight | 519g |
+| Angle of View | 94.5° |
 | Release Date | 2025-04-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001682858/)<br />[official](https://corporate.jp.canon/newsrelease/2025/pr-0327b) |
 | EAN/JAN Code | 4549292244960 |
@@ -488,6 +517,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.75m |
 | Weight | 636g |
+| Angle of View | 28.6° |
 | Release Date | 2025-09-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001709589/)<br />[official](https://corporate.jp.canon/newsrelease/2025/pr-0910c) |
 | EAN/JAN Code | 4549292249484 |
@@ -504,6 +534,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.24m |
 | Weight | 578g |
+| Angle of View | 114.2° |
 | Release Date | 2026-02-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001768014/)<br />[official](https://personal.canon.jp/product/camera/rf/rf14-f14lv) |
 | EAN/JAN Code | 4549292254068 |
@@ -524,8 +555,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 63.4° |
 | Diameter | 74.4mm |
 | Length | 62.8mm |
+| Macro | YES |
 | Release Date | 2018-11-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001086556/)<br />[official](https://personal.canon.jp/product/camera/rf/rf35-f18) |
 | EAN/JAN Code | 4549292115727 |
@@ -546,6 +579,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 7 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 84.1° - 10.3° |
 | Diameter | 80.4mm |
 | Length | 122.5mm |
 | Release Date | 2019-08-29 |
@@ -568,6 +602,7 @@
 | Max Magnification | 0.4x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 84.1° - 23.3° |
 | Diameter | 76.6mm |
 | Length | 88.8mm |
 | Release Date | 2020-04-09 |
@@ -589,6 +624,7 @@
 | Weight | 930g |
 | Max Magnification | 0.14x |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 4.1° |
 | Diameter | 93mm |
 | Length | 269.5mm |
 | Release Date | 2020-07-30 |
@@ -610,6 +646,7 @@
 | Weight | 1260g |
 | Max Magnification | 0.14x |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 3.1° |
 | Diameter | 101.6mm |
 | Length | 351.8mm |
 | Release Date | 2020-07-30 |
@@ -632,8 +669,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 28.6° |
 | Diameter | 78mm |
 | Length | 90.5mm |
+| Macro | YES |
 | Release Date | 2020-10-22 |
 | URL | [kakaku](https://kakaku.com/item/K0001272158/)<br />[official](https://personal.canon.jp/product/camera/rf/rf85-f2) |
 | EAN/JAN Code | 4549292168068 |
@@ -653,6 +692,7 @@
 | Weight | 160g |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 69.2mm |
 | Length | 40.5mm |
 | Release Date | 2020-12-24 |
@@ -675,6 +715,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 107° |
 | Diameter | 69.2mm |
 | Length | 40.2mm |
 | Release Date | 2021-10-28 |
@@ -696,6 +737,7 @@
 | Weight | 635g |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 79.5mm |
 | Length | 164.7mm |
 | Release Date | 2021-10-28 |
@@ -718,6 +760,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 110.5° - 71.6° |
 | Diameter | 76.6mm |
 | Length | 88.4mm |
 | Release Date | 2022-08-26 |
@@ -740,8 +783,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 84.1° |
 | Diameter | 74.4mm |
 | Length | 63.1mm |
+| Macro | YES |
 | Release Date | 2022-08-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001457500/)<br />[official](https://personal.canon.jp/product/camera/rf/rf24-f18) |
 | EAN/JAN Code | 4549292207309 |
@@ -761,6 +806,7 @@
 | Weight | 210g |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 84.1° - 46.8° |
 | Diameter | 69.6mm |
 | Length | 58mm |
 | Release Date | 2023-04-14 |
@@ -782,6 +828,7 @@
 | Weight | 120g |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 69.2mm |
 | Length | 24.7mm |
 | Release Date | 2023-07-07 |
@@ -804,6 +851,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 11 groups |
+| Angle of View | 12.3° - 3.1° |
 | Diameter | 102.3mm |
 | Length | 314.1mm |
 | Release Date | 2023-12-08 |
@@ -826,6 +874,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 75.4° - 34.3° |
 | Diameter | 76.5mm |
 | Length | 92.2mm |
 | Release Date | 2024-09-27 |
@@ -848,6 +897,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 107° - 75.4° |
 | Diameter | 76.5mm |
 | Length | 91mm |
 | Release Date | 2025-02-21 |
@@ -870,6 +920,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 32.2° - 8.2° |
 | Diameter | 71.2mm |
 | Length | 146.1mm |
 | Release Date | 2025-05-30 |
@@ -892,6 +943,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 51.4° |
 | Diameter | 78mm |
 | Length | 75mm |
 | Release Date | 2025-11-28 |

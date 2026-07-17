@@ -13,6 +13,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.22m |
 | Weight | 240g |
+| Angle of View | 109.7° - 76.5° |
 | Release Date | 2014-05-29 |
 | URL | [kakaku](https://kakaku.com/item/K0000651905/) |
 | EAN/JAN Code | 4549292010152 |
@@ -30,6 +31,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.24m |
 | Weight | 385g |
+| Angle of View | 109.7° - 65.7° |
 | Release Date | 2004-11-13 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011326/) |
@@ -48,6 +50,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.35m |
 | Weight | 575g |
+| Angle of View | 86.9° - 19° |
 | Release Date | 2009-10 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000055483/) |
@@ -66,6 +69,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.35m |
 | Weight | 645g |
+| Angle of View | 79.7° - 29° |
 | Release Date | 2006-05-26 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011533/) |
@@ -84,6 +88,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.35m |
 | Weight | 475g |
+| Angle of View | 79.7° - 19° |
 | Release Date | 2004-09 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011325/) |
@@ -102,6 +107,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.28m |
 | Weight | 190g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2003-09 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011327/)<br />[official](https://global.canon/ja/c-museum/product/ef381.html) |
@@ -119,6 +125,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.28m |
 | Weight | 190g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2005-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011377/)<br />[official](https://global.canon/ja/c-museum/product/ef385.html) |
@@ -137,6 +144,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.25m |
 | Weight | 200g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2007-09 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011868/)<br />[official](https://global.canon/ja/c-museum/product/ef394.html) |
@@ -155,6 +163,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.25m |
 | Weight | 190g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2011-03 |
 | Discontinued | YES |
 | URL | [official](https://global.canon/ja/c-museum/product/ef410.html) |
@@ -172,6 +181,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.25m |
 | Weight | 200g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2011-03-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000226445/)<br />[official](https://global.canon/ja/c-museum/product/ef411.html) |
@@ -190,6 +200,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.25m |
 | Weight | 205g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2013-04 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000484111/)<br />[official](https://global.canon/ja/c-museum/product/ef427.html) |
@@ -208,6 +219,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.25m |
 | Weight | 215g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2017-04 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000944216/)<br />[official](https://global.canon/ja/c-museum/product/ef499.html) |
@@ -226,6 +238,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.45m |
 | Weight | 455g |
+| Angle of View | 76.5° - 12° |
 | Release Date | 2009-10 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000055484/)<br />[official](https://global.canon/ja/c-museum/product/ef404.html) |
@@ -244,6 +257,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.39m |
 | Weight | 480g |
+| Angle of View | 76.5° - 12° |
 | Release Date | 2012-06 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000388424/)<br />[official](https://global.canon/ja/c-museum/product/ef418.html) |
@@ -262,6 +276,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.39m |
 | Weight | 515g |
+| Angle of View | 76.5° - 12° |
 | Release Date | 2016-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000856832/)<br />[official](https://global.canon/ja/c-museum/product/ef454.html) |
@@ -280,6 +295,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.45m |
 | Weight | 595g |
+| Angle of View | 76.5° - 8.1° |
 | Release Date | 2008-09-27 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501012018/)<br />[official](https://global.canon/ja/c-museum/product/ef399.html) |
@@ -298,6 +314,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.16m |
 | Weight | 125g |
+| Angle of View | 61.2° |
 | Release Date | 2014-11-13 |
 | URL | [kakaku](https://kakaku.com/item/K0000693676/) |
 | EAN/JAN Code | 4549292010220 |
@@ -315,6 +332,8 @@
 | Filter Diameter | 49mm |
 | Min Focus Distance | 0.13m |
 | Weight | 190g |
+| Angle of View | 44.2° |
+| Macro | YES |
 | Release Date | 2017-06-29 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000957476/) |
@@ -333,6 +352,8 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.2m |
 | Weight | 335g |
+| Angle of View | 26.6° |
+| Macro | YES |
 | Release Date | 2005-03-17 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011376/) |
@@ -351,6 +372,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.1m |
 | Weight | 390g |
+| Angle of View | 29° - 6.5° |
 | Release Date | 2007-11 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10501011869/)<br />[official](https://global.canon/ja/c-museum/product/ef396.html) |
@@ -369,6 +391,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.1m |
 | Weight | 390g |
+| Angle of View | 29° - 6.5° |
 | Release Date | 2011-07 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000271169/)<br />[official](https://global.canon/ja/c-museum/product/ef414.html) |
@@ -387,6 +410,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.85m |
 | Weight | 375g |
+| Angle of View | 29° - 6.5° |
 | Release Date | 2013-09 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000566027/)<br />[official](https://global.canon/ja/c-museum/product/ef430.html) |

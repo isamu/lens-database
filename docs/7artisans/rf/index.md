@@ -13,3 +13,4 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.57m |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 46.8° |

@@ -15,6 +15,7 @@
 | Weight | 330g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 100.5° |
 | Release Date | 2017-04 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-2818.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-2818.html) |
@@ -34,6 +35,7 @@
 | Weight | 335g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 81.7° |
 | Release Date | 2015-10 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-225.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-225.html) |
@@ -53,6 +55,7 @@
 | Weight | 361g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 56.8° |
 | Release Date | 2018-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-240.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-240.html) |
@@ -72,6 +75,7 @@
 | Weight | 475g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 28.6° |
 | Release Date | 2015-10 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-1885.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-1885.html) |
@@ -91,6 +95,7 @@
 | Weight | 614g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 18.2° |
 | Release Date | 2017-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-28135.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/batis-lenses/batis-28135.html) |
@@ -110,6 +115,7 @@
 | Weight | 394g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 91.7° |
 | Release Date | 2015-10 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2821.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2821.html) |
@@ -129,6 +135,7 @@
 | Weight | 393g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 81.7° |
 | Release Date | 2018-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2425.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2425.html) |
@@ -148,6 +155,7 @@
 | Weight | 340g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 63.4° |
 | Release Date | 2014-12 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-235.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-235.html) |
@@ -167,6 +175,7 @@
 | Weight | 320g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Release Date | 2014-12 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-250.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-250.html) |
@@ -186,6 +195,7 @@
 | Weight | 594g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 28.6° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2485.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/loxia-lenses/loxia-2485.html) |
@@ -205,6 +215,7 @@
 | Weight | 260g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 99.6° |
 | Release Date | 2013-06 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2812.html) |
@@ -224,6 +235,7 @@
 | Weight | 210g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 47.9° |
 | Release Date | 2013-06 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-1832.html) |
@@ -244,6 +256,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 31.7° |
+| Macro | YES |
 | Release Date | 2014-04 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/touit-lenses/touit-2850m.html) |

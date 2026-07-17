@@ -16,6 +16,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 104.5° - 76.5° |
 | Diameter | 90mm |
 | Length | 100mm |
 | Release Date | 2019-02-22 |
@@ -40,6 +41,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 86.9° |
 | Diameter | 63mm |
 | Length | 39.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-da-15/) |
@@ -60,6 +62,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 68.1° |
 | Diameter | 63mm |
 | Length | 25mm |
 | Lens Hood | MH-RBB43 |
@@ -83,6 +86,7 @@
 | Optical Construction | 10 elements in 8 groups |
 | Diameter | 67.5mm |
 | Length | 70mm |
+| Fisheye | YES |
 | Release Date | 2019-07-26 |
 | Lens Hood | PH-RBA60 |
 | Lens Case | S80-120 |
@@ -104,6 +108,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 110.5° - 71.6° |
 | Diameter | 98.5mm |
 | Length | 143.5mm |
 | Lens Case | S120-160 |
@@ -126,6 +131,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 8 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 91.7° |
 | Diameter | 74mm |
 | Length | 89mm |
 | Release Date | 2021-11-12 |
@@ -149,6 +155,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 69.8° |
 | Diameter | 65mm |
 | Length | 69mm |
 | Lens Case | P70-140 |
@@ -171,6 +178,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 6 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 64mm |
 | Length | 44.5mm |
 | Release Date | 2019-02-22 |
@@ -195,6 +203,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 53.4° |
 | Diameter | 64mm |
 | Length | 27mm |
 | Lens Hood | MH-RG49 |
@@ -218,6 +227,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 31.4° |
 | Diameter | 64mm |
 | Length | 48mm |
 | Lens Case | P60-120 |
@@ -240,6 +250,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 10 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 84mm |
 | Length | 117mm |
 | Lens Hood | PH-RBN77 |
@@ -263,6 +274,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 83.2° - 19° |
 | Diameter | 78mm |
 | Length | 94mm |
 | Lens Hood | PH-RBA72 |
@@ -285,6 +297,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 70.7° - 39.1° |
 | Diameter | 71mm |
 | Length | 68.5mm |
 | Lens Hood | MH-RA55 |
@@ -306,6 +319,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 39.1° |
 | Diameter | 63mm |
 | Length | 15mm |
 | Lens Hood | MH-RE49 |
@@ -328,6 +342,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 88.5mm |
 | Length | 109.5mm |
 | Lens Hood | PH-RBD82 |
@@ -351,6 +366,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 75.4° - 23.3° |
 | Diameter | 73mm |
 | Length | 86.5mm |
 | Lens Hood | PH-RBC62 |
@@ -373,6 +389,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 9 groups |
+| Angle of View | 46.8° |
 | Diameter | 80mm |
 | Length | 106mm |
 | Lens Hood | PH-RBB72 |
@@ -396,6 +413,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 65mm |
 | Length | 40.5mm |
 | Release Date | 2023-06-09 |
@@ -418,6 +436,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 65mm |
 | Length | 37mm |
 | Release Date | 2023-06-09 |
@@ -440,6 +459,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 76.5° - 12° |
 | Diameter | 73mm |
 | Length | 76mm |
 | Lens Hood | PH-RBC62 |
@@ -462,6 +482,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 6 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 68.5mm |
 | Length | 67.5mm |
 | Lens Hood | PH-RBC52 |
@@ -484,6 +505,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 6 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 44.2° |
 | Diameter | 63mm |
 | Length | 45mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da35/) |
@@ -505,6 +527,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 39.1° |
 | Diameter | 62.9mm |
 | Length | 9.2mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da40/) |
@@ -526,6 +549,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 29° - 5.4° |
 | Diameter | 76.5mm |
 | Length | 89mm |
 | Lens Hood | PH-RBK58 |
@@ -548,6 +572,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 22.9° |
 | Diameter | 63mm |
 | Length | 26mm |
 | Lens Hood | MH-RF49 |
@@ -570,6 +595,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 16.4° - 5.5° |
 | Diameter | 95mm |
 | Length | 241.5mm |
 | Lens Hood | PH-RBA86 |
@@ -592,6 +618,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 16 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 91.5mm |
 | Length | 203mm |
 | Lens Hood | PH-RBM77 |
@@ -614,6 +641,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 28.6° |
 | Diameter | 95mm |
 | Length | 123.5mm |
 | Lens Hood | PH-RBG82 |
@@ -637,6 +665,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 31.7° |
 | Diameter | 63mm |
 | Length | 38.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50/) |
@@ -658,6 +687,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 5.4° |
 | Diameter | 83mm |
 | Length | 184mm |
 | Lens Hood | PH-RBK77 |
@@ -681,8 +711,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 44.2° |
 | Diameter | 63mm |
 | Length | 46.5mm |
+| Macro | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/hdpentax-da-35/) |
 | EAN/JAN Code | 4549212273728 |
 
@@ -702,8 +734,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 8 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 65mm |
 | Length | 80.5mm |
+| Macro | YES |
 | Lens Hood | PH-RBE49 |
 | Lens Case | S80-120 |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/hdpentax-dfa-macro-100/) |
@@ -725,8 +759,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 8 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 67.5mm |
 | Length | 60mm |
+| Macro | YES |
 | Lens Hood | PH-RBC49 |
 | Lens Case | S80-80 |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-dfa-macro-50/) |
@@ -748,6 +784,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 90.8° |
 | Diameter | 83.5mm |
 | Length | 69mm |
 | Lens Hood | PH-RBH77 |
@@ -771,6 +808,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 8 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 99.6° - 61.2° |
 | Diameter | 84mm |
 | Length | 87.5mm |
 | Lens Hood | PH-RBI77 |
@@ -793,6 +831,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 8 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 83.2° - 35° |
 | Diameter | 72mm |
 | Length | 92mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da16-45/) |
@@ -814,6 +853,7 @@
 | Optical Construction | 10 elements in 8 groups |
 | Diameter | 68mm |
 | Length | 71.5mm |
+| Fisheye | YES |
 | Lens Case | S80-80 |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-dafish-eye-10-17/) |
 | EAN/JAN Code | 4961333117284 |
@@ -832,6 +872,7 @@
 | Min Focus Distance | 0.18m |
 | Weight | 212g |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 86.9° |
 | Diameter | 63mm |
 | Length | 39.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da-15/) |
@@ -849,6 +890,7 @@
 | Min Focus Distance | 0.2m |
 | Weight | 140g |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 68.1° |
 | Diameter | 63mm |
 | Length | 25mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da-21/) |
@@ -869,6 +911,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 8 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 94.5° - 63.4° |
 | Diameter | 69.5mm |
 | Length | 68mm |
 | Lens Hood | PH-RBA58 |
@@ -891,6 +934,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 69.8° |
 | Diameter | 65mm |
 | Length | 68.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-fa31/) |
@@ -912,6 +956,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 6 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 64mm |
 | Length | 44.5mm |
 | Lens Hood | PH-RBA49 |
@@ -935,6 +980,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 84mm |
 | Length | 98.5mm |
 | Lens Hood | PH-RBJ77 |
@@ -958,6 +1004,7 @@
 | Max Magnification | 0.31x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 79.7° - 22.9° |
 | Diameter | 75mm |
 | Length | 93.5mm |
 | Lens Hood | PH-RBM67 |
@@ -980,6 +1027,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 76.5° - 31.7° |
 | Diameter | 71mm |
 | Length | 41mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-18-50/) |
@@ -1001,6 +1049,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 6 |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 75.4° - 30.3° |
 | Diameter | 63mm |
 | Length | 67mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa-j28-80/) |
@@ -1021,6 +1070,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 75.4° - 23.3° |
 | Diameter | 69.5mm |
 | Length | 68mm |
 | Lens Hood | PH-RBC58 |
@@ -1042,6 +1092,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 68mm |
 | Length | 67.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-55al/) |
@@ -1062,6 +1113,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 6 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 68mm |
 | Length | 67.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-55al2/) |
@@ -1079,6 +1131,7 @@
 | Min Focus Distance | 0.4m |
 | Weight | 90g |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 39.1° |
 | Diameter | 63mm |
 | Length | 15mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da-40/) |
@@ -1099,6 +1152,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 53.4° |
 | Diameter | 64mm |
 | Length | 27mm |
 | Lens Hood | MH-RA49 |
@@ -1121,6 +1175,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 65mm |
 | Length | 37mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa50/) |
@@ -1142,6 +1197,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 76.5° - 6.5° |
 | Diameter | 75mm |
 | Length | 85.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da18-250/) |
@@ -1162,6 +1218,7 @@
 | Max Magnification | 0.26x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 76.5° - 6° |
 | Diameter | 75.8mm |
 | Length | 89mm |
 | Lens Hood | PH-RBD62 |
@@ -1184,6 +1241,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 31.7° - 12° |
 | Diameter | 76.5mm |
 | Length | 136mm |
 | Lens Hood | PH-RBK67 |
@@ -1207,6 +1265,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 6 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 31.7° - 8.1° |
 | Diameter | 69mm |
 | Length | 79.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50-200/) |
@@ -1227,6 +1286,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 6 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 31.7° - 8.1° |
 | Diameter | 66.5mm |
 | Length | 78.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50-200ed/) |
@@ -1247,6 +1307,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 8 groups |
+| Angle of View | 29° - 5.4° |
 | Diameter | 72mm |
 | Length | 111.5mm |
 | Lens Hood | PH-RBG58 |
@@ -1270,6 +1331,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 8 groups |
+| Angle of View | 29° - 5.4° |
 | Diameter | 72mm |
 | Length | 111.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-55-300/) |
@@ -1291,6 +1353,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 26.6° - 6.5° |
 | Diameter | 82mm |
 | Length | 167.5mm |
 | Lens Hood | PH-RBK67 |
@@ -1314,6 +1377,7 @@
 | Max Magnification | 0.32x |
 | Aperture Blades | 9 |
 | Optical Construction | 20 elements in 14 groups |
+| Angle of View | 34.3° - 11.8° |
 | Diameter | 78.5mm |
 | Length | 175mm |
 | Lens Hood | PH-RBP67 |
@@ -1334,6 +1398,7 @@
 | Min Focus Distance | 1.3m |
 | Weight | 385g |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 32.2° - 8.2° |
 | Diameter | 69mm |
 | Length | 116mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fa-75-300/) |
@@ -1354,6 +1419,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 4.1° |
 | Diameter | 176mm |
 | Length | 456.5mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fas600/) |
@@ -1374,6 +1440,7 @@
 | Max Magnification | 0.173x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 29° |
 | Diameter | 70.5mm |
 | Length | 66mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das55/) |
@@ -1395,6 +1462,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 31.4° |
 | Diameter | 64mm |
 | Length | 48mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fa77/) |
@@ -1414,6 +1482,7 @@
 | Min Focus Distance | 0.7m |
 | Weight | 130g |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 22.9° |
 | Diameter | 63mm |
 | Length | 26mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da-70/) |
@@ -1434,6 +1503,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 8.1° |
 | Diameter | 83mm |
 | Length | 134mm |
 | Lens Hood | PH-RBK77 |
@@ -1457,6 +1527,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 2.9° |
 | Diameter | 130.3mm |
 | Length | 521.7mm |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-560/) |
@@ -1478,8 +1549,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 65mm |
 | Length | 80.5mm |
+| Macro | YES |
 | Lens Hood | PH-RBE49 |
 | Lens Case | S80-120 |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-dfa-macro-100/) |
@@ -1501,8 +1574,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 67.5mm |
 | Length | 80.5mm |
+| Macro | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-d-fa-macro-100/) |
 
 ### smc PENTAX-DA 35mmF2.8 Macro Limited
@@ -1519,6 +1594,8 @@
 | Min Focus Distance | 0.139m |
 | Weight | 215g |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 44.2° |
 | Diameter | 63mm |
 | Length | 46.5mm |
+| Macro | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-da-macro-35/) |

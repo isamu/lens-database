@@ -16,6 +16,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 11 |
 | Optical Construction | 19 elements in 15 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 88mm |
 | Length | 125mm |
 | Release Date | 2022-06 |
@@ -37,6 +38,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 11 |
 | Optical Construction | 18 elements in 15 groups |
+| Angle of View | 84.1° - 27° |
 | Diameter | 88mm |
 | Length | 138mm |
 | Release Date | 2015-10 |
@@ -58,6 +60,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 11 |
 | Optical Construction | 23 elements in 17 groups |
+| Angle of View | 27° - 8.8° |
 | Diameter | 88mm |
 | Length | 238mm |
 | Release Date | 2016-03 |
@@ -79,6 +82,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 22 elements in 15 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 88mm |
 | Length | 232mm |
 | Release Date | 2023-11 |
@@ -100,6 +104,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 11 |
 | Optical Construction | 18 elements in 12 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 88mm |
 | Length | 123mm |
 | Release Date | 2018-08 |
@@ -121,6 +126,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 75.4° |
 | Diameter | 73mm |
 | Length | 74mm |
 | Release Date | 2023-04 |
@@ -142,6 +148,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 63.4° |
 | Diameter | 73mm |
 | Length | 71mm |
 | Release Date | 2022-11 |
@@ -163,6 +170,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 46.8° |
 | Diameter | 73mm |
 | Length | 71mm |
 | Release Date | 2022-11 |
@@ -184,6 +192,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 32.2° |
 | Diameter | 73mm |
 | Length | 81mm |
 | Release Date | 2023-10 |
@@ -205,6 +214,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 27° |
 | Diameter | 73mm |
 | Length | 91mm |
 | Release Date | 2023-10 |
@@ -226,6 +236,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 91.7° |
 | Diameter | 73mm |
 | Length | 106mm |
 | Release Date | 2021-04 |
@@ -247,6 +258,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 75.4° |
 | Diameter | 73mm |
 | Length | 102mm |
 | Release Date | 2020-10 |
@@ -268,6 +280,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 63.4° |
 | Diameter | 73mm |
 | Length | 102mm |
 | Release Date | 2020-02 |
@@ -289,6 +302,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 11 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 46.8° |
 | Diameter | 73mm |
 | Length | 102mm |
 | Release Date | 2019-05 |
@@ -310,6 +324,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 32.2° |
 | Diameter | 73mm |
 | Length | 102mm |
 | Release Date | 2019-09 |
@@ -331,6 +346,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 11 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 27° |
 | Diameter | 73mm |
 | Length | 102mm |
 | Release Date | 2019-09 |
@@ -351,6 +367,7 @@
 | Weight | 995g |
 | Aperture Blades | 11 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 91.7° |
 | Diameter | 88mm |
 | Length | 132mm |
 | Release Date | 2025-04 |
@@ -372,6 +389,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 63.4° |
 | Diameter | 82mm |
 | Length | 124mm |
 | Release Date | 2024-08 |
@@ -393,6 +411,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 11 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 46.8° |
 | Diameter | 82mm |
 | Length | 108mm |
 | Release Date | 2023-11 |
@@ -414,6 +433,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 10 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 84.1° |
 | Diameter | 73mm |
 | Length | 74mm |
 | Release Date | 2024-04 |
@@ -435,6 +455,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 104.5° - 63.4° |
 | Diameter | 73mm |
 | Length | 79mm |
 | Release Date | 2014-11 |
@@ -456,6 +477,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 76.5° - 28.5° |
 | Diameter | 63mm |
 | Length | 60mm |
 | Release Date | 2014-04 |
@@ -477,6 +499,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 29° - 12° |
 | Diameter | 67mm |
 | Length | 99mm |
 | Release Date | 2015-04 |
@@ -498,6 +521,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 63.4° |
 | Diameter | 63mm |
 | Length | 46mm |
 | Release Date | 2014-04 |
@@ -519,6 +543,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 76.5° |
 | Diameter | 63mm |
 | Length | 20.5mm |
 | Release Date | 2016-11 |
@@ -540,6 +565,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 8 groups |
+| Angle of View | 44.2° |
 | Diameter | 68mm |
 | Length | 74mm |
 | Release Date | 2016-11 |
@@ -561,7 +587,9 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 26.6° |
 | Diameter | 68mm |
 | Length | 89mm |
+| Macro | YES |
 | Release Date | 2016-11 |
 | URL | [official](https://leica-camera.com/en-int/photography/lenses/tl/apo-macro-elmarit-tl-60-f-28-asph) |

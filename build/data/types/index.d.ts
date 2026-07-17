@@ -41,6 +41,16 @@ export type LensData = {
     diameter?: number;
     length?: number;
     isInternalFocus?: boolean;
+    hasMacro?: boolean;
+    hasFisheye?: boolean;
+    hasTiltShift?: boolean;
+    hasSoftFocus?: boolean;
+    angleOfView?: number[];
+    imageCircle?: number;
+    msrp?: number;
+    predecessorId?: string;
+    successorId?: string;
+    compatibleBodies?: string[];
     officialUrl?: string;
     images?: string[];
     urls?: LensUrls;

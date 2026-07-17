@@ -15,6 +15,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 122° - 84.1° |
 | Diameter | 87mm |
 | Length | 117.4mm |
 | Release Date | 2017-07-07 |
@@ -37,6 +38,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 14 groups |
+| Angle of View | 122° - 84.1° |
 | Diameter | 97.6mm |
 | Length | 137mm |
 | Release Date | 2020-08-07 |
@@ -60,6 +62,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 11 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 107° - 81.7° |
 | Diameter | 74.8mm |
 | Length | 91.4mm |
 | Release Date | 2024-05-17 |
@@ -83,6 +86,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 11 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 88.5mm |
 | Length | 121.6mm |
 | Release Date | 2017-07-28 |
@@ -106,6 +110,7 @@
 | Max Magnification | 0.32x |
 | Aperture Blades | 11 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 87.8mm |
 | Length | 111.5mm |
 | Release Date | 2023-09-22 |
@@ -129,6 +134,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 78mm |
 | Length | 98.5mm |
 | Release Date | 2014-11-07 |
@@ -152,6 +158,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 80.5mm |
 | Length | 88.1mm |
 | Release Date | 2022-05-27 |
@@ -175,6 +182,7 @@
 | Max Magnification | 0.39x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 94.5° - 34.3° |
 | Diameter | 78.7mm |
 | Length | 99mm |
 | Release Date | 2023-02-10 |
@@ -198,6 +206,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 11 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 84.1° - 46.8° |
 | Diameter | 74.8mm |
 | Length | 92.3mm |
 | Release Date | 2024-04-19 |
@@ -221,6 +230,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 73mm |
 | Length | 94.5mm |
 | Release Date | 2014-01-24 |
@@ -244,6 +254,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 87.6mm |
 | Length | 136mm |
 | Release Date | 2016-04-28 |
@@ -267,6 +278,7 @@
 | Max Magnification | 0.32x |
 | Aperture Blades | 11 |
 | Optical Construction | 20 elements in 15 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 87.8mm |
 | Length | 119.9mm |
 | Release Date | 2022-06-10 |
@@ -290,6 +302,7 @@
 | Max Magnification | 0.31x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 14 groups |
+| Angle of View | 84.1° - 23.3° |
 | Diameter | 83.4mm |
 | Length | 113.3mm |
 | Release Date | 2017-11-25 |
@@ -313,6 +326,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 84.1° - 10.3° |
 | Diameter | 80.5mm |
 | Length | 118.5mm |
 | Release Date | 2015-03-13 |
@@ -336,6 +350,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 75.4° - 39.7° |
 | Diameter | 66.6mm |
 | Length | 45mm |
 | Release Date | 2021-01-29 |
@@ -359,6 +374,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 75.4° - 34.3° |
 | Diameter | 72.5mm |
 | Length | 83mm |
 | Release Date | 2014-02-07 |
@@ -383,6 +399,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 75.4° - 34.3° |
 | Diameter | 72.5mm |
 | Length | 83mm |
 | Release Date | 2026-02-13 |
@@ -406,6 +423,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 11 |
 | Optical Construction | 20 elements in 14 groups |
+| Angle of View | 75.4° - 34.3° |
 | Diameter | 92.9mm |
 | Length | 139.8mm |
 | Release Date | 2024-12-13 |
@@ -429,6 +447,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 12 groups |
+| Angle of View | 75.4° - 18.2° |
 | Diameter | 105mm |
 | Length | 162.5mm |
 | Release Date | 2014-12-19 |
@@ -452,6 +471,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 11 |
 | Optical Construction | 19 elements in 17 groups |
+| Angle of View | 46.8° - 16.4° |
 | Diameter | 102.8mm |
 | Length | 200mm |
 | Release Date | 2025-05-23 |
@@ -475,6 +495,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 80mm |
 | Length | 175mm |
 | Release Date | 2014-03-20 |
@@ -499,8 +520,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 13 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 82.2mm |
 | Length | 149mm |
+| Macro | YES |
 | Release Date | 2023-07-28 |
 | Official URL | https://www.sony.jp/ichigan/products/SEL70200G2/ |
 | URL | [official](https://www.sony.jp/CorporateCruise/Press/202307/23-0712B/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4548736141735) |
@@ -522,6 +545,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 11 |
 | Optical Construction | 23 elements in 18 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 88mm |
 | Length | 200mm |
 | Release Date | 2016-09-30 |
@@ -545,6 +569,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 11 |
 | Optical Construction | 17 elements in 14 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 88mm |
 | Length | 200mm |
 | Release Date | 2021-11-26 |
@@ -568,6 +593,7 @@
 | Max Magnification | 0.31x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 84mm |
 | Length | 143.5mm |
 | Release Date | 2016-04-28 |
@@ -591,6 +617,7 @@
 | Max Magnification | 0.35x |
 | Aperture Blades | 9 |
 | Optical Construction | 22 elements in 16 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 93.9mm |
 | Length | 205mm |
 | Release Date | 2017-07-28 |
@@ -613,6 +640,7 @@
 | Weight | 1840g |
 | Max Magnification | 0.25x |
 | Aperture Blades | 11 |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 119.8mm |
 | Length | 328mm |
 | Release Date | 2026-06-05 |
@@ -636,6 +664,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 11 |
 | Optical Construction | 24 elements in 17 groups |
+| Angle of View | 12.3° - 4.1° |
 | Diameter | 111.5mm |
 | Length | 318mm |
 | Release Date | 2019-07-26 |
@@ -658,6 +687,7 @@
 | Weight | 2475g |
 | Max Magnification | 0.23x |
 | Aperture Blades | 11 |
+| Angle of View | 6.2° - 3.1° |
 | Diameter | 119.8mm |
 | Length | 346mm |
 | Release Date | 2025-03-19 |
@@ -678,6 +708,7 @@
 | Min Focus Distance | 0.25m |
 | Weight | 460g |
 | Max Magnification | 0.1x |
+| Angle of View | 114.2° |
 | Release Date | 2021-05-28 |
 | URL | [kakaku](https://kakaku.com/item/K0001350091/)<br />[official](https://www.sony.jp/ichigan/products/SEL14F18GM/) |
 | EAN/JAN Code | 4548736131187 |
@@ -695,6 +726,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.15m |
 | Weight | 304g |
+| Angle of View | 107° |
 | Release Date | 2025-04-11 |
 | URL | [kakaku](https://kakaku.com/item/K0001678546/)<br />[official](https://www.sony.jp/ichigan/products/SEL16F18G/) |
 | EAN/JAN Code | 4548736170100 |
@@ -713,6 +745,7 @@
 | Min Focus Distance | 0.19m |
 | Weight | 373g |
 | Max Magnification | 0.2x |
+| Angle of View | 94.5° |
 | Release Date | 2020-03-13 |
 | URL | [kakaku](https://kakaku.com/item/K0001237298/)<br />[official](https://www.sony.jp/ichigan/products/SEL20F18G/) |
 | EAN/JAN Code | 4548736099852 |
@@ -731,6 +764,7 @@
 | Min Focus Distance | 0.24m |
 | Weight | 445g |
 | Max Magnification | 0.17x |
+| Angle of View | 84.1° |
 | Release Date | 2018-10-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001092382/)<br />[official](https://www.sony.jp/ichigan/products/SEL24F14GM/) |
 | EAN/JAN Code | 4548736083998 |
@@ -749,6 +783,7 @@
 | Min Focus Distance | 0.24m |
 | Weight | 162g |
 | Max Magnification | 0.13x |
+| Angle of View | 84.1° |
 | Release Date | 2021-04-23 |
 | URL | [kakaku](https://kakaku.com/item/K0001344016/)<br />[official](https://www.sony.jp/ichigan/products/SEL24F28G/) |
 | EAN/JAN Code | 4548736130593 |
@@ -767,6 +802,7 @@
 | Min Focus Distance | 0.29m |
 | Weight | 200g |
 | Max Magnification | 0.13x |
+| Angle of View | 75.4° |
 | Release Date | 2015-04-17 |
 | URL | [kakaku](https://kakaku.com/item/K0000766263/)<br />[official](https://www.sony.jp/ichigan/products/SEL28F20/) |
 | EAN/JAN Code | 4548736001985 |
@@ -785,6 +821,7 @@
 | Min Focus Distance | 0.3m |
 | Weight | 630g |
 | Max Magnification | 0.18x |
+| Angle of View | 63.4° |
 | Release Date | 2015-06-26 |
 | URL | [kakaku](https://kakaku.com/item/K0000766262/)<br />[official](https://www.sony.jp/ichigan/products/SEL35F14Z/) |
 | EAN/JAN Code | 4548736001954 |
@@ -803,6 +840,7 @@
 | Min Focus Distance | 0.27m |
 | Weight | 524g |
 | Max Magnification | 0.23x |
+| Angle of View | 63.4° |
 | Release Date | 2021-03-12 |
 | URL | [kakaku](https://kakaku.com/item/K0001324762/)<br />[official](https://www.sony.jp/ichigan/products/SEL35F14GM/) |
 | EAN/JAN Code | 4548736123151 |
@@ -821,6 +859,7 @@
 | Min Focus Distance | 0.22m |
 | Weight | 280g |
 | Max Magnification | 0.24x |
+| Angle of View | 63.4° |
 | Release Date | 2019-08-30 |
 | URL | [kakaku](https://kakaku.com/item/K0001173506/)<br />[official](https://www.sony.jp/ichigan/products/SEL35F18F/) |
 | EAN/JAN Code | 4548736099838 |
@@ -839,6 +878,7 @@
 | Min Focus Distance | 0.35m |
 | Weight | 120g |
 | Max Magnification | 0.12x |
+| Angle of View | 63.4° |
 | Release Date | 2013-11-15 |
 | URL | [kakaku](https://kakaku.com/item/K0000586361/)<br />[official](https://www.sony.jp/ichigan/products/SEL35F28Z/) |
 | EAN/JAN Code | 4905524953718 |
@@ -857,6 +897,7 @@
 | Min Focus Distance | 0.28m |
 | Weight | 173g |
 | Max Magnification | 0.2x |
+| Angle of View | 56.8° |
 | Release Date | 2021-04-23 |
 | URL | [kakaku](https://kakaku.com/item/K0001344015/)<br />[official](https://www.sony.jp/ichigan/products/SEL40F25G/) |
 | EAN/JAN Code | 4548736130623 |
@@ -875,6 +916,7 @@
 | Min Focus Distance | 0.4m |
 | Weight | 778g |
 | Max Magnification | 0.17x |
+| Angle of View | 46.8° |
 | Release Date | 2021-04-23 |
 | URL | [kakaku](https://kakaku.com/item/K0001342610/)<br />[official](https://www.sony.jp/ichigan/products/SEL50F12GM/) |
 | EAN/JAN Code | 4548736132016 |
@@ -893,6 +935,7 @@
 | Min Focus Distance | 0.45m |
 | Weight | 778g |
 | Max Magnification | 0.15x |
+| Angle of View | 46.8° |
 | Release Date | 2016-07-29 |
 | URL | [kakaku](https://kakaku.com/item/K0000895916/)<br />[official](https://www.sony.jp/ichigan/products/SEL50F14Z/) |
 | EAN/JAN Code | 4548736028357 |
@@ -911,6 +954,7 @@
 | Min Focus Distance | 0.41m |
 | Weight | 516g |
 | Max Magnification | 0.16x |
+| Angle of View | 46.8° |
 | Release Date | 2023-04-21 |
 | URL | [kakaku](https://kakaku.com/item/K0001518235/)<br />[official](https://www.sony.jp/ichigan/products/SEL50F14GM/) |
 | EAN/JAN Code | 4548736135123 |
@@ -929,6 +973,7 @@
 | Min Focus Distance | 0.45m |
 | Weight | 186g |
 | Max Magnification | 0.14x |
+| Angle of View | 46.8° |
 | Release Date | 2016-04-28 |
 | URL | [kakaku](https://kakaku.com/item/K0000869547/)<br />[official](https://www.sony.jp/ichigan/products/SEL50F18F/) |
 | EAN/JAN Code | 4548736033078 |
@@ -947,6 +992,7 @@
 | Min Focus Distance | 0.35m |
 | Weight | 174g |
 | Max Magnification | 0.18x |
+| Angle of View | 46.8° |
 | Release Date | 2021-04-23 |
 | URL | [kakaku](https://kakaku.com/item/K0001344014/)<br />[official](https://www.sony.jp/ichigan/products/SEL50F25G/) |
 | EAN/JAN Code | 4548736130654 |
@@ -965,6 +1011,8 @@
 | Min Focus Distance | 0.16m |
 | Weight | 236g |
 | Max Magnification | 1x |
+| Angle of View | 46.8° |
+| Macro | YES |
 | Release Date | 2016-09-24 |
 | URL | [kakaku](https://kakaku.com/item/K0000910549/)<br />[official](https://www.sony.jp/ichigan/products/SEL50M28/) |
 | EAN/JAN Code | 4548736043930 |
@@ -983,6 +1031,7 @@
 | Min Focus Distance | 0.5m |
 | Weight | 281g |
 | Max Magnification | 0.14x |
+| Angle of View | 42.9° |
 | Release Date | 2013-12-20 |
 | URL | [kakaku](https://kakaku.com/item/K0000586362/)<br />[official](https://www.sony.jp/ichigan/products/SEL55F18Z/) |
 | EAN/JAN Code | 4905524934755 |
@@ -1001,6 +1050,7 @@
 | Min Focus Distance | 0.85m |
 | Weight | 820g |
 | Max Magnification | 0.12x |
+| Angle of View | 28.6° |
 | Release Date | 2016-04-28 |
 | URL | [kakaku](https://kakaku.com/item/K0000857121/)<br />[official](https://www.sony.jp/ichigan/products/SEL85F14GM/) |
 | EAN/JAN Code | 4548736020283 |
@@ -1019,6 +1069,7 @@
 | Min Focus Distance | 0.85m |
 | Weight | 642g |
 | Max Magnification | 0.11x |
+| Angle of View | 28.6° |
 | Release Date | 2024-09-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001649150/)<br />[official](https://www.sony.jp/ichigan/products/SEL85F14GM2/) |
 | EAN/JAN Code | 4548736156760 |
@@ -1037,6 +1088,7 @@
 | Min Focus Distance | 0.8m |
 | Weight | 371g |
 | Max Magnification | 0.13x |
+| Angle of View | 28.6° |
 | Release Date | 2017-03-24 |
 | URL | [kakaku](https://kakaku.com/item/K0000942231/)<br />[official](https://www.sony.jp/ichigan/products/SEL85F18/) |
 | EAN/JAN Code | 4548736058330 |
@@ -1055,6 +1107,8 @@
 | Min Focus Distance | 0.28m |
 | Weight | 602g |
 | Max Magnification | 1x |
+| Angle of View | 27° |
+| Macro | YES |
 | Release Date | 2015-06-26 |
 | URL | [kakaku](https://kakaku.com/item/K0000786198/)<br />[official](https://www.sony.jp/ichigan/products/SEL90M28G/) |
 | EAN/JAN Code | 4905524935493 |
@@ -1073,6 +1127,7 @@
 | Min Focus Distance | 0.57m |
 | Weight | 700g |
 | Max Magnification | 0.25x |
+| Angle of View | 24.4° |
 | Release Date | 2017-03-24 |
 | URL | [kakaku](https://kakaku.com/item/K0000942230/)<br />[official](https://www.sony.jp/ichigan/products/SEL100F28GM/) |
 | EAN/JAN Code | 4548736054813 |
@@ -1091,6 +1146,8 @@
 | Min Focus Distance | 0.26m |
 | Weight | 646g |
 | Max Magnification | 1.4x |
+| Angle of View | 24.4° |
+| Macro | YES |
 | Release Date | 2025-11-21 |
 | URL | [kakaku](https://kakaku.com/item/K0001713057/)<br />[official](https://www.sony.jp/ichigan/products/SEL100M28GM/) |
 | EAN/JAN Code | 4548736169791 |
@@ -1109,6 +1166,7 @@
 | Min Focus Distance | 0.7m |
 | Weight | 950g |
 | Max Magnification | 0.25x |
+| Angle of View | 18.2° |
 | Release Date | 2019-04-19 |
 | URL | [kakaku](https://kakaku.com/item/K0001134056/)<br />[official](https://www.sony.jp/ichigan/products/SEL135F18GM/) |
 | EAN/JAN Code | 4548736091917 |
@@ -1127,6 +1185,7 @@
 | Min Focus Distance | 2m |
 | Weight | 1470g |
 | Max Magnification | 0.16x |
+| Angle of View | 8.2° |
 | Release Date | 2024-02-02 |
 | URL | [kakaku](https://kakaku.com/item/K0001582425/)<br />[official](https://www.sony.jp/ichigan/products/SEL300F28GM/) |
 | EAN/JAN Code | 4548736156647 |
@@ -1145,6 +1204,7 @@
 | Min Focus Distance | 2.7m |
 | Weight | 2895g |
 | Max Magnification | 0.16x |
+| Angle of View | 6.2° |
 | Release Date | 2018-09 |
 | URL | [kakaku](https://kakaku.com/item/K0001067860/)<br />[official](https://www.sony.jp/ichigan/products/SEL400F28GM/) |
 | EAN/JAN Code | 4548736084360 |
@@ -1163,6 +1223,7 @@
 | Min Focus Distance | 4.5m |
 | Weight | 3040g |
 | Max Magnification | 0.14x |
+| Angle of View | 4.1° |
 | Release Date | 2019-07 |
 | URL | [kakaku](https://kakaku.com/item/K0001167118/)<br />[official](https://www.sony.jp/ichigan/products/SEL600F40GM/) |
 | EAN/JAN Code | 4548736099685 |
@@ -1183,6 +1244,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 104.5° |
 | Diameter | 66mm |
 | Length | 57.5mm |
 | Release Date | 2022-06-24 |
@@ -1207,6 +1269,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 86.9° |
 | Diameter | 66.6mm |
 | Length | 69.5mm |
 | Release Date | 2022-06-24 |
@@ -1231,6 +1294,7 @@
 | Max Magnification | 0.078x |
 | Aperture Blades | 7 |
 | Optical Construction | 5 elements in 5 groups |
+| Angle of View | 83.2° |
 | Diameter | 62mm |
 | Length | 22.5mm |
 | Release Date | 2010-06-24 |
@@ -1254,6 +1318,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 6 groups |
+| Angle of View | 70.7° |
 | Diameter | 62.6mm |
 | Length | 20.4mm |
 | Release Date | 2013-03-08 |
@@ -1278,6 +1343,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 61.2° |
 | Diameter | 63mm |
 | Length | 65.5mm |
 | Release Date | 2011-12-09 |
@@ -1302,8 +1368,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 50.7° |
 | Diameter | 62mm |
 | Length | 55.5mm |
+| Macro | YES |
 | Release Date | 2011-09-22 |
 | Lens Hood | ALC-SH113 |
 | Official URL | https://www.sony.jp/ichigan/products/SEL30M35/ |
@@ -1326,6 +1394,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 44.2° |
 | Diameter | 63mm |
 | Length | 45mm |
 | Release Date | 2012-12-07 |
@@ -1350,6 +1419,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 31.7° |
 | Diameter | 62mm |
 | Length | 62mm |
 | Release Date | 2012-03-09 |
@@ -1374,6 +1444,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 109.7° - 70.7° |
 | Diameter | 69.8mm |
 | Length | 55mm |
 | Release Date | 2022-06-24 |
@@ -1398,6 +1469,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 109.7° - 76.5° |
 | Diameter | 70mm |
 | Length | 63.5mm |
 | Release Date | 2012-11-16 |
@@ -1423,6 +1495,7 @@
 | Max Magnification | 0.215x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 64.7mm |
 | Length | 29.9mm |
 | Release Date | 2013-02-22 |
@@ -1447,6 +1520,7 @@
 | Max Magnification | 0.215x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 66mm |
 | Length | 31.3mm |
 | Release Date | 2024-08-02 |
@@ -1470,6 +1544,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 83.2° - 29° |
 | Diameter | 73mm |
 | Length | 100mm |
 | Release Date | 2019-10-11 |
@@ -1493,6 +1568,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 83.2° - 22.9° |
 | Diameter | 66.6mm |
 | Length | 75mm |
 | Release Date | 2013-09-13 |
@@ -1517,6 +1593,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 76.5° - 15.4° |
 | Diameter | 78mm |
 | Length | 110mm |
 | Release Date | 2013-12-13 |
@@ -1541,6 +1618,7 @@
 | Max Magnification | 0.122x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 15 groups |
+| Angle of View | 76.5° - 14.7° |
 | Diameter | 110mm |
 | Length | 167.5mm |
 | Release Date | 2017-03-24 |
@@ -1563,6 +1641,7 @@
 | Min Focus Distance | 0.4m |
 | Weight | 158g |
 | Aperture Blades | 7 |
+| Angle of View | 76.5° - 31.7° |
 | Release Date | 2014 |
 | Discontinued | YES |
 | URL | [wikipedia](https://en.wikipedia.org/wiki/Sony_E_18-50mm_F4-5.6)<br />[radojuva](https://radojuva.com/en/2020/05/sony-e-4-5-6-18-50-e-mount-sel1850/) |
@@ -1583,6 +1662,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 62mm |
 | Length | 60mm |
 | Release Date | 2010-06-03 |
@@ -1606,6 +1686,7 @@
 | Max Magnification | 0.29x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 76.5° - 12° |
 | Diameter | 67.2mm |
 | Length | 88mm |
 | Release Date | 2018-02-02 |
@@ -1630,6 +1711,7 @@
 | Max Magnification | 0.35x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 75.5mm |
 | Length | 99mm |
 | Release Date | 2010-09-10 |
@@ -1654,6 +1736,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 68mm |
 | Length | 97.1mm |
 | Release Date | 2012-06-15 |
@@ -1678,6 +1761,7 @@
 | Max Magnification | 0.35x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 93.2mm |
 | Length | 99mm |
 | Release Date | 2013-03-08 |
@@ -1702,6 +1786,7 @@
 | Max Magnification | 0.225x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 29° - 7.7° |
 | Diameter | 63.8mm |
 | Length | 108mm |
 | Release Date | 2011-10-14 |
@@ -1726,6 +1811,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 19 elements in 13 groups |
+| Angle of View | 22.9° - 4.6° |
 | Diameter | 77mm |
 | Length | 142mm |
 | Release Date | 2019-10-11 |

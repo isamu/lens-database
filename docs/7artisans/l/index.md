@@ -12,6 +12,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.17m |
 | Optical Construction | 11 elements in 8 groups |
+| Fisheye | YES |
 | Release Date | 2025-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001689810/) |
 
@@ -28,6 +29,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.57m |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 46.8° |
 | Release Date | 2021-10 |
 
 ### 9mm F5.6 ASPH
@@ -40,6 +42,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 134.8° |
 | Release Date | 2025-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001692179/) |
 
@@ -53,6 +56,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 59.2° |
 | Release Date | 2022-06 |
 | URL | [kakaku](https://kakaku.com/item/K0001451522/) |
 
@@ -69,6 +73,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.5m |
 | Optical Construction | 9 elements in 11 groups |
+| Angle of View | 46.8° |
 | Release Date | 2025-04 |
 | URL | [kakaku](https://kakaku.com/item/K0001687218/) |
 
@@ -85,5 +90,6 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.4m |
 | Optical Construction | 8 elements in 11 groups |
+| Angle of View | 63.4° |
 | Release Date | 2025-11 |
 | URL | [kakaku](https://kakaku.com/item/K0001719739/) |

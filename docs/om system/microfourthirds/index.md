@@ -16,6 +16,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 84.1° - 30.3° |
 | Diameter | 69.9mm |
 | Length | 84mm |
 | Release Date | 2022-03-25 |
@@ -38,6 +39,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 9 groups |
+| Angle of View | 30.3° - 8.2° |
 | Diameter | 68.9mm |
 | Length | 99.4mm |
 | Release Date | 2022-03-25 |
@@ -60,6 +62,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 13 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 91.4mm |
 | Length | 225.8mm |
 | Release Date | 2025-09-27 |
@@ -82,6 +85,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 8 groups |
+| Angle of View | 100.5° - 62° |
 | Diameter | 56.2mm |
 | Length | 49.3mm |
 | Release Date | 2024-02-23 |
@@ -104,6 +108,7 @@
 | Max Magnification | 0.35x |
 | Aperture Blades | 9 |
 | Optical Construction | 25 elements in 15 groups |
+| Angle of View | 8.2° - 2.1° |
 | Diameter | 109.4mm |
 | Length | 264.4mm |
 | Release Date | 2024-03-15 |
@@ -126,6 +131,7 @@
 | Max Magnification | 0.08x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 64.9° |
 | Diameter | 57.6mm |
 | Length | 37.6mm |
 | Release Date | 2025-03-01 |
@@ -148,6 +154,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 59.4mm |
 | Length | 42mm |
 | Release Date | 2025-03-01 |
@@ -169,8 +176,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 13.7° |
 | Diameter | 69.8mm |
 | Length | 136mm |
+| Macro | YES |
 | Release Date | 2023-02-24 |
 | URL | [official](https://jp.omsystem.com/product/lens/macro/90_35macroispro/index.html)<br />[kakaku](https://kakaku.com/item/K0001514892/) |
 | EAN/JAN Code | 4545350053925 |

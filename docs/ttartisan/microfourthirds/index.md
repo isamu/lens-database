@@ -15,6 +15,7 @@
 | Weight | 180g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 34.3° |
 | Length | 45mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586641/) |
 | EAN/JAN Code | 4589457586641 |
@@ -34,6 +35,7 @@
 | Weight | 195g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 24.4° |
 
 ### Tilt 35mm f/1.4 C
 |  | |
@@ -49,6 +51,8 @@
 | Min Focus Distance | 0.35m |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 34.3° |
+| Tilt / Shift | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056005/) |
 | EAN/JAN Code | 4582733056005 |
 
@@ -68,6 +72,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 30.3° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457587525/) |
 | EAN/JAN Code | 4589457587525 |
 
@@ -86,6 +92,7 @@
 | Weight | 177g |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 46.8° |
 | Official URL | https://ttartisan.store/products/aps-c-25mm-f2 |
 | URL | [official](https://ttartisan.store/products/aps-c-25mm-f2) |
 
@@ -104,5 +111,6 @@
 | Weight | 248g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 64.9° |
 | Official URL | https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens |
 | URL | [official](https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens) |

@@ -13,6 +13,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.3m |
 | Weight | 665g |
+| Angle of View | 63.4° |
 | Release Date | 2012-11 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a012_35_14/ |
@@ -32,6 +33,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.3m |
 | Weight | 435g |
+| Angle of View | 50.7° |
 | Release Date | 2013-03 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_30_14/ |
@@ -51,6 +53,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.4m |
 | Weight | 815g |
+| Angle of View | 46.8° |
 | Release Date | 2014-05 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a014_50_14/ |
@@ -70,6 +73,7 @@
 | Filter Diameter | 86mm |
 | Min Focus Distance | 0.85m |
 | Weight | 1130g |
+| Angle of View | 28.6° |
 | Release Date | 2016-11 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_85_14/ |
@@ -89,6 +93,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.25m |
 | Weight | 665g |
+| Angle of View | 84.1° |
 | Release Date | 2015-03-27 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_24_14/ |
@@ -107,6 +112,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.276m |
 | Weight | 950g |
+| Angle of View | 94.5° |
 | Release Date | 2015-11-20 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_20_14/ |
@@ -125,6 +131,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.27m |
 | Weight | 1120g |
+| Angle of View | 114.2° |
 | Release Date | 2017-07-28 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_14_18/ |
@@ -144,6 +151,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.28m |
 | Weight | 865g |
+| Angle of View | 75.4° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a019_28_14/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/a019_28_14/) |
@@ -162,6 +170,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.4m |
 | Weight | 1200g |
+| Angle of View | 56.8° |
 | Release Date | 2018-11-22 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_40_14/ |
@@ -181,6 +190,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 1m |
 | Weight | 1645g |
+| Angle of View | 23.3° |
 | Release Date | 2018-06-14 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_105_14/ |
@@ -200,6 +210,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.875m |
 | Weight | 1130g |
+| Angle of View | 18.2° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_135_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/a017_135_18/) |
@@ -218,6 +229,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.28m |
 | Weight | 810g |
+| Angle of View | 76.5° - 44.2° |
 | Release Date | 2013 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_18_35_18/ |
@@ -237,6 +249,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.28m |
 | Weight | 940g |
+| Angle of View | 84.1° - 63.4° |
 | Release Date | 2015-08-21 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_24_35_2/ |
@@ -255,6 +268,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.24m |
 | Weight | 1150g |
+| Angle of View | 122° - 84.1° |
 | Release Date | 2016 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_12_24_4/ |
@@ -273,6 +287,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.26m |
 | Weight | 1150g |
+| Angle of View | 114.2° - 84.1° |
 | Release Date | 2018-03 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_14_24_28/ |
@@ -292,6 +307,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.37m |
 | Weight | 1020g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2017-07 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_24_70_28/ |
@@ -311,6 +327,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.45m |
 | Weight | 885g |
+| Angle of View | 84.1° - 23.3° |
 | Release Date | 2014-01 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_24_105_4/ |
@@ -330,6 +347,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.95m |
 | Weight | 1490g |
+| Angle of View | 31.7° - 16.2° |
 | Release Date | 2016-04 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_50_100_18/ |
@@ -349,6 +367,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.22m |
 | Weight | 465g |
+| Angle of View | 79.7° - 22.9° |
+| Macro | YES |
 | Release Date | 2013-03-08 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c013_17_70_28_4/ |
@@ -368,6 +388,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.39m |
 | Weight | 430g |
+| Angle of View | 76.5° - 8.1° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c014_18_200_35_63/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/c014_18_200_35_63/) |
@@ -386,6 +408,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.39m |
 | Weight | 585g |
+| Angle of View | 76.5° - 5.4° |
+| Macro | YES |
 | Release Date | 2014-10-30 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c014_18_300_35_63/ |
@@ -405,6 +429,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 1.6m |
 | Weight | 1160g |
+| Angle of View | 24.4° - 6.2° |
 | Release Date | 2017-04 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c017_100_400_5_63/ |
@@ -424,6 +449,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 2.8m |
 | Weight | 1930g |
+| Angle of View | 16.4° - 4.1° |
 | Release Date | 2015-05-29 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c015_150_600_5_63/ |
@@ -443,6 +469,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 1.5m |
 | Weight | 3390g |
+| Angle of View | 20.4° - 8.2° |
 | Release Date | 2013-05-31 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s013_120_300_28/ |
@@ -462,6 +489,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 2.6m |
 | Weight | 2860g |
+| Angle of View | 16.4° - 4.1° |
 | Release Date | 2014-10-24 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s014_150_600_5_63/ |
@@ -481,6 +509,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 0.6m |
 | Weight | 2700g |
+| Angle of View | 39.7° - 4.1° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s018_60_600_45_63/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s018_60_600_45_63/) |
@@ -499,6 +528,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 1.2m |
 | Weight | 1805g |
+| Angle of View | 34.3° - 12.3° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s018_70_200_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s018_70_200_28/) |
@@ -516,6 +546,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 3.5m |
 | Weight | 3310g |
+| Angle of View | 5° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s016_500_4/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s016_500_4/) |
@@ -534,6 +565,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.45m |
 | Weight | 505g |
+| Angle of View | 46.8° |
 | Release Date | 2008 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_14/ |
@@ -553,6 +585,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.85m |
 | Weight | 725g |
+| Angle of View | 28.6° |
 | Release Date | 2010 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/85_14/ |
@@ -572,6 +605,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.2m |
 | Weight | 520g |
+| Angle of View | 94.5° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/20_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/20_18/) |
@@ -590,6 +624,8 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.18m |
 | Weight | 485g |
+| Angle of View | 84.1° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/24_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/24_18/) |
@@ -608,6 +644,8 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.2m |
 | Weight | 500g |
+| Angle of View | 75.4° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/28_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/28_18/) |
@@ -626,6 +664,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.312m |
 | Weight | 725g |
+| Angle of View | 23.3° |
+| Macro | YES |
 | Release Date | 2011 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/105_28_os/ |
@@ -649,6 +689,7 @@
 | Optical Construction | 13 elements in 9 groups |
 | Diameter | 76.2mm |
 | Length | 77.8mm |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/45_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/45_28/) |
@@ -671,6 +712,7 @@
 | Optical Construction | 11 elements in 6 groups |
 | Diameter | 73.5mm |
 | Length | 68.6mm |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/8_35/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/8_35/) |
@@ -693,6 +735,7 @@
 | Optical Construction | 12 elements in 7 groups |
 | Diameter | 75.8mm |
 | Length | 83.1mm |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/10_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/10_28/) |
@@ -715,6 +758,7 @@
 | Optical Construction | 7 elements in 6 groups |
 | Diameter | 73.5mm |
 | Length | 65mm |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/15_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/15_28/) |
@@ -736,8 +780,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 46.8° |
 | Diameter | 71.4mm |
 | Length | 66.5mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/50_28/) |
@@ -759,8 +805,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 34.3° |
 | Diameter | 76mm |
 | Length | 95mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/70_28/) |
@@ -782,8 +830,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 13 groups |
+| Angle of View | 16.4° |
 | Diameter | 79.6mm |
 | Length | 150mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/150_28_os/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/150_28_os/) |
@@ -805,8 +855,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 14 groups |
+| Angle of View | 13.7° |
 | Diameter | 95mm |
 | Length | 203.9mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/180_28_os/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/180_28_os/) |
@@ -828,6 +880,7 @@
 | Max Magnification | 0.096x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 50.7° |
 | Diameter | 76.6mm |
 | Length | 59mm |
 | Discontinued | YES |
@@ -850,6 +903,7 @@
 | Max Magnification | 0.133x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 8.2° |
 | Diameter | 119mm |
 | Length | 214.5mm |
 | Discontinued | YES |
@@ -872,6 +926,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 5° |
 | Diameter | 123mm |
 | Length | 350mm |
 | Discontinued | YES |
@@ -894,6 +949,7 @@
 | Max Magnification | 0.114x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 3.1° |
 | Diameter | 156.5mm |
 | Length | 521mm |
 | Discontinued | YES |
@@ -916,6 +972,7 @@
 | Max Magnification | 0.128x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 121.2° - 83.2° |
 | Diameter | 75mm |
 | Length | 105.7mm |
 | Discontinued | YES |
@@ -939,6 +996,7 @@
 | Max Magnification | 0.149x |
 | Aperture Blades | 6 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 109.7° - 70.7° |
 | Diameter | 83.5mm |
 | Length | 81mm |
 | Discontinued | YES |
@@ -962,6 +1020,7 @@
 | Max Magnification | 0.152x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 109.7° - 70.7° |
 | Diameter | 87.3mm |
 | Length | 88.2mm |
 | Discontinued | YES |
@@ -984,6 +1043,7 @@
 | Max Magnification | 0.156x |
 | Aperture Blades | 6 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 122° - 84.1° |
 | Diameter | 87mm |
 | Length | 120.2mm |
 | Discontinued | YES |
@@ -1007,6 +1067,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 79.7° - 31.7° |
 | Diameter | 83.5mm |
 | Length | 91.8mm |
 | Discontinued | YES |
@@ -1030,8 +1091,10 @@
 | Max Magnification | 0.37x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 79.7° - 22.9° |
 | Diameter | 79mm |
 | Length | 88.9mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/17_70_28_4/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/17_70_28_4/) |
@@ -1053,6 +1116,7 @@
 | Max Magnification | 0.244x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 76.5° - 31.7° |
 | Diameter | 74mm |
 | Length | 88.6mm |
 | Discontinued | YES |
@@ -1076,6 +1140,7 @@
 | Max Magnification | 0.263x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 76.5° - 13° |
 | Diameter | 74mm |
 | Length | 88.5mm |
 | Discontinued | YES |
@@ -1099,6 +1164,7 @@
 | Max Magnification | 0.263x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 75.3mm |
 | Length | 87.7mm |
 | Discontinued | YES |
@@ -1122,6 +1188,7 @@
 | Max Magnification | 0.294x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 76.5° - 6.5° |
 | Diameter | 79mm |
 | Length | 101mm |
 | Discontinued | YES |
@@ -1145,8 +1212,10 @@
 | Max Magnification | 0.345x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 76.5° - 6.5° |
 | Diameter | 73.5mm |
 | Length | 88.6mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_250_35_63_macro/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/18_250_35_63_macro/) |
@@ -1168,6 +1237,7 @@
 | Max Magnification | 0.222x |
 | Aperture Blades | 8 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 31.7° - 8.1° |
 | Diameter | 74.6mm |
 | Length | 102.2mm |
 | Discontinued | YES |
@@ -1191,6 +1261,7 @@
 | Max Magnification | 0.159x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 31.7° - 10.8° |
 | Diameter | 86.4mm |
 | Length | 197.6mm |
 | Discontinued | YES |
@@ -1214,6 +1285,7 @@
 | Max Magnification | 0.189x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 88.6mm |
 | Length | 94.7mm |
 | Discontinued | YES |
@@ -1237,8 +1309,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 76.6mm |
 | Length | 122mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_300_4_56_apo_macro/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/70_300_4_56_apo_macro/) |
@@ -1260,8 +1334,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 76.6mm |
 | Length | 122mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_300_4_56_macro/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/70_300_4_56_macro/) |
@@ -1283,6 +1359,7 @@
 | Max Magnification | 0.256x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 76.5mm |
 | Length | 126.5mm |
 | Discontinued | YES |
@@ -1306,6 +1383,7 @@
 | Max Magnification | 0.125x |
 | Aperture Blades | 9 |
 | Optical Construction | 22 elements in 17 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 86.4mm |
 | Length | 197.6mm |
 | Discontinued | YES |
@@ -1329,6 +1407,7 @@
 | Max Magnification | 0.123x |
 | Aperture Blades | 9 |
 | Optical Construction | 23 elements in 18 groups |
+| Angle of View | 20.4° - 8.2° |
 | Diameter | 114.4mm |
 | Length | 289.2mm |
 | Discontinued | YES |
@@ -1352,6 +1431,7 @@
 | Max Magnification | 0.238x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 20.4° - 6.2° |
 | Diameter | 92.5mm |
 | Length | 203.5mm |
 | Discontinued | YES |
@@ -1375,6 +1455,7 @@
 | Max Magnification | 0.192x |
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 15 groups |
+| Angle of View | 16.4° - 5° |
 | Diameter | 94.7mm |
 | Length | 252mm |
 | Discontinued | YES |
@@ -1398,6 +1479,7 @@
 | Max Magnification | 0.323x |
 | Aperture Blades | 9 |
 | Optical Construction | 22 elements in 16 groups |
+| Angle of View | 46.8° - 5° |
 | Diameter | 104.4mm |
 | Length | 219mm |
 | Discontinued | YES |
@@ -1420,6 +1502,7 @@
 | Max Magnification | 0.145x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 16 groups |
+| Angle of View | 8.2° - 3.1° |
 | Diameter | 156.5mm |
 | Length | 544mm |
 | Discontinued | YES |
@@ -1443,6 +1526,7 @@
 | Max Magnification | 0.227x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 70mm |
 | Length | 78.1mm |
 | Discontinued | YES |
@@ -1466,6 +1550,7 @@
 | Max Magnification | 0.256x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 79mm |
 | Length | 100mm |
 | Discontinued | YES |
@@ -1488,6 +1573,7 @@
 | Optical Construction | 10 elements in 6 groups |
 | Diameter | 73.5mm |
 | Length | 63mm |
+| Fisheye | YES |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011489/) |
 
@@ -1505,6 +1591,7 @@
 | Weight | 615g |
 | Aperture Blades | 6 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 122° - 84.1° |
 | Diameter | 74mm |
 | Length | 100mm |
 | Discontinued | YES |
@@ -1524,6 +1611,7 @@
 | Weight | 385g |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 14 groups |
+| Angle of View | 76.5° - 13° |
 | Diameter | 70mm |
 | Length | 77.7mm |
 | Discontinued | YES |
@@ -1543,6 +1631,7 @@
 | Weight | 395g |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 70mm |
 | Length | 75.6mm |
 | Discontinued | YES |
@@ -1562,6 +1651,7 @@
 | Weight | 310g |
 | Aperture Blades | 8 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 29° - 8.1° |
 | Diameter | 71mm |
 | Length | 84.6mm |
 | Discontinued | YES |
@@ -1581,6 +1671,7 @@
 | Weight | 770g |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 31.7° - 10.8° |
 | Diameter | 76.3mm |
 | Length | 135.1mm |
 | Discontinued | YES |
@@ -1600,6 +1691,7 @@
 | Weight | 1270g |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 14 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 86.2mm |
 | Length | 184mm |
 | Discontinued | YES |
@@ -1619,8 +1711,10 @@
 | Weight | 545g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 76.6mm |
 | Length | 119.5mm |
+| Macro | YES |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011923/) |
 
@@ -1639,6 +1733,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 12.3° - 5° |
 | Diameter | 236.5mm |
 | Length | 726mm |
 | Discontinued | YES |

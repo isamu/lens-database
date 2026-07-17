@@ -15,6 +15,7 @@
 | Weight | 700g |
 | Aperture Blades | 11 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 73mm |
 | Length | 75.2mm |
 | Release Date | 2008-09 |
@@ -36,6 +37,7 @@
 | Weight | 452g |
 | Aperture Blades | 11 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Diameter | 60.6mm |
 | Length | 51.4mm |
 | Release Date | 2021-11 |
@@ -57,6 +59,7 @@
 | Weight | 1055g |
 | Aperture Blades | 11 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 32.2° |
 | Diameter | 74mm |
 | Length | 91mm |
 | Release Date | 2017-10 |
@@ -78,6 +81,7 @@
 | Weight | 580g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 91.7° |
 | Diameter | 65.4mm |
 | Length | 76.4mm |
 | Release Date | 2008-09 |
@@ -99,6 +103,7 @@
 | Weight | 500g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 84.1° |
 | Diameter | 65.4mm |
 | Length | 75.6mm |
 | Release Date | 2008-09 |
@@ -120,6 +125,7 @@
 | Weight | 440g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 75.4° |
 | Diameter | 61.7mm |
 | Length | 64.7mm |
 | Release Date | 2015-10 |
@@ -141,6 +147,7 @@
 | Weight | 320g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 53mm |
 | Length | 46.6mm |
 | Release Date | 2010-09 |
@@ -162,6 +169,7 @@
 | Weight | 306g |
 | Aperture Blades | 11 |
 | Optical Construction | 10 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 53mm |
 | Length | 46.6mm |
 | Release Date | 2022-10 |
@@ -183,6 +191,7 @@
 | Weight | 335g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 53.5mm |
 | Length | 52.5mm |
 | Release Date | 2004-09 |
@@ -204,6 +213,7 @@
 | Weight | 560g |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 32.2° |
 | Release Date | 1980 |
 | Discontinued | YES (2007) |
 
@@ -222,6 +232,7 @@
 | Weight | 1030g |
 | Aperture Blades | 11 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 27° |
 | Diameter | 74mm |
 | Length | 108mm |
 | Release Date | 2023-10 |
@@ -243,6 +254,7 @@
 | Weight | 265g |
 | Aperture Blades | 11 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 75.4° |
 | Diameter | 53mm |
 | Length | 50.9mm |
 | Release Date | 2023-04 |
@@ -264,6 +276,7 @@
 | Weight | 255g |
 | Aperture Blades | 11 |
 | Optical Construction | 10 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 53mm |
 | Length | 41mm |
 | Release Date | 2021-04 |
@@ -285,6 +298,7 @@
 | Weight | 300g |
 | Aperture Blades | 11 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 53mm |
 | Length | 47mm |
 | Release Date | 2012-09 |
@@ -306,6 +320,7 @@
 | Weight | 430g |
 | Aperture Blades | 11 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 32.2° |
 | Diameter | 58mm |
 | Length | 66.8mm |
 | Release Date | 2005-09 |
@@ -327,6 +342,7 @@
 | Weight | 500g |
 | Aperture Blades | 11 |
 | Optical Construction | 5 elements in 5 groups |
+| Angle of View | 27° |
 | Diameter | 58mm |
 | Length | 78mm |
 | Release Date | 1998 |
@@ -348,6 +364,7 @@
 | Weight | 240g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 53mm |
 | Length | 41mm |
 | Release Date | 2016-09 |
@@ -369,6 +386,7 @@
 | Weight | 255g |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 63.4° |
 | Diameter | 53mm |
 | Length | 34.5mm |
 | Release Date | 1997 |
@@ -389,6 +407,7 @@
 | Weight | 240g |
 | Aperture Blades | 8 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Diameter | 53mm |
 | Length | 43.5mm |
 | Release Date | 1979 |
@@ -409,6 +428,7 @@
 | Weight | 260g |
 | Aperture Blades | 11 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 53mm |
 | Length | 42mm |
 | Release Date | 2024-10 |
@@ -430,6 +450,7 @@
 | Weight | 475g |
 | Aperture Blades | 10 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 27° |
 | Release Date | 1980 |
 | Discontinued | YES (1998) |
 
@@ -448,6 +469,7 @@
 | Weight | 290g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 91.7° |
 | Release Date | 1997 |
 | Discontinued | YES (2008) |
 
@@ -466,6 +488,7 @@
 | Weight | 290g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 84.1° |
 | Release Date | 1996 |
 | Discontinued | YES (2011) |
 
@@ -480,6 +503,7 @@
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 46mm |
+| Angle of View | 75.4° |
 | EAN/JAN Code | 4975749000740 |
 
 ### Elmarit-M 28mm F/2.8 ASPH
@@ -497,6 +521,7 @@
 | Weight | 180g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 52mm |
 | Length | 30.8mm |
 | Release Date | 2006-09 |
@@ -518,6 +543,7 @@
 | Weight | 410g |
 | Aperture Blades | 12 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 27° |
 | Release Date | 1990 |
 | Discontinued | YES (2008) |
 
@@ -536,6 +562,7 @@
 | Weight | 260g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 84.1° |
 | Diameter | 53mm |
 | Length | 42.5mm |
 | Release Date | 2008-09 |
@@ -556,6 +583,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 4 elements in 3 groups |
+| Angle of View | 46.8° |
 | Diameter | 52mm |
 | Length | 32.5mm |
 | Release Date | 1994 |
@@ -576,6 +604,7 @@
 | Weight | 310g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 100.5° |
 | Diameter | 61.5mm |
 | Length | 58mm |
 | Release Date | 2009-09 |
@@ -596,6 +625,7 @@
 | Weight | 274g |
 | Aperture Blades | 8 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 91.7° |
 | Diameter | 53mm |
 | Length | 44mm |
 | Release Date | 2011-09 |
@@ -617,6 +647,7 @@
 | Weight | 335g |
 | Aperture Blades | 8 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 107° - 91.7° |
 | Diameter | 62mm |
 | Length | 61mm |
 | Release Date | 2006-09 |
@@ -638,6 +669,7 @@
 | Weight | 450g |
 | Aperture Blades | 16 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 18.2° |
 | Diameter | 58.5mm |
 | Length | 104.7mm |
 | Release Date | 1998 |
@@ -659,6 +691,7 @@
 | Weight | 220g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 63.4° |
 | Diameter | 51mm |
 | Length | 34.5mm |
 | Release Date | 2014-04 |
@@ -679,6 +712,7 @@
 | Weight | 220g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Diameter | 51mm |
 | Length | 33mm |
 | Release Date | 2014-04 |
@@ -699,6 +733,7 @@
 | Weight | 345g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 32.2° |
 | Diameter | 55mm |
 | Length | 60mm |
 | Release Date | 2014-04 |
@@ -719,6 +754,7 @@
 | Weight | 360g |
 | Aperture Blades | 10 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 27° |
 | Diameter | 55mm |
 | Length | 68mm |
 | Release Date | 2014-04 |
@@ -739,8 +775,10 @@
 | Weight | 500g |
 | Aperture Blades | 20 |
 | Optical Construction | 4 elements in 3 groups |
+| Angle of View | 27° |
 | Diameter | 54mm |
 | Length | 82mm |
+| Soft Focus | YES |
 | Release Date | 2017-11 |
 | Official URL | https://leica-camera.com/en-int/photography/lenses/m/thambar-m-90-f-2-2 |
 | URL | [official](https://leica-camera.com/en-int/photography/lenses/m/thambar-m-90-f-2-2) |

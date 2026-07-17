@@ -15,6 +15,7 @@
 | Weight | 168g |
 | Aperture Blades | 10 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 75.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457587709/) |
 | EAN/JAN Code | 4589457587709 |
 
@@ -33,6 +34,7 @@
 | Weight | 168g |
 | Aperture Blades | 10 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 75.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457580700/) |
 | EAN/JAN Code | 4589457580700 |
 
@@ -51,6 +53,7 @@
 | Weight | 240g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 63.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586016/) |
 | EAN/JAN Code | 4589457586016 |
 
@@ -69,6 +72,7 @@
 | Weight | 240g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 63.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586023/) |
 | EAN/JAN Code | 4589457586023 |
 
@@ -87,6 +91,7 @@
 | Weight | 400g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Release Date | 2020-11 |
 | Official URL | https://ttartisan.store/products/m50mmf1-4 |
 | URL | [official](https://ttartisan.store/products/m50mmf1-4)<br />[kakaku](https://kakaku.com/item/K0001299611/)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586498/)<br />[stkb](https://www.stkb.jp/shopdetail/000000001444/) |
@@ -107,6 +112,7 @@
 | Weight | 687g |
 | Aperture Blades | 14 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 46.8° |
 | Official URL | https://ttartisan.store/products/m-50mm-f0-95 |
 | URL | [official](https://ttartisan.store/products/m-50mm-f0-95)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457587471/) |
 | EAN/JAN Code | 4589457587471 |
@@ -126,6 +132,7 @@
 | Weight | 1010g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 7 groups |
+| Angle of View | 27° |
 | Diameter | 82mm |
 | Length | 97mm |
 | Release Date | 2021-05 |

@@ -15,6 +15,7 @@
 | Optical Construction | 9 elements in 7 groups |
 | Diameter | 62.3mm |
 | Length | 53mm |
+| Fisheye | YES |
 | Release Date | 2021-05-18 |
 | URL | [kakaku](https://kakaku.com/item/K0001355555/) |
 
@@ -28,6 +29,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 94.5° |
 | Release Date | 2025-07-09 |
 | URL | [kakaku](https://kakaku.com/item/K0001698208/) |
 
@@ -45,6 +47,7 @@
 | Min Focus Distance | 0.18m |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 46.8° |
 
 ### 35mm F1.2 II
 |  | |
@@ -56,6 +59,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 34.3° |
 
 ### 50mm F1.8
 |  | |
@@ -72,6 +76,7 @@
 | Weight | 170g |
 | Aperture Blades | 6 |
 | Optical Construction | 12 elements in 5 groups |
+| Angle of View | 24.4° |
 | Diameter | 60mm |
 | Length | 41mm |
 | Release Date | 2019-05-15 |
@@ -92,6 +97,7 @@
 | Weight | 150g |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 34.3° |
 | Diameter | 57mm |
 | Length | 38mm |
 | Release Date | 2018-10-10 |
@@ -107,5 +113,6 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 46.8° |
 | Release Date | 2022-06 |
 | URL | [kakaku](https://kakaku.com/item/K0001451519/) |

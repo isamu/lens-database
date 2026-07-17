@@ -15,6 +15,7 @@
 | Weight | 372g |
 | Aperture Blades | 12 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 63.4° |
 | Diameter | 62.6mm |
 | Length | 39.5mm |
 | Release Date | 2021-04 |
@@ -36,6 +37,7 @@
 | Weight | 364g |
 | Aperture Blades | 12 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Diameter | 62.8mm |
 | Length | 59.9mm |
 | Release Date | 2019-11 |
@@ -58,8 +60,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 36.8° |
 | Diameter | 78mm |
 | Length | 91.3mm |
+| Macro | YES |
 | Release Date | 2017-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/) |
@@ -79,6 +83,7 @@
 | Weight | 560g |
 | Aperture Blades | 12 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 91.7° |
 | Diameter | 70mm |
 | Length | 89mm |
 | Release Date | 2020-11 |
@@ -100,6 +105,7 @@
 | Weight | 456g |
 | Aperture Blades | 12 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 63.4° |
 | Diameter | 66.8mm |
 | Length | 79.7mm |
 | Release Date | 2020-06 |
@@ -121,6 +127,7 @@
 | Weight | 415g |
 | Aperture Blades | 12 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 56.8° |
 | Diameter | 66.8mm |
 | Length | 59.6mm |
 | Release Date | 2019-04 |
@@ -142,6 +149,7 @@
 | Weight | 673g |
 | Aperture Blades | 12 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 73.5mm |
 | Length | 79.4mm |
 | Release Date | 2022-08 |
@@ -163,6 +171,7 @@
 | Weight | 400g |
 | Aperture Blades | 12 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 66.8mm |
 | Length | 59.4mm |
 | Release Date | 2021-04 |
@@ -184,6 +193,7 @@
 | Weight | 852g |
 | Aperture Blades | 12 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 39.7° |
 | Diameter | 82.6mm |
 | Length | 89.4mm |
 | Release Date | 2024-06 |
@@ -205,6 +215,7 @@
 | Weight | 351g |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 32.2° |
 | Diameter | 66.8mm |
 | Length | 68.6mm |
 | Release Date | 2023-11 |
@@ -225,6 +236,7 @@
 | Weight | 375g |
 | Aperture Blades | 10 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 130.4° |
 | Diameter | 68.8mm |
 | Length | 66.5mm |
 | Release Date | 2022-08 |
@@ -246,6 +258,7 @@
 | Weight | 294g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 110.5° |
 | Diameter | 66.5mm |
 | Length | 61mm |
 | Release Date | 2019-01 |
@@ -267,6 +280,7 @@
 | Weight | 130g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 55.5° |
 | Diameter | 60.6mm |
 | Length | 27.2mm |
 | Release Date | 2023-07 |
@@ -288,6 +302,7 @@
 | Weight | 199g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 63.4° |
 | Diameter | 58mm |
 | Length | 39.6mm |
 | Release Date | 2022-04 |
@@ -309,6 +324,7 @@
 | Weight | 265g |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 37mm |
 | Release Date | 2024-01 |

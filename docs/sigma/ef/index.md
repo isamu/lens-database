@@ -12,6 +12,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 62mm |
 | Weight | 400g |
+| Angle of View | 50.7° |
 | Release Date | 2007-09-08 |
 | URL | [kakaku](https://kakaku.com/item/10505011367/) |
 | EAN/JAN Code | 0085126300272 |
@@ -29,6 +30,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.3m |
 | Weight | 665g |
+| Angle of View | 63.4° |
 | Release Date | 2012-11 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a012_35_14/ |
@@ -48,6 +50,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.3m |
 | Weight | 435g |
+| Angle of View | 50.7° |
 | Release Date | 2013-03 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_30_14/ |
@@ -67,6 +70,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.4m |
 | Weight | 815g |
+| Angle of View | 46.8° |
 | Release Date | 2014-04 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a014_50_14/ |
@@ -86,6 +90,7 @@
 | Filter Diameter | 86mm |
 | Min Focus Distance | 0.85m |
 | Weight | 1130g |
+| Angle of View | 28.6° |
 | Release Date | 2016-11 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_85_14/ |
@@ -105,6 +110,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.25m |
 | Weight | 665g |
+| Angle of View | 84.1° |
 | Release Date | 2015-03-19 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_24_14/ |
@@ -123,6 +129,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.276m |
 | Weight | 950g |
+| Angle of View | 94.5° |
 | Release Date | 2015-11-20 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_20_14/ |
@@ -141,6 +148,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.27m |
 | Weight | 1120g |
+| Angle of View | 114.2° |
 | Release Date | 2017-07-07 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_14_18/ |
@@ -160,6 +168,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.28m |
 | Weight | 865g |
+| Angle of View | 75.4° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a019_28_14/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/a019_28_14/) |
@@ -178,6 +187,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.4m |
 | Weight | 1200g |
+| Angle of View | 56.8° |
 | Release Date | 2018-11-22 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_40_14/ |
@@ -197,6 +207,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 1m |
 | Weight | 1645g |
+| Angle of View | 23.3° |
 | Release Date | 2018-06-14 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_105_14/ |
@@ -216,6 +227,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.875m |
 | Weight | 1130g |
+| Angle of View | 18.2° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_135_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/a017_135_18/) |
@@ -234,6 +246,8 @@
 | Filter Diameter | 49mm |
 | Min Focus Distance | 0.258m |
 | Weight | 515g |
+| Angle of View | 34.3° |
+| Macro | YES |
 | Release Date | 2018-05-25 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_70_28/ |
@@ -253,6 +267,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.28m |
 | Weight | 810g |
+| Angle of View | 76.5° - 44.2° |
 | Release Date | 2013-06-28 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_18_35_18/ |
@@ -272,6 +287,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.28m |
 | Weight | 940g |
+| Angle of View | 84.1° - 63.4° |
 | Release Date | 2015-07-30 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a015_24_35_2/ |
@@ -290,6 +306,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.24m |
 | Weight | 1150g |
+| Angle of View | 122° - 84.1° |
 | Release Date | 2016 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_12_24_4/ |
@@ -308,6 +325,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 0.26m |
 | Weight | 1150g |
+| Angle of View | 114.2° - 84.1° |
 | Release Date | 2018-03 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a018_14_24_28/ |
@@ -327,6 +345,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.37m |
 | Weight | 1020g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2017-07 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a017_24_70_28/ |
@@ -346,6 +365,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.45m |
 | Weight | 885g |
+| Angle of View | 84.1° - 23.3° |
 | Release Date | 2013-11-15 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a013_24_105_4/ |
@@ -365,6 +385,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.95m |
 | Weight | 1490g |
+| Angle of View | 31.7° - 16.2° |
 | Release Date | 2016-04-22 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/a016_50_100_18/ |
@@ -384,6 +405,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.22m |
 | Weight | 465g |
+| Angle of View | 79.7° - 22.9° |
+| Macro | YES |
 | Release Date | 2013-01-25 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c013_17_70_28_4/ |
@@ -403,6 +426,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.39m |
 | Weight | 430g |
+| Angle of View | 76.5° - 8.1° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c014_18_200_35_63/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/c014_18_200_35_63/) |
@@ -421,6 +446,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.39m |
 | Weight | 585g |
+| Angle of View | 76.5° - 5.4° |
+| Macro | YES |
 | Release Date | 2014-10-30 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c014_18_300_35_63/ |
@@ -440,6 +467,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 1.6m |
 | Weight | 1160g |
+| Angle of View | 24.4° - 6.2° |
 | Release Date | 2017-04-21 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c017_100_400_5_63/ |
@@ -459,6 +487,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 2.8m |
 | Weight | 1930g |
+| Angle of View | 16.4° - 4.1° |
 | Release Date | 2015-03 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/c015_150_600_5_63/ |
@@ -478,6 +507,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 1.5m |
 | Weight | 3390g |
+| Angle of View | 20.4° - 8.2° |
 | Release Date | 2013 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s013_120_300_28/ |
@@ -497,6 +527,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 2.6m |
 | Weight | 2860g |
+| Angle of View | 16.4° - 4.1° |
 | Release Date | 2014-10-24 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s014_150_600_5_63/ |
@@ -516,6 +547,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 0.6m |
 | Weight | 2700g |
+| Angle of View | 39.7° - 4.1° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s018_60_600_45_63/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s018_60_600_45_63/) |
@@ -534,6 +566,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 1.2m |
 | Weight | 1805g |
+| Angle of View | 34.3° - 12.3° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s018_70_200_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s018_70_200_28/) |
@@ -551,6 +584,7 @@
 | Dust / Moisture Resistance | YES  |
 | Min Focus Distance | 3.5m |
 | Weight | 3310g |
+| Angle of View | 5° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/s016_500_4/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/s016_500_4/) |
@@ -569,6 +603,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.45m |
 | Weight | 505g |
+| Angle of View | 46.8° |
 | Release Date | 2008-06 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_14/ |
@@ -588,6 +623,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.85m |
 | Weight | 725g |
+| Angle of View | 28.6° |
 | Release Date | 2010 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/85_14/ |
@@ -607,6 +643,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.2m |
 | Weight | 520g |
+| Angle of View | 94.5° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/20_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/20_18/) |
@@ -625,6 +662,8 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.18m |
 | Weight | 485g |
+| Angle of View | 84.1° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/24_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/24_18/) |
@@ -643,6 +682,8 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.2m |
 | Weight | 500g |
+| Angle of View | 75.4° |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/28_18/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/28_18/) |
@@ -661,6 +702,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.312m |
 | Weight | 725g |
+| Angle of View | 23.3° |
+| Macro | YES |
 | Release Date | 2011-08-05 |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/105_28_os/ |
@@ -680,6 +723,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.24m |
 | Weight | 520g |
+| Angle of View | 109.7° - 70.7° |
 | Discontinued | YES |
 | Lens Hood | LH873-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/10_20_35/ |
@@ -698,6 +742,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.24m |
 | Weight | 465g |
+| Angle of View | 109.7° - 70.7° |
 | Discontinued | YES |
 | Lens Hood | LH825-04 |
 | Official URL | https://www.sigma-global.com/jp/lenses/10_20_4_56/ |
@@ -715,6 +760,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.24m |
 | Weight | 555g |
+| Angle of View | 121.2° - 83.2° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/8_16_45_56/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/8_16_45_56/) |
@@ -731,6 +777,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.28m |
 | Weight | 670g |
+| Angle of View | 122° - 84.1° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/12_24_45_56/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/12_24_45_56/) |
@@ -748,6 +795,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.28m |
 | Weight | 565g |
+| Angle of View | 79.7° - 31.7° |
 | Discontinued | YES |
 | Lens Hood | LH825-03 |
 | Official URL | https://www.sigma-global.com/jp/lenses/17_50_28/ |
@@ -766,6 +814,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.22m |
 | Weight | 535g |
+| Angle of View | 79.7° - 22.9° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH780-04 |
 | Official URL | https://www.sigma-global.com/jp/lenses/17_70_28_4/ |
@@ -784,6 +834,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.3m |
 | Weight | 395g |
+| Angle of View | 76.5° - 31.7° |
 | Discontinued | YES |
 | Lens Hood | LH730-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_50_28_45/ |
@@ -802,6 +853,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.35m |
 | Weight | 490g |
+| Angle of View | 76.5° - 13° |
 | Discontinued | YES |
 | Lens Hood | LH730-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_125_38_56/ |
@@ -820,6 +872,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.38m |
 | Weight | 790g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2008-09-25 |
 | Discontinued | YES |
 | Lens Hood | LH876-01 |
@@ -839,6 +892,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.45m |
 | Weight | 405g |
+| Angle of View | 76.5° - 8.1° |
 | Discontinued | YES |
 | Lens Hood | LH680-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_200_35_63/ |
@@ -857,6 +911,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.45m |
 | Weight | 610g |
+| Angle of View | 76.5° - 8.1° |
 | Discontinued | YES |
 | Lens Hood | LH780-04 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_200_35_63_os/ |
@@ -875,6 +930,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.45m |
 | Weight | 490g |
+| Angle of View | 76.5° - 8.1° |
 | Discontinued | YES |
 | Lens Hood | LH680-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_200_35_63_ii_os/ |
@@ -893,6 +949,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.45m |
 | Weight | 630g |
+| Angle of View | 76.5° - 6.5° |
 | Discontinued | YES |
 | Lens Hood | LH780-04 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_250_35_63/ |
@@ -911,6 +968,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.35m |
 | Weight | 470g |
+| Angle of View | 76.5° - 6.5° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH680-04 |
 | Official URL | https://www.sigma-global.com/jp/lenses/18_250_35_63_macro/ |
@@ -929,6 +988,7 @@
 | Filter Diameter | 55mm |
 | Min Focus Distance | 1.1m |
 | Weight | 420g |
+| Angle of View | 31.7° - 8.1° |
 | Discontinued | YES |
 | Lens Hood | LH674-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_200_4_56/ |
@@ -947,6 +1007,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.8m |
 | Weight | 1340g |
+| Angle of View | 31.7° - 10.8° |
 | Discontinued | YES |
 | Lens Hood | LH850-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_150_28/ |
@@ -965,6 +1026,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.4m |
 | Weight | 1430g |
+| Angle of View | 34.3° - 12.3° |
 | Discontinued | YES |
 | Lens Hood | LH850-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_200_28_os/ |
@@ -983,6 +1045,8 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.5m |
 | Weight | 550g |
+| Angle of View | 34.3° - 8.2° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH635-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_300_4_56_apo_macro/ |
@@ -1001,6 +1065,8 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.5m |
 | Weight | 545g |
+| Angle of View | 34.3° - 8.2° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH635-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_300_4_56_macro/ |
@@ -1019,6 +1085,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 1.5m |
 | Weight | 610g |
+| Angle of View | 34.3° - 8.2° |
 | Discontinued | YES |
 | Lens Hood | LH680-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_300_4_56_os/ |
@@ -1037,6 +1104,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 0.5m |
 | Weight | 1970g |
+| Angle of View | 46.8° - 5° |
 | Discontinued | YES |
 | Lens Hood | LH1030-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_500_45_63_os/ |
@@ -1055,6 +1123,7 @@
 | Filter Diameter | 105mm |
 | Min Focus Distance | 1.5m |
 | Weight | 2950g |
+| Angle of View | 20.4° - 8.2° |
 | Discontinued | YES |
 | Lens Hood | LH1128-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/120_300_28_os/ |
@@ -1073,6 +1142,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.5m |
 | Weight | 1640g |
+| Angle of View | 20.4° - 6.2° |
 | Discontinued | YES |
 | Lens Hood | LH830-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/120_400_45_56_os/ |
@@ -1091,6 +1161,7 @@
 | Filter Diameter | 86mm |
 | Min Focus Distance | 2.2m |
 | Weight | 1780g |
+| Angle of View | 16.4° - 5° |
 | Discontinued | YES |
 | Lens Hood | LH927-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/150_500_5_63_os/ |
@@ -1108,6 +1179,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 6m |
 | Weight | 5880g |
+| Angle of View | 8.2° - 3.1° |
 | Discontinued | YES |
 | Lens Hood | LH1571-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/300_800_56/ |
@@ -1125,6 +1197,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 2m |
 | Weight | 15700g |
+| Angle of View | 12.3° - 5° |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/200_500_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/200_500_28/) |
@@ -1142,6 +1215,8 @@
 | Filter Diameter | 55mm |
 | Min Focus Distance | 0.188m |
 | Weight | 320g |
+| Angle of View | 46.8° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH550-02 |
 | Official URL | https://www.sigma-global.com/jp/lenses/50_28/ |
@@ -1160,6 +1235,8 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.257m |
 | Weight | 525g |
+| Angle of View | 34.3° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH620-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/70_28/ |
@@ -1178,6 +1255,8 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.38m |
 | Weight | 1150g |
+| Angle of View | 16.4° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH780-05 |
 | Official URL | https://www.sigma-global.com/jp/lenses/150_28_os/ |
@@ -1196,6 +1275,8 @@
 | Filter Diameter | 86mm |
 | Min Focus Distance | 0.47m |
 | Weight | 1640g |
+| Angle of View | 13.7° |
+| Macro | YES |
 | Discontinued | YES |
 | Lens Hood | LH927-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/180_28_os/ |
@@ -1213,6 +1294,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 2.5m |
 | Weight | 2400g |
+| Angle of View | 8.2° |
 | Discontinued | YES |
 | Lens Hood | LH1196-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/300_28/ |
@@ -1230,6 +1312,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 4m |
 | Weight | 3150g |
+| Angle of View | 5° |
 | Discontinued | YES |
 | Lens Hood | LH1236-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/500_45/ |
@@ -1247,6 +1330,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 7m |
 | Weight | 4900g |
+| Angle of View | 3.1° |
 | Discontinued | YES |
 | Lens Hood | LH1571-01 |
 | Official URL | https://www.sigma-global.com/jp/lenses/800_56/ |
@@ -1264,6 +1348,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.135m |
 | Weight | 400g |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/8_35/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/8_35/) |
@@ -1280,6 +1365,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.15m |
 | Weight | 370g |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/15_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/15_28/) |
@@ -1296,6 +1382,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.135m |
 | Weight | 470g |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/45_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/45_28/) |
@@ -1312,6 +1399,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.135m |
 | Weight | 475g |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.sigma-global.com/jp/lenses/10_28/ |
 | URL | [official](https://www.sigma-global.com/jp/lenses/10_28/) |
@@ -1327,6 +1415,7 @@
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
 | Weight | 615g |
+| Angle of View | 122° - 84.1° |
 | Release Date | 2003-11 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505010765/) |
@@ -1344,6 +1433,8 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1m |
 | Weight | 1370g |
+| Angle of View | 34.3° - 12.3° |
+| Macro | YES |
 | Release Date | 2007-12-22 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011911/) |
@@ -1360,6 +1451,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 77mm |
 | Weight | 550g |
+| Angle of View | 84.1° - 39.7° |
 | Release Date | 2004-06-01 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505010813/) |
@@ -1376,6 +1468,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 82mm |
 | Weight | 715g |
+| Angle of View | 84.1° - 34.3° |
+| Macro | YES |
 | Release Date | 2004-09-25 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011339/) |
@@ -1392,6 +1486,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 67mm |
 | Weight | 445g |
+| Angle of View | 76.5° - 31.7° |
 | Release Date | 2004-08-26 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011316/) |
@@ -1408,6 +1503,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 72mm |
 | Weight | 450g |
+| Angle of View | 76.5° - 31.7° |
+| Macro | YES |
 | Release Date | 2006-10-27 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011815/) |
@@ -1424,6 +1521,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 82mm |
 | Weight | 1440g |
+| Angle of View | 24.4° - 8.2° |
 | Release Date | 2006-02-26 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011474/) |
@@ -1440,6 +1538,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 72mm |
 | Weight | 895g |
+| Angle of View | 16.4° |
+| Macro | YES |
 | Release Date | 2004-11-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011330/) |
@@ -1456,6 +1556,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 72mm |
 | Weight | 965g |
+| Angle of View | 13.7° |
+| Macro | YES |
 | Release Date | 2005-05-27 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011405/) |
@@ -1472,6 +1574,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 77mm |
 | Weight | 1380g |
+| Angle of View | 34.3° - 12.3° |
+| Macro | YES |
 | Release Date | 2006-06-02 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011543/) |
@@ -1488,6 +1592,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 86mm |
 | Weight | 1840g |
+| Angle of View | 46.8° - 5° |
 | Release Date | 2005-05-27 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011410/) |
@@ -1504,6 +1609,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 77mm |
 | Weight | 560g |
+| Angle of View | 103.7° - 63.4° |
 | Release Date | 2004-01 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505010771/) |
@@ -1520,6 +1626,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 72mm |
 | Weight | 455g |
+| Angle of View | 79.7° - 22.9° |
+| Macro | YES |
 | Release Date | 2006-02-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011514/) |
@@ -1536,6 +1644,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 62mm |
 | Weight | 490g |
+| Angle of View | 75.4° - 8.2° |
+| Macro | YES |
 | Release Date | 2005-06-25 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011427/) |
@@ -1552,6 +1662,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 55mm |
 | Weight | 310g |
+| Angle of View | 29° - 8.1° |
 | Release Date | 2003-11-14 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505010768/) |
@@ -1568,6 +1679,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 77mm |
 | Weight | 1750g |
+| Angle of View | 30.3° - 6.2° |
 | Release Date | 2005 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011441/) |
@@ -1584,6 +1696,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 86mm |
 | Weight | 1345g |
+| Angle of View | 14.5° - 5° |
 | Release Date | 2005-09-29 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011468/) |
@@ -1600,6 +1713,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 77mm |
 | Weight | 1245g |
+| Angle of View | 18.2° - 6.2° |
 | Release Date | 2005-11-27 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011503/) |
@@ -1616,6 +1730,8 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 58mm |
 | Weight | 460g |
+| Angle of View | 23.3° |
+| Macro | YES |
 | Release Date | 2004-07-03 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/10505011311/) |
@@ -1632,6 +1748,7 @@
 | Dust / Moisture Resistance | NO  |
 | Filter Diameter | 82mm |
 | Weight | 595g |
+| Angle of View | 94.5° - 56.8° |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000245673/) |
 
@@ -1646,5 +1763,6 @@
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
 | Weight | 615g |
+| Angle of View | 110.5° - 71.6° |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000245627/) |

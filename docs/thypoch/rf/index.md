@@ -15,6 +15,7 @@
 | Weight | 353g |
 | Aperture Blades | 14 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 66mm |
 | Length | 63mm |
 | Release Date | 2024 |

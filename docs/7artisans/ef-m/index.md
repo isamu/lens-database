@@ -13,6 +13,7 @@
 | Min Focus Distance | 0.15m |
 | Weight | 265g |
 | Optical Construction | 9 elements in 7 groups |
+| Fisheye | YES |
 | Release Date | 2021-05 |
 
 ### 10mm F2.8 Fisheye II ED
@@ -27,6 +28,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.17m |
 | Optical Construction | 11 elements in 8 groups |
+| Fisheye | YES |
 | Release Date | 2025-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001689809/) |
 
@@ -44,6 +46,7 @@
 | Min Focus Distance | 0.18m |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 59.2° |
 | Release Date | 2018-06 |
 | URL | [kakaku](https://kakaku.com/item/K0001074235/) |
 | EAN/JAN Code | 4589457589116 |
@@ -58,6 +61,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 44.2° |
 
 ### 55mm F1.4
 |  | |
@@ -69,6 +73,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 29° |
 
 ### 50mm F1.8
 |  | |
@@ -84,6 +89,7 @@
 | Min Focus Distance | 0.5m |
 | Weight | 170g |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 31.7° |
 | Diameter | 60mm |
 | Length | 41mm |
 | Release Date | 2019-05-15 |

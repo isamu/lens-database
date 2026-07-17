@@ -14,6 +14,7 @@
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 7 groups |
 | Diameter | 67mm |
+| Fisheye | YES |
 | Release Date | 2020-04-15 |
 | Official URL | https://ttartisan.com/?full-frame-lenses%2F62.html= |
 | URL | [official](https://ttartisan.com/?full-frame-lenses%2F62.html=)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586047/) |
@@ -34,6 +35,7 @@
 | Weight | 458g |
 | Aperture Blades | 10 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 91.7° |
 | Official URL | https://ttartisan.store/products/ttartisan-21mm-f1-5 |
 | URL | [official](https://ttartisan.store/products/ttartisan-21mm-f1-5)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586856/) |
 | EAN/JAN Code | 4589457586856 |
@@ -53,6 +55,7 @@
 | Weight | 180g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 44.2° |
 | Length | 45mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586900/) |
 | EAN/JAN Code | 4589457586900 |
@@ -72,6 +75,7 @@
 | Weight | 400g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Official URL | https://ttartisan.store/products/50mm-f1-4-asph |
 | URL | [official](https://ttartisan.store/products/50mm-f1-4-asph)<br />[stkb](https://www.stkb.jp/shopdetail/000000001639/) |
 
@@ -90,6 +94,7 @@
 | Weight | 411g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 31.7° |
 | Official URL | https://ttartisan.store/products/aps-c-50mm-f0-95 |
 | URL | [official](https://ttartisan.store/products/aps-c-50mm-f0-95) |
 
@@ -108,6 +113,7 @@
 | Weight | 195g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 31.7° |
 
 ### 50mm f/2
 |  | |
@@ -124,6 +130,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
 | Length | 35mm |
 | Official URL | https://ttartisan.store/products/multi-mounts-50mm-f2-0 |
 | URL | [official](https://ttartisan.store/products/multi-mounts-50mm-f2-0)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457580533/) |
@@ -144,6 +151,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
 | Length | 35mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457580922/) |
 | EAN/JAN Code | 4589457580922 |
@@ -163,6 +171,7 @@
 | Weight | 1010g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 7 groups |
+| Angle of View | 27° |
 
 ### 100mm f/2.8 Macro 2X
 |  | |
@@ -180,6 +189,8 @@
 | Max Magnification | 2x |
 | Aperture Blades | 12 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 24.4° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457582957/)<br />[official](https://ttartisan.store/products/100mm-f2-8macro) |
 | EAN/JAN Code | 4589457582957 |
 
@@ -197,6 +208,8 @@
 | Min Focus Distance | 0.35m |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 44.2° |
+| Tilt / Shift | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733055985/)<br />[stkb](https://stkb.co.jp/info/?p=43462) |
 | EAN/JAN Code | 4582733055985 |
 
@@ -216,6 +229,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 39.1° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457587501/)<br />[stkb](https://www.stkb.jp/shopdetail/000000001660/) |
 | EAN/JAN Code | 4589457587501 |
 
@@ -234,6 +249,7 @@
 | Weight | 177g |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 59.2° |
 | Official URL | https://ttartisan.store/products/aps-c-25mm-f2 |
 | URL | [official](https://ttartisan.store/products/aps-c-25mm-f2) |
 
@@ -252,6 +268,7 @@
 | Weight | 248g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 79.7° |
 | Official URL | https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens |
 | URL | [official](https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens) |
 
@@ -270,6 +287,7 @@
 | Weight | 173g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 44.2° |
 | Diameter | 65mm |
 | Length | 49mm |
 | Release Date | 2025-01-24 |
@@ -291,6 +309,7 @@
 | Weight | 173g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 44.2° |
 | Diameter | 65mm |
 | Length | 49mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056043/) |
@@ -311,6 +330,7 @@
 | Weight | 165g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 39.1° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056111/) |
 | EAN/JAN Code | 4582733056111 |
 
@@ -329,6 +349,7 @@
 | Weight | 165g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 39.1° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056418/) |
 | EAN/JAN Code | 4582733056418 |
 
@@ -347,6 +368,7 @@
 | Weight | 240g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 21.4° |
 | URL | [stkb](https://stkb.co.jp/info/?p=35043) |
 
 ### AF 56mm f/1.8
@@ -364,5 +386,6 @@
 | Weight | 205g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 28.5° |
 | Official URL | https://ttartisan.store/products/56mm |
 | URL | [official](https://ttartisan.store/products/56mm) |

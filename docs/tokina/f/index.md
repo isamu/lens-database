@@ -18,6 +18,7 @@
 | Diameter | 70mm |
 | Length | 71.1mm |
 | Internal Focus | YES |
+| Fisheye | YES |
 | Discontinued | YES |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/wide-lenses/at-x_107_dx_fisheye/ |
 | EAN/JAN Code | 4961607634110 |
@@ -38,6 +39,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 83.2° |
 | Diameter | 84mm |
 | Length | 89.2mm |
 | Internal Focus | YES |
@@ -61,6 +63,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 83.2° |
 | Diameter | 84mm |
 | Length | 89.2mm |
 | Internal Focus | YES |
@@ -84,6 +87,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 99.6° - 61.2° |
 | Diameter | 84mm |
 | Length | 89.5mm |
 | Internal Focus | YES |
@@ -107,6 +111,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 104.5° - 70.7° |
 | Diameter | 89mm |
 | Length | 92mm |
 | Internal Focus | YES |
@@ -131,6 +136,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 99.6° - 53.8° |
 | Diameter | 84mm |
 | Length | 90.2mm |
 | Internal Focus | YES |
@@ -155,6 +161,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 90.8° - 70.7° |
 | Diameter | 89mm |
 | Length | 106mm |
 | Internal Focus | YES |
@@ -177,6 +184,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 107° - 75.4° |
 | Diameter | 90mm |
 | Length | 133.3mm |
 | Internal Focus | YES |
@@ -200,6 +208,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 103.7° - 63.4° |
 | Diameter | 89mm |
 | Length | 94.5mm |
 | Internal Focus | YES |
@@ -223,6 +232,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 89.6mm |
 | Length | 107.5mm |
 | Internal Focus | YES |
@@ -246,6 +256,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 14 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 82mm |
 | Length | 167.5mm |
 | Internal Focus | YES |
@@ -269,8 +280,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 73mm |
 | Length | 95.1mm |
+| Macro | YES |
 | Discontinued | YES |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/macro-lenses/at-x_m100_pro_d/ |
 | EAN/JAN Code | 4961607633946 |
@@ -291,6 +304,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 99.6° - 61.2° |
 | Diameter | 84mm |
 | Length | 89.5mm |
 | Internal Focus | YES |
@@ -314,6 +328,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 84mm |
 | Length | 97.4mm |
 | Discontinued | YES (2008-06) |
@@ -335,6 +350,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 14 groups |
+| Angle of View | 31.7° - 12° |
 | Diameter | 78.2mm |
 | Length | 135.2mm |
 | Internal Focus | YES |
@@ -358,6 +374,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 81.4° - 12° |
 | Diameter | 84mm |
 | Length | 78mm |
 | Discontinued | YES |
@@ -380,8 +397,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 44.2° |
 | Diameter | 73.2mm |
 | Length | 60.4mm |
+| Macro | YES |
 | Discontinued | YES (2012-09) |
 | Official URL | https://www.kenko-tokina.co.jp/discontinued/cat899/tokina/at-x_m35_pro_dx.html |
 | EAN/JAN Code | 4961607634202 |
@@ -402,6 +421,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 8 |
 | Optical Construction | 16 elements in 10 groups |
+| Angle of View | 30.3° - 6.2° |
 | Diameter | 79mm |
 | Length | 136.5mm |
 | Discontinued | YES (2013-07) |
@@ -424,6 +444,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 83.2° |
 | Diameter | 84mm |
 | Length | 89.2mm |
 | Internal Focus | YES |
@@ -448,6 +469,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 104.5° - 70.7° |
 | Diameter | 89mm |
 | Length | 91.8mm |
 | Internal Focus | YES |
@@ -471,8 +493,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 73mm |
 | Length | 95.1mm |
+| Macro | YES |
 | Release Date | 2022-09-22 |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/macro-lenses/atx-i_100mm_f28_ff_macro_plus/ |
 | EAN/JAN Code | 4961607640876 |
@@ -492,6 +516,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 107° - 75.4° |
 | Diameter | 89mm |
 | Length | 133.5mm |
 | Internal Focus | YES |
@@ -516,6 +541,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 9 groups |
+| Angle of View | 46.8° |
 | Diameter | 80mm |
 | Length | 107.5mm |
 | Release Date | 2018-10-26 |
@@ -537,6 +563,7 @@
 | Weight | 310g |
 | Max Magnification | 0.35x |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 5° |
 | Diameter | 74mm |
 | Length | 89mm |
 | Release Date | 2022-02-25 |
@@ -558,6 +585,7 @@
 | Weight | 355g |
 | Max Magnification | 0.4x |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 6.2° |
 | Diameter | 74mm |
 | Length | 76.8mm |
 | Release Date | 2022-04-22 |

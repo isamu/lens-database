@@ -15,6 +15,7 @@
 | Weight | 344g |
 | Aperture Blades | 14 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 75.4° |
 | Diameter | 60mm |
 | Length | 66mm |
 | Release Date | 2024 |
@@ -35,6 +36,7 @@
 | Min Focus Distance | 0.45m |
 | Aperture Blades | 14 |
 | Optical Construction | 9 elements in 5 groups |
+| Angle of View | 63.4° |
 | Release Date | 2024 |
 | Official URL | https://thypoch.com/en/simera/35mm |
 | URL | [official](https://thypoch.com/en/simera/35mm)<br />[store](https://store.thypoch.com/products/simera-35mm-camera-lens-f1-4) |
