@@ -2,6 +2,7 @@ import * as fs from "fs";
 import allLens from "./data/all";
 
 import { lensData2Markdown } from "./utils";
+import { isValidEan13 } from "./ean";
 import { Mount, MakerMountDataObject } from "./data/types";
 
 const validateLensData = (dataObj: MakerMountDataObject) => {
@@ -22,6 +23,10 @@ const validateLensData = (dataObj: MakerMountDataObject) => {
         }
         if (EANCode && jans[EANCode]) {
           console.log("duplicate EANCode: ", EANCode);
+          ret = false;
+        }
+        if (EANCode && !isValidEan13(EANCode)) {
+          console.log("invalid EANCode (checksum): ", id, EANCode);
           ret = false;
         }
         ids[id] = true;

@@ -1,0 +1,32 @@
+import { LensData } from "../types";
+
+export const thypochLensDataSet: LensData[] = [
+  {
+    id: "thypoch-ksana-21mm-f3.5-m",
+    maker: "Thypoch",
+    name: "Ksana 21mm f/3.5 ASPH.",
+    mount: "M",
+    focalLength: [21],
+    fStop: [3.5],
+    format: "Full-Frame",
+    focus: ["MF"],
+    hasStabilizer: false,
+    hasDustMoistureResistance: false,
+    filterDiameter: 39,
+    weight: 131,
+    minFocusDistance: 0.5,
+    bladesCount: 9,
+    elements: 8,
+    groups: 6,
+    diameter: 42,
+    length: 27,
+    releaseDate: "2026-01",
+    officialUrl: "https://thypoch.com/en/ksana/21mm",
+    urls: {
+      official: "https://thypoch.com/en/ksana/21mm",
+      store: "https://store.thypoch.com/products/ksana-21mm",
+      leicalenslist: "https://leicalenslist.com/lenses/thypoch-ksana-21mm-f35",
+    },
+    note: "Silver model TP-K21M-SR. Epoch Coating .73 for 1970s-style amber flare. Rangefinder coupling down to 0.7m, focuses to 0.5m via live view.",
+  },
+];
