@@ -83,6 +83,22 @@ export type LensData = {
 
   // Features
   isInternalFocus?: boolean; // Internal focusing system
+  hasMacro?: boolean; // Macro / close-up specialty (0.5:1 or better as marketed)
+  hasFisheye?: boolean; // Fisheye projection (diagonal or circular)
+  hasTiltShift?: boolean; // Tilt / shift / perspective-control movements
+  hasSoftFocus?: boolean; // Soft-focus / defocus-control specialty
+
+  // Optics — extended
+  angleOfView?: number[]; // Diagonal angle of view in degrees. [prime] or [wide, tele] for zoom
+  imageCircle?: number; // Image circle diameter in mm (mainly for tilt-shift and macro probe)
+
+  // Availability & pricing
+  msrp?: number; // Manufacturer suggested retail price, JPY (tax-inclusive when the source is JP)
+
+  // Relationships
+  predecessorId?: string; // id of the earlier generation this lens replaces
+  successorId?: string; // id of the newer generation that replaces this lens
+  compatibleBodies?: string[]; // Camera body model names this lens is officially supported on
 
   // URLs and references
   officialUrl?: string;
