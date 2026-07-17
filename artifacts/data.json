@@ -11197,6 +11197,5724 @@
       }
     ]
   },
+  "OLYMPUS": {
+    "MicroFourThirds": [
+      {
+        "id": "4545350047924",
+        "EANCode": "4545350047924",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 7-14mm F2.8 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          7,
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.2,
+        "weight": 534,
+        "maxMagnification": 0.12,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 78.9,
+        "length": 105.8,
+        "releaseDate": "2015-06-26",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/7-14_28pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000775859/"
+        },
+        "note": "防塵防滴 IP53相当。出目金前玉のためフィルター装着不可。"
+      },
+      {
+        "id": "4545350054205",
+        "EANCode": "4545350054205",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 8-25mm F4.0 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          8,
+          25
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.23,
+        "weight": 411,
+        "maxMagnification": 0.21,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 10,
+        "diameter": 77,
+        "length": 88.5,
+        "releaseDate": "2021-06-25",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/8-25_4pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001360933/"
+        },
+        "note": "防塵防滴 IP53。JANは2023年にOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350045487",
+        "EANCode": "4545350045487",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 12-40mm F2.8 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.2,
+        "weight": 382,
+        "maxMagnification": 0.3,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 9,
+        "diameter": 69.9,
+        "length": 84,
+        "releaseDate": "2013-11-29",
+        "discontinued": true,
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/12-40_28pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000575072/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。"
+      },
+      {
+        "id": "4545350054014",
+        "EANCode": "4545350054014",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 12-45mm F4.0 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          45
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.12,
+        "weight": 254,
+        "maxMagnification": 0.25,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 63.4,
+        "length": 70,
+        "releaseDate": "2020-03-27",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/12-45_4pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001231957/"
+        },
+        "note": "防滴性能は保護等級1級（IPX1）／防塵機構搭載。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054151",
+        "EANCode": "4545350054151",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 12-100mm F4.0 IS PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.15,
+        "weight": 561,
+        "maxMagnification": 0.3,
+        "bladesCount": 7,
+        "elements": 17,
+        "groups": 11,
+        "diameter": 77.5,
+        "length": 116.5,
+        "releaseDate": "2016-11-18",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/12-100_4ispro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000910962/"
+        },
+        "note": "防塵防滴 IP53相当。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054182",
+        "EANCode": "4545350054182",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 40-150mm F2.8 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          40,
+          150
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.7,
+        "weight": 760,
+        "maxMagnification": 0.21,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 10,
+        "diameter": 79.4,
+        "length": 160,
+        "releaseDate": "2014-11-29",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/40-150_28pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000693529/"
+        },
+        "note": "防塵防滴 IP53相当。質量は三脚座を除く値（三脚座込み880g）。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054175",
+        "EANCode": "4545350054175",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 150-400mm F4.5 TC1.25x IS PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          150,
+          400
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 1.3,
+        "weight": 1875,
+        "maxMagnification": 0.29,
+        "bladesCount": 9,
+        "elements": 28,
+        "groups": 18,
+        "diameter": 115.8,
+        "length": 314.3,
+        "releaseDate": "2021-01-22",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/150-400_45ispro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001313618/"
+        },
+        "note": "防塵防滴 IP53。内蔵1.25xテレコンバーター使用時は187.5-500mm F5.6。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054236",
+        "EANCode": "4545350054236",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 12-200mm F3.5-6.3",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          200
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.22,
+        "weight": 455,
+        "maxMagnification": 0.23,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 11,
+        "diameter": 77.5,
+        "length": 99.7,
+        "releaseDate": "2019-03-22",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/12-200_35-63/index.html",
+          "kakaku": "https://kakaku.com/item/K0001129701/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。最大撮影倍率はTele端の値（Wide端0.10倍）。JANはOM SYSTEM銘へ銘板変更された現行SKU（2024年4月26日発売）のもの。"
+      },
+      {
+        "id": "4545350054021",
+        "EANCode": "4545350054021",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 14-150mm F4.0-5.6 II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          14,
+          150
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.5,
+        "weight": 285,
+        "maxMagnification": 0.22,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 11,
+        "diameter": 63.5,
+        "length": 83,
+        "releaseDate": "2015-02-20",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/14-150_40-56_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0000740866/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。JANはOM SYSTEM銘へ銘板変更された現行SKU（2022年11月25日発売）のもの。"
+      },
+      {
+        "id": "4545350054274",
+        "EANCode": "4545350054274",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 40-150mm F4.0-5.6 R",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          40,
+          150
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.9,
+        "weight": 190,
+        "maxMagnification": 0.16,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 63.5,
+        "length": 83,
+        "releaseDate": "2011-09-03",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/40-150_40-56_r/index.html",
+          "kakaku": "https://kakaku.com/item/K0000268487/"
+        },
+        "note": "ブラック代表（シルバー JAN 4545350054281）。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054298",
+        "EANCode": "4545350054298",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 75-300mm F4.8-6.7 II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          75,
+          300
+        ],
+        "fStop": [
+          4.8,
+          6.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.9,
+        "weight": 423,
+        "maxMagnification": 0.18,
+        "bladesCount": 7,
+        "elements": 18,
+        "groups": 13,
+        "diameter": 69,
+        "length": 116.5,
+        "releaseDate": "2013-03-01",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/75-300_48-67_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0000463666/"
+        },
+        "note": "最短撮影距離は75mm時0.9m、それ以外の焦点距離では1.5m。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350054212",
+        "EANCode": "4545350054212",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 8mm F1.8 Fisheye PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          8
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.12,
+        "weight": 315,
+        "maxMagnification": 0.2,
+        "bladesCount": 7,
+        "elements": 17,
+        "groups": 15,
+        "diameter": 62,
+        "length": 80,
+        "releaseDate": "2015-06-26",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/8_18pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000775858/"
+        },
+        "note": "防塵防滴 IP53相当。対角線画角180°の魚眼レンズで出目金前玉のためフィルター装着不可。JANはOM SYSTEM銘へ銘板変更された現行SKU（2024年6月21日発売）のもの（旧SKUは4545350047900）。"
+      },
+      {
+        "id": "4545350051662",
+        "EANCode": "4545350051662",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 17mm F1.2 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.2,
+        "weight": 390,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 11,
+        "diameter": 68.2,
+        "length": 87,
+        "releaseDate": "2018-01-26",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/17_12pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001008887/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。"
+      },
+      {
+        "id": "4545350053758",
+        "EANCode": "4545350053758",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 20mm F1.4 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 247,
+        "maxMagnification": 0.11,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 63.4,
+        "length": 61.7,
+        "releaseDate": "2021-12-10",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/20_14pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001397210/"
+        },
+        "note": "防滴性能は保護等級1級（IPX1）／防塵設計。OM Digital Solutions発売だが鏡筒銘板はOLYMPUS表記で、OM SYSTEM銘への切り替え前（2021年12月10日発売）の製品。"
+      },
+      {
+        "id": "4545350054144",
+        "EANCode": "4545350054144",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 25mm F1.2 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.3,
+        "weight": 410,
+        "maxMagnification": 0.11,
+        "bladesCount": 9,
+        "elements": 19,
+        "groups": 14,
+        "diameter": 70,
+        "length": 87,
+        "releaseDate": "2016-11-18",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/25_12pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000910961/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。JANはOM SYSTEM銘へ銘板変更された現行SKU（2024年8月23日発売）のもの。"
+      },
+      {
+        "id": "4545350054168",
+        "EANCode": "4545350054168",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 45mm F1.2 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.5,
+        "weight": 410,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 10,
+        "diameter": 70,
+        "length": 84.9,
+        "releaseDate": "2017-11-24",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/45_12pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001008888/"
+        },
+        "note": "防滴処理は保護等級1級（IPX1）／防塵設計。JANはOM SYSTEM銘へ銘板変更された現行SKUのもの。"
+      },
+      {
+        "id": "4545350055875",
+        "EANCode": "4545350055875",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 300mm F4.0 IS PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.4,
+        "weight": 1270,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 10,
+        "diameter": 92.5,
+        "length": 227,
+        "releaseDate": "2016-02-26",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/pro/300_4ispro/index.html",
+          "kakaku": "https://kakaku.com/item/K0000843555/"
+        },
+        "note": "防塵防滴 IP53相当。全長はフード収納時（フード使用時280mm）。質量は三脚座を除く値（三脚座込み1,475g）。JANはOM SYSTEM銘へ銘板変更された現行SKU（2025年6月27日発売）のもの。"
+      },
+      {
+        "id": "4545350054120",
+        "EANCode": "4545350054120",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 12mm F2.0",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.2,
+        "weight": 130,
+        "maxMagnification": 0.08,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 56,
+        "length": 43,
+        "releaseDate": "2011-07-22",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/premi/12_20/index.html",
+          "kakaku": "https://kakaku.com/item/K0000687811/"
+        },
+        "note": "ブラック代表（シルバー JAN 4545350036416）。発売日は初出のシルバーのもので、ブラック単体発売は2014年9月20日。JANはOM SYSTEM銘へ銘板変更されたブラック現行SKU（2026年5月29日発売）のもの。"
+      },
+      {
+        "id": "4545350044138",
+        "EANCode": "4545350044138",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL 45mm F1.8",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 37,
+        "minFocusDistance": 0.5,
+        "weight": 116,
+        "maxMagnification": 0.11,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 56,
+        "length": 46,
+        "releaseDate": "2011-09-09",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/premi/45_18/index.html",
+          "kakaku": "https://kakaku.com/item/K0000508919/"
+        },
+        "note": "ブラック代表（シルバー JAN 4545350037093）。発売日は初出のシルバーのもので、ブラック単体発売は2013年6月14日。"
+      },
+      {
+        "id": "4545350054113",
+        "EANCode": "4545350054113",
+        "maker": "OLYMPUS",
+        "name": "M.ZUIKO DIGITAL ED 75mm F1.8",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.84,
+        "weight": 305,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 64,
+        "length": 69,
+        "releaseDate": "2012-07-06",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/premi/75_18/index.html",
+          "kakaku": "https://kakaku.com/item/K0001661803/"
+        },
+        "note": "ブラック代表（シルバー JAN 4545350041496）。発売日は初出のシルバーのもの。JANはOM SYSTEM銘へ銘板変更されたブラック現行SKU（2024年9月20日発売）のもの。"
+      }
+    ]
+  },
+  "OM SYSTEM": {
+    "MicroFourThirds": [
+      {
+        "id": "4545350053727",
+        "EANCode": "4545350053727",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 12-40mm F2.8 PRO II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.2,
+        "weight": 382,
+        "maxMagnification": 0.3,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 9,
+        "diameter": 69.9,
+        "length": 84,
+        "releaseDate": "2022-03-25",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/12-40_28pro_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0001421844/"
+        },
+        "note": "防塵防滴 IP53。"
+      },
+      {
+        "id": "4545350053772",
+        "EANCode": "4545350053772",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 40-150mm F4.0 PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          40,
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.7,
+        "weight": 382,
+        "maxMagnification": 0.21,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 9,
+        "diameter": 68.9,
+        "length": 99.4,
+        "releaseDate": "2022-03-25",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/40-150_4pro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001421843/"
+        },
+        "note": "防塵防滴 IP53。"
+      },
+      {
+        "id": "4545350056605",
+        "EANCode": "4545350056605",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 50-200mm F2.8 IS PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          50,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.78,
+        "weight": 1075,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 21,
+        "groups": 13,
+        "diameter": 91.4,
+        "length": 225.8,
+        "releaseDate": "2025-09-27",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/pro/50-200_28ispro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001706782/"
+        },
+        "note": "防塵防滴機構 IP53相当。質量は三脚座を除く値（三脚座込み1,250g）。"
+      },
+      {
+        "id": "4545350056001",
+        "EANCode": "4545350056001",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 9-18mm F4.0-5.6 II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          9,
+          18
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 154,
+        "maxMagnification": 0.1,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 56.2,
+        "length": 49.3,
+        "releaseDate": "2024-02-23",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/9-18_40-56_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0001602425/"
+        },
+        "note": "公式仕様で防滴性能／防塵機構は「非対応」。最大撮影倍率はTele端の値（Wide端0.05倍）。"
+      },
+      {
+        "id": "4545350056070",
+        "EANCode": "4545350056070",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 150-600mm F5.0-6.3 IS",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          150,
+          600
+        ],
+        "fStop": [
+          5,
+          6.3
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.56,
+        "weight": 2065,
+        "maxMagnification": 0.35,
+        "bladesCount": 9,
+        "elements": 25,
+        "groups": 15,
+        "diameter": 109.4,
+        "length": 264.4,
+        "releaseDate": "2024-03-15",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/zoom/mzuiko/150-600_50-63is/index.html",
+          "kakaku": "https://kakaku.com/item/K0001602426/"
+        },
+        "note": "防滴性能は保護等級1級（IPX1）／防塵機構搭載。最短撮影距離・最大撮影倍率はWide端の値（Tele端2.8m／0.20倍）。"
+      },
+      {
+        "id": "4545350056643",
+        "EANCode": "4545350056643",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL 17mm F1.8 II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.25,
+        "weight": 112,
+        "maxMagnification": 0.08,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 6,
+        "diameter": 57.6,
+        "length": 37.6,
+        "releaseDate": "2025-03-01",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/premi/17_18_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0001674973/"
+        },
+        "note": "防滴性能は保護等級1級（IPX1）／防塵機構搭載。"
+      },
+      {
+        "id": "omsystem-25mm-f18-ii-m43",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL 25mm F1.8 II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.25,
+        "weight": 156,
+        "maxMagnification": 0.12,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 59.4,
+        "length": 42,
+        "releaseDate": "2025-03-01",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/single/premi/25_18_2/index.html",
+          "kakaku": "https://kakaku.com/item/K0001674974/"
+        },
+        "note": "防滴性能は保護等級1級（IPX1）／防塵機構搭載。JANは公式・価格.comとも未掲載のためID はスラッグ。"
+      },
+      {
+        "id": "4545350053925",
+        "EANCode": "4545350053925",
+        "maker": "OM SYSTEM",
+        "name": "M.ZUIKO DIGITAL ED 90mm F3.5 Macro IS PRO",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.25,
+        "weight": 453,
+        "maxMagnification": 1,
+        "bladesCount": 7,
+        "elements": 18,
+        "groups": 13,
+        "diameter": 69.8,
+        "length": 136,
+        "releaseDate": "2023-02-24",
+        "urls": {
+          "official": "https://jp.omsystem.com/product/lens/macro/90_35macroispro/index.html",
+          "kakaku": "https://kakaku.com/item/K0001514892/"
+        },
+        "note": "防塵防滴機構 IP53相当。S-MACRO時は最短撮影距離0.224m・最大撮影倍率2.0倍。"
+      }
+    ]
+  },
+  "Panasonic": {
+    "L": [
+      {
+        "id": "panasonic-s-r1428-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 14-28mm F4-5.6 MACRO",
+        "mount": "L",
+        "focalLength": [
+          14,
+          28
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.15,
+        "weight": 345,
+        "maxMagnification": 0.5,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 10,
+        "diameter": 84,
+        "length": 89.8,
+        "releaseDate": "2023-03-16",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R1428.html",
+          "kakaku": "https://kakaku.com/item/K0001506678/"
+        },
+        "note": "品番S-R1428。防塵・防滴・耐低温（-10℃）設計、フッ素コーティング。質量は前後キャップ・フードを含まず。"
+      },
+      {
+        "id": "panasonic-s-r1635-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S PRO 16-35mm F4",
+        "mount": "L",
+        "focalLength": [
+          16,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.25,
+        "weight": 500,
+        "maxMagnification": 0.23,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 85,
+        "length": 99.6,
+        "releaseDate": "2019-12-25",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R1635.html",
+          "kakaku": "https://kakaku.com/item/K0001208090/"
+        },
+        "note": "品番S-R1635。LUMIX S PROはライカ社認証基準をクリアしたシリーズ。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r1840-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 18-40mm F4.5-6.3",
+        "mount": "L",
+        "focalLength": [
+          18,
+          40
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.15,
+        "weight": 155,
+        "maxMagnification": 0.28,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 67.9,
+        "length": 40.9,
+        "releaseDate": "2024-10-25",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R1840.html",
+          "kakaku": "https://kakaku.com/item/K0001657950/"
+        },
+        "note": "品番S-R1840。全長は鏡筒収納時の値。最短撮影距離はW端〜焦点距離21mmでの値（T端0.35m）。防塵・防滴、フッ素コーティング。"
+      },
+      {
+        "id": "panasonic-s-r2060-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 20-60mm F3.5-5.6",
+        "mount": "L",
+        "focalLength": [
+          20,
+          60
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.15,
+        "weight": 350,
+        "maxMagnification": 0.43,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 77.4,
+        "length": 87.2,
+        "releaseDate": "2020-07-22",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R2060.html",
+          "kakaku": "https://kakaku.com/item/K0001265885/"
+        },
+        "note": "品番S-R2060。最短撮影距離はW端の値（T端0.4m）。最大撮影倍率は焦点距離26mmでの値。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-e2460-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 24-60mm F2.8",
+        "mount": "L",
+        "focalLength": [
+          24,
+          60
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.19,
+        "weight": 544,
+        "maxMagnification": 0.3,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 12,
+        "diameter": 84,
+        "length": 99.9,
+        "releaseDate": "2025-06-19",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-E2460.html",
+          "kakaku": "https://kakaku.com/item/K0001689461/"
+        },
+        "note": "品番S-E2460。最短撮影距離はW端〜焦点距離30mmの値（T端0.33m）。最大撮影倍率は焦点距離30mmでの値（W端0.25倍、T端0.22倍）。防塵・防滴、フッ素コーティング。"
+      },
+      {
+        "id": "panasonic-s-e2470-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S PRO 24-70mm F2.8",
+        "mount": "L",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.37,
+        "weight": 935,
+        "maxMagnification": 0.25,
+        "bladesCount": 11,
+        "elements": 18,
+        "groups": 16,
+        "diameter": 90.9,
+        "length": 140,
+        "releaseDate": "2019-09-25",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-E2470.html",
+          "kakaku": "https://kakaku.com/item/K0001185578/"
+        },
+        "note": "品番S-E2470。LUMIX S PROはライカ社認証基準をクリアしたシリーズ。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r24105-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 24-105mm F4 MACRO O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 680,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 84,
+        "length": 118,
+        "releaseDate": "2019-03-23",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R24105.html",
+          "kakaku": "https://kakaku.com/item/K0001130072/"
+        },
+        "note": "品番S-R24105。ボディ内手ブレ補正との協調制御Dual I.S. 2に対応。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r28200-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 28-200mm F4-7.1 MACRO O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          28,
+          200
+        ],
+        "fStop": [
+          4,
+          7.1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.14,
+        "weight": 413,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 13,
+        "diameter": 77.3,
+        "length": 93.4,
+        "releaseDate": "2024-04-18",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R28200.html",
+          "kakaku": "https://kakaku.com/item/K0001608126/"
+        },
+        "note": "品番S-R28200。最短撮影距離・最大撮影倍率はW端の値（T端0.65m）。Dual I.S. 対応。防塵・防滴、フッ素コーティング。"
+      },
+      {
+        "id": "panasonic-s-e70200-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S PRO 70-200mm F2.8 O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.95,
+        "weight": 1570,
+        "maxMagnification": 0.21,
+        "bladesCount": 11,
+        "elements": 22,
+        "groups": 17,
+        "diameter": 94.4,
+        "length": 208.6,
+        "releaseDate": "2020-01-17",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-E70200.html",
+          "kakaku": "https://kakaku.com/item/K0001208091/"
+        },
+        "note": "品番S-E70200。質量は前後キャップ・フード・三脚座を含まず。LUMIX S PROはライカ社認証基準をクリアしたシリーズ。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r70200-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S PRO 70-200mm F4 O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.92,
+        "weight": 985,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 23,
+        "groups": 17,
+        "diameter": 84.4,
+        "length": 179,
+        "releaseDate": "2019-03-23",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R70200.html",
+          "kakaku": "https://kakaku.com/item/K0001130071/"
+        },
+        "note": "品番S-R70200。質量は前後キャップ・フード・三脚座を含まず。LUMIX S PROはライカ社認証基準をクリアしたシリーズ。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r70300-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 70-300mm F4.5-5.6 MACRO O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.54,
+        "weight": 790,
+        "maxMagnification": 0.5,
+        "bladesCount": 11,
+        "elements": 17,
+        "groups": 11,
+        "diameter": 84,
+        "length": 148,
+        "releaseDate": "2021-04-22",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R70300.html",
+          "kakaku": "https://kakaku.com/item/K0001333407/"
+        },
+        "note": "品番S-R70300。最短撮影距離はW端の値（T端0.74m）。Dual I.S. 2対応。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r100500-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 100-500mm F5-7.1 O.I.S.",
+        "mount": "L",
+        "focalLength": [
+          100,
+          500
+        ],
+        "fStop": [
+          5,
+          7.1
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.8,
+        "weight": 1285,
+        "maxMagnification": 0.36,
+        "bladesCount": 11,
+        "elements": 19,
+        "groups": 12,
+        "diameter": 92,
+        "length": 196.1,
+        "releaseDate": "2025-11-20",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R100500.html",
+          "kakaku": "https://kakaku.com/item/K0001712363/"
+        },
+        "note": "品番S-R100500。最短撮影距離はW端の値（T端1.50m）。最大撮影倍率はT端の値（W端0.16倍）。質量は三脚座を含まず。テレコンバーター対応。防塵・防滴、フッ素コーティング。"
+      },
+      {
+        "id": "panasonic-s-s18-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 18mm F1.8",
+        "mount": "L",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.18,
+        "weight": 340,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 12,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2022-10-20",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S18.html",
+          "kakaku": "https://kakaku.com/item/K0001469592/"
+        },
+        "note": "品番S-S18。フィルター径67mm・外形寸法をF1.8単焦点シリーズ（24/35/50/85mm）と統一。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-s24-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 24mm F1.8",
+        "mount": "L",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.24,
+        "weight": 310,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2021-09-22",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S24.html",
+          "kakaku": "https://kakaku.com/item/K0001379216/"
+        },
+        "note": "品番S-S24。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-r26-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 26mm F8",
+        "mount": "L",
+        "focalLength": [
+          26
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.25,
+        "weight": 58,
+        "maxMagnification": 0.14,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 67.1,
+        "length": 18.1,
+        "releaseDate": "2024-06-20",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-R26.html",
+          "kakaku": "https://kakaku.com/item/K0001627146/"
+        },
+        "note": "品番S-R26。マニュアルフォーカス専用・F8固定のパンケーキレンズで、絞り機構を持たない（公式仕様で絞り形式は「－」）。カメラ側のAF設定や一部のMFアシスト機能は使用不可。フィルター装着不可。公式仕様で防塵防滴は「－」。"
+      },
+      {
+        "id": "panasonic-s-s35-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 35mm F1.8",
+        "mount": "L",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.24,
+        "weight": 295,
+        "maxMagnification": 0.22,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2021-12-16",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S35.html",
+          "kakaku": "https://kakaku.com/item/K0001401560/"
+        },
+        "note": "品番S-S35。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-s40-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 40mm F2",
+        "mount": "L",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.3,
+        "weight": 144,
+        "maxMagnification": 0.17,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 69.4,
+        "length": 40.9,
+        "releaseDate": "2026-06-18",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S40.html",
+          "kakaku": "https://kakaku.com/item/K0001782208/"
+        },
+        "note": "品番S-S40。ブラック（S-S40-K）代表。シルバー（S-S40-S）も同時発売。防塵・防滴、フッ素コーティング。"
+      },
+      {
+        "id": "panasonic-s-x50-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S PRO 50mm F1.4",
+        "mount": "L",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.44,
+        "weight": 955,
+        "maxMagnification": 0.15,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 90,
+        "length": 130,
+        "releaseDate": "2019-03-23",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-X50.html",
+          "kakaku": "https://kakaku.com/item/K0001130070/"
+        },
+        "note": "品番S-X50。Sシリーズ唯一の絞りリング搭載レンズ。LUMIX S PROはライカ社認証基準をクリアしたシリーズ。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-s50-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 50mm F1.8",
+        "mount": "L",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.45,
+        "weight": 300,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2021-06-25",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S50.html",
+          "kakaku": "https://kakaku.com/item/K0001359118/"
+        },
+        "note": "品番S-S50。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-s85-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 85mm F1.8",
+        "mount": "L",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.8,
+        "weight": 355,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2020-11-26",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-S85.html",
+          "kakaku": "https://kakaku.com/item/K0001310030/"
+        },
+        "note": "品番S-S85。F1.8単焦点シリーズの第1弾。防塵・防滴・耐低温（-10℃）設計。"
+      },
+      {
+        "id": "panasonic-s-e100-l",
+        "maker": "Panasonic",
+        "name": "LUMIX S 100mm F2.8 MACRO",
+        "mount": "L",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.204,
+        "weight": 298,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 73.6,
+        "length": 82,
+        "releaseDate": "2024-02-15",
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/S-E100.html",
+          "kakaku": "https://kakaku.com/item/K0001596232/"
+        },
+        "note": "品番S-E100。等倍（1.0倍）マクロ。公式仕様で光学式手ブレ補正・Dual I.S. は「－」。防塵・防滴・耐低温（-10℃）設計。"
+      }
+    ],
+    "MicroFourThirds": [
+      {
+        "id": "panasonic-leica-dg-summilux-9mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG SUMMILUX 9mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          9
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.095,
+        "weight": 130,
+        "maxMagnification": 0.25,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 60.8,
+        "length": 52,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X09.html"
+        },
+        "note": "品番 H-X09。防塵・防滴仕様（当社製防塵・防滴対応ボディ装着時）。"
+      },
+      {
+        "id": "panasonic-leica-dg-summilux-12mm-f1.4-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG SUMMILUX 12mm / F1.4 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.2,
+        "weight": 335,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 70,
+        "length": 70,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X012.html"
+        },
+        "note": "品番 H-X012。絞りリング搭載。防塵・防滴仕様。"
+      },
+      {
+        "id": "panasonic-leica-dg-summilux-15mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG SUMMILUX 15mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.2,
+        "weight": 115,
+        "maxMagnification": 0.1,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 57.5,
+        "length": 36,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X015.html"
+        },
+        "note": "品番 H-X015。絞りリング搭載。ブラック（H-X015-K）／シルバー（H-X015-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-leica-dg-summilux-25mm-f1.4-ii-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG SUMMILUX 25mm / F1.4 II ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.3,
+        "weight": 205,
+        "maxMagnification": 0.11,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 63,
+        "length": 54.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-XA025.html"
+        },
+        "note": "品番 H-XA025。H-X025（I型）の後継。防塵・防滴仕様（当社製防塵・防滴対応ボディ装着時）。"
+      },
+      {
+        "id": "panasonic-lumix-g-20mm-f1.7-ii-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 20mm / F1.7 II ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.2,
+        "weight": 87,
+        "maxMagnification": 0.13,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 63,
+        "length": 25.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-H020A.html"
+        },
+        "note": "品番 H-H020A。全長は鏡筒収納時の値。ブラック（H-H020A-K）／シルバー（H-H020A-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-lumix-g-25mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 25mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.25,
+        "weight": 125,
+        "maxMagnification": 0.14,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 60.8,
+        "length": 52,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-H025.html"
+        },
+        "note": "品番 H-H025。ブラック（H-H025-K）／シルバー（H-H025-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-leica-dg-nocticron-42.5mm-f1.2-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG NOCTICRON 42.5mm / F1.2 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          42.5
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.5,
+        "weight": 425,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 74,
+        "length": 76.8,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-NS043.html"
+        },
+        "note": "品番 H-NS043。絞りリング搭載。手ブレ補正は POWER O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-42.5mm-f1.7-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 42.5mm / F1.7 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          42.5
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 37,
+        "minFocusDistance": 0.31,
+        "weight": 130,
+        "maxMagnification": 0.2,
+        "bladesCount": 7,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 55,
+        "length": 50,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-HS043.html"
+        },
+        "note": "品番 H-HS043。手ブレ補正は POWER O.I.S.。ブラック（H-HS043-K）／シルバー（H-HS043-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-leica-dg-macro-elmarit-45mm-f2.8-asph-mega-ois-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG MACRO-ELMARIT 45mm / F2.8 ASPH. / MEGA O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.15,
+        "weight": 225,
+        "maxMagnification": 1,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 10,
+        "diameter": 63,
+        "length": 62.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-ES045.html"
+        },
+        "note": "品番 H-ES045。等倍（35mm判換算2.0倍）マクロ。手ブレ補正は MEGA O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-macro-30mm-f2.8-asph-mega-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G MACRO 30mm / F2.8 ASPH. / MEGA O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.105,
+        "weight": 180,
+        "maxMagnification": 1,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 58.8,
+        "length": 63.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-HS030.html"
+        },
+        "note": "品番 H-HS030。等倍（35mm判換算2.0倍）マクロ。手ブレ補正は MEGA O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-fisheye-8mm-f3.5-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G FISHEYE 8mm / F3.5",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          8
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.1,
+        "bladesCount": 7,
+        "elements": 10,
+        "groups": 9,
+        "weight": 165,
+        "diameter": 60.7,
+        "length": 51.7,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-F008.html"
+        },
+        "note": "品番 H-F008。対角線画角180°の魚眼レンズ。固定フードのため前面フィルター装着不可（後面に22mm×22mmの挟み込みタイプ）。全長は固定フード先端からの値。"
+      },
+      {
+        "id": "panasonic-lumix-g-14mm-f2.5-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 14mm / F2.5 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.18,
+        "weight": 55,
+        "maxMagnification": 0.1,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 55.5,
+        "length": 20.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-H014.html"
+        },
+        "note": "品番 H-H014。パンケーキ型。後継は H-H014A（II型）。"
+      },
+      {
+        "id": "panasonic-lumix-g-14mm-f2.5-ii-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 14mm / F2.5 II ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.18,
+        "weight": 55,
+        "maxMagnification": 0.1,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 55.5,
+        "length": 20.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-H014A.html"
+        },
+        "note": "品番 H-H014A。光学性能は H-H014（I型）と同一で外装デザインを変更したモデル。ブラック（H-H014A-K）／シルバー（H-H014A-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-lumix-g-20mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G 20mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.2,
+        "weight": 100,
+        "maxMagnification": 0.13,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 63,
+        "length": 25.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-H020.html"
+        },
+        "note": "品番 H-H020。全長は鏡筒収納時の値。後継は H-H020A（II型、質量87g）。"
+      },
+      {
+        "id": "panasonic-leica-dg-summilux-25mm-f1.4-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG SUMMILUX 25mm / F1.4 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "maxMagnification": 0.11,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 63,
+        "length": 54.5,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X025.html"
+        },
+        "note": "品番 H-X025。後継の H-XA025（II型）で防塵・防滴仕様が追加された。"
+      },
+      {
+        "id": "panasonic-lumix-g-vario-7-14mm-f4-asph-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G VARIO 7-14mm / F4.0 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          7,
+          14
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.25,
+        "weight": 300,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 12,
+        "diameter": 70,
+        "length": 83.1,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-F007014.html"
+        },
+        "note": "品番 H-F007014。出目金前玉・固定フードのためフィルター装着不可。全長は固定フード先端からの値。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-elmarit-8-18mm-f2.8-4-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-ELMARIT 8-18mm / F2.8-4.0 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          8,
+          18
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.23,
+        "weight": 315,
+        "maxMagnification": 0.12,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 10,
+        "diameter": 73.4,
+        "length": 88,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-E08018.html"
+        },
+        "note": "品番 H-E08018。防塵・防滴仕様（当社製防塵・防滴対応ボディ装着時）。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-summilux-10-25mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-SUMMILUX 10-25mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          10,
+          25
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.28,
+        "weight": 690,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 12,
+        "diameter": 87.6,
+        "length": 128,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X1025.html"
+        },
+        "note": "品番 H-X1025。全域F1.7通しの標準ズーム。絞りリング搭載。防塵・防滴仕様（当社製防塵・防滴対応ボディ装着時）。"
+      },
+      {
+        "id": "panasonic-lumix-g-vario-12-32mm-f3.5-5.6-asph-mega-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G VARIO 12-32mm / F3.5-5.6 ASPH. / MEGA O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          32
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 37,
+        "minFocusDistance": 0.2,
+        "weight": 70,
+        "maxMagnification": 0.13,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 55.5,
+        "length": 24,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-FS12032.html"
+        },
+        "note": "品番 H-FS12032。沈胴式パンケーキズームでフォーカスリングを持たない（MF はボディ側操作）。最短撮影距離はW端0.2m／T端0.3m。全長は鏡筒収納時の値。手ブレ補正は MEGA O.I.S.。ブラック／シルバー／ゴールドの色違いあり。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-elmarit-12-35mm-f2.8-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-ELMARIT 12-35mm / F2.8 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.15,
+        "weight": 306,
+        "maxMagnification": 0.21,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 9,
+        "diameter": 67.6,
+        "length": 73.8,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-ES12035.html"
+        },
+        "note": "品番 H-ES12035。LUMIX G X VARIO 12-35mm F2.8 II（H-HSA12035）の後継にあたる LEICA DG 銘モデル。最短撮影距離はW端〜17mm 0.15m／T端0.25m。防塵・防滴仕様。手ブレ補正は POWER O.I.S.。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-elmarit-12-60mm-f2.8-4-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-ELMARIT 12-60mm / F2.8-4.0 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          60
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.2,
+        "weight": 320,
+        "maxMagnification": 0.3,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 12,
+        "diameter": 68.4,
+        "length": 86,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-ES12060.html"
+        },
+        "note": "品番 H-ES12060。最短撮影距離はW端0.20m／T端0.24m。防塵・防滴仕様。手ブレ補正は POWER O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-vario-12-60mm-f3.5-5.6-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G VARIO 12-60mm / F3.5-5.6 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          12,
+          60
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.2,
+        "weight": 210,
+        "maxMagnification": 0.27,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 66,
+        "length": 71,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-FS12060.html"
+        },
+        "note": "品番 H-FS12060。最短撮影距離はW端0.2m／T端0.25m。防塵・防滴仕様。手ブレ補正は POWER O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-x-vario-pz-14-42mm-f3.5-5.6-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G X VARIO PZ 14-42mm / F3.5-5.6 ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          14,
+          42
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 37,
+        "minFocusDistance": 0.2,
+        "weight": 95,
+        "maxMagnification": 0.17,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 61,
+        "length": 26.8,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-PS14042.html"
+        },
+        "note": "品番 H-PS14042。電動ズーム（パワーズーム）搭載の沈胴式。最短撮影距離はW端0.2m／T端0.3m。全長は鏡筒収納時の値。手ブレ補正は POWER O.I.S.。ブラック（H-PS14042-K）／シルバー（H-PS14042-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-lumix-g-vario-14-140mm-f3.5-5.6-ii-asph-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G VARIO 14-140mm / F3.5-5.6 II ASPH. / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          14,
+          140
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 265,
+        "maxMagnification": 0.25,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 12,
+        "diameter": 67,
+        "length": 75,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-FSA14140.html"
+        },
+        "note": "品番 H-FSA14140。H-FS14140（I型）の後継。最短撮影距離はW端0.3m／T端0.5m。防塵・防滴仕様。手ブレ補正は POWER O.I.S.。ブラック（H-FSA14140-K）／シルバー（H-FSA14140-S）の色違いあり。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-summilux-25-50mm-f1.7-asph-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-SUMMILUX 25-50mm / F1.7 ASPH.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          25,
+          50
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.28,
+        "weight": 654,
+        "maxMagnification": 0.21,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 11,
+        "diameter": 87.6,
+        "length": 127.6,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-X2550.html"
+        },
+        "note": "品番 H-X2550。全域F1.7通し。H-X1025 と対をなす姉妹モデル。絞りリング搭載。最短撮影距離はW端0.28m／T端0.31m。防塵・防滴仕様。"
+      },
+      {
+        "id": "panasonic-leica-dg-vario-elmarit-35-100mm-f2.8-power-ois-m43",
+        "maker": "Panasonic",
+        "name": "LEICA DG VARIO-ELMARIT 35-100mm / F2.8 / POWER O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          35,
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.85,
+        "weight": 360,
+        "maxMagnification": 0.1,
+        "bladesCount": 7,
+        "elements": 18,
+        "groups": 13,
+        "diameter": 67.4,
+        "length": 99.9,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-ES35100.html"
+        },
+        "note": "品番 H-ES35100。LUMIX G X VARIO 35-100mm F2.8 II（H-HSA35100）の後継にあたる LEICA DG 銘モデル。防塵・防滴仕様。手ブレ補正は POWER O.I.S.。"
+      },
+      {
+        "id": "panasonic-lumix-g-vario-35-100mm-f4-5.6-asph-mega-ois-m43",
+        "maker": "Panasonic",
+        "name": "LUMIX G VARIO 35-100mm / F4.0-5.6 ASPH. / MEGA O.I.S.",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          35,
+          100
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.9,
+        "weight": 135,
+        "maxMagnification": 0.11,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 55.5,
+        "length": 50,
+        "urls": {
+          "official": "https://panasonic.jp/dc/products/H-FS35100.html"
+        },
+        "note": "品番 H-FS35100。沈胴式の小型望遠ズーム。全長は鏡筒収納時の値。手ブレ補正は MEGA O.I.S.。ブラック（H-FS35100-K）／シルバー（H-FS35100-S）の色違いあり。"
+      }
+    ]
+  },
+  "PENTAX": {
+    "645": [
+      {
+        "id": "4961333189069",
+        "EANCode": "4961333189069",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-D FA645 25mmF4AL[IF] SDM AW",
+        "mount": "645",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.4,
+        "weight": 1070,
+        "maxMagnification": 0.11,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 90,
+        "length": 140,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/smcpentax-dfa645-25/"
+        },
+        "note": "防塵・防滴構造“AW（All Weather）”。SDM（超音波モーター）搭載。フード組み込みのためフィルター装着不可（公式スペックのフィルター径は「-」）。35mm判換算19.5mm相当。"
+      },
+      {
+        "id": "4549212295218",
+        "EANCode": "4549212295218",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA645 35mmF3.5AL[IF]",
+        "mount": "645",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.3,
+        "weight": 570,
+        "maxMagnification": 0.25,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 88,
+        "length": 90,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/hdpentax-dfa645-35/"
+        },
+        "note": "smc PENTAX-FA645 35mmF3.5AL[IF] のHDコーティング版。絞り羽根は9枚（smc版は8枚）。35mm判換算27.5mm相当。"
+      },
+      {
+        "id": "4961333050673",
+        "EANCode": "4961333050673",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 35mmF3.5AL[IF]",
+        "mount": "645",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.3,
+        "weight": 560,
+        "maxMagnification": 0.25,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 88,
+        "length": 90,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/smcpentax-fa645-35/"
+        },
+        "note": "35mm判換算27.5mm相当。フード PH-RBB82・ケース S120-150 付属。"
+      },
+      {
+        "id": "4549212295683",
+        "EANCode": "4549212295683",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 45mmF2.8",
+        "mount": "645",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.45,
+        "weight": 475,
+        "maxMagnification": 0.15,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 76.5,
+        "length": 66.5,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/smcpentax-fa645-45/"
+        },
+        "note": "35mm判換算35.5mm相当。フード PH-RBC67・ケース S90-100 付属。"
+      },
+      {
+        "id": "4549212295751",
+        "EANCode": "4549212295751",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 33-55mmF4.5AL",
+        "mount": "645",
+        "focalLength": [
+          33,
+          55
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.4,
+        "weight": 585,
+        "maxMagnification": 0.21,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 88,
+        "length": 104,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/smcpentax-fa645-33-55/"
+        },
+        "note": "35mm判換算26-43.5mm相当。フード PH-RBB82・ケース S120-150 付属。"
+      },
+      {
+        "id": "4549212219863",
+        "EANCode": "4549212219863",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA645 28-45mmF4.5ED AW SR",
+        "mount": "645",
+        "focalLength": [
+          28,
+          45
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.4,
+        "weight": 1470,
+        "maxMagnification": 0.21,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 12,
+        "diameter": 99,
+        "length": 151.5,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/wide/hdpentax-da645-28-45/"
+        },
+        "note": "レンズ内手ぶれ補正機構“SR（Shake Reduction）”搭載（CIPA基準 3.5段分／f=45mm・645Z/645D使用時）。防塵・防滴構造“AW（All Weather）”（11ヶ所シーリング）。イメージサークルは645Zのセンサーサイズに合わせて設計（DA645）。35mm判換算22-35.5mm相当。"
+      },
+      {
+        "id": "4549212295775",
+        "EANCode": "4549212295775",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-D FA645 55mmF2.8AL[IF] SDM AW",
+        "mount": "645",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.5,
+        "weight": 416,
+        "maxMagnification": 0.17,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 81.3,
+        "length": 68.2,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/standard/smcpentax-dfa645-55/"
+        },
+        "note": "645Dボディと同様の防塵・防滴機能“AW（All Weather）”。SDM（超音波モーター）搭載。フォーカシング時に全長が変わらないインナーフォーカス。35mm判換算43.5mm相当。"
+      },
+      {
+        "id": "4549212295676",
+        "EANCode": "4549212295676",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 75mmF2.8",
+        "mount": "645",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.6,
+        "weight": 215,
+        "maxMagnification": 0.18,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 74.5,
+        "length": 37.5,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/standard/smcpentax-fa645-75/"
+        },
+        "note": "35mm判換算59mm相当。フード RH-A58・キャップ・ケース S80-80 は別売。"
+      },
+      {
+        "id": "4549212295690",
+        "EANCode": "4549212295690",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 45-85mmF4.5",
+        "mount": "645",
+        "focalLength": [
+          45,
+          85
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.5,
+        "weight": 815,
+        "maxMagnification": 0.22,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 85,
+        "length": 99.5,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/standard/smcpentax-fa645-45-85/"
+        },
+        "note": "35mm判換算35.5-67mm相当。フード PH-RBD77・ケース S130-160 付属。"
+      },
+      {
+        "id": "4549212295744",
+        "EANCode": "4549212295744",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 55-110mmF5.6",
+        "mount": "645",
+        "focalLength": [
+          55,
+          110
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.8,
+        "weight": 500,
+        "maxMagnification": 0.16,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 88,
+        "length": 104,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/standard/smcpentax-fa645-55-110/"
+        },
+        "note": "35mm判換算43.5-86.5mm相当。フード PH-RBB82・ケース S120-150 付属。"
+      },
+      {
+        "id": "4549212295737",
+        "EANCode": "4549212295737",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 150mmF2.8[IF]",
+        "mount": "645",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.2,
+        "weight": 500,
+        "maxMagnification": 0.15,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 7,
+        "diameter": 74.5,
+        "length": 96,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-150/"
+        },
+        "note": "35mm判換算118mm相当。フード PH-RBF67・ケース S120-150 付属。"
+      },
+      {
+        "id": "4549212295720",
+        "EANCode": "4549212295720",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 200mmF4[IF]",
+        "mount": "645",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 625,
+        "maxMagnification": 0.16,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 74.5,
+        "length": 119,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-200/"
+        },
+        "note": "35mm判換算157mm相当。フード PH-RBB58・ケース S90-160 付属。"
+      },
+      {
+        "id": "4549212042539",
+        "EANCode": "4549212042539",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA★645 300mmF4ED[IF]",
+        "mount": "645",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 3,
+        "weight": 1490,
+        "maxMagnification": 0.11,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 83,
+        "length": 207.5,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fas-645-300/"
+        },
+        "note": "★（スターレンズ）シリーズ。35mm判換算236mm相当。フード PH-RBE77・ケース S120-230 付属。同焦点距離の smc PENTAX-FA645 300mmF5.6ED[IF] とは別製品。"
+      },
+      {
+        "id": "4961333051113",
+        "EANCode": "4961333051113",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 300mmF5.6ED[IF]",
+        "mount": "645",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 2.2,
+        "weight": 775,
+        "maxMagnification": 0.16,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 7,
+        "diameter": 75,
+        "length": 183.5,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-300/"
+        },
+        "note": "35mm判換算236mm相当。フード PH-RBG67・ケース S110-210 付属。"
+      },
+      {
+        "id": "4549212042546",
+        "EANCode": "4549212042546",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 400mmF5.6ED[IF]",
+        "mount": "645",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 3,
+        "weight": 1260,
+        "maxMagnification": 0.14,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 83,
+        "length": 252,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-400/"
+        },
+        "note": "35mm判換算315mm相当。フード PH-RBE77・ケース S120-280 付属。"
+      },
+      {
+        "id": "4549212295713",
+        "EANCode": "4549212295713",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 80-160mmF4.5",
+        "mount": "645",
+        "focalLength": [
+          80,
+          160
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 1,
+        "weight": 1010,
+        "maxMagnification": 0.17,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 85,
+        "length": 130.5,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-80-160/"
+        },
+        "note": "35mm判換算63-126mm相当。フード PH-RBF77・ケース S110-160 付属。"
+      },
+      {
+        "id": "4549212295768",
+        "EANCode": "4549212295768",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 150-300mmF5.6ED[IF]",
+        "mount": "645",
+        "focalLength": [
+          150,
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 2,
+        "weight": 920,
+        "maxMagnification": 0.18,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 13,
+        "diameter": 80,
+        "length": 201,
+        "isInternalFocus": true,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/telephoto/smcpentax-fa645-150-300/"
+        },
+        "note": "35mm判換算118-236mm相当。フード PH-RBG67・ケース S110-210 付属。"
+      },
+      {
+        "id": "4549212217586",
+        "EANCode": "4549212217586",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA645 MACRO 90mmF2.8ED AW SR",
+        "mount": "645",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": true,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.413,
+        "weight": 1040,
+        "maxMagnification": 0.5,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 90.5,
+        "length": 111.6,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/macro/hdpentax-d-fa645-macro-90/"
+        },
+        "note": "PENTAX初のレンズ内手ぶれ補正機構“SR”搭載（約3.5段分）。防塵・防滴構造“AW（All Weather）”。HDコーティング＋エアロ・ブライト・コーティング。35mm判換算71mm相当。"
+      },
+      {
+        "id": "4549212295706",
+        "EANCode": "4549212295706",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA645 MACRO 120mmF4",
+        "mount": "645",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.395,
+        "weight": 735,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 82.5,
+        "length": 110,
+        "discontinued": true,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/645/macro/smcpentax-fa645-macro-120/"
+        },
+        "note": "最短撮影距離0.395mで等倍（1.0倍）撮影が可能。フローティング機構・ED（異常低分散）ガラス採用、フォーカスリミッター搭載。35mm判換算94.5mm相当。フード PH-RBD67・ケース S120-150 付属。"
+      }
+    ],
+    "K": [
+      {
+        "id": "4549212299735",
+        "EANCode": "4549212299735",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA★11-18mmF2.8ED DC AW",
+        "mount": "K",
+        "focalLength": [
+          11,
+          18
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.3,
+        "weight": 704,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 11,
+        "diameter": 90,
+        "length": 100,
+        "releaseDate": "2019-02-22",
+        "hoodModel": "PH-RBF82",
+        "caseModel": "S120-150",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-da-11-18/"
+        },
+        "note": "AW（防塵・防滴構造）。-10℃の耐寒動作保証。フォーカスクランプ機構搭載。手ブレ補正はボディ内SRのためレンズ側非搭載。"
+      },
+      {
+        "id": "4549212273766",
+        "EANCode": "4549212273766",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 15mmF4ED AL Limited",
+        "mount": "K",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.18,
+        "weight": 189,
+        "maxMagnification": 0.15,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 63,
+        "length": 39.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-da-15/"
+        },
+        "note": "smc版のHDコーティング化モデル。JANはブラック（シルバーは4549212273780で販売終了）。防塵防滴機構は非搭載。スライド伸縮式フード内蔵。"
+      },
+      {
+        "id": "4549212273643",
+        "EANCode": "4549212273643",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 21mmF3.2AL Limited",
+        "mount": "K",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          3.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.2,
+        "weight": 134,
+        "maxMagnification": 0.17,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 5,
+        "diameter": 63,
+        "length": 25,
+        "hoodModel": "MH-RBB43",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-da-21/"
+        },
+        "note": "smc版のHDコーティング化モデル。JANはブラック（シルバーは4549212273667で販売終了）。フィルター径は43mmまたは49mm。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212301254",
+        "EANCode": "4549212301254",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA FISH-EYE 10-17mmF3.5-4.5ED",
+        "mount": "K",
+        "focalLength": [
+          10,
+          17
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.14,
+        "weight": 317,
+        "maxMagnification": 0.39,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 67.5,
+        "length": 70,
+        "releaseDate": "2019-07-26",
+        "hoodModel": "PH-RBA60",
+        "caseModel": "S80-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-dafish-eye-10-17/"
+        },
+        "note": "smc版のHDコーティング化モデル。対角線魚眼ズーム。フィルター装着不可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212296468",
+        "EANCode": "4549212296468",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 15-30mmF2.8ED SDM WR",
+        "mount": "K",
+        "focalLength": [
+          15,
+          30
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "minFocusDistance": 0.28,
+        "weight": 1040,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 18,
+        "groups": 13,
+        "diameter": 98.5,
+        "length": 143.5,
+        "caseModel": "S120-160",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-dfa-15-30/"
+        },
+        "note": "簡易防滴（WR）構造。出目金前玉かつフード固定のためフィルター装着不可。"
+      },
+      {
+        "id": "4549212302978",
+        "EANCode": "4549212302978",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 21mmF2.4ED Limited DC WR",
+        "mount": "K",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.18,
+        "weight": 416,
+        "maxMagnification": 0.26,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 74,
+        "length": 89,
+        "releaseDate": "2021-11-12",
+        "caseModel": "P80-150",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-dfa-21/"
+        },
+        "note": "WR（防滴構造）。電磁絞りのKAF4マウントのためフィルム一眼レフでは使用不可。JANはブラック（シルバーは4549212302992）。フード固定。"
+      },
+      {
+        "id": "4549212302831",
+        "EANCode": "4549212302831",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-FA 31mmF1.8 Limited",
+        "mount": "K",
+        "focalLength": [
+          31
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 341,
+        "maxMagnification": 0.16,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 65,
+        "length": 69,
+        "caseModel": "P70-140",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-fa-31/"
+        },
+        "note": "smc PENTAX-FA 31mmF1.8AL LimitedのHDコーティング化モデル。JANはブラック（シルバーは4549212302855）。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。フード固定。"
+      },
+      {
+        "id": "4549212300974",
+        "EANCode": "4549212300974",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-FA 35mmF2",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 193,
+        "maxMagnification": 0.17,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 44.5,
+        "releaseDate": "2019-02-22",
+        "hoodModel": "PH-RBG49",
+        "caseModel": "S80-80",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/hdpentax-fa-35/"
+        },
+        "note": "smc PENTAX-FA 35mmF2ALのHDコーティング化モデル。防塵防滴機構は非搭載。絞りリングはフィルムカメラでのみ使用可。"
+      },
+      {
+        "id": "4549212302879",
+        "EANCode": "4549212302879",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-FA 43mmF1.9 Limited",
+        "mount": "K",
+        "focalLength": [
+          43
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 155,
+        "maxMagnification": 0.12,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 64,
+        "length": 27,
+        "hoodModel": "MH-RG49",
+        "caseModel": "P60-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-fa-43/"
+        },
+        "note": "smc PENTAX-FA43mmF1.9 LimitedのHDコーティング化モデル。JANはブラック（シルバーは4549212302893）。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212302916",
+        "EANCode": "4549212302916",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-FA 77mmF1.8 Limited",
+        "mount": "K",
+        "focalLength": [
+          77
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.7,
+        "weight": 270,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 64,
+        "length": 48,
+        "caseModel": "P60-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-fa-77/"
+        },
+        "note": "smc PENTAX-FA 77mmF1.8 LimitedのHDコーティング化モデル。JANはブラック（シルバーは4549212302930）。引き出し式内蔵フード。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212302954",
+        "EANCode": "4549212302954",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA★16-50mmF2.8ED PLM AW",
+        "mount": "K",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 712,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 10,
+        "diameter": 84,
+        "length": 117,
+        "hoodModel": "PH-RBN77",
+        "caseModel": "S120-150",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-16-50/"
+        },
+        "note": "AW（防塵・防滴構造）。PLM（パルスモーター）駆動。電磁絞りのKAF4マウント。smc PENTAX-DA★16-50mmF2.8ED AL[IF] SDMの後継にあたる新設計モデル。"
+      },
+      {
+        "id": "4549212276804",
+        "EANCode": "4549212276804",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 16-85mmF3.5-5.6ED DC WR",
+        "mount": "K",
+        "focalLength": [
+          16,
+          85
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.35,
+        "weight": 488,
+        "maxMagnification": 0.26,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 12,
+        "diameter": 78,
+        "length": 94,
+        "hoodModel": "PH-RBA72",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-16-85/"
+        },
+        "note": "簡易防滴（WR）構造。DCモーター駆動。レンズケースS90-140は別売。"
+      },
+      {
+        "id": "4549212274749",
+        "EANCode": "4549212274749",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 20-40mmF2.8-4ED Limited DC WR",
+        "mount": "K",
+        "focalLength": [
+          20,
+          40
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.28,
+        "weight": 283,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 71,
+        "length": 68.5,
+        "hoodModel": "MH-RA55",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-20-40/"
+        },
+        "note": "簡易防滴（WR）構造。DCモーター駆動。JANはブラック（シルバーは4549212274756）。"
+      },
+      {
+        "id": "4549212273605",
+        "EANCode": "4549212273605",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 40mmF2.8 Limited",
+        "mount": "K",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "weight": 89,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 63,
+        "length": 15,
+        "hoodModel": "MH-RE49",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-40/"
+        },
+        "note": "smc版のHDコーティング化モデル。JANはブラック（シルバーは4549212273629で販売終了）。フィルター径は30.5mmまたは49mm。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212293559",
+        "EANCode": "4549212293559",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 24-70mmF2.8ED SDM WR",
+        "mount": "K",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.38,
+        "weight": 787,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 12,
+        "diameter": 88.5,
+        "length": 109.5,
+        "hoodModel": "PH-RBD82",
+        "caseModel": "S120-150",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-dfa-24-70/"
+        },
+        "note": "簡易防滴（WR）構造。ズームロックレバー機構搭載。"
+      },
+      {
+        "id": "4549212294594",
+        "EANCode": "4549212294594",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 28-105mmF3.5-5.6ED DC WR",
+        "mount": "K",
+        "focalLength": [
+          28,
+          105
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.5,
+        "weight": 440,
+        "maxMagnification": 0.22,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 11,
+        "diameter": 73,
+        "length": 86.5,
+        "hoodModel": "PH-RBC62",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-dfa-28-105/"
+        },
+        "note": "簡易防滴（WR）構造。DCモーター駆動。レンズケースS80-120は別売。"
+      },
+      {
+        "id": "4549212299711",
+        "EANCode": "4549212299711",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA★50mmF1.4 SDM AW",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.4,
+        "weight": 910,
+        "maxMagnification": 0.18,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 9,
+        "diameter": 80,
+        "length": 106,
+        "hoodModel": "PH-RBB72",
+        "caseModel": "S100-140",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-dfa-50/"
+        },
+        "note": "AW（防塵・防滴構造）。エアロ・ブライト・コーティングII採用。電磁絞りのKAF4マウントのためフィルム一眼レフでは使用不可。"
+      },
+      {
+        "id": "4549212305825",
+        "EANCode": "4549212305825",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-FA 50mmF1.4",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 223,
+        "maxMagnification": 0.15,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 65,
+        "length": 40.5,
+        "releaseDate": "2023-06-09",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-fa-50/"
+        },
+        "note": "1991年発売のsmc PENTAX-FA 50mmF1.4をベースに、HDコーティング化して現代的な高コントラスト描写としたモデル。同時発売のsmc PENTAX-FA 50mmF1.4 Classicとは描写特性違いの別製品。フードRH-RC49／PH-RA49は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212305474",
+        "EANCode": "4549212305474",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 50mmF1.4 Classic",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 216,
+        "maxMagnification": 0.15,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 65,
+        "length": 37,
+        "releaseDate": "2023-06-09",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa50-classic/"
+        },
+        "note": "HD PENTAX-FA 50mmF1.4と同時発売。smcコーティングのまま旧FA 50mmF1.4の柔らかい描写を残した姉妹モデルで、NDフィルターLF-ND16 49mmが同梱。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333173761",
+        "EANCode": "4961333173761",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-135mmF3.5-5.6ED AL[IF] DC WR",
+        "mount": "K",
+        "focalLength": [
+          18,
+          135
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.4,
+        "weight": 405,
+        "maxMagnification": 0.24,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 73,
+        "length": 76,
+        "hoodModel": "PH-RBC62",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-135/"
+        },
+        "note": "簡易防滴（WR）構造。DCモーター駆動。レンズケースS80-120は別売。"
+      },
+      {
+        "id": "4961333154401",
+        "EANCode": "4961333154401",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-55mmF3.5-5.6AL WR",
+        "mount": "K",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 235,
+        "maxMagnification": 0.34,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 68.5,
+        "length": 67.5,
+        "hoodModel": "PH-RBC52",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-55/"
+        },
+        "note": "簡易防滴（WR）構造。DA 18-55mmALの第3世代にあたるWRモデル。PLフィルター操作窓付きフード付属。レンズケースS80-120は別売。"
+      },
+      {
+        "id": "4961333114627",
+        "EANCode": "4961333114627",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 35mmF2.4AL",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 124,
+        "maxMagnification": 0.17,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 45,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da35/"
+        },
+        "note": "JANはブラック。別途オーダーカラー（受注生産の多色展開）あり。フード・ケースは別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212214561",
+        "EANCode": "4549212214561",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 40mmF2.8 XS",
+        "mount": "K",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 27,
+        "minFocusDistance": 0.4,
+        "weight": 52,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 62.9,
+        "length": 9.2,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da40/"
+        },
+        "note": "厚さ9.2mmの超薄型「ビスケット」レンズ。DA 40mmF2.8 Limitedとは別製品で光学系は共通だが鏡筒が異なる。ケースDA40は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212296642",
+        "EANCode": "4549212296642",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 55-300mmF4.5-6.3ED PLM WR RE",
+        "mount": "K",
+        "focalLength": [
+          55,
+          300
+        ],
+        "fStop": [
+          4.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.95,
+        "weight": 442,
+        "maxMagnification": 0.3,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 76.5,
+        "length": 89,
+        "hoodModel": "PH-RBK58",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-55-300_re/"
+        },
+        "note": "簡易防滴（WR）構造。PLM（パルスモーター）駆動。RE（RETRACTABLE）沈胴機構。HD PENTAX-DA 55-300mmF4-5.8ED WRとは光学系の異なる別設計。レンズケースS80-120は別売。"
+      },
+      {
+        "id": "4549212273681",
+        "EANCode": "4549212273681",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 70mmF2.4 Limited",
+        "mount": "K",
+        "focalLength": [
+          70
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.7,
+        "weight": 131,
+        "maxMagnification": 0.12,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 26,
+        "hoodModel": "MH-RF49",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-70/"
+        },
+        "note": "smc版のHDコーティング化モデル。JANはブラック（シルバーは4549212273704で販売終了）。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212286933",
+        "EANCode": "4549212286933",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 150-450mmF4.5-5.6ED DC AW",
+        "mount": "K",
+        "focalLength": [
+          150,
+          450
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 86,
+        "minFocusDistance": 2,
+        "weight": 2000,
+        "maxMagnification": 0.22,
+        "bladesCount": 9,
+        "elements": 18,
+        "groups": 14,
+        "diameter": 95,
+        "length": 241.5,
+        "hoodModel": "PH-RBA86",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-dfa-150-450/"
+        },
+        "note": "AW（防塵・防滴構造）。質量はフード・三脚座を除く値（フード＋三脚座付2,325g）。3段階フォーカスレンジリミッター、ズームロックレバー搭載。"
+      },
+      {
+        "id": "4549212286919",
+        "EANCode": "4549212286919",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA★70-200mmF2.8ED DC AW",
+        "mount": "K",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.2,
+        "weight": 1755,
+        "maxMagnification": 0.13,
+        "bladesCount": 9,
+        "elements": 19,
+        "groups": 16,
+        "diameter": 91.5,
+        "length": 203,
+        "hoodModel": "PH-RBM77",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-dfa-70-200/"
+        },
+        "note": "AW（防塵・防滴構造）。質量はフード・三脚座を除く値（フード＋三脚座付2,030g）。3段階フォーカスレンジリミッター、脱落防止機構付き着脱式三脚座を装備。"
+      },
+      {
+        "id": "4549212301230",
+        "EANCode": "4549212301230",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA★85mmF1.4ED SDM AW",
+        "mount": "K",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.85,
+        "weight": 1255,
+        "maxMagnification": 0.12,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 95,
+        "length": 123.5,
+        "hoodModel": "PH-RBG82",
+        "caseModel": "S130-160",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-dfa-85/"
+        },
+        "note": "AW（防塵・防滴構造）。SDM（超音波モーター）駆動。電磁絞りのKAF4マウントのためフィルム一眼レフでは使用不可。"
+      },
+      {
+        "id": "4549212217609",
+        "EANCode": "4549212217609",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 50mmF1.8",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.45,
+        "weight": 122,
+        "maxMagnification": 0.15,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 38.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50/"
+        },
+        "note": "フードRH-RA52・ケースS70-70は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333141265",
+        "EANCode": "4961333141265",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★300mmF4ED[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.4,
+        "weight": 1070,
+        "maxMagnification": 0.24,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 83,
+        "length": 184,
+        "hoodModel": "PH-RBK77",
+        "caseModel": "S120-210",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das300/"
+        },
+        "note": "各部にシーリングを施した防塵・防滴（AW）構造。SDM（超音波モーター）駆動。"
+      },
+      {
+        "id": "4549212273728",
+        "EANCode": "4549212273728",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 35mmF2.8 Macro Limited",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.139,
+        "weight": 214,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 63,
+        "length": 46.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/hdpentax-da-35/"
+        },
+        "note": "smc版のHDコーティング化モデル。等倍マクロ。JANはブラック（シルバーは4549212273742で販売終了）。フード内蔵。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212304859",
+        "EANCode": "4549212304859",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA MACRO 100mmF2.8ED AW",
+        "mount": "K",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.303,
+        "weight": 348,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 65,
+        "length": 80.5,
+        "hoodModel": "PH-RBE49",
+        "caseModel": "S80-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/hdpentax-dfa-macro-100/"
+        },
+        "note": "smc PENTAX-D FA MACRO 100mmF2.8 WRとは別の第3世代モデル。マクロレンズとして初めてAW（All Weather、6ヶ所シーリング）防塵・防滴構造を採用した高品位アルミ外装。等倍マクロ。JANはブラック（全世界限定300本のSilver Editionは4549212304873）。"
+      },
+      {
+        "id": "4961333108633",
+        "EANCode": "4961333108633",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-D FA MACRO 50mmF2.8",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.195,
+        "weight": 265,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 67.5,
+        "length": 60,
+        "hoodModel": "PH-RBC49",
+        "caseModel": "S80-80",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-dfa-macro-50/"
+        },
+        "note": "等倍マクロ。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333086092",
+        "EANCode": "4961333086092",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 14mmF2.8ED[IF]",
+        "mount": "K",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.17,
+        "weight": 420,
+        "maxMagnification": 0.19,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 83.5,
+        "length": 69,
+        "hoodModel": "PH-RBH77",
+        "caseModel": "S100-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da14/"
+        },
+        "note": "生産終了。絞りリングを持たないためフィルム一眼レフでは使用不可。フード・ケースは付属。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333114177",
+        "EANCode": "4961333114177",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 12-24mmF4 ED AL[IF]",
+        "mount": "K",
+        "focalLength": [
+          12,
+          24
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 430,
+        "maxMagnification": 0.12,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 11,
+        "diameter": 84,
+        "length": 87.5,
+        "hoodModel": "PH-RBI77",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da12-24/"
+        },
+        "note": "生産終了。DAレンズ最広角のズーム。フードPH-RBI77は付属、ケースS100-120は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-16-45mm-f4-ed-al-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 16-45mmF4ED AL",
+        "mount": "K",
+        "focalLength": [
+          16,
+          45
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.28,
+        "weight": 365,
+        "maxMagnification": 0.26,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 72,
+        "length": 92,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da16-45/"
+        },
+        "note": "生産終了。デジタル一眼レフ専用に新設計されたDAレンズの第一弾。公式・主要販売店ともJANコードを確認できずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333117284",
+        "EANCode": "4961333117284",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA FISH-EYE10-17mmF3.5-4.5ED[IF]",
+        "mount": "K",
+        "focalLength": [
+          10,
+          17
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.14,
+        "weight": 320,
+        "maxMagnification": 0.39,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 68,
+        "length": 71.5,
+        "caseModel": "S80-80",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-dafish-eye-10-17/"
+        },
+        "note": "生産終了。HD PENTAX-DA FISH-EYE 10-17mmF3.5-4.5EDのsmc版（前世代）。対角線魚眼ズームで画角180°〜100°。フード組込のためフィルター装着不可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-15mm-f4-ed-al-limited-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 15mmF4ED AL Limited",
+        "mount": "K",
+        "focalLength": [
+          15
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.18,
+        "weight": 212,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 63,
+        "length": 39.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da-15/"
+        },
+        "note": "生産終了。HD PENTAX-DA 15mmF4ED AL Limitedのsmc版（前世代）。アルミ削り出し外装、スライド伸縮式フード内蔵。公式の生産終了ページはHD版のJAN・アクセサリーが流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-21mm-f3.2-al-limited-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 21mmF3.2AL Limited",
+        "mount": "K",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          3.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.2,
+        "weight": 140,
+        "elements": 8,
+        "groups": 5,
+        "diameter": 63,
+        "length": 25,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-da-21/"
+        },
+        "note": "生産終了。HD PENTAX-DA 21mmF3.2AL Limitedのsmc版（前世代）。フィルター径はフード内側43mmまたはレンズ前面49mm。公式の生産終了ページはHD版のJAN・アクセサリーが流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-fa-20-35mm-f4-al-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 20-35mmF4AL",
+        "mount": "K",
+        "focalLength": [
+          20,
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 245,
+        "maxMagnification": 0.16,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 69.5,
+        "length": 68,
+        "hoodModel": "PH-RBA58",
+        "caseModel": "S90-100",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-fa20-35/"
+        },
+        "note": "生産終了。絞りリングありでKマウントフィルム一眼レフでも使用可。PLフィルター操作窓付き花形フード・ケース付属。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333051151",
+        "EANCode": "4961333051151",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 31mmF1.8AL Limited",
+        "mount": "K",
+        "focalLength": [
+          31
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 345,
+        "maxMagnification": 0.16,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 65,
+        "length": 68.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-fa31/"
+        },
+        "note": "生産終了。HD PENTAX-FA 31mmF1.8 Limitedのsmc版（前世代）。JANはブラック（シルバーは4961333051137）。アルミ削り出し外装、緑色七宝焼のフィンガーポイント。フード固定。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333046355",
+        "EANCode": "4961333046355",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 35mmF2AL",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 195,
+        "maxMagnification": 0.17,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 44.5,
+        "hoodModel": "PH-RBA49",
+        "caseModel": "S80-80",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/wide/smcpentax-fa35/"
+        },
+        "note": "生産終了。HD PENTAX-FA 35mmF2のsmc版（前世代）。絞りリングありでKマウントフィルム一眼レフでも使用可。PLフィルター操作窓付き花形フード・ケース付属。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333129256",
+        "EANCode": "4961333129256",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★16-50mmF2.8ED AL[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          16,
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 565,
+        "maxMagnification": 0.21,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 84,
+        "length": 98.5,
+        "hoodModel": "PH-RBJ77",
+        "caseModel": "S100-140",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-das16-50/"
+        },
+        "note": "生産終了。各部にシーリングを施した防塵・防滴構造。SDM（超音波モーター）駆動。後継は新設計のHD PENTAX-DA★16-50mmF2.8ED PLM AW。フード・ソフトケース付属。"
+      },
+      {
+        "id": "4961333141227",
+        "EANCode": "4961333141227",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 17-70mmF4AL[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          17,
+          70
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.28,
+        "weight": 485,
+        "maxMagnification": 0.31,
+        "bladesCount": 7,
+        "elements": 17,
+        "groups": 12,
+        "diameter": 75,
+        "length": 93.5,
+        "hoodModel": "PH-RBM67",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da17-70/"
+        },
+        "note": "生産終了。SDM（超音波モーター）駆動。フードPH-RBM67は付属、ケースS90-140は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212286957",
+        "EANCode": "4549212286957",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 18-50mmF4-5.6 DC WR RE",
+        "mount": "K",
+        "focalLength": [
+          18,
+          50
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.3,
+        "weight": 158,
+        "maxMagnification": 0.23,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 71,
+        "length": 41,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/hdpentax-da-18-50/"
+        },
+        "note": "生産終了。9ヶ所にシーリングを施した防滴（WR）構造。DCモーター駆動。RE（RETRACTABLE）沈胴機構によりKマウントレンズ初、収納時厚さ41mmを実現。質量・寸法は公称の概数値（フード付約165g）。"
+      },
+      {
+        "id": "pentax-fa-j-28-80mm-f3.5-5.6-al-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA J28-80mmF3.5-5.6AL",
+        "mount": "K",
+        "focalLength": [
+          28,
+          80
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.4,
+        "weight": 180,
+        "maxMagnification": 0.25,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 63,
+        "length": 67,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa-j28-80/"
+        },
+        "note": "生産終了。機能とデザインを簡略化した軽量廉価版のFA Jシリーズ。絞りリングを持たず絞り制御はカメラ側で行う。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-fa-28-105mm-f3.2-4.5-al-if-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 28-105mmF3.2-4.5AL[IF]",
+        "mount": "K",
+        "focalLength": [
+          28,
+          105
+        ],
+        "fStop": [
+          3.2,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.5,
+        "weight": 255,
+        "maxMagnification": 0.19,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 69.5,
+        "length": 68,
+        "hoodModel": "PH-RBC58",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa28-105/"
+        },
+        "note": "生産終了。ズームマクロ機構搭載。ブラックとシルバーが存在（シルバーは先行して販売終了）。フードPH-RBC58は付属、ケースS90-100は別売。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-18-55mm-f3.5-5.6-al-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-55mmF3.5-5.6AL",
+        "mount": "K",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 225,
+        "maxMagnification": 0.34,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 68,
+        "length": 67.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-55al/"
+        },
+        "note": "生産終了。DA 18-55mmALの初代モデル。後継はsmc PENTAX-DA 18-55mmF3.5-5.6AL II、さらにsmc PENTAX-DA 18-55mmF3.5-5.6AL WR。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-18-55mm-f3.5-5.6-al-ii-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-55mmF3.5-5.6AL II",
+        "mount": "K",
+        "focalLength": [
+          18,
+          55
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 220,
+        "maxMagnification": 0.34,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 68,
+        "length": 67.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da18-55al2/"
+        },
+        "note": "生産終了。DA 18-55mmALの第2世代。初代（9群12枚）から8群11枚に光学系を変更。後継はsmc PENTAX-DA 18-55mmF3.5-5.6AL WR。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-40mm-f2.8-limited-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 40mmF2.8 Limited",
+        "mount": "K",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "weight": 90,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 63,
+        "length": 15,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-da-40/"
+        },
+        "note": "生産終了。HD PENTAX-DA 40mmF2.8 Limitedのsmc版（前世代）。フィルター径は30.5mmまたは49mm。光学系を共有する薄型のsmc PENTAX-DA 40mmF2.8 XSとは別製品。公式の生産終了ページはHD PENTAX-DA 15mmのJAN・アクセサリーが流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333050611",
+        "EANCode": "4961333050611",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA43mmF1.9 Limited",
+        "mount": "K",
+        "focalLength": [
+          43
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 155,
+        "maxMagnification": 0.12,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 64,
+        "length": 27,
+        "hoodModel": "MH-RA49",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa43/"
+        },
+        "note": "生産終了。HD PENTAX-FA 43mmF1.9 Limitedのsmc版（前世代）。JANはブラック（シルバーは4961333042562）。アルミ削り出し外装で専用フードMH-RA49・ケース・キャップ付属。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333030538",
+        "EANCode": "4961333030538",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 50mmF1.4",
+        "mount": "K",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 220,
+        "maxMagnification": 0.15,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 65,
+        "length": 37,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/standard/smcpentax-fa50/"
+        },
+        "note": "生産終了。1991年発売のペンタックス標準レンズの基準機。変形ガウスタイプ。2023年にHD PENTAX-FA 50mmF1.4とsmc PENTAX-FA 50mmF1.4 Classicへ引き継がれた。絞りリングありでKマウントフィルム一眼レフでも使用可。フード・ケースは別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-18-250mm-f3.5-6.3-ed-al-if-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-250mmF3.5-6.3ED AL[IF]",
+        "mount": "K",
+        "focalLength": [
+          18,
+          250
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.45,
+        "weight": 455,
+        "maxMagnification": 0.28,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 75,
+        "length": 85.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da18-250/"
+        },
+        "note": "生産終了。ズームロック機構搭載の高倍率ズーム。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212219634",
+        "EANCode": "4549212219634",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 18-270mmF3.5-6.3ED SDM",
+        "mount": "K",
+        "focalLength": [
+          18,
+          270
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.49,
+        "weight": 453,
+        "maxMagnification": 0.26,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 75.8,
+        "length": 89,
+        "hoodModel": "PH-RBD62",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da18-270/"
+        },
+        "note": "生産終了。SDM（超音波モーター）駆動だがクイックシフト・フォーカス・システムは非搭載。フードPH-RBD62は付属、ケースS80-120は別売。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333129270",
+        "EANCode": "4961333129270",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★50-135mmF2.8ED[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          50,
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 1,
+        "weight": 685,
+        "maxMagnification": 0.17,
+        "bladesCount": 9,
+        "elements": 18,
+        "groups": 14,
+        "diameter": 76.5,
+        "length": 136,
+        "hoodModel": "PH-RBK67",
+        "caseModel": "S90-160",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das50-135/"
+        },
+        "note": "生産終了。各部にシーリングを施した防塵・防滴（AW）構造。SDM（超音波モーター）駆動。フード・ソフトケース付属。"
+      },
+      {
+        "id": "pentax-da-50-200mm-f4-5.6-ed-wr-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 50-200mmF4-5.6ED WR",
+        "mount": "K",
+        "focalLength": [
+          50,
+          200
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.1,
+        "weight": 285,
+        "maxMagnification": 0.24,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 69,
+        "length": 79.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50-200/"
+        },
+        "note": "生産終了。簡易防滴（WR）構造。smc PENTAX-DA 50-200mmF4-5.6EDの防滴版で、フィルター径が52mmから49mmに変更されている。PLフィルター操作窓付きフード付属。公式ページに本体JANコードの記載がなくidはslug。"
+      },
+      {
+        "id": "pentax-da-50-200mm-f4-5.6-ed-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 50-200mmF4-5.6ED",
+        "mount": "K",
+        "focalLength": [
+          50,
+          200
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 1.1,
+        "weight": 255,
+        "maxMagnification": 0.24,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 66.5,
+        "length": 78.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da50-200ed/"
+        },
+        "note": "生産終了。DA 50-200mmの初代（非WR）モデル。PLフィルター操作窓付き大型フードを設置。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333141180",
+        "EANCode": "4961333141180",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 55-300mmF4-5.8ED",
+        "mount": "K",
+        "focalLength": [
+          55,
+          300
+        ],
+        "fStop": [
+          4,
+          5.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.4,
+        "weight": 440,
+        "maxMagnification": 0.28,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 72,
+        "length": 111.5,
+        "hoodModel": "PH-RBG58",
+        "caseModel": "S80-160",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da55-300/"
+        },
+        "note": "生産終了。DA 55-300mmF4-5.8EDの初代（非WR）モデル。フード・ソフトケース付属。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4549212273995",
+        "EANCode": "4549212273995",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 55-300mmF4-5.8ED WR",
+        "mount": "K",
+        "focalLength": [
+          55,
+          300
+        ],
+        "fStop": [
+          4,
+          5.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.4,
+        "weight": 466,
+        "maxMagnification": 0.28,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 72,
+        "length": 111.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-55-300/"
+        },
+        "note": "生産終了。smc PENTAX-DA 55-300mmF4-5.8ED（8群12枚）の光学系を踏襲したHDコーティング化・防滴（WR）モデル。光学系の異なるHD PENTAX-DA 55-300mmF4.5-6.3ED PLM WR REとは別製品。"
+      },
+      {
+        "id": "4961333141241",
+        "EANCode": "4961333141241",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★60-250mmF4ED[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          60,
+          250
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.1,
+        "weight": 1040,
+        "maxMagnification": 0.15,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 13,
+        "diameter": 82,
+        "length": 167.5,
+        "hoodModel": "PH-RBK67",
+        "caseModel": "S100-200",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das60-250/"
+        },
+        "note": "生産終了。各部にシーリングを施した防塵・防滴（AW）構造。ズーム全域F4通しの望遠ズーム。SDM（超音波モーター）駆動で、SDM非対応ボディではボディ内モーターAFに対応。フード・ソフトケース・三脚座付属。"
+      },
+      {
+        "id": "4549212300806",
+        "EANCode": "4549212300806",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-D FA 70-210mmF4ED SDM WR",
+        "mount": "K",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.95,
+        "weight": 819,
+        "maxMagnification": 0.32,
+        "bladesCount": 9,
+        "elements": 20,
+        "groups": 14,
+        "diameter": 78.5,
+        "length": 175,
+        "hoodModel": "PH-RBP67",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-dfa-70-210/"
+        },
+        "note": "生産終了。防滴（WR）構造。SDM（超音波モーター）駆動。電磁絞りのKAF4マウントのためフィルム一眼レフでは使用不可。ズーム全域F4通しで最大撮影倍率0.32倍（APS-C装着時0.48倍相当）。質量・寸法は公称の概数値（フード付約859g）。"
+      },
+      {
+        "id": "pentax-fa-j-75-300mm-f4.5-5.8-al-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA J75-300mmF4.5-5.8AL",
+        "mount": "K",
+        "focalLength": [
+          75,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.3,
+        "weight": 385,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 69,
+        "length": 116,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fa-75-300/"
+        },
+        "note": "生産終了。機能とデザインを簡略化した軽量廉価版のFA Jシリーズ。絞りリングを持たず絞り制御はカメラ側で行う。公式の生産終了ページはHD PENTAX-DA 15mmのJAN・アクセサリー・付属品説明が流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-fa-star-600mm-f4-ed-if-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA★600mmF4ED[IF]",
+        "mount": "K",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 5,
+        "weight": 7000,
+        "maxMagnification": 0.13,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 176,
+        "length": 456.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fas600/"
+        },
+        "note": "生産終了。FA★シリーズの超望遠単焦点。フィルター径43mmは差し込み式フィルターのサイズ。絞りリングありでKマウントフィルム一眼レフでも使用可。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333148301",
+        "EANCode": "4961333148301",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★55mmF1.4 SDM",
+        "mount": "K",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.45,
+        "weight": 375,
+        "maxMagnification": 0.173,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 70.5,
+        "length": 66,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das55/"
+        },
+        "note": "生産終了。各部にシーリングを施した防塵・防滴（AW）構造。エアロ・ブライト・コーティング採用。AFはSDM（レンズ内超音波モーター）専用。"
+      },
+      {
+        "id": "4961333050635",
+        "EANCode": "4961333050635",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-FA 77mmF1.8 Limited",
+        "mount": "K",
+        "focalLength": [
+          77
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.7,
+        "weight": 270,
+        "maxMagnification": 0.14,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 64,
+        "length": 48,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-fa77/"
+        },
+        "note": "生産終了。HD PENTAX-FA 77mmF1.8 Limitedのsmc版（前世代）。JANはブラック（シルバーは4961333048267）。アルミ削り出し外装に七宝焼のフィンガーポイント。引き出し式内蔵フード。絞りリングありでKマウントフィルム一眼レフでも使用可。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-70mm-f2.4-limited-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 70mmF2.4 Limited",
+        "mount": "K",
+        "focalLength": [
+          70
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.7,
+        "weight": 130,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 26,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-da-70/"
+        },
+        "note": "生産終了。HD PENTAX-DA 70mmF2.4 Limitedのsmc版（前世代）。公式の生産終了ページはHD PENTAX-DA 15mmのJAN・アクセサリーが流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "4961333139200",
+        "EANCode": "4961333139200",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA★200mmF2.8ED[IF] SDM",
+        "mount": "K",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.2,
+        "weight": 825,
+        "maxMagnification": 0.2,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 83,
+        "length": 134,
+        "hoodModel": "PH-RBK77",
+        "caseModel": "S120-160",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/smcpentax-das200/"
+        },
+        "note": "生産終了。各部にシーリングを施した防塵・防滴（AW）構造。SDM（超音波モーター）駆動。インナーフォーカス、SPコーティング採用。フード・ソフトケース付属。"
+      },
+      {
+        "id": "4549212218408",
+        "EANCode": "4549212218408",
+        "maker": "PENTAX",
+        "name": "HD PENTAX-DA 560mmF5.6ED AW",
+        "mount": "K",
+        "focalLength": [
+          560
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 112,
+        "minFocusDistance": 5.6,
+        "weight": 3040,
+        "maxMagnification": 0.1,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 130.3,
+        "length": 521.7,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/telephoto/hdpentax-da-560/"
+        },
+        "note": "生産終了。鏡筒内29ヶ所にシーリングを施したAW（All Weather、防塵・防滴）構造。35ミリ判換算859mm相当の超望遠単焦点。フード内蔵。フィルター径112mmはレンズ前面のサイズで、別途40.5mm専用C-PLフィルターを装着する内蔵フィルター枠を備える。"
+      },
+      {
+        "id": "4961333163038",
+        "EANCode": "4961333163038",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-D FA MACRO 100mmF2.8 WR",
+        "mount": "K",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.303,
+        "weight": 340,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 65,
+        "length": 80.5,
+        "hoodModel": "PH-RBE49",
+        "caseModel": "S80-120",
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-dfa-macro-100/"
+        },
+        "note": "生産終了。簡易防滴（WR）構造の高品位アルミ合金ボディ。等倍マクロ。絞りリングを省略しているためフィルム一眼レフでは使用不可。後継はHD PENTAX-D FA MACRO 100mmF2.8ED AW。フード・ケース付属。"
+      },
+      {
+        "id": "pentax-d-fa-macro-100mm-f2.8-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-D FA MACRO 100mmF2.8",
+        "mount": "K",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.303,
+        "weight": 345,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 67.5,
+        "length": 80.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-d-fa-macro-100/"
+        },
+        "note": "生産終了。D FA MACRO 100mmF2.8の初代（非WR）モデル。絞りリングを備えKマウントフィルム一眼レフでも使用可。フローティングシステム採用の等倍マクロ。公式ページに本体JANコードの記載がなくidはslug。防塵防滴機構は非搭載。"
+      },
+      {
+        "id": "pentax-da-35mm-f2.8-macro-limited-smc-k",
+        "maker": "PENTAX",
+        "name": "smc PENTAX-DA 35mmF2.8 Macro Limited",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.139,
+        "weight": 215,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 63,
+        "length": 46.5,
+        "urls": {
+          "official": "https://www.ricoh-imaging.co.jp/japan/products/lens/k/macro/smcpentax-da-macro-35/"
+        },
+        "note": "生産終了。HD PENTAX-DA 35mmF2.8 Macro Limitedのsmc版（前世代）。等倍マクロ。フード内蔵。公式の生産終了ページはHD PENTAX-DA 15mmのJAN・アクセサリーが流用表示された不正確なスタブのため、JANは採用せずidはslug。防塵防滴機構は非搭載。"
+      }
+    ]
+  },
   "7Artisans": {
     "X": [
       {
