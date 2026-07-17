@@ -1,4 +1,4 @@
-export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch";
+export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa";
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
