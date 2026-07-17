@@ -42,10 +42,22 @@ export const useCatalogState = () => {
       set: (value) => update({ [key]: value === fallback ? undefined : value }),
     });
 
+  const numberParam = (key: string): WritableComputedRef<number | undefined> =>
+    computed({
+      get: () => {
+        const value = Number(queryString(route.query, key));
+        return Number.isFinite(value) && value > 0 ? value : undefined;
+      },
+      set: (value) => update({ [key]: value && value > 0 ? String(value) : undefined }),
+    });
+
   return {
     makers: listParam("maker"),
     mounts: listParam("mount"),
     formats: listParam("format"),
+    focalFrom: numberParam("fmin"),
+    focalTo: numberParam("fmax"),
+    fstopMax: numberParam("fs"),
     status: choiceParam<StatusFilter>("status", ["all", "current", "discontinued"], "all"),
     mode: choiceParam<ViewMode>("mode", ["bars", "list", "gallery"], "bars"),
     sort: choiceParam<SortKey>("sort", ["focal", "fstop", "release", "name"], "focal"),
@@ -55,6 +67,14 @@ export const useCatalogState = () => {
       set: (value: boolean) => update({ eq: value ? "1" : undefined }),
     }),
     clearFilters: () =>
-      update({ maker: undefined, mount: undefined, format: undefined, status: undefined }),
+      update({
+        maker: undefined,
+        mount: undefined,
+        format: undefined,
+        status: undefined,
+        fmin: undefined,
+        fmax: undefined,
+        fs: undefined,
+      }),
   };
 };
