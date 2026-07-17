@@ -22,6 +22,8 @@ export * from "./meike";
 export * from "./zhongyi";
 export * from "./astrhori";
 export * from "./sirui";
+export * from "./yashica";
+export * from "./konica";
 export * from "./pergear";
 export * from "./brightin";
 export * from "./minolta";
