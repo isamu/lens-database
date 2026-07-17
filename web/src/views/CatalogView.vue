@@ -10,6 +10,7 @@ import SegmentedControl from "../components/SegmentedControl.vue";
 import FocalBars from "../components/FocalBars.vue";
 import LensList from "../components/LensList.vue";
 import LensGallery from "../components/LensGallery.vue";
+import ScatterChart from "../components/ScatterChart.vue";
 
 const { t } = useI18n();
 const state = useCatalogState();
@@ -114,6 +115,7 @@ const modeOptions = computed((): { value: ViewMode; label: string }[] => [
   { value: "bars", label: t("mode.bars") },
   { value: "list", label: t("mode.list") },
   { value: "gallery", label: t("mode.gallery") },
+  { value: "chart", label: t("mode.chart") },
 ]);
 const sortOptions = computed((): { value: SortKey; label: string }[] => [
   { value: "focal", label: t("sort.focal") },
@@ -261,6 +263,23 @@ const statusOptions = computed((): { value: StatusFilter; label: string }[] => [
       :equiv="state.equiv.value"
     />
     <LensList v-else-if="state.mode.value === 'list'" :lenses="sorted" :equiv="state.equiv.value" />
-    <LensGallery v-else :lenses="sorted" :equiv="state.equiv.value" />
+    <LensGallery
+      v-else-if="state.mode.value === 'gallery'"
+      :lenses="sorted"
+      :equiv="state.equiv.value"
+    />
+    <ScatterChart
+      v-else
+      :lenses="sorted"
+      :x-key="state.chartX.value"
+      :y-key="state.chartY.value"
+      :log-x="state.chartLogX.value"
+      :log-y="state.chartLogY.value"
+      :equiv="state.equiv.value"
+      @update:x-key="state.chartX.value = $event"
+      @update:y-key="state.chartY.value = $event"
+      @update:log-x="state.chartLogX.value = $event"
+      @update:log-y="state.chartLogY.value = $event"
+    />
   </div>
 </template>
