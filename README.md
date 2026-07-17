@@ -2,10 +2,29 @@
 
 カメラレンズのオープンソースデータベース。各メーカーのレンズ情報をJSON形式で管理し、TypeScriptで型安全にアクセスできます。
 
+**🔍 Web カタログ: [database.lensfolio.net](https://database.lensfolio.net/)**
+
+収録レンズをブラウザで検索・比較できます。焦点距離バー(対数軸)・リスト・ギャラリーの3ビュー、メーカー/マウント/所有状況での絞り込み、焦点距離・開放F値でのレンジ検索、35mm換算トグルに対応。各レンズの詳細ページから GitHub の修正 PR を直接作成できます。
+
 ## 概要
 
 このプロジェクトは、カメラレンズの仕様情報をメーカー・マウント別に整理したデータベースです。
 レンズの焦点距離、F値、重量、発売日などの詳細情報を構造化データとして提供します。
+
+**現在 1283 本収録**(主要メーカーの2000年以降の交換レンズを網羅登録中)。
+
+| メーカー | 本数 | メーカー | 本数 |
+|---|---:|---|---:|
+| SIGMA | 496 | Fujifilm | 68 |
+| TAMRON | 196 | TTArtisan | 3 |
+| Canon | 152 | Voigtländer | 2 |
+| Nikon | 143 | Leica | 1 |
+| SONY | 127 | 7Artisans / SG-image / Thypoch | 各 1 |
+| Tokina | 92 | | |
+
+マルチマウントのレンズは**マウントごとに1レコード**として登録しています(EAN/JAN もマウント別のため)。
+
+データは公式サイトを一次情報とし、裏取りできない値は記載しない方針です(価格.com はスペック表・登録日ともに誤りが混入するため補助的にのみ使用)。
 
 ## Usage
 
@@ -49,10 +68,17 @@ lens-database/
 │   │   ├── cosina/               # COSINAレンズデータ
 │   │   ├── zeiss/                # ZEISSレンズデータ
 │   │   ├── tokina/               # Tokinaレンズデータ
+│   │   ├── tamron/               # TAMRONレンズデータ
+│   │   ├── ttartisan/            # TTArtisanレンズデータ
+│   │   ├── sevenartisans/        # 7Artisansレンズデータ
+│   │   ├── sg-image/             # SG-imageレンズデータ
+│   │   ├── thypoch/              # Thypochレンズデータ
 │   │   ├── all.ts                # 全データの集約
-│   │   └── index.ts              # エクスポート
+│   │   └── index.ts              # エクスポート (新しいメーカーはここに追加が必要)
 │   ├── run.ts                    # ドキュメント生成スクリプト
+│   ├── ean.ts                    # EAN-13 チェックディジット検証
 │   └── utils.ts                  # ユーティリティ関数
+├── web/                          # Web カタログ (Vue 3 + Vite の静的SPA)
 ├── build/                        # ビルド出力
 │   └── data/                     # コンパイル済みデータ
 ├── docs/                         # 生成されたMarkdownドキュメント
@@ -121,34 +147,43 @@ export type LensData = {
 
 ### サポートされているメーカー
 
-- Canon
-- Fujifilm
-- SONY
-- Nikon
-- Leica
-- ZEISS
-- SIGMA
-- Panasonic
-- OLYMPUS
-- PENTAX
-- Tokina
-- COSINA
+型定義上サポートされるメーカーと、現在の収録状況:
+
+| メーカー | 収録 | メーカー | 収録 |
+|---|---|---|---|
+| Canon | 152 | TAMRON | 196 |
+| Nikon | 143 | Tokina | 92 |
+| SONY | 127 | COSINA | — |
+| Fujifilm | 68 | Voigtländer | 2 |
+| SIGMA | 496 | TTArtisan | 3 |
+| Panasonic | — | 7Artisans | 1 |
+| OLYMPUS | — | SG-image | 1 |
+| OM SYSTEM | — | Thypoch | 1 |
+| PENTAX | — | Leica | 1 |
+| ZEISS | — | | |
+
+「—」は型定義はあるが未登録(今後追加予定)。
 
 ### サポートされているマウント
 
+型定義上のマウント:
+
 - Canon: RF, RF-S, EF, EF-S, EF-M, FD
-- Fujifilm: X, R
+- Fujifilm: X, G, R
 - Sony: A, E
 - Nikon: Z, F
 - Leica: M, L
-- Panasonic: L, FourThirds
-- Olympus: FourThirds
-- Pentax: K
-- SIGMA: SA (他社マウント用レンズもサポート)
+- Panasonic: L, FourThirds, MicroFourThirds
+- Olympus: FourThirds, MicroFourThirds
+- Pentax: K, 645
+- SIGMA: SA
+
+SIGMA / TAMRON / Tokina などのサードパーティ製レンズは、上記の他社マウント側に登録されます
+(例: SIGMA の E マウント用レンズは `mount: "E"`)。
 
 ### フォーマット
 
-- Large
+- Large (中判)
 - Full-Frame (フルサイズ)
 - APS-C
 - FourThirds
@@ -158,7 +193,14 @@ export type LensData = {
 ### エンジニアの方
 
 1. `src/data/{maker}/{mount}/index.ts` にレンズデータを追加
-2. Pull Requestを作成
+2. **新しいメーカー・マウントのディレクトリを作った場合は、`src/data/{maker}/index.ts` と `src/data/index.ts` への export 追加を忘れずに**
+   (`src/data/all.ts` は export された配列を集約する仕組みのため、**繋ぎ忘れるとビルドも `generate` も成功したままデータだけが反映されません**)
+3. Pull Requestを作成
+
+データの方針:
+- `id` は EAN/JAN を優先し、取得できない場合のみ `{maker}-{model}-{mount}` 形式のスラッグにする
+- **裏取りできない値は書かない**(任意フィールドは省略可)。必須は `id` / `maker` / `name` / `mount` / `focalLength` / `fStop` / `format` / `focus` / `hasStabilizer` / `hasDustMoistureResistance`
+- 出典は公式サイトを優先
 
 例:
 ```typescript
@@ -205,9 +247,24 @@ yarn run generate
 ```
 
 このコマンドは以下を実行します:
-- データの検証 (ID、EANコードの重複チェック)
+- データの検証
+  - ID・EANコードの重複チェック
+  - **EAN-13 のチェックディジット検証** (誤った JAN の混入を防ぐ。`id` は外部から参照されるプライマリキーのため、マージ後の変更は破壊的変更になる)
 - メーカー・マウント別のMarkdownドキュメント生成
 - `artifacts/data.json` の生成
+
+検証に失敗した場合は `invalid data` を出力して生成を中止します。
+
+### Web カタログ
+
+`web/` は `artifacts/data.json` をビルド時に取り込む静的 SPA (Vue 3 + Vite) です。
+データを更新したら `yarn generate` の後に再ビルドしてください:
+
+```bash
+yarn generate            # artifacts/data.json を更新
+yarn --cwd web build     # カタログを再ビルド
+yarn --cwd web preview   # ローカル確認
+```
 
 ### コードフォーマット
 
@@ -219,11 +276,7 @@ yarn run format
 
 [ドキュメントインデックス](./docs/README.md)
 
-現在サポートされているレンズ:
-- Canon EF, EF-S, RF マウント
-- Fujifilm X マウント
-- Leica M マウント
-- SIGMA EF-S, X マウント
+メーカー・マウント別の Markdown が `docs/{maker}/{mount}/index.md` に生成されます。
 
 ## データソース
 
