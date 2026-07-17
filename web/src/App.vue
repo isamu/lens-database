@@ -4,6 +4,7 @@ import { useRoute } from "vue-router";
 import { useI18n } from "vue-i18n";
 import { DATA_REPO_URL } from "./lib/lens";
 import type { Locale } from "./i18n";
+import CompareTray from "./components/CompareTray.vue";
 
 const route = useRoute();
 const { locale } = useI18n();
@@ -54,5 +55,6 @@ const languages = computed((): { lang: Locale; label: string }[] => [
     <main>
       <RouterView />
     </main>
+    <CompareTray />
   </div>
 </template>

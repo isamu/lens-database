@@ -53,6 +53,46 @@ const matchesFStop = (lens: Lens): boolean =>
   state.fstopMax.value === undefined ||
   (lens.fStop.length > 0 && lens.fStop[0] <= state.fstopMax.value);
 
+// Feature-flag filter: every selected flag must be present on the lens.
+const FEATURE_PREDICATES: Record<string, (l: Lens) => boolean> = {
+  macro: (l) => l.hasMacro === true,
+  fisheye: (l) => l.hasFisheye === true,
+  tiltshift: (l) => l.hasTiltShift === true,
+  softfocus: (l) => l.hasSoftFocus === true,
+  stab: (l) => l.hasStabilizer === true,
+  weather: (l) => l.hasDustMoistureResistance === true,
+  af: (l) => l.focus.includes("AF"),
+  mf: (l) => l.focus.includes("MF"),
+};
+const matchesFeatures = (lens: Lens): boolean =>
+  state.features.value.every((key) => FEATURE_PREDICATES[key]?.(lens) ?? true);
+
+const withinRange = (
+  value: number | undefined,
+  min: number | undefined,
+  max: number | undefined,
+): boolean => {
+  if (min === undefined && max === undefined) return true;
+  if (value === undefined) return false;
+  if (min !== undefined && value < min) return false;
+  if (max !== undefined && value > max) return false;
+  return true;
+};
+
+const releaseYearOf = (lens: Lens): number | undefined => {
+  const y = Number(lens.releaseDate?.slice(0, 4));
+  return Number.isFinite(y) ? y : undefined;
+};
+
+const matchesYear = (lens: Lens): boolean =>
+  withinRange(releaseYearOf(lens), state.yearMin.value, state.yearMax.value);
+const matchesWeight = (lens: Lens): boolean =>
+  withinRange(lens.weight, state.weightMin.value, state.weightMax.value);
+const matchesFilterThread = (lens: Lens): boolean =>
+  withinRange(lens.filterDiameter, state.filterMin.value, state.filterMax.value);
+const matchesPrice = (lens: Lens): boolean =>
+  withinRange(lens.msrp, state.priceMin.value, state.priceMax.value);
+
 const filtered = computed(() =>
   lenses.filter(
     (lens) =>
@@ -61,7 +101,12 @@ const filtered = computed(() =>
       matchesList(state.formats.value, lens.format) &&
       matchesFocal(lens) &&
       matchesFStop(lens) &&
-      matchesStatus(lens),
+      matchesStatus(lens) &&
+      matchesFeatures(lens) &&
+      matchesYear(lens) &&
+      matchesWeight(lens) &&
+      matchesFilterThread(lens) &&
+      matchesPrice(lens),
   ),
 );
 
@@ -106,8 +151,52 @@ const hasFilters = computed(
     state.focalFrom.value !== undefined ||
     state.focalTo.value !== undefined ||
     state.fstopMax.value !== undefined ||
-    state.status.value !== "all",
+    state.status.value !== "all" ||
+    state.features.value.length > 0 ||
+    state.yearMin.value !== undefined ||
+    state.yearMax.value !== undefined ||
+    state.weightMin.value !== undefined ||
+    state.weightMax.value !== undefined ||
+    state.filterMin.value !== undefined ||
+    state.filterMax.value !== undefined ||
+    state.priceMin.value !== undefined ||
+    state.priceMax.value !== undefined,
 );
+
+const FEATURE_KEYS = [
+  "macro",
+  "fisheye",
+  "tiltshift",
+  "softfocus",
+  "stab",
+  "weather",
+  "af",
+  "mf",
+] as const;
+
+const toggleFeature = (key: string) => {
+  const cur = state.features.value;
+  state.features.value = cur.includes(key) ? cur.filter((v) => v !== key) : [...cur, key];
+};
+
+const rangeInput = (
+  param: typeof state.yearMin,
+): ReturnType<typeof computed<number | "">> =>
+  computed({
+    get: () => param.value ?? "",
+    set: (value) => {
+      param.value = typeof value === "number" && value > 0 ? value : undefined;
+    },
+  });
+
+const yearMinInput = rangeInput(state.yearMin);
+const yearMaxInput = rangeInput(state.yearMax);
+const weightMinInput = rangeInput(state.weightMin);
+const weightMaxInput = rangeInput(state.weightMax);
+const filterMinInput = rangeInput(state.filterMin);
+const filterMaxInput = rangeInput(state.filterMax);
+const priceMinInput = rangeInput(state.priceMin);
+const priceMaxInput = rangeInput(state.priceMax);
 
 const shownMounts = computed(() => uniqueSorted(filtered.value.map((l) => l.mount)));
 
@@ -215,6 +304,111 @@ const statusOptions = computed((): { value: StatusFilter; label: string }[] => [
         >
           {{ t("filter.clear") }}
         </button>
+      </div>
+
+      <!-- Feature flag checkboxes (multi-select any-of) -->
+      <div class="flex flex-wrap items-center gap-1.5">
+        <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.features") }}</span>
+        <button
+          v-for="key in FEATURE_KEYS"
+          :key="key"
+          type="button"
+          class="cursor-pointer rounded-full border px-2.5 py-0.5 text-xs transition-colors"
+          :class="
+            state.features.value.includes(key)
+              ? 'bg-card2 text-txt border-line2 font-semibold'
+              : 'text-mut border-line hover:text-txt'
+          "
+          @click="toggleFeature(key)"
+        >
+          {{ t("filter.feature." + key) }}
+        </button>
+      </div>
+
+      <!-- Numeric range filters (year / weight / filter thread / price) -->
+      <div class="grid gap-1.5 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="flex items-center gap-1.5">
+          <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.year") }}</span>
+          <input
+            v-model.number="yearMinInput"
+            type="number"
+            min="1900"
+            max="2100"
+            inputmode="numeric"
+            placeholder="min"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+          <span class="text-mut text-xs">–</span>
+          <input
+            v-model.number="yearMaxInput"
+            type="number"
+            min="1900"
+            max="2100"
+            inputmode="numeric"
+            placeholder="max"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+        </div>
+        <div class="flex items-center gap-1.5">
+          <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.weight") }}</span>
+          <input
+            v-model.number="weightMinInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="min"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+          <span class="text-mut text-xs">–</span>
+          <input
+            v-model.number="weightMaxInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="max"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+        </div>
+        <div class="flex items-center gap-1.5">
+          <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.filterThread") }}</span>
+          <input
+            v-model.number="filterMinInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="min"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+          <span class="text-mut text-xs">–</span>
+          <input
+            v-model.number="filterMaxInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="max"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+        </div>
+        <div class="flex items-center gap-1.5">
+          <span class="text-mut w-20 shrink-0 text-[11px]">{{ t("filter.price") }}</span>
+          <input
+            v-model.number="priceMinInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="min"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+          <span class="text-mut text-xs">–</span>
+          <input
+            v-model.number="priceMaxInput"
+            type="number"
+            min="1"
+            inputmode="numeric"
+            placeholder="max"
+            class="bg-card border-line text-txt w-20 rounded-lg border px-2 py-1 text-xs"
+          />
+        </div>
       </div>
     </div>
 

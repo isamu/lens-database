@@ -4,6 +4,7 @@ import { fStopLabel, focalLabel } from "../lib/lens";
 import { useLangPath } from "../composables/useLangPath";
 import LensImage from "./LensImage.vue";
 import MountChip from "./MountChip.vue";
+import CompareButton from "./CompareButton.vue";
 
 defineProps<{ lenses: Lens[]; equiv: boolean }>();
 const { lensPath } = useLangPath();
@@ -33,6 +34,9 @@ const { lensPath } = useLangPath();
           <span>{{ focalLabel(lens, equiv) }}</span>
           <span class="font-semibold text-amber-300">{{ fStopLabel(lens) }}</span>
           <MountChip :mount="lens.mount" />
+        </div>
+        <div class="mt-2">
+          <CompareButton :lens="lens" />
         </div>
       </div>
     </RouterLink>

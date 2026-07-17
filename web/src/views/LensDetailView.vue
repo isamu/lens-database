@@ -1,13 +1,16 @@
 <script setup lang="ts">
-import { computed, ref, watch } from "vue";
+import { computed, onBeforeUnmount, ref, watch } from "vue";
 import { useRoute } from "vue-router";
 import { useI18n } from "vue-i18n";
 import { findLens } from "../data/lenses";
-import { IMAGES_REPO_URL, cropFactor, editDataUrl, fStopLabel, focalLabel } from "../lib/lens";
+import { IMAGES_REPO_URL, cropFactor, editDataUrl, fStopLabel, focalLabel, imageUrl } from "../lib/lens";
 import { lastCatalogPath } from "../router";
 import { useLangPath } from "../composables/useLangPath";
 import LensImage from "../components/LensImage.vue";
 import MountChip from "../components/MountChip.vue";
+import SimilarLenses from "../components/SimilarLenses.vue";
+import CompareButton from "../components/CompareButton.vue";
+import type { Lens } from "../types";
 
 const route = useRoute();
 const { t } = useI18n();
@@ -103,6 +106,62 @@ const sources = computed((): SourceLink[] => {
   });
   return links;
 });
+
+// Emit a JSON-LD Product record into <head> so search engines can index each
+// lens as a structured product. Only fields we're confident about are exposed
+// (name, brand, model, image, offer with MSRP when known).
+const JSONLD_TAG_ID = "lens-jsonld";
+
+const productJsonLd = (l: Lens): object => {
+  const record: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: l.name,
+    brand: { "@type": "Brand", name: l.maker },
+    category: "Camera lens",
+    image: imageUrl(l),
+  };
+  if (l.EANCode) record.gtin13 = l.EANCode;
+  if (l.releaseDate) record.releaseDate = l.releaseDate;
+  if (l.msrp) {
+    record.offers = {
+      "@type": "Offer",
+      priceCurrency: "JPY",
+      price: l.msrp,
+      availability: l.discontinued
+        ? "https://schema.org/Discontinued"
+        : "https://schema.org/InStock",
+    };
+  }
+  return record;
+};
+
+const removeJsonLd = () => {
+  if (typeof document === "undefined") return;
+  const existing = document.getElementById(JSONLD_TAG_ID);
+  if (existing) existing.remove();
+};
+
+const injectJsonLd = (l: Lens) => {
+  if (typeof document === "undefined") return;
+  removeJsonLd();
+  const el = document.createElement("script");
+  el.type = "application/ld+json";
+  el.id = JSONLD_TAG_ID;
+  el.text = JSON.stringify(productJsonLd(l));
+  document.head.appendChild(el);
+};
+
+watch(
+  lens,
+  (l) => {
+    if (l) injectJsonLd(l);
+    else removeJsonLd();
+  },
+  { immediate: true },
+);
+
+onBeforeUnmount(removeJsonLd);
 </script>
 
 <template>
@@ -139,7 +198,10 @@ const sources = computed((): SourceLink[] => {
             {{ t("badge.discontinued") }}
           </span>
         </div>
-        <h1 class="mt-1 text-xl font-bold">{{ lens.name }}</h1>
+        <div class="mt-1 flex flex-wrap items-center gap-2">
+          <h1 class="text-xl font-bold">{{ lens.name }}</h1>
+          <CompareButton :lens="lens" variant="button" />
+        </div>
 
         <h2 class="text-mut mt-5 mb-2 text-[11px] font-semibold tracking-wider uppercase">
           {{ t("detail.specs") }}
@@ -174,6 +236,8 @@ const sources = computed((): SourceLink[] => {
         </template>
       </div>
     </div>
+
+    <SimilarLenses :target="lens" :equiv="false" />
 
     <div class="bg-card border-line mt-8 rounded-2xl border p-5">
       <h2 class="text-[15px] font-bold">{{ t("contribute.title") }}</h2>

@@ -74,6 +74,17 @@ export const useCatalogState = () => {
     focalFrom: numberParam("fmin"),
     focalTo: numberParam("fmax"),
     fstopMax: numberParam("fs"),
+    // Multi-select feature flag filter (any-of): macro / fisheye / tiltshift /
+    // softfocus / af / mf / stab (image stabilizer) / weather (dust+moisture).
+    features: listParam("fx"),
+    yearMin: numberParam("yfrom"),
+    yearMax: numberParam("yto"),
+    weightMin: numberParam("wmin"),
+    weightMax: numberParam("wmax"),
+    filterMin: numberParam("fdmin"),
+    filterMax: numberParam("fdmax"),
+    priceMin: numberParam("pmin"),
+    priceMax: numberParam("pmax"),
     status: choiceParam<StatusFilter>("status", ["all", "current", "discontinued"], "all"),
     mode: choiceParam<ViewMode>("mode", ["bars", "list", "gallery", "chart"], "bars"),
     sort: choiceParam<SortKey>("sort", ["focal", "fstop", "release", "name"], "focal"),
@@ -98,6 +109,15 @@ export const useCatalogState = () => {
         fmin: undefined,
         fmax: undefined,
         fs: undefined,
+        fx: undefined,
+        yfrom: undefined,
+        yto: undefined,
+        wmin: undefined,
+        wmax: undefined,
+        fdmin: undefined,
+        fdmax: undefined,
+        pmin: undefined,
+        pmax: undefined,
       }),
   };
 };

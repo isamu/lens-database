@@ -2,6 +2,7 @@ import { ref } from "vue";
 import { createRouter, createWebHistory } from "vue-router";
 import CatalogView from "./views/CatalogView.vue";
 import LensDetailView from "./views/LensDetailView.vue";
+import CompareView from "./views/CompareView.vue";
 import { browserLocale, i18n, isLocale } from "./i18n";
 
 export const lastCatalogPath = ref<string | null>(null);
@@ -11,6 +12,7 @@ export const router = createRouter({
   routes: [
     { path: "/:lang(ja|en)?", name: "catalog", component: CatalogView },
     { path: "/:lang(ja|en)?/lens/:id", name: "lens", component: LensDetailView },
+    { path: "/:lang(ja|en)?/compare", name: "compare", component: CompareView },
   ],
 });
 
