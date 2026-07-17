@@ -15,4 +15,5 @@
 | Weight | 285g |
 | Max Magnification | 0.26x |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 75.4° - 8.2° |
 | Release Date | 2014 |

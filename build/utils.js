@@ -1,6 +1,6 @@
 export const lensData2Markdown = (lensData) => {
     // console.log();
-    const { id, EANCode, maker, name, mount, focalLength, fStop, format, focus, hasStabilizer, hasDustMoistureResistance, filterDiameter, minFocusDistance, weight, maxMagnification, bladesCount, elements, groups, diameter, length, isInternalFocus, officialUrl, urls, releaseDate, discontinued, discontinuedDate, hoodModel, caseModel, } = lensData;
+    const { id, EANCode, maker, name, mount, focalLength, fStop, format, focus, hasStabilizer, hasDustMoistureResistance, filterDiameter, minFocusDistance, weight, maxMagnification, bladesCount, elements, groups, diameter, length, isInternalFocus, hasMacro, hasFisheye, hasTiltShift, hasSoftFocus, angleOfView, imageCircle, msrp, predecessorId, successorId, compatibleBodies, officialUrl, urls, releaseDate, discontinued, discontinuedDate, hoodModel, caseModel, } = lensData;
     const fl = focalLength.length === 1
         ? focalLength[0]
         : `${focalLength[0]} - ${focalLength[1]}`;
@@ -37,12 +37,36 @@ export const lensData2Markdown = (lensData) => {
         rows.push(`| Optical Construction | ${elements} elements in ${groups} groups |`);
     else if (elements)
         rows.push(`| Lens Elements | ${elements} |`);
+    if (angleOfView) {
+        const aov = angleOfView.length === 1
+            ? `${angleOfView[0]}°`
+            : `${angleOfView[0]}° - ${angleOfView[1]}°`;
+        rows.push(`| Angle of View | ${aov} |`);
+    }
+    if (imageCircle)
+        rows.push(`| Image Circle | ${imageCircle}mm |`);
     if (diameter)
         rows.push(`| Diameter | ${diameter}mm |`);
     if (length)
         rows.push(`| Length | ${length}mm |`);
     if (isInternalFocus)
         rows.push(`| Internal Focus | YES |`);
+    if (hasMacro)
+        rows.push(`| Macro | YES |`);
+    if (hasFisheye)
+        rows.push(`| Fisheye | YES |`);
+    if (hasTiltShift)
+        rows.push(`| Tilt / Shift | YES |`);
+    if (hasSoftFocus)
+        rows.push(`| Soft Focus | YES |`);
+    if (msrp)
+        rows.push(`| MSRP | ¥${msrp.toLocaleString("en-US")} |`);
+    if (compatibleBodies === null || compatibleBodies === void 0 ? void 0 : compatibleBodies.length)
+        rows.push(`| Compatible Bodies | ${compatibleBodies.join(", ")} |`);
+    if (predecessorId)
+        rows.push(`| Predecessor | ${predecessorId} |`);
+    if (successorId)
+        rows.push(`| Successor | ${successorId} |`);
     if (releaseDate)
         rows.push(`| Release Date | ${releaseDate} |`);
     if (discontinued)

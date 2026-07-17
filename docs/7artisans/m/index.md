@@ -14,6 +14,7 @@
 | Min Focus Distance | 0.7m |
 | Weight | 400g |
 | Optical Construction | 6 elements in 7 groups |
+| Angle of View | 46.8° |
 | Release Date | 2017-11-01 |
 | URL | [kakaku](https://kakaku.com/item/K0001032497/) |
 
@@ -32,4 +33,5 @@
 | Weight | 514g |
 | Aperture Blades | 12 |
 | Optical Construction | 6 elements in 7 groups |
+| Angle of View | 32.2° |
 | URL | [stkb](https://www.stkb.jp/shopdetail/000000002521/) |

@@ -15,6 +15,7 @@
 | Weight | 262g |
 | Aperture Blades | 12 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 63.4° |
 | Diameter | 60.6mm |
 | Length | 46.6mm |
 | Release Date | 2023-11 |
@@ -36,6 +37,7 @@
 | Weight | 265g |
 | Aperture Blades | 12 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 44.2° |
 | Diameter | 60.6mm |
 | Length | 49.7mm |
 | Release Date | 2022-11 |
@@ -57,6 +59,7 @@
 | Weight | 585g |
 | Aperture Blades | 12 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 31.7° |
 | Diameter | 73.5mm |
 | Length | 66.9mm |
 | Release Date | 2024-01 |
@@ -78,6 +81,7 @@
 | Weight | 130g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 55.5° |
 | Diameter | 60.6mm |
 | Length | 27.2mm |
 | Release Date | 2023-07 |
@@ -99,6 +103,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 44.2° |
 | Diameter | 60.6mm |
 | Length | 39.4mm |
 | Release Date | 2024-06 |

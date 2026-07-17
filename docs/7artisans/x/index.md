@@ -15,6 +15,7 @@
 | Weight | 369g |
 | Aperture Blades | 12 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 44.2° |
 | Release Date | 2021-10 |
 | URL | [kakaku](https://kakaku.com/item/K0001403024/)<br />[stkb](https://www.stkb.jp/shopdetail/000000001560/) |
 
@@ -31,6 +32,7 @@
 | Min Focus Distance | 0.15m |
 | Weight | 265g |
 | Optical Construction | 9 elements in 7 groups |
+| Fisheye | YES |
 | Release Date | 2021-05 |
 
 ### 25mm F1.8
@@ -47,6 +49,7 @@
 | Min Focus Distance | 0.18m |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 59.2° |
 
 ### 35mm F1.2 II
 |  | |
@@ -58,6 +61,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 44.2° |
 
 ### 35mm F1.4 II APS-C
 |  | |
@@ -69,6 +73,7 @@
 | Focus | MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 44.2° |
 | Release Date | 2025-08 |
 | URL | [kakaku](https://kakaku.com/item/K0001702750/) |
 
@@ -86,6 +91,7 @@
 | Min Focus Distance | 0.42m |
 | Weight | 360g |
 | Lens Elements | 9 |
+| Angle of View | 29° |
 | Diameter | 60mm |
 | Length | 60mm |
 | Release Date | 2021-08 |
@@ -101,6 +107,7 @@
 | Focus | AF, MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 55.5° |
 
 ### AF 35mm F1.4
 |  | |
@@ -112,6 +119,7 @@
 | Focus | AF, MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 44.2° |
 | Release Date | 2025-04-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001687509/) |
 
@@ -130,6 +138,7 @@
 | Weight | 179g |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 7 groups |
+| Angle of View | 44.2° |
 | Release Date | 2026-02 |
 | URL | [kakaku](https://kakaku.com/item/K0001769935/) |
 
@@ -143,5 +152,6 @@
 | Focus | AF, MF |
 | Image Stabilizer  | NO  |
 | Dust / Moisture Resistance | NO  |
+| Angle of View | 59.2° |
 | Release Date | 2026-02-18 |
 | URL | [kakaku](https://kakaku.com/item/K0001769933/) |

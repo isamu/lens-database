@@ -15,6 +15,7 @@
 | Weight | 180g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 44.2° |
 | Length | 45mm |
 | Release Date | 2020-12-21 |
 | Official URL | https://ttartisan.com/?aps-c-lenses%2F71.html= |
@@ -36,6 +37,7 @@
 | Weight | 180g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 44.2° |
 | Length | 45mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457586917/) |
 | EAN/JAN Code | 4589457586917 |
@@ -55,6 +57,7 @@
 | Weight | 411g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 31.7° |
 | Official URL | https://ttartisan.store/products/aps-c-50mm-f0-95 |
 | URL | [official](https://ttartisan.store/products/aps-c-50mm-f0-95) |
 
@@ -73,6 +76,7 @@
 | Weight | 195g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 31.7° |
 
 ### 50mm f/2
 |  | |
@@ -89,6 +93,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 31.7° |
 | Length | 35mm |
 | URL | [official](https://ttartisan.store/products/multi-mounts-50mm-f2-0)<br />[fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457580571/) |
 | EAN/JAN Code | 4589457580571 |
@@ -109,6 +114,8 @@
 | Max Magnification | 2x |
 | Aperture Blades | 12 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 24.4° |
+| Macro | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457582964/) |
 | EAN/JAN Code | 4589457582964 |
 
@@ -126,6 +133,8 @@
 | Min Focus Distance | 0.35m |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 44.2° |
+| Tilt / Shift | YES |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733055992/) |
 | EAN/JAN Code | 4582733055992 |
 
@@ -144,6 +153,7 @@
 | Weight | 177g |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 59.2° |
 | Official URL | https://ttartisan.store/products/aps-c-25mm-f2 |
 | URL | [official](https://ttartisan.store/products/aps-c-25mm-f2) |
 
@@ -162,6 +172,7 @@
 | Weight | 248g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 79.7° |
 | Official URL | https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens |
 | URL | [official](https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens) |
 
@@ -180,6 +191,7 @@
 | Weight | 93g |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 55.5° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4589457580779/) |
 | EAN/JAN Code | 4589457580779 |
 
@@ -198,6 +210,7 @@
 | Weight | 173g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 44.2° |
 | Diameter | 65mm |
 | Length | 49mm |
 | Release Date | 2025-01-24 |
@@ -219,6 +232,7 @@
 | Weight | 173g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 44.2° |
 | Diameter | 65mm |
 | Length | 49mm |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733056036/) |
@@ -239,6 +253,7 @@
 | Weight | 173g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 44.2° |
 | Diameter | 65mm |
 | Length | 49mm |
 | Release Date | 2025-01-24 |
@@ -259,6 +274,7 @@
 | Weight | 175g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 63.4° |
 | URL | [fujiya](https://www.fujiya-camera.co.jp/shop/g/gC4582733055916/)<br />[stkb](https://stkb.co.jp/info/?p=40407) |
 | EAN/JAN Code | 4582733055916 |
 
@@ -277,6 +293,7 @@
 | Weight | 240g |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 21.4° |
 
 ### AF 56mm f/1.8
 |  | |
@@ -293,5 +310,6 @@
 | Weight | 205g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 28.5° |
 | Official URL | https://ttartisan.store/products/56mm |
 | URL | [official](https://ttartisan.store/products/56mm) |

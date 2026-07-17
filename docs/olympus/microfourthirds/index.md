@@ -15,6 +15,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 114.2° - 75.4° |
 | Diameter | 78.9mm |
 | Length | 105.8mm |
 | Release Date | 2015-06-26 |
@@ -37,6 +38,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 10 groups |
+| Angle of View | 107° - 46.8° |
 | Diameter | 77mm |
 | Length | 88.5mm |
 | Release Date | 2021-06-25 |
@@ -59,6 +61,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 84.1° - 30.3° |
 | Diameter | 69.9mm |
 | Length | 84mm |
 | Release Date | 2013-11-29 |
@@ -82,6 +85,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 84.1° - 27° |
 | Diameter | 63.4mm |
 | Length | 70mm |
 | Release Date | 2020-03-27 |
@@ -104,6 +108,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 7 |
 | Optical Construction | 17 elements in 11 groups |
+| Angle of View | 84.1° - 12.3° |
 | Diameter | 77.5mm |
 | Length | 116.5mm |
 | Release Date | 2016-11-18 |
@@ -126,6 +131,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 10 groups |
+| Angle of View | 30.3° - 8.2° |
 | Diameter | 79.4mm |
 | Length | 160mm |
 | Release Date | 2014-11-29 |
@@ -148,6 +154,7 @@
 | Max Magnification | 0.29x |
 | Aperture Blades | 9 |
 | Optical Construction | 28 elements in 18 groups |
+| Angle of View | 8.2° - 3.1° |
 | Diameter | 115.8mm |
 | Length | 314.3mm |
 | Release Date | 2021-01-22 |
@@ -170,6 +177,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 84.1° - 6.2° |
 | Diameter | 77.5mm |
 | Length | 99.7mm |
 | Release Date | 2019-03-22 |
@@ -192,6 +200,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 75.4° - 8.2° |
 | Diameter | 63.5mm |
 | Length | 83mm |
 | Release Date | 2015-02-20 |
@@ -214,6 +223,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 30.3° - 8.2° |
 | Diameter | 63.5mm |
 | Length | 83mm |
 | Release Date | 2011-09-03 |
@@ -236,6 +246,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 16.4° - 4.1° |
 | Diameter | 69mm |
 | Length | 116.5mm |
 | Release Date | 2013-03-01 |
@@ -259,6 +270,7 @@
 | Optical Construction | 17 elements in 15 groups |
 | Diameter | 62mm |
 | Length | 80mm |
+| Fisheye | YES |
 | Release Date | 2015-06-26 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/8_18pro/index.html)<br />[kakaku](https://kakaku.com/item/K0000775858/) |
 | EAN/JAN Code | 4545350054212 |
@@ -279,6 +291,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 64.9° |
 | Diameter | 68.2mm |
 | Length | 87mm |
 | Release Date | 2018-01-26 |
@@ -301,6 +314,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 56.8° |
 | Diameter | 63.4mm |
 | Length | 61.7mm |
 | Release Date | 2021-12-10 |
@@ -323,6 +337,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 14 groups |
+| Angle of View | 46.8° |
 | Diameter | 70mm |
 | Length | 87mm |
 | Release Date | 2016-11-18 |
@@ -345,6 +360,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 27° |
 | Diameter | 70mm |
 | Length | 84.9mm |
 | Release Date | 2017-11-24 |
@@ -367,6 +383,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 10 groups |
+| Angle of View | 4.1° |
 | Diameter | 92.5mm |
 | Length | 227mm |
 | Release Date | 2016-02-26 |
@@ -389,6 +406,7 @@
 | Max Magnification | 0.08x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 84.1° |
 | Diameter | 56mm |
 | Length | 43mm |
 | Release Date | 2011-07-22 |
@@ -411,6 +429,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 27° |
 | Diameter | 56mm |
 | Length | 46mm |
 | Release Date | 2011-09-09 |
@@ -433,6 +452,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 16.4° |
 | Diameter | 64mm |
 | Length | 69mm |
 | Release Date | 2012-07-06 |

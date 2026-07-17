@@ -15,6 +15,7 @@
 | Weight | 335g |
 | Max Magnification | 0.25x |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 104.5° - 70.7° |
 | Release Date | 2024-12-12 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b060/ |
 | EAN/JAN Code | 4960371006963 |
@@ -34,6 +35,7 @@
 | Weight | 525g |
 | Max Magnification | 0.21x |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 79.7° - 22.9° |
 | Release Date | 2026 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b070/ |
 | EAN/JAN Code | 4960371007106 |
@@ -53,6 +55,7 @@
 | Weight | 620g |
 | Max Magnification | 0.5x |
 | Optical Construction | 19 elements in 15 groups |
+| Angle of View | 76.5° - 5.4° |
 | Release Date | 2025 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b061/ |
 | EAN/JAN Code | 4960371006994 |

@@ -15,6 +15,7 @@
 | Weight | 550g |
 | Aperture Blades | 10 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 110.5° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-2815-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-2815-zm.html) |
 
@@ -33,6 +34,7 @@
 | Weight | 350g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 100.5° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-418-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-418-zm.html) |
 
@@ -51,6 +53,7 @@
 | Weight | 190g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 91.7° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-4521-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-4521-zm.html) |
 
@@ -69,6 +72,7 @@
 | Weight | 300g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 91.7° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2821-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2821-zm.html) |
 
@@ -87,6 +91,7 @@
 | Weight | 381g |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 63.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-1435-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/distagon-t-1435-zm.html) |
 
@@ -105,6 +110,7 @@
 | Weight | 220g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 81.7° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2825-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2825-zm.html) |
 
@@ -123,6 +129,7 @@
 | Weight | 260g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 81.7° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2825-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-2825-zm.html) |
 
@@ -141,6 +148,7 @@
 | Weight | 300g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 75.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-228-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-228-zm.html) |
 
@@ -159,6 +167,7 @@
 | Weight | 230g |
 | Aperture Blades | 10 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 75.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html) |
 
@@ -177,6 +186,7 @@
 | Weight | 230g |
 | Aperture Blades | 10 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 63.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-235-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/biogon-t-235-zm.html) |
 
@@ -195,6 +205,7 @@
 | Weight | 200g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 63.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2835-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-biogon-t-2835-zm.html) |
 
@@ -213,6 +224,7 @@
 | Weight | 210g |
 | Aperture Blades | 10 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 63.4° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html) |
 
@@ -231,6 +243,7 @@
 | Weight | 250g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-sonnar-t-1550-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/c-sonnar-t-1550-zm.html) |
 
@@ -249,6 +262,7 @@
 | Weight | 210g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/planar-t-250-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses/planar-t-250-zm.html) |
 
@@ -267,5 +281,6 @@
 | Weight | 560g |
 | Aperture Blades | 10 |
 | Optical Construction | 6 elements in 4 groups |
+| Angle of View | 28.6° |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/zm-lenses/tele-tessar-t-485-zm.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/zm-lenses.html) |

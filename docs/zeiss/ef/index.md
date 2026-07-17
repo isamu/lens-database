@@ -15,6 +15,7 @@
 | Weight | 1350g |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 75.4° |
 | Release Date | 2015-11 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1428.html) |
@@ -34,6 +35,7 @@
 | Weight | 1030g |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 42.9° |
 | Release Date | 2013-10 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1455.html) |
@@ -53,6 +55,7 @@
 | Weight | 1200g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 28.6° |
 | Release Date | 2014-11 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-1485.html) |
@@ -72,6 +75,7 @@
 | Weight | 1405g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 24.4° |
 | Release Date | 2019-04 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/otus-lenses/otus-14100.html) |
@@ -90,6 +94,7 @@
 | Weight | 947g |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 110.5° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2815.html) |
@@ -109,6 +114,7 @@
 | Weight | 721g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 100.5° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2818.html) |
@@ -128,6 +134,7 @@
 | Weight | 851g |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 91.7° |
 | Release Date | 2015-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2821.html) |
@@ -147,6 +154,7 @@
 | Weight | 1226g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 81.7° |
 | Release Date | 2017-05 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1425.html) |
@@ -166,6 +174,7 @@
 | Weight | 693g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 81.7° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-225.html) |
@@ -185,6 +194,7 @@
 | Weight | 1131g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 63.4° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1435.html) |
@@ -204,6 +214,7 @@
 | Weight | 686g |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 63.4° |
 | Release Date | 2015-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-235.html) |
@@ -223,6 +234,7 @@
 | Weight | 922g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Release Date | 2015-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1450.html) |
@@ -243,6 +255,7 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 46.8° |
 | Release Date | 2015-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-250m.html) |
@@ -262,6 +275,7 @@
 | Weight | 1210g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 28.6° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-1485.html) |
@@ -282,6 +296,7 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Release Date | 2015-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2100m.html) |
@@ -301,6 +316,7 @@
 | Weight | 1123g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 18.2° |
 | Release Date | 2016-09 |
 | Official URL | https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html |
 | URL | [official](https://www.zeiss.com/consumer-products/us/photography/milvus-lenses/milvus-2135.html) |
@@ -320,4 +336,5 @@
 | Weight | 470g |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 100.5° |
 | Discontinued | YES |

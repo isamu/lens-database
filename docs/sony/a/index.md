@@ -15,6 +15,7 @@
 | Optical Construction | 11 elements in 8 groups |
 | Diameter | 75mm |
 | Length | 66.5mm |
+| Fisheye | YES |
 | Release Date | 2006-10 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL16F28/ |
@@ -36,6 +37,7 @@
 | Weight | 285g |
 | Max Magnification | 0.13x |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 94.5° |
 | Diameter | 78mm |
 | Length | 53.5mm |
 | Release Date | 2006-10 |
@@ -59,6 +61,7 @@
 | Weight | 185g |
 | Max Magnification | 0.13x |
 | Optical Construction | 5 elements in 5 groups |
+| Angle of View | 75.4° |
 | Diameter | 65.5mm |
 | Length | 42.5mm |
 | Release Date | 2006-10 |
@@ -83,6 +86,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 63.4° |
 | Diameter | 69mm |
 | Length | 76mm |
 | Release Date | 2006-10 |
@@ -107,6 +111,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 65.5mm |
 | Length | 43mm |
 | Release Date | 2006-07-21 |
@@ -131,8 +136,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Diameter | 71.5mm |
 | Length | 60mm |
+| Macro | YES |
 | Release Date | 2006-07-21 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL50M28/ |
@@ -155,6 +162,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 28.6° |
 | Diameter | 81mm |
 | Length | 75mm |
 | Release Date | 2006-10 |
@@ -179,6 +187,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 18.2° |
 | Diameter | 88mm |
 | Length | 114.5mm |
 | Release Date | 2006-10 |
@@ -203,6 +212,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 18.2° |
 | Diameter | 80mm |
 | Length | 99mm |
 | Release Date | 2006-10 |
@@ -227,8 +237,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 75mm |
 | Length | 98.5mm |
+| Macro | YES |
 | Release Date | 2006-07-21 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL100M28/ |
@@ -250,6 +262,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 8.2° |
 | Diameter | 122mm |
 | Length | 242.5mm |
 | Release Date | 2006-09 |
@@ -272,6 +285,7 @@
 | Weight | 665g |
 | Max Magnification | 0.13x |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 5° |
 | Diameter | 89mm |
 | Length | 118mm |
 | Release Date | 2006-10 |
@@ -296,6 +310,7 @@
 | Max Magnification | 0.29x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 84.1° |
 | Diameter | 78mm |
 | Length | 76mm |
 | Release Date | 2010-09-17 |
@@ -320,6 +335,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 44.2° |
 | Diameter | 70mm |
 | Length | 52mm |
 | Release Date | 2010-10-14 |
@@ -344,6 +360,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 81mm |
 | Length | 71.5mm |
 | Release Date | 2013-07-26 |
@@ -368,6 +385,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 31.7° |
 | Diameter | 70mm |
 | Length | 45mm |
 | Release Date | 2009-06-25 |
@@ -392,6 +410,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 5 elements in 4 groups |
+| Angle of View | 28.6° |
 | Diameter | 70mm |
 | Length | 52mm |
 | Release Date | 2010-09-10 |
@@ -416,8 +435,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 50.7° |
 | Diameter | 70mm |
 | Length | 45mm |
+| Macro | YES |
 | Release Date | 2009-10-22 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL30M28/ |
@@ -439,6 +460,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 8.2° |
 | Diameter | 122mm |
 | Length | 242.5mm |
 | Release Date | 2012-10-26 |
@@ -462,6 +484,7 @@
 | Max Magnification | 0.135x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 5° |
 | Diameter | 140mm |
 | Length | 367.5mm |
 | Release Date | 2012-05-10 |
@@ -485,6 +508,7 @@
 | Weight | 360g |
 | Max Magnification | 0.125x |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 104.5° - 76.5° |
 | Diameter | 83mm |
 | Length | 80.5mm |
 | Release Date | 2006-08 |
@@ -509,6 +533,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 83.2° - 20.1° |
 | Release Date | 2006-11 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL1680Z/ |
@@ -531,6 +556,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 11 groups |
+| Angle of View | 83.2° - 15.4° |
 | Diameter | 72mm |
 | Length | 83mm |
 | Release Date | 2007-11-09 |
@@ -555,6 +581,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 69.5mm |
 | Length | 69mm |
 | Release Date | 2009-06-25 |
@@ -577,6 +604,7 @@
 | Weight | 235g |
 | Max Magnification | 0.25x |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 76.5° - 22.9° |
 | Diameter | 66mm |
 | Length | 77mm |
 | Release Date | 2006-07-21 |
@@ -601,6 +629,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 76.5° - 8.1° |
 | Diameter | 73mm |
 | Length | 85.5mm |
 | Release Date | 2006-07-21 |
@@ -625,6 +654,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 83mm |
 | Length | 114mm |
 | Release Date | 2009-01-29 |
@@ -649,6 +679,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 83mm |
 | Length | 114mm |
 | Release Date | 2015-06-26 |
@@ -672,6 +703,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 83.2° - 31.7° |
 | Diameter | 81mm |
 | Length | 88mm |
 | Release Date | 2011-12-09 |
@@ -696,6 +728,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 76.5° - 12° |
 | Release Date | 2012-06-15 |
 | Discontinued | YES |
 | Official URL | https://www.sony.jp/ichigan/products/SAL18135/ |
@@ -717,6 +750,7 @@
 | Weight | 440g |
 | Max Magnification | 0.29x |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 76.5° - 6.5° |
 | Diameter | 75mm |
 | Length | 86mm |
 | Release Date | 2007-11-09 |
@@ -741,6 +775,7 @@
 | Max Magnification | 0.34x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 76.5° - 29° |
 | Diameter | 71.6mm |
 | Length | 69mm |
 | Release Date | 2013-08-09 |
@@ -764,6 +799,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 83mm |
 | Length | 111mm |
 | Release Date | 2008-02 |
@@ -788,6 +824,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 83mm |
 | Length | 111mm |
 | Release Date | 2015-06-26 |
@@ -812,6 +849,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 84.1° - 23.3° |
 | Diameter | 71mm |
 | Length | 69mm |
 | Release Date | 2006-10 |
@@ -836,6 +874,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 14 groups |
+| Angle of View | 75.4° - 32.2° |
 | Diameter | 77.5mm |
 | Length | 94mm |
 | Release Date | 2009-11-12 |
@@ -860,6 +899,7 @@
 | Max Magnification | 0.29x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 29° - 8.1° |
 | Diameter | 71.5mm |
 | Length | 85mm |
 | Release Date | 2007-11-09 |
@@ -883,6 +923,7 @@
 | Max Magnification | 0.29x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 29° - 8.1° |
 | Diameter | 71.5mm |
 | Length | 85mm |
 | Release Date | 2009-06-25 |
@@ -907,6 +948,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 29° - 5.4° |
 | Diameter | 77mm |
 | Length | 116.5mm |
 | Release Date | 2012-09-07 |
@@ -931,6 +973,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 16 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 87mm |
 | Length | 196.5mm |
 | Release Date | 2006-08 |
@@ -955,6 +998,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 16 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 87mm |
 | Length | 196.5mm |
 | Release Date | 2013-11-22 |
@@ -979,6 +1023,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 82.5mm |
 | Length | 135.5mm |
 | Release Date | 2008-03-28 |
@@ -1003,6 +1048,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 82.5mm |
 | Length | 135.5mm |
 | Release Date | 2015-02 |
@@ -1027,6 +1073,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 12 groups |
+| Angle of View | 34.3° - 6.2° |
 | Diameter | 94.5mm |
 | Length | 196mm |
 | Release Date | 2009-01-29 |
@@ -1051,6 +1098,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 9 |
 | Optical Construction | 18 elements in 12 groups |
+| Angle of View | 34.3° - 6.2° |
 | Diameter | 94.5mm |
 | Length | 196mm |
 | Release Date | 2013-03-08 |
@@ -1075,6 +1123,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 32.2° - 8.2° |
 | Diameter | 71mm |
 | Length | 122mm |
 | Release Date | 2006-07-21 |

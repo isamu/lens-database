@@ -16,6 +16,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 83.2° |
 | Diameter | 84mm |
 | Length | 89.2mm |
 | Internal Focus | YES |
@@ -39,6 +40,7 @@
 | Max Magnification | 0.09x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 83.2° |
 | Diameter | 84mm |
 | Length | 89.2mm |
 | Internal Focus | YES |

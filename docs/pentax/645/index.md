@@ -15,6 +15,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 8 groups |
+| Angle of View | 95.5° |
 | Diameter | 90mm |
 | Length | 140mm |
 | Internal Focus | YES |
@@ -38,6 +39,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 76.3° |
 | Diameter | 88mm |
 | Length | 90mm |
 | Internal Focus | YES |
@@ -61,6 +63,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 8 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 76.3° |
 | Diameter | 88mm |
 | Length | 90mm |
 | Internal Focus | YES |
@@ -84,6 +87,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 62.9° |
 | Diameter | 76.5mm |
 | Length | 66.5mm |
 | Discontinued | YES |
@@ -106,6 +110,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 8 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 79.6° - 53.1° |
 | Diameter | 88mm |
 | Length | 104mm |
 | Discontinued | YES |
@@ -128,6 +133,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 89° - 62.9° |
 | Diameter | 99mm |
 | Length | 151.5mm |
 | Discontinued | YES |
@@ -150,6 +156,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 53.1° |
 | Diameter | 81.3mm |
 | Length | 68.2mm |
 | Internal Focus | YES |
@@ -173,6 +180,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 8 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 40.3° |
 | Diameter | 74.5mm |
 | Length | 37.5mm |
 | Discontinued | YES |
@@ -195,6 +203,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 8 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 62.9° - 35.9° |
 | Diameter | 85mm |
 | Length | 99.5mm |
 | Discontinued | YES |
@@ -217,6 +226,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 9 groups |
+| Angle of View | 53.1° - 28.1° |
 | Diameter | 88mm |
 | Length | 104mm |
 | Discontinued | YES |
@@ -239,6 +249,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 20.8° |
 | Diameter | 74.5mm |
 | Length | 96mm |
 | Internal Focus | YES |
@@ -262,6 +273,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 8 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 15.7° |
 | Diameter | 74.5mm |
 | Length | 119mm |
 | Internal Focus | YES |
@@ -285,6 +297,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 8 |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 10.5° |
 | Diameter | 83mm |
 | Length | 207.5mm |
 | Internal Focus | YES |
@@ -308,6 +321,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 9 |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 10.5° |
 | Diameter | 75mm |
 | Length | 183.5mm |
 | Internal Focus | YES |
@@ -331,6 +345,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 8 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 7.9° |
 | Diameter | 83mm |
 | Length | 252mm |
 | Internal Focus | YES |
@@ -354,6 +369,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 8 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 37.9° - 19.5° |
 | Diameter | 85mm |
 | Length | 130.5mm |
 | Discontinued | YES |
@@ -376,6 +392,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 8 |
 | Optical Construction | 15 elements in 13 groups |
+| Angle of View | 20.8° - 10.5° |
 | Diameter | 80mm |
 | Length | 201mm |
 | Internal Focus | YES |
@@ -399,8 +416,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 34° |
 | Diameter | 90.5mm |
 | Length | 111.6mm |
+| Macro | YES |
 | Discontinued | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/645/macro/hdpentax-d-fa645-macro-90/) |
 | EAN/JAN Code | 4549212217586 |
@@ -421,8 +440,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 8 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 25.8° |
 | Diameter | 82.5mm |
 | Length | 110mm |
+| Macro | YES |
 | Discontinued | YES |
 | URL | [official](https://www.ricoh-imaging.co.jp/japan/products/lens/645/macro/smcpentax-fa645-macro-120/) |
 | EAN/JAN Code | 4549212295706 |

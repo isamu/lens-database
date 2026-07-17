@@ -122,6 +122,14 @@ export type LensData = {
   hasStabilizer: boolean;               // 手ぶれ補正の有無
   hasDustMoistureResistance: boolean;   // 防塵防滴構造
   isInternalFocus?: boolean;            // インナーフォーカス方式
+  hasMacro?: boolean;                   // マクロ(0.5:1以上を謳うもの)
+  hasFisheye?: boolean;                 // 魚眼(対角/円周)
+  hasTiltShift?: boolean;               // ティルト・シフト(TS-E, PC-E, Shift等)
+  hasSoftFocus?: boolean;               // ソフトフォーカス(Thambar等)
+
+  // 光学仕様(拡張)
+  angleOfView?: number[];               // 対角画角(度)。[単焦点] または [ワイド, テレ]
+  imageCircle?: number;                 // イメージサークル径(mm)。主にシフトレンズ・probe用
 
   // 物理仕様
   filterDiameter?: number;              // フィルター径 (mm)
@@ -129,40 +137,56 @@ export type LensData = {
   length?: number;                      // レンズ長 (mm)
   weight?: number;                      // 重量 (g)
 
+  // 発売・価格
+  msrp?: number;                        // 希望小売価格(円、税込)
+  releaseDate?: string;                 // 発売日 (YYYY or YYYY-MM-DD)
+  discontinued?: boolean;               // 生産終了
+  discontinuedDate?: string;            // 生産終了日 (YYYY or YYYY-MM-DD)
+
+  // 関係
+  predecessorId?: string;               // 前世代のid参照
+  successorId?: string;                 // 後継世代のid参照
+  compatibleBodies?: string[];          // 公式に対応するカメラボディ名
+
   // URL・参照情報
   officialUrl?: string;                 // 公式URL
   images?: string[];                    // 画像URL
   urls?: LensUrls;                      // その他URL (価格.com、Amazonなど)
 
-  // 発売・生産状況
-  releaseDate?: string;                 // 発売日 (YYYY or YYYY-MM-DD)
-  discontinued?: boolean;               // 生産終了
-  discontinuedDate?: string;            // 生産終了日 (YYYY or YYYY-MM-DD)
-
   // アクセサリ
   hoodModel?: string;                   // レンズフード型番
   caseModel?: string;                   // レンズケース型番
+  note?: string;                        // 自由記述メモ
 };
 ```
 
+**自動導出**: `hasMacro / hasFisheye / hasTiltShift / hasSoftFocus` はレンズ
+名(英・和・マクロ/マクロ/フィッシュアイ等)から `yarn generate` 時に自動で
+判定して補完する(`src/derive.ts`)。ソース側で明示的に指定すれば
+そちらが優先される。`angleOfView` も明示指定が無ければ焦点距離とセンサー
+フォーマットの対角から自動計算する(魚眼は幾何が異なるためスキップ、
+ソース側で明示指定を推奨)。
+
 ### サポートされているメーカー
 
-型定義上サポートされるメーカーと、現在の収録状況:
+型定義上サポートされるメーカーと、現在の収録状況(計 **1,936 本**):
 
 | メーカー | 収録 | メーカー | 収録 |
 |---|---|---|---|
-| Canon | 152 | TAMRON | 196 |
-| Nikon | 143 | Tokina | 92 |
-| SONY | 127 | COSINA | — |
-| Fujifilm | 68 | Voigtländer | 2 |
-| SIGMA | 496 | TTArtisan | 3 |
-| Panasonic | — | 7Artisans | 1 |
-| OLYMPUS | — | SG-image | 1 |
-| OM SYSTEM | — | Thypoch | 1 |
-| PENTAX | — | Leica | 1 |
-| ZEISS | — | | |
+| SIGMA | 496 | Voigtländer | 62 |
+| TAMRON | 196 | 7Artisans | 54 |
+| Canon | 152 | Panasonic | 48 |
+| Nikon | 143 | OLYMPUS | 20 |
+| SONY | 127 | Thypoch | 13 |
+| Tokina | 92 | OM SYSTEM | 8 |
+| PENTAX | 90 | TTArtisan | 84 |
+| Laowa | 86 | SG-image | 1 |
+| Fujifilm | 68 | COSINA | — |
+| Viltrox | 67 | | |
+| ZEISS | 65 | | |
+| Leica | 64 | | |
 
-「—」は型定義はあるが未登録(今後追加予定)。
+「—」は型定義はあるが未登録(COSINA 銘の製品は Voigtländer として登録)。
 
 ### サポートされているマウント
 

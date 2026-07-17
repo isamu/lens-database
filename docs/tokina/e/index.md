@@ -16,6 +16,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 63.4° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -40,6 +41,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 10 groups |
+| Angle of View | 63.4° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -64,6 +66,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 46.6° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -88,6 +91,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 46.6° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -112,6 +116,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 28.5° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -136,6 +141,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 28.5° |
 | Diameter | 65mm |
 | Length | 72mm |
 | Internal Focus | YES |
@@ -160,6 +166,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 28.6° |
 | Diameter | 80mm |
 | Length | 93mm |
 | Internal Focus | YES |
@@ -184,6 +191,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 104.5° - 76.5° |
 | Diameter | 74.4mm |
 | Length | 74.1mm |
 | Internal Focus | YES |
@@ -207,6 +215,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 94.5° |
 | Diameter | 69mm |
 | Length | 81.5mm |
 | Release Date | 2017-01-27 |
@@ -230,6 +239,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 94.5° |
 | Diameter | 73.4mm |
 | Length | 81.5mm |
 | Release Date | 2018-04-20 |
@@ -253,8 +263,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 24.4° |
 | Diameter | 74mm |
 | Length | 123mm |
+| Macro | YES |
 | Release Date | 2019-04-26 |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/macro-lenses/firin_100mm_f28_fe_macro/ |
 | EAN/JAN Code | 4961607634516 |
@@ -275,6 +287,7 @@
 | Optical Construction | 11 elements in 9 groups |
 | Diameter | 59.8mm |
 | Length | 52mm |
+| Fisheye | YES |
 | Release Date | 2022-06-17 |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/wide-lenses/sz_8mm_f28_fish-eye_mf/ |
 | EAN/JAN Code | 4961607640470 |
@@ -295,6 +308,7 @@
 | Max Magnification | 0.08x |
 | Aperture Blades | 11 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 46.6° |
 | Diameter | 71mm |
 | Length | 87.2mm |
 | Release Date | 2022-06-17 |
@@ -317,6 +331,7 @@
 | Weight | 235g |
 | Max Magnification | 0.4x |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 5.4° |
 | Diameter | 61mm |
 | Length | 74.5mm |
 | Release Date | 2023-02-03 |
@@ -338,6 +353,7 @@
 | Weight | 310g |
 | Max Magnification | 0.35x |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 5° |
 | Diameter | 74mm |
 | Length | 89mm |
 | Release Date | 2022-02-25 |
@@ -359,6 +375,7 @@
 | Weight | 545g |
 | Max Magnification | 0.4x |
 | Optical Construction | 8 elements in 8 groups |
+| Angle of View | 2.7° |
 | Diameter | 88.6mm |
 | Length | 125mm |
 | Release Date | 2023-02-03 |
@@ -380,6 +397,7 @@
 | Weight | 725g |
 | Max Magnification | 0.4x |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 1.8° |
 | Diameter | 96.1mm |
 | Length | 168mm |
 | Release Date | 2023-02-03 |
@@ -401,6 +419,7 @@
 | Weight | 355g |
 | Max Magnification | 0.4x |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 6.2° |
 | Diameter | 74mm |
 | Length | 76.8mm |
 | Release Date | 2022-04-22 |

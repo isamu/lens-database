@@ -13,6 +13,7 @@
 | Filter Diameter | 43mm |
 | Min Focus Distance | 0.15m |
 | Weight | 105g |
+| Angle of View | 65.7° |
 | Release Date | 2012-09-29 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000401906/)<br />[official](https://global.canon/ja/c-museum/product/ef423.html) |
@@ -31,6 +32,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.25m |
 | Weight | 210g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2012-09-29 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000401905/)<br />[official](https://global.canon/ja/c-museum/product/ef422.html) |
@@ -49,6 +51,7 @@
 | Filter Diameter | 55mm |
 | Min Focus Distance | 0.15m |
 | Weight | 220g |
+| Angle of View | 104.5° - 65.7° |
 | Release Date | 2013-07-11 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000517953/)<br />[official](https://global.canon/ja/c-museum/product/ef429.html) |
@@ -67,6 +70,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 1m |
 | Weight | 260g |
+| Angle of View | 29° - 8.1° |
 | Release Date | 2014-07-10 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000665676/)<br />[official](https://global.canon/ja/c-museum/product/ef433.html) |
@@ -85,6 +89,7 @@
 | Filter Diameter | 49mm |
 | Min Focus Distance | 0.25m |
 | Weight | 130g |
+| Angle of View | 86.9° - 35° |
 | Release Date | 2015-10 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000819935/)<br />[official](https://global.canon/ja/c-museum/product/ef453.html) |
@@ -103,6 +108,8 @@
 | Filter Diameter | 43mm |
 | Min Focus Distance | 0.093m |
 | Weight | 130g |
+| Angle of View | 53.8° |
+| Macro | YES |
 | Release Date | 2016-06-30 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000876231/)<br />[official](https://global.canon/ja/c-museum/product/ef456.html) |
@@ -121,6 +128,7 @@
 | Filter Diameter | 55mm |
 | Min Focus Distance | 0.25m |
 | Weight | 300g |
+| Angle of View | 76.5° - 10.8° |
 | Release Date | 2016-11 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0000910395/)<br />[official](https://global.canon/ja/c-museum/product/ef462.html) |
@@ -139,6 +147,7 @@
 | Filter Diameter | 43mm |
 | Min Focus Distance | 0.23m |
 | Weight | 235g |
+| Angle of View | 47.9° |
 | Release Date | 2018-09-21 |
 | Discontinued | YES |
 | URL | [kakaku](https://kakaku.com/item/K0001086550/)<br />[official](https://global.canon/ja/c-museum/product/ef470.html) |

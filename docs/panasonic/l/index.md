@@ -16,8 +16,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 114.2° - 75.4° |
 | Diameter | 84mm |
 | Length | 89.8mm |
+| Macro | YES |
 | Release Date | 2023-03-16 |
 | URL | [official](https://panasonic.jp/dc/products/S-R1428.html)<br />[kakaku](https://kakaku.com/item/K0001506678/) |
 
@@ -37,6 +39,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 107° - 63.4° |
 | Diameter | 85mm |
 | Length | 99.6mm |
 | Release Date | 2019-12-25 |
@@ -58,6 +61,7 @@
 | Max Magnification | 0.28x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 100.5° - 56.8° |
 | Diameter | 67.9mm |
 | Length | 40.9mm |
 | Release Date | 2024-10-25 |
@@ -79,6 +83,7 @@
 | Max Magnification | 0.43x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 94.5° - 39.7° |
 | Diameter | 77.4mm |
 | Length | 87.2mm |
 | Release Date | 2020-07-22 |
@@ -100,6 +105,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 84.1° - 39.7° |
 | Diameter | 84mm |
 | Length | 99.9mm |
 | Release Date | 2025-06-19 |
@@ -121,6 +127,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 11 |
 | Optical Construction | 18 elements in 16 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 90.9mm |
 | Length | 140mm |
 | Release Date | 2019-09-25 |
@@ -142,8 +149,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 84.1° - 23.3° |
 | Diameter | 84mm |
 | Length | 118mm |
+| Macro | YES |
 | Release Date | 2019-03-23 |
 | URL | [official](https://panasonic.jp/dc/products/S-R24105.html)<br />[kakaku](https://kakaku.com/item/K0001130072/) |
 
@@ -163,8 +172,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 75.4° - 12.3° |
 | Diameter | 77.3mm |
 | Length | 93.4mm |
+| Macro | YES |
 | Release Date | 2024-04-18 |
 | URL | [official](https://panasonic.jp/dc/products/S-R28200.html)<br />[kakaku](https://kakaku.com/item/K0001608126/) |
 
@@ -184,6 +195,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 11 |
 | Optical Construction | 22 elements in 17 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 94.4mm |
 | Length | 208.6mm |
 | Release Date | 2020-01-17 |
@@ -205,6 +217,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 9 |
 | Optical Construction | 23 elements in 17 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 84.4mm |
 | Length | 179mm |
 | Release Date | 2019-03-23 |
@@ -226,8 +239,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 11 |
 | Optical Construction | 17 elements in 11 groups |
+| Angle of View | 34.3° - 8.2° |
 | Diameter | 84mm |
 | Length | 148mm |
+| Macro | YES |
 | Release Date | 2021-04-22 |
 | URL | [official](https://panasonic.jp/dc/products/S-R70300.html)<br />[kakaku](https://kakaku.com/item/K0001333407/) |
 
@@ -247,6 +262,7 @@
 | Max Magnification | 0.36x |
 | Aperture Blades | 11 |
 | Optical Construction | 19 elements in 12 groups |
+| Angle of View | 24.4° - 5° |
 | Diameter | 92mm |
 | Length | 196.1mm |
 | Release Date | 2025-11-20 |
@@ -268,6 +284,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 12 groups |
+| Angle of View | 100.5° |
 | Diameter | 73.6mm |
 | Length | 82mm |
 | Release Date | 2022-10-20 |
@@ -289,6 +306,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 11 groups |
+| Angle of View | 84.1° |
 | Diameter | 73.6mm |
 | Length | 82mm |
 | Release Date | 2021-09-22 |
@@ -308,6 +326,7 @@
 | Weight | 58g |
 | Max Magnification | 0.14x |
 | Optical Construction | 5 elements in 5 groups |
+| Angle of View | 79.5° |
 | Diameter | 67.1mm |
 | Length | 18.1mm |
 | Release Date | 2024-06-20 |
@@ -329,6 +348,7 @@
 | Max Magnification | 0.22x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 63.4° |
 | Diameter | 73.6mm |
 | Length | 82mm |
 | Release Date | 2021-12-16 |
@@ -350,6 +370,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 56.8° |
 | Diameter | 69.4mm |
 | Length | 40.9mm |
 | Release Date | 2026-06-18 |
@@ -371,6 +392,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 11 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 46.8° |
 | Diameter | 90mm |
 | Length | 130mm |
 | Release Date | 2019-03-23 |
@@ -392,6 +414,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 46.8° |
 | Diameter | 73.6mm |
 | Length | 82mm |
 | Release Date | 2021-06-25 |
@@ -413,6 +436,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 28.6° |
 | Diameter | 73.6mm |
 | Length | 82mm |
 | Release Date | 2020-11-26 |
@@ -434,7 +458,9 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 24.4° |
 | Diameter | 73.6mm |
 | Length | 82mm |
+| Macro | YES |
 | Release Date | 2024-02-15 |
 | URL | [official](https://panasonic.jp/dc/products/S-E100.html)<br />[kakaku](https://kakaku.com/item/K0001596232/) |

@@ -14,6 +14,7 @@
 | Min Focus Distance | 0.5m |
 | Weight | 311g |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 46.8° |
 | Diameter | 69mm |
 | Length | 48mm |
 | Release Date | 2024-10 |

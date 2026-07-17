@@ -15,6 +15,7 @@
 | Weight | 310g |
 | Max Magnification | 0.35x |
 | Optical Construction | 7 elements in 7 groups |
+| Angle of View | 5° |
 | Diameter | 74mm |
 | Length | 89mm |
 | Release Date | 2022-02-25 |
@@ -36,6 +37,7 @@
 | Weight | 355g |
 | Max Magnification | 0.4x |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 6.2° |
 | Diameter | 74mm |
 | Length | 76.8mm |
 | Release Date | 2022-04-22 |
@@ -57,8 +59,10 @@
 | Weight | 298g |
 | Max Magnification | 0.5x |
 | Optical Construction | 7 elements in 3 groups |
+| Angle of View | 4.1° |
 | Diameter | 66mm |
 | Length | 66mm |
+| Macro | YES |
 | Release Date | 2012-05-25 |
 | Discontinued | YES |
 | Official URL | https://www.kenko-tokina.co.jp/camera-lens/tokina/macro-lenses/reflex_300mm_f63_mf_macro/ |

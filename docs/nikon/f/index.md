@@ -12,6 +12,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.28m |
 | Weight | 970g |
+| Angle of View | 114.2° - 84.1° |
 | Release Date | 2007-11-30 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_14-24mm_f28g_ed/ |
@@ -31,6 +32,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.28m |
 | Weight | 680g |
+| Angle of View | 107° - 63.4° |
 | Release Date | 2010-02-26 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_16-35mm_f4g_ed_vr/ |
@@ -50,6 +52,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.28m |
 | Weight | 385g |
+| Angle of View | 100.5° - 63.4° |
 | Release Date | 2013-03 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_18-35mm_f35-45g_ed/ |
@@ -69,6 +72,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.33m |
 | Weight | 370g |
+| Angle of View | 100.5° - 63.4° |
 | Release Date | 2000-09 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_zoom-nikkor_18-35mm_f35-45d_if-ed/ |
@@ -87,6 +91,7 @@
 | Dust / Moisture Resistance | NO  |
 | Min Focus Distance | 0.16m |
 | Weight | 485g |
+| Fisheye | YES |
 | Release Date | 2017-06-30 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_fisheye_nikkor_8-15mm_f35-45e_ed/ |
@@ -106,6 +111,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.38m |
 | Weight | 900g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2007-11-30 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-70mm_f28g_ed/ |
@@ -125,6 +131,7 @@
 | Filter Diameter | 82mm |
 | Min Focus Distance | 0.38m |
 | Weight | 1070g |
+| Angle of View | 84.1° - 34.3° |
 | Release Date | 2015-10-22 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-70mm_f28e_ed_vr/ |
@@ -144,6 +151,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.38m |
 | Weight | 415g |
+| Angle of View | 84.1° - 28.6° |
 | Release Date | 2002-03 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_zoom_nikkor_24-85mm_f35-45g_if/ |
@@ -162,6 +170,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.38m |
 | Weight | 465g |
+| Angle of View | 84.1° - 28.6° |
 | Release Date | 2012-06-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-85mm_f35-45g_ed_vr/ |
@@ -181,6 +190,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.21m |
 | Weight | 545g |
+| Angle of View | 84.1° - 28.6° |
 | Release Date | 2000-10 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_zoom-nikkor_24-85mm_f28-4d_if/ |
@@ -200,6 +210,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.5m |
 | Weight | 575g |
+| Angle of View | 84.1° - 20.4° |
 | Release Date | 2003-06-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_24-120mm_f35-56g_if-ed/ |
@@ -219,6 +230,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.45m |
 | Weight | 710g |
+| Angle of View | 84.1° - 20.4° |
 | Release Date | 2010-09 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24-120mm_f4g_ed_vr/ |
@@ -238,6 +250,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.5m |
 | Weight | 800g |
+| Angle of View | 75.4° - 8.2° |
 | Release Date | 2010-09-02 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28-300mm_f35-56g_ed_vr/ |
@@ -257,6 +270,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.4m |
 | Weight | 1470g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2003-03 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_ed_70-200mm_f28g_if/ |
@@ -276,6 +290,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.4m |
 | Weight | 1540g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2009-11-27 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f28g_ed_vr_2/ |
@@ -295,6 +310,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.1m |
 | Weight | 1430g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2016-11-11 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f28e_fl_ed_vr/ |
@@ -314,6 +330,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 1m |
 | Weight | 850g |
+| Angle of View | 34.3° - 12.3° |
 | Release Date | 2012-11-29 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_70-200mm_f4g_ed_vr/ |
@@ -333,6 +350,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 1.5m |
 | Weight | 745g |
+| Angle of View | 34.3° - 8.2° |
 | Release Date | 2006-12-07 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_70-300mm_f45-56g_if-ed/ |
@@ -352,6 +370,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 1.2m |
 | Weight | 680g |
+| Angle of View | 34.3° - 8.2° |
 | Release Date | 2017-07-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_nikkor_70-300mm_f45-56e_ed_vr/ |
@@ -371,6 +390,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 1.5m |
 | Weight | 425g |
+| Angle of View | 34.3° - 8.2° |
 | Release Date | 2000 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom-nikkor_70-300mm_f4-56g/ |
@@ -390,6 +410,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 2.3m |
 | Weight | 1360g |
+| Angle of View | 30.3° - 6.2° |
 | Release Date | 2000-11 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/ai_af_vr_zoom-nikkor_80-400mm_f45-56d_ed/ |
@@ -409,6 +430,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 1.5m |
 | Weight | 1570g |
+| Angle of View | 30.3° - 6.2° |
 | Release Date | 2013-03-14 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_80-400mm_f45-56g_ed_vr/ |
@@ -428,6 +450,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 2m |
 | Weight | 3275g |
+| Angle of View | 12.3° - 6.2° |
 | Release Date | 2004-02 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_zoom-nikkor_200-400mm_f4g_if-ed/ |
@@ -446,6 +469,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 2m |
 | Weight | 3360g |
+| Angle of View | 12.3° - 6.2° |
 | Release Date | 2010-05-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200-400mm_f4g_ed_vr_2/ |
@@ -465,6 +489,7 @@
 | Filter Diameter | 95mm |
 | Min Focus Distance | 2.2m |
 | Weight | 2300g |
+| Angle of View | 12.3° - 5° |
 | Release Date | 2015-09-17 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200-500mm_f56e_ed_vr/ |
@@ -484,6 +509,7 @@
 | Filter Diameter | 40.5mm |
 | Min Focus Distance | 2m |
 | Weight | 3500g |
+| Angle of View | 13.7° - 6.2° |
 | Release Date | 2018-03-09 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_180-400mm_f4e_tc14_fl_ed_vr/ |
@@ -503,6 +529,7 @@
 | Filter Diameter | 112mm |
 | Min Focus Distance | 2m |
 | Weight | 3250g |
+| Angle of View | 20.4° - 8.2° |
 | Release Date | 2020-02-29 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_120-300mm_f28e_fl_ed_sr_vr/ |
@@ -522,6 +549,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.44m |
 | Weight | 360g |
+| Angle of View | 75.4° - 12.3° |
 | Release Date | 2003 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_ed_28-200mm_f35-56g_if/ |
@@ -541,6 +569,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 0.35m |
 | Weight | 195g |
+| Angle of View | 75.4° - 30.3° |
 | Release Date | 2001-03-10 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_28-80mm_f33-56g/ |
@@ -559,6 +588,7 @@
 | Filter Diameter | 62mm |
 | Min Focus Distance | 0.56m |
 | Weight | 245g |
+| Angle of View | 75.4° - 24.4° |
 | Release Date | 2002 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af_zoom_nikkor_28-100mm_f35-56g/ |
@@ -577,6 +607,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.22m |
 | Weight | 230g |
+| Angle of View | 109.7° - 70.7° |
 | Release Date | 2017-06-30 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_10-20mm_f45-56g_vr/ |
@@ -596,6 +627,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.22m |
 | Weight | 460g |
+| Angle of View | 109.7° - 61.2° |
 | Release Date | 2009-05 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_10-24mm_f35-45g_ed/ |
@@ -615,6 +647,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.3m |
 | Weight | 465g |
+| Angle of View | 99.6° - 61.2° |
 | Release Date | 2003-06-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_12-24mm_f4g_if-ed/ |
@@ -634,6 +667,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.35m |
 | Weight | 480g |
+| Angle of View | 83.2° - 20.1° |
 | Release Date | 2015-07-16 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_16-80mm_f28-4e_ed_vr/ |
@@ -653,6 +687,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.38m |
 | Weight | 485g |
+| Angle of View | 83.2° - 19° |
 | Release Date | 2008-02-22 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_16-85mm_f35-56g_ed_vr/ |
@@ -672,6 +707,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.36m |
 | Weight | 755g |
+| Angle of View | 79.7° - 29° |
 | Release Date | 2004-06-25 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_17-55mm_f28g_if-ed/ |
@@ -691,6 +727,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.28m |
 | Weight | 210g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2005-10-14 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-55mm_f35-56g_ed/ |
@@ -709,6 +746,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.28m |
 | Weight | 205g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2006-12-01 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-55mm_f35-56g_ed_2/ |
@@ -728,6 +766,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.28m |
 | Weight | 265g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2008-02-22 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-55mm_f35-56g_vr/ |
@@ -747,6 +786,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.25m |
 | Weight | 195g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2014-02-06 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-55mm_f35-56g_vr_2/ |
@@ -766,6 +806,7 @@
 | Filter Diameter | 55mm |
 | Min Focus Distance | 0.25m |
 | Weight | 205g |
+| Angle of View | 76.5° - 29° |
 | Release Date | 2016-09-16 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_18-55mm_f35-56g_vr/ |
@@ -785,6 +826,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.38m |
 | Weight | 390g |
+| Angle of View | 76.5° - 22.9° |
 | Release Date | 2004-06-25 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_18-70mm_f35-45g_if-ed/ |
@@ -804,6 +846,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.45m |
 | Weight | 420g |
+| Angle of View | 76.5° - 15.4° |
 | Release Date | 2008-09-19 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-105mm_f35-56g_ed_vr/ |
@@ -823,6 +866,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.45m |
 | Weight | 385g |
+| Angle of View | 76.5° - 12° |
 | Release Date | 2006-12-22 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_ed_18-135mm_f35-56g_if/ |
@@ -842,6 +886,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.45m |
 | Weight | 490g |
+| Angle of View | 76.5° - 11.6° |
 | Release Date | 2013-08-29 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-140mm_f35-56g_ed_vr/ |
@@ -861,6 +906,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.5m |
 | Weight | 560g |
+| Angle of View | 76.5° - 8.1° |
 | Release Date | 2005-12-16 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_vr_zoom-nikkor_18-200mm_f35-56g_if-ed/ |
@@ -880,6 +926,7 @@
 | Filter Diameter | 72mm |
 | Min Focus Distance | 0.5m |
 | Weight | 565g |
+| Angle of View | 76.5° - 8.1° |
 | Release Date | 2009-09-04 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-200mm_f35-56g_ed_vr_2/ |
@@ -899,6 +946,7 @@
 | Filter Diameter | 77mm |
 | Min Focus Distance | 0.45m |
 | Weight | 830g |
+| Angle of View | 76.5° - 5.4° |
 | Release Date | 2012-06-28 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-300mm_f35-56g_ed_vr/ |
@@ -918,6 +966,7 @@
 | Filter Diameter | 67mm |
 | Min Focus Distance | 0.48m |
 | Weight | 550g |
+| Angle of View | 76.5° - 5.4° |
 | Release Date | 2014-04-24 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_18-300mm_f35-63g_ed_vr/ |
@@ -937,6 +986,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 0.95m |
 | Weight | 255g |
+| Angle of View | 29° - 8.1° |
 | Release Date | 2005-06-17 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_zoom-nikkor_55-200mm_f4-56g_ed/ |
@@ -955,6 +1005,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 1.1m |
 | Weight | 335g |
+| Angle of View | 29° - 8.1° |
 | Release Date | 2007-03-29 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_vr_zoom-nikkor_55-200mm_f4-56g_if-ed/ |
@@ -974,6 +1025,7 @@
 | Filter Diameter | 52mm |
 | Min Focus Distance | 1.1m |
 | Weight | 300g |
+| Angle of View | 29° - 8.1° |
 | Release Date | 2015-02-05 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_55-200mm_f4-56g_ed_vr_2/ |
@@ -993,6 +1045,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.4m |
 | Weight | 530g |
+| Angle of View | 29° - 5.4° |
 | Release Date | 2010-09-02 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_55-300mm_f45-56g_ed_vr/ |
@@ -1012,6 +1065,7 @@
 | Filter Diameter | 58mm |
 | Min Focus Distance | 1.1m |
 | Weight | 415g |
+| Angle of View | 22.9° - 5.4° |
 | Release Date | 2016-09-16 |
 | Discontinued | YES |
 | Official URL | https://nij.nikon.com/products/lineup/nikkor/fmount/af-p_dx_nikkor_70-300mm_f45-63g_ed_vr/ |
@@ -1034,6 +1088,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 94.5° |
 | Release Date | 2014-09-25 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_20mm_f18g_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759029157) |
 | EAN/JAN Code | 4960759029157 |
@@ -1054,6 +1109,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 10 groups |
+| Angle of View | 84.1° |
 | Release Date | 2010-03-19 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24mm_f14g_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025890) |
 | EAN/JAN Code | 4960759025890 |
@@ -1074,6 +1130,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 84.1° |
 | Release Date | 2015-09-17 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_24mm_f18g_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759145666) |
 | EAN/JAN Code | 4960759145666 |
@@ -1094,6 +1151,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 75.4° |
 | Release Date | 2017-06-30 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28mm_f14e_ed/spec.html)<br />[kakaku](https://kakaku.com/item/K0000970238/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759148407) |
 | EAN/JAN Code | 4960759148407 |
@@ -1114,6 +1172,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 75.4° |
 | Release Date | 2012-05-24 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_28mm_f18g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026750) |
 | EAN/JAN Code | 4960759026750 |
@@ -1134,6 +1193,7 @@
 | Max Magnification | 0.16x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 44.2° |
 | Release Date | 2009-03-06 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_nikkor_35mm_f18g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025821) |
 | EAN/JAN Code | 4960759025821 |
@@ -1154,6 +1214,7 @@
 | Max Magnification | 0.19x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 63.4° |
 | Release Date | 2010-11-19 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_35mm_f14g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026262) |
 | EAN/JAN Code | 4960759026262 |
@@ -1174,6 +1235,7 @@
 | Max Magnification | 0.23x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 63.4° |
 | Release Date | 2014-02-06 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_35mm_f18g_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759028457) |
 | EAN/JAN Code | 4960759028457 |
@@ -1194,6 +1256,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 46.8° |
 | Release Date | 2008-12-05 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f14g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025807) |
 | EAN/JAN Code | 4960759025807 |
@@ -1214,6 +1277,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Release Date | 2011-06-02 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f18g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026309) |
 | EAN/JAN Code | 4960759026309 |
@@ -1234,6 +1298,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 6 groups |
+| Angle of View | 40.9° |
 | Release Date | 2013-10-31 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_58mm_f14g/spec.html)<br />[kakaku](https://kakaku.com/item/K0000586667/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759028037) |
 | EAN/JAN Code | 4960759028037 |
@@ -1254,6 +1319,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
+| Angle of View | 28.6° |
 | Release Date | 2010-09-02 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_85mm_f14g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026194) |
 | EAN/JAN Code | 4960759026194 |
@@ -1274,6 +1340,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 9 groups |
+| Angle of View | 28.6° |
 | Release Date | 2012-02-16 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_85mm_f18g/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026477) |
 | EAN/JAN Code | 4960759026477 |
@@ -1294,6 +1361,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 23.3° |
 | Release Date | 2016-08-26 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_105mm_f14e_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759146656) |
 | EAN/JAN Code | 4960759146656 |
@@ -1314,6 +1382,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 39.1° |
+| Macro | YES |
 | Release Date | 2011-08-25 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_micro_nikkor_40mm_f28g/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2011/0712_nikkor_01.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759026316) |
 | EAN/JAN Code | 4960759026316 |
@@ -1334,6 +1404,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 39.7° |
+| Macro | YES |
 | Release Date | 2008-03-14 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_micro_nikkor_60mm_f28g_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025623) |
 | EAN/JAN Code | 4960759025623 |
@@ -1354,6 +1426,8 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 19° |
+| Macro | YES |
 | Release Date | 2009-12-04 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_dx_micro_nikkor_85mm_f35g_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2009/1014_nikkor_02.html)<br />[kakaku](https://kakaku.com/item/K0000063198/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025999) |
 | EAN/JAN Code | 4960759025999 |
@@ -1374,7 +1448,9 @@
 | Max Magnification | 1x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 23.3° |
 | Internal Focus | YES |
+| Macro | YES |
 | Release Date | 2006-03-24 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_vr_micro-nikkor_105mm_f28g_if-ed/spec.html)<br />[kakaku](https://kakaku.com/item/10503511532/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025159) |
 | EAN/JAN Code | 4960759025159 |
@@ -1395,6 +1471,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 46.8° |
 | Release Date | 2013-11-28 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_50mm_f18g_special_edition/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759028426) |
 | EAN/JAN Code | 4960759028426 |
@@ -1414,6 +1491,8 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 13 groups |
+| Angle of View | 97.4° |
+| Tilt / Shift | YES |
 | Release Date | 2016-10-28 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/pc_nikkor_19mm_f4e_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759146663) |
 | EAN/JAN Code | 4960759146663 |
@@ -1434,6 +1513,8 @@
 | Max Magnification | 0.36x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 84.1° |
+| Tilt / Shift | YES |
 | Release Date | 2008-02-22 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_nikkor_24mm_f35d_ed/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025432) |
 | EAN/JAN Code | 4960759025432 |
@@ -1454,6 +1535,9 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 51.4° |
+| Macro | YES |
+| Tilt / Shift | YES |
 | Release Date | 2008-07-18 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_micro_nikkor_45mm_f28d_ed/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2008/0701_pce45_02.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025555) |
 | EAN/JAN Code | 4960759025555 |
@@ -1474,6 +1558,9 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 28.6° |
+| Macro | YES |
+| Tilt / Shift | YES |
 | Release Date | 2008-08 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/pc-e_micro_nikkor_85mm_f28d/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2008/0701_pce45_02.html)<br />[kakaku](https://kakaku.com/item/10503511932/) |
 | EAN/JAN Code | 4960759025579 |
@@ -1493,6 +1580,7 @@
 | Weight | 120g |
 | Aperture Blades | 7 |
 | Optical Construction | 4 elements in 3 groups |
+| Angle of View | 51.4° |
 | Release Date | 2001 |
 | Discontinued | YES |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/ai_nikkor_45mm_f28p/spec.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759023216) |
@@ -1514,6 +1602,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 6 groups |
+| Angle of View | 8.2° |
 | Internal Focus | YES |
 | Release Date | 2000-08 |
 | Discontinued | YES |
@@ -1536,6 +1625,7 @@
 | Max Magnification | 0.24x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 10 groups |
+| Angle of View | 8.2° |
 | Release Date | 2015-01-29 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_300mm_f4e_pf_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2015/0114_nikkor_04.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759029126) |
 | EAN/JAN Code | 4960759029126 |
@@ -1556,6 +1646,7 @@
 | Max Magnification | 0.18x |
 | Aperture Blades | 9 |
 | Optical Construction | 19 elements in 11 groups |
+| Angle of View | 5° |
 | Release Date | 2018-09-14 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f56e_pf_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2018/0823_nikkor_03/)<br />[kakaku](https://kakaku.com/item/K0001083385/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759149923) |
 | EAN/JAN Code | 4960759149923 |
@@ -1575,6 +1666,7 @@
 | Weight | 2900g |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 12.3° |
 | Internal Focus | YES |
 | Release Date | 2004-09-10 |
 | Discontinued | YES |
@@ -1597,6 +1689,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 9 groups |
+| Angle of View | 12.3° |
 | Release Date | 2010-10-01 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_200mm_f2g_ed_vr_2/spec.html)<br />[kakaku](https://kakaku.com/item/K0000151492/) |
 | EAN/JAN Code | 4960759025944 |
@@ -1616,6 +1709,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 6.2° |
 | Internal Focus | YES |
 | Release Date | 2014-08-28 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_400mm_f28e_fl_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2014/0514_nikkor_02.html)<br />[kakaku](https://kakaku.com/item/K0000652528/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759028914) |
@@ -1636,6 +1730,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 5° |
 | Release Date | 2015-07-16 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f4e_fl_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2015/0702_nikkor_01.html)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759029263) |
 | EAN/JAN Code | 4960759029263 |
@@ -1655,6 +1750,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 4.1° |
 | Release Date | 2015-07-16 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_600mm_f4e_fl_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2015/0702_nikkor_01.html)<br />[kakaku](https://kakaku.com/item/K0000791592/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759029287) |
 | EAN/JAN Code | 4960759029287 |
@@ -1674,6 +1770,7 @@
 | Weight | 2870g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 8.2° |
 | Internal Focus | YES |
 | Release Date | 2005-01-21 |
 | Discontinued | YES |
@@ -1695,6 +1792,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 8.2° |
 | Release Date | 2010-01-29 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_300mm_f28g_ed_vr_2/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2009/1210_nikkor_01/)<br />[kakaku](https://kakaku.com/item/K0000076702/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025975) |
 | EAN/JAN Code | 4960759025975 |
@@ -1714,6 +1812,7 @@
 | Weight | 4620g |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 6.2° |
 | Release Date | 2007-11-30 |
 | Discontinued | YES |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_400mm_f28g_ed_vr/spec.html)<br />[kakaku](https://kakaku.com/item/10503511874/) |
@@ -1735,6 +1834,7 @@
 | Max Magnification | 0.15x |
 | Aperture Blades | 9 |
 | Optical Construction | 20 elements in 13 groups |
+| Angle of View | 3.1° |
 | Release Date | 2013-05-31 |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_800mm_f56e_fl_ed_vr/spec.html)<br />[nikonNews](https://www.jp.nikon.com/company/news/2013/0129_nikkor_05.html)<br />[kakaku](https://kakaku.com/item/K0000463204/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759028198) |
 | EAN/JAN Code | 4960759028198 |
@@ -1755,6 +1855,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 5° |
 | Release Date | 2008-01-30 |
 | Discontinued | YES |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_500mm_f4g_ed_vr/spec.html)<br />[kakaku](https://kakaku.com/item/10503511875/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025470) |
@@ -1776,6 +1877,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 4.1° |
 | Release Date | 2008-01-30 |
 | Discontinued | YES |
 | URL | [official](https://nij.nikon.com/products/lineup/nikkor/fmount/af-s_nikkor_600mm_f4g_ed_vr/spec.html)<br />[kakaku](https://kakaku.com/item/10503511876/)<br />[kitamura](https://shop.kitamura.jp/ec/pd/4960759025487) |
@@ -1796,6 +1898,7 @@
 | Weight | 2560g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 8 groups |
+| Angle of View | 8.2° |
 | Internal Focus | YES |
 | Release Date | 2001 |
 | Discontinued | YES |
@@ -1817,6 +1920,7 @@
 | Weight | 4440g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 6.2° |
 | Internal Focus | YES |
 | Release Date | 2001 |
 | Discontinued | YES |
@@ -1838,6 +1942,7 @@
 | Weight | 3430g |
 | Aperture Blades | 9 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 5° |
 | Internal Focus | YES |
 | Release Date | 2001-07-25 |
 | Discontinued | YES |
@@ -1859,6 +1964,7 @@
 | Weight | 4750g |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 7 groups |
+| Angle of View | 4.1° |
 | Internal Focus | YES |
 | Release Date | 2001 |
 | Discontinued | YES |

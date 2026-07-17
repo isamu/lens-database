@@ -15,6 +15,7 @@
 | Weight | 370g |
 | Aperture Blades | 12 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 63.4° |
 | Diameter | 62.6mm |
 | Length | 39.5mm |
 | Release Date | 2023-04 |
@@ -36,6 +37,7 @@
 | Weight | 364g |
 | Aperture Blades | 12 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 46.8° |
 | Diameter | 62.8mm |
 | Length | 59.9mm |
 | Release Date | 2022-07 |
@@ -58,8 +60,10 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 10 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 36.8° |
 | Diameter | 78mm |
 | Length | 91.3mm |
+| Macro | YES |
 | Release Date | 2022-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/) |
@@ -79,6 +83,7 @@
 | Weight | 415g |
 | Aperture Blades | 12 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 56.8° |
 | Diameter | 66.8mm |
 | Length | 59.6mm |
 | Release Date | 2022-03 |
@@ -100,6 +105,7 @@
 | Weight | 500g |
 | Aperture Blades | 12 |
 | Optical Construction | 8 elements in 6 groups |
+| Angle of View | 42.9° |
 | Diameter | 66.8mm |
 | Length | 66.8mm |
 | Release Date | 2022-11 |
@@ -121,6 +127,7 @@
 | Weight | 351g |
 | Aperture Blades | 12 |
 | Optical Construction | 7 elements in 6 groups |
+| Angle of View | 32.2° |
 | Diameter | 66.8mm |
 | Length | 68.6mm |
 | Release Date | 2024-04 |
@@ -142,6 +149,7 @@
 | Weight | 294g |
 | Aperture Blades | 10 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 110.5° |
 | Diameter | 66.5mm |
 | Length | 61mm |
 | Release Date | 2023-04 |
@@ -163,6 +171,7 @@
 | Weight | 265g |
 | Aperture Blades | 9 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 37mm |
 | Release Date | 2024-01 |

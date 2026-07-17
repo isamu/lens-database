@@ -16,6 +16,7 @@
 | Max Magnification | 0.101x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 13 groups |
+| Angle of View | 83.2° |
 | Diameter | 72.2mm |
 | Length | 92.6mm |
 | Release Date | 2022-04-08 |
@@ -38,6 +39,7 @@
 | Max Magnification | 0.137x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 63.4° |
 | Diameter | 65.8mm |
 | Length | 79.2mm |
 | Release Date | 2023-09-21 |
@@ -60,6 +62,7 @@
 | Max Magnification | 0.143x |
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 50.7° |
 | Diameter | 64.8mm |
 | Length | 73.6mm |
 | Release Date | 2022-04-08 |
@@ -82,6 +85,7 @@
 | Max Magnification | 0.135x |
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 6 groups |
+| Angle of View | 28.5° |
 | Diameter | 66.5mm |
 | Length | 59.8mm |
 | Release Date | 2022-04-08 |
@@ -104,6 +108,7 @@
 | Max Magnification | 0.357x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 76.5° - 31.7° |
 | Diameter | 61.6mm |
 | Length | 76.8mm |
 | Release Date | 2022-12-02 |
@@ -126,6 +131,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 13 elements in 10 groups |
+| Angle of View | 109.7° - 76.5° |
 | Diameter | 72.2mm |
 | Length | 64.3mm |
 | Release Date | 2023-10-26 |
@@ -148,6 +154,7 @@
 | Max Magnification | 0.244x |
 | Aperture Blades | 9 |
 | Optical Construction | 22 elements in 16 groups |
+| Angle of View | 24.4° - 6.2° |
 | Diameter | 86mm |
 | Length | 199.5mm |
 | Release Date | 2023-09-21 |
@@ -170,6 +177,7 @@
 | Max Magnification | 0.5x |
 | Aperture Blades | 9 |
 | Optical Construction | 20 elements in 14 groups |
+| Angle of View | 83.2° - 5.4° |
 | Diameter | 73.8mm |
 | Length | 123.7mm |
 | Release Date | 2025-05-15 |
@@ -192,6 +200,7 @@
 | Max Magnification | 0.208x |
 | Aperture Blades | 11 |
 | Optical Construction | 17 elements in 11 groups |
+| Angle of View | 79.7° - 39.1° |
 | Diameter | 72.9mm |
 | Length | 118.2mm |
 | Release Date | 2025-07-10 |
@@ -214,6 +223,7 @@
 | Max Magnification | 0.119x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 99.6° |
 | Release Date | 2025-09-04 |
 | URL | [kakaku](https://kakaku.com/item/K0001705226/)<br />[official](https://www.sigma-global.com/jp/lenses/c025_12_14/) |
 | EAN/JAN Code | 0085126416751 |
@@ -234,6 +244,7 @@
 | Max Magnification | 0.127x |
 | Aperture Blades | 9 |
 | Optical Construction | 13 elements in 11 groups |
+| Angle of View | 86.9° |
 | Diameter | 64mm |
 | Length | 65.1mm |
 | Release Date | 2026-03-12 |

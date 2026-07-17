@@ -3,6 +3,7 @@ import allLens from "./data/all";
 
 import { lensData2Markdown } from "./utils";
 import { isValidEan13 } from "./ean";
+import { deriveLensData } from "./derive";
 import { Mount, MakerMountDataObject } from "./data/types";
 
 const validateLensData = (dataObj: MakerMountDataObject) => {
@@ -65,9 +66,28 @@ const createMarkdown = (dataObj: MakerMountDataObject) => {
 };
 
 const createArtifacts = (dataObj: MakerMountDataObject) => {
+  fs.mkdirSync(`./artifacts`, { recursive: true });
   fs.writeFileSync(`./artifacts/data.json`, JSON.stringify(dataObj, null, 2));
   // fs.writeFileSync(`./artifacts/data.ts`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
   // fs.writeFileSync(`./artifacts/data.js`, "const data = " + JSON.stringify(dataObj, null, 2) + ";\nexport default data;");
+};
+
+// Apply auto-derivation (feature flags from name, angle-of-view from focal
+// length + format) once here so consumers see canonical values in every
+// artifact — markdown docs, data.json, and downstream Vue build.
+const decorateLensData = (
+  dataObj: MakerMountDataObject,
+): MakerMountDataObject => {
+  const out: MakerMountDataObject = {} as MakerMountDataObject;
+  Object.keys(dataObj).forEach((_) => {
+    const maker = _ as keyof MakerMountDataObject;
+    out[maker] = {} as MakerMountDataObject[typeof maker];
+    Object.keys(dataObj[maker]).forEach((__) => {
+      const mount = __ as Mount;
+      out[maker][mount] = dataObj[maker][mount].map(deriveLensData);
+    });
+  });
+  return out;
 };
 
 const main = () => {
@@ -76,8 +96,9 @@ const main = () => {
     console.log("invalid data");
     return false;
   }
-  createMarkdown(allLens);
-  createArtifacts(allLens);
+  const decorated = decorateLensData(allLens);
+  createMarkdown(decorated);
+  createArtifacts(decorated);
 };
 
 main();

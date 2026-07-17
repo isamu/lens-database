@@ -16,6 +16,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 100.5° |
 | Diameter | 60.8mm |
 | Length | 52mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X09.html) |
@@ -36,6 +37,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 15 elements in 12 groups |
+| Angle of View | 84.1° |
 | Diameter | 70mm |
 | Length | 70mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X012.html) |
@@ -56,6 +58,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 71.6° |
 | Diameter | 57.5mm |
 | Length | 36mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X015.html) |
@@ -76,6 +79,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 63mm |
 | Length | 54.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-XA025.html) |
@@ -96,6 +100,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 25.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-H020A.html) |
@@ -116,6 +121,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 60.8mm |
 | Length | 52mm |
 | URL | [official](https://panasonic.jp/dc/products/H-H025.html) |
@@ -136,6 +142,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 11 groups |
+| Angle of View | 28.6° |
 | Diameter | 74mm |
 | Length | 76.8mm |
 | URL | [official](https://panasonic.jp/dc/products/H-NS043.html) |
@@ -156,6 +163,7 @@
 | Max Magnification | 0.2x |
 | Aperture Blades | 7 |
 | Optical Construction | 10 elements in 8 groups |
+| Angle of View | 28.6° |
 | Diameter | 55mm |
 | Length | 50mm |
 | URL | [official](https://panasonic.jp/dc/products/H-HS043.html) |
@@ -176,8 +184,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 10 groups |
+| Angle of View | 27° |
 | Diameter | 63mm |
 | Length | 62.5mm |
+| Macro | YES |
 | URL | [official](https://panasonic.jp/dc/products/H-ES045.html) |
 
 ### LUMIX G MACRO 30mm / F2.8 ASPH. / MEGA O.I.S.
@@ -196,8 +206,10 @@
 | Max Magnification | 1x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 9 groups |
+| Angle of View | 39.6° |
 | Diameter | 58.8mm |
 | Length | 63.5mm |
+| Macro | YES |
 | URL | [official](https://panasonic.jp/dc/products/H-HS030.html) |
 
 ### LUMIX G FISHEYE 8mm / F3.5
@@ -216,6 +228,7 @@
 | Optical Construction | 10 elements in 9 groups |
 | Diameter | 60.7mm |
 | Length | 51.7mm |
+| Fisheye | YES |
 | URL | [official](https://panasonic.jp/dc/products/H-F008.html) |
 
 ### LUMIX G 14mm / F2.5 ASPH.
@@ -234,6 +247,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 75.4° |
 | Diameter | 55.5mm |
 | Length | 20.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-H014.html) |
@@ -254,6 +268,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 6 elements in 5 groups |
+| Angle of View | 75.4° |
 | Diameter | 55.5mm |
 | Length | 20.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-H014A.html) |
@@ -274,6 +289,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 7 |
 | Optical Construction | 7 elements in 5 groups |
+| Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 25.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-H020.html) |
@@ -294,6 +310,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 7 groups |
+| Angle of View | 46.8° |
 | Diameter | 63mm |
 | Length | 54.5mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X025.html) |
@@ -312,6 +329,7 @@
 | Weight | 300g |
 | Aperture Blades | 7 |
 | Optical Construction | 16 elements in 12 groups |
+| Angle of View | 114.2° - 75.4° |
 | Diameter | 70mm |
 | Length | 83.1mm |
 | URL | [official](https://panasonic.jp/dc/products/H-F007014.html) |
@@ -332,6 +350,7 @@
 | Max Magnification | 0.12x |
 | Aperture Blades | 7 |
 | Optical Construction | 15 elements in 10 groups |
+| Angle of View | 107° - 62° |
 | Diameter | 73.4mm |
 | Length | 88mm |
 | URL | [official](https://panasonic.jp/dc/products/H-E08018.html) |
@@ -352,6 +371,7 @@
 | Max Magnification | 0.14x |
 | Aperture Blades | 9 |
 | Optical Construction | 17 elements in 12 groups |
+| Angle of View | 94.5° - 46.8° |
 | Diameter | 87.6mm |
 | Length | 128mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X1025.html) |
@@ -372,6 +392,7 @@
 | Max Magnification | 0.13x |
 | Aperture Blades | 7 |
 | Optical Construction | 8 elements in 7 groups |
+| Angle of View | 84.1° - 37.3° |
 | Diameter | 55.5mm |
 | Length | 24mm |
 | URL | [official](https://panasonic.jp/dc/products/H-FS12032.html) |
@@ -392,6 +413,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 9 groups |
+| Angle of View | 84.1° - 34.3° |
 | Diameter | 67.6mm |
 | Length | 73.8mm |
 | URL | [official](https://panasonic.jp/dc/products/H-ES12035.html) |
@@ -412,6 +434,7 @@
 | Max Magnification | 0.3x |
 | Aperture Blades | 9 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 84.1° - 20.4° |
 | Diameter | 68.4mm |
 | Length | 86mm |
 | URL | [official](https://panasonic.jp/dc/products/H-ES12060.html) |
@@ -432,6 +455,7 @@
 | Max Magnification | 0.27x |
 | Aperture Blades | 7 |
 | Optical Construction | 11 elements in 9 groups |
+| Angle of View | 84.1° - 20.4° |
 | Diameter | 66mm |
 | Length | 71mm |
 | URL | [official](https://panasonic.jp/dc/products/H-FS12060.html) |
@@ -452,6 +476,7 @@
 | Max Magnification | 0.17x |
 | Aperture Blades | 7 |
 | Optical Construction | 9 elements in 8 groups |
+| Angle of View | 75.4° - 28.9° |
 | Diameter | 61mm |
 | Length | 26.8mm |
 | URL | [official](https://panasonic.jp/dc/products/H-PS14042.html) |
@@ -472,6 +497,7 @@
 | Max Magnification | 0.25x |
 | Aperture Blades | 7 |
 | Optical Construction | 14 elements in 12 groups |
+| Angle of View | 75.4° - 8.8° |
 | Diameter | 67mm |
 | Length | 75mm |
 | URL | [official](https://panasonic.jp/dc/products/H-FSA14140.html) |
@@ -492,6 +518,7 @@
 | Max Magnification | 0.21x |
 | Aperture Blades | 9 |
 | Optical Construction | 16 elements in 11 groups |
+| Angle of View | 46.8° - 24.4° |
 | Diameter | 87.6mm |
 | Length | 127.6mm |
 | URL | [official](https://panasonic.jp/dc/products/H-X2550.html) |
@@ -512,6 +539,7 @@
 | Max Magnification | 0.1x |
 | Aperture Blades | 7 |
 | Optical Construction | 18 elements in 13 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 67.4mm |
 | Length | 99.9mm |
 | URL | [official](https://panasonic.jp/dc/products/H-ES35100.html) |
@@ -532,6 +560,7 @@
 | Max Magnification | 0.11x |
 | Aperture Blades | 7 |
 | Optical Construction | 12 elements in 9 groups |
+| Angle of View | 34.3° - 12.3° |
 | Diameter | 55.5mm |
 | Length | 50mm |
 | URL | [official](https://panasonic.jp/dc/products/H-FS35100.html) |
