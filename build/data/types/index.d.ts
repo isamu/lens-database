@@ -1,5 +1,5 @@
 export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa" | "Samyang" | "Meike" | "Zhongyi" | "AstrHori" | "Sirui" | "Yashica" | "Konica" | "Minolta" | "Pergear" | "Brightin" | "Kamlan" | "Kowa" | "Meyer" | "Zenit" | "Chinon" | "Ricoh" | "Rollei" | "Miranda" | "Petri" | "Fujica";
-export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
+export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F";
@@ -13,7 +13,7 @@ export type ContaxGMount = "G";
 export type ContaxNMount = "N";
 export type Contax645Mount = "645";
 export type KonicaMount = "AR";
-export type MinoltaMount = "MD";
+export type MinoltaMount = "MD" | "A";
 export type RolleiMount = "QBM" | "SL";
 export type MirandaMount = "Miranda";
 export type PetriMount = "Petri";

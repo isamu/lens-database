@@ -7003,6 +7003,1049 @@
         "note": "Tilt & shift perspective-control. Stop-down metering only. Not a bayonet FD; uses a fixed breech ring."
       }
     ],
+    "FL": [
+      {
+        "id": "canon-fisheye-fl-7.5mm-f5.6",
+        "maker": "Canon",
+        "name": "Fisheye FL 7.5mm F5.6",
+        "mount": "FL",
+        "focalLength": [
+          7.5
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasFisheye": true,
+        "weight": 400,
+        "minFocusDistance": 0.3,
+        "bladesCount": 5,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 74,
+        "length": 62,
+        "angleOfView": [
+          180
+        ],
+        "releaseDate": "1969",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl46.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl46.html"
+        },
+        "note": "Circular fisheye — cult classic. Built-in filter turret (Sky/Y/O/R). Predecessor of the FD 7.5mm F5.6 S.S.C."
+      },
+      {
+        "id": "canon-fl-19mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 19mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          19
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 350,
+        "minFocusDistance": 0.5,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 7,
+        "diameter": 75,
+        "length": 65,
+        "angleOfView": [
+          96
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl30.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl30.html"
+        },
+        "note": "Non-retrofocus symmetric design — projects into the mirror box, requires mirror lock-up on Canon SLRs. Superseded by the retrofocus R version."
+      },
+      {
+        "id": "canon-fl-19mm-f3.5-r",
+        "maker": "Canon",
+        "name": "FL 19mm F3.5 R",
+        "mount": "FL",
+        "focalLength": [
+          19
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 470,
+        "minFocusDistance": 0.5,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 75,
+        "length": 76,
+        "angleOfView": [
+          96
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl31.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl31.html"
+        },
+        "note": "R = retrofocus. Redesigned so mirror lock-up is no longer required, allowing TTL metering and normal viewfinder use."
+      },
+      {
+        "id": "canon-fl-28mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 28mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 300,
+        "minFocusDistance": 0.4,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 67,
+        "length": 60,
+        "angleOfView": [
+          75
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl32.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl32.html"
+        },
+        "note": "Compact wide, retrofocus design."
+      },
+      {
+        "id": "canon-fl-35mm-f2.5",
+        "maker": "Canon",
+        "name": "FL 35mm F2.5",
+        "mount": "FL",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 340,
+        "minFocusDistance": 0.4,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 4,
+        "diameter": 67,
+        "length": 60,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl33.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl33.html"
+        },
+        "note": "Faster of the two FL 35mm wides."
+      },
+      {
+        "id": "canon-fl-35mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 35mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 230,
+        "minFocusDistance": 0.4,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 62,
+        "length": 55,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl34.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl34.html"
+        },
+        "note": "Compact slower 35mm."
+      },
+      {
+        "id": "canon-fl-50mm-f1.4",
+        "maker": "Canon",
+        "name": "FL 50mm F1.4",
+        "mount": "FL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 305,
+        "minFocusDistance": 0.6,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 67,
+        "length": 47,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1968",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl37.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl37.html"
+        },
+        "note": "First-generation (v1) fast standard for Canon FT."
+      },
+      {
+        "id": "canon-fl-50mm-f1.4-ii",
+        "maker": "Canon",
+        "name": "FL 50mm F1.4 II",
+        "mount": "FL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 305,
+        "minFocusDistance": 0.6,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 67,
+        "length": 47,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl38.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl38.html"
+        },
+        "note": "Second-generation (v2) fast standard, simplified 6-element/4-group optical formula. Predecessor of the FD 50mm F1.4.",
+        "predecessorId": "canon-fl-50mm-f1.4"
+      },
+      {
+        "id": "canon-fl-50mm-f1.8",
+        "maker": "Canon",
+        "name": "FL 50mm F1.8",
+        "mount": "FL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 235,
+        "minFocusDistance": 0.6,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 62,
+        "length": 47,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1968",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl35.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl35.html"
+        },
+        "note": "First-generation (v1) budget standard, launched with the FL system on the Canon FX."
+      },
+      {
+        "id": "canon-fl-50mm-f1.8-ii",
+        "maker": "Canon",
+        "name": "FL 50mm F1.8 II",
+        "mount": "FL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 200,
+        "minFocusDistance": 0.6,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 62,
+        "length": 44,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl36.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl36.html"
+        },
+        "note": "Second-generation (v2) budget standard, lighter barrel. Very common on adapters.",
+        "predecessorId": "canon-fl-50mm-f1.8"
+      },
+      {
+        "id": "canon-fl-50mm-f3.5-macro",
+        "maker": "Canon",
+        "name": "FL 50mm F3.5 Macro",
+        "mount": "FL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 48,
+        "weight": 315,
+        "minFocusDistance": 0.208,
+        "maxMagnification": 0.5,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 62,
+        "length": 63,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl39.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl39.html"
+        },
+        "note": "1:2 to infinity on its own; 1:1 with the dedicated Life-Size Adapter. Cult macro classic."
+      },
+      {
+        "id": "canon-fl-55mm-f1.2",
+        "maker": "Canon",
+        "name": "FL 55mm F1.2",
+        "mount": "FL",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 605,
+        "minFocusDistance": 0.6,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 75,
+        "length": 60,
+        "angleOfView": [
+          43
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl40.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl40.html"
+        },
+        "note": "Ultra-fast standard, dreamy wide-open rendering. Replaced the FL 58mm F1.2.",
+        "predecessorId": "canon-fl-58mm-f1.2"
+      },
+      {
+        "id": "canon-fl-m-55mm-f1.2-aspherical",
+        "maker": "Canon",
+        "name": "FL 55mm F1.2 AL",
+        "mount": "FL",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 635,
+        "minFocusDistance": 0.6,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 75,
+        "length": 62,
+        "angleOfView": [
+          43
+        ],
+        "releaseDate": "1971-03",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl41.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl41.html"
+        },
+        "note": "Historically significant: Canon's first SLR lens with a ground aspherical element (AL). Rare — produced only briefly before the FD system launched."
+      },
+      {
+        "id": "canon-fl-58mm-f1.2",
+        "maker": "Canon",
+        "name": "FL 58mm F1.2",
+        "mount": "FL",
+        "focalLength": [
+          58
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 600,
+        "minFocusDistance": 0.6,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 75,
+        "length": 58,
+        "angleOfView": [
+          41
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1968",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl42.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl42.html"
+        },
+        "note": "Original FL super-fast standard, launched with the Canon FX. Successor: FL 55mm F1.2.",
+        "successorId": "canon-fl-55mm-f1.2"
+      },
+      {
+        "id": "canon-fl-85mm-f1.8",
+        "maker": "Canon",
+        "name": "FL 85mm F1.8",
+        "mount": "FL",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 425,
+        "minFocusDistance": 0.9,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 67,
+        "length": 62,
+        "angleOfView": [
+          28.5
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl43.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl43.html"
+        },
+        "note": "Classic fast portrait short-tele. Predecessor of the FD 85mm F1.8."
+      },
+      {
+        "id": "canon-fl-100mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 100mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 310,
+        "minFocusDistance": 1.2,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 62,
+        "length": 76,
+        "angleOfView": [
+          24
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl44.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl44.html"
+        },
+        "note": "Compact triplet-derived portrait tele from the original FL lineup."
+      },
+      {
+        "id": "canon-fl-135mm-f2.5",
+        "maker": "Canon",
+        "name": "FL 135mm F2.5",
+        "mount": "FL",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 640,
+        "minFocusDistance": 1.5,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 67,
+        "length": 102,
+        "angleOfView": [
+          18
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl45.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl45.html"
+        },
+        "note": "Fast telephoto for portrait / theater work."
+      },
+      {
+        "id": "canon-fl-135mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 135mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 435,
+        "minFocusDistance": 1.5,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 62,
+        "length": 92,
+        "angleOfView": [
+          18
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl47.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl47.html"
+        },
+        "note": "Slim compact tele — original FL launch lens."
+      },
+      {
+        "id": "canon-fl-200mm-f3.5",
+        "maker": "Canon",
+        "name": "FL 200mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 810,
+        "minFocusDistance": 2.5,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 75,
+        "length": 140,
+        "angleOfView": [
+          12
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl48.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl48.html"
+        },
+        "note": "Fast 200mm tele."
+      },
+      {
+        "id": "canon-fl-200mm-f4.5",
+        "maker": "Canon",
+        "name": "FL 200mm F4.5",
+        "mount": "FL",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 675,
+        "minFocusDistance": 2.5,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 67,
+        "length": 140,
+        "angleOfView": [
+          12
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl49.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl49.html"
+        },
+        "note": "Original FL 200mm tele, launched with the Canon FX."
+      },
+      {
+        "id": "canon-fl-300mm-f5.6",
+        "maker": "Canon",
+        "name": "FL 300mm F5.6",
+        "mount": "FL",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 1000,
+        "minFocusDistance": 4,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 4,
+        "diameter": 75,
+        "length": 213,
+        "angleOfView": [
+          8
+        ],
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl50.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl50.html"
+        },
+        "note": "Compact 300mm tele."
+      },
+      {
+        "id": "canon-fl-400mm-f5.6",
+        "maker": "Canon",
+        "name": "FL 400mm F5.6",
+        "mount": "FL",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 2500,
+        "minFocusDistance": 8,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 100,
+        "length": 336,
+        "angleOfView": [
+          6.2
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl51.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl51.html"
+        },
+        "note": "Long tele for sports/nature — uses Focusing Unit FL (rear focusing collar)."
+      },
+      {
+        "id": "canon-fl-500mm-f5.6",
+        "maker": "Canon",
+        "name": "FL 500mm F5.6",
+        "mount": "FL",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "weight": 3300,
+        "minFocusDistance": 10,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 115,
+        "length": 419,
+        "angleOfView": [
+          5
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl52.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl52.html"
+        },
+        "note": "Super-tele, front group + Focusing Unit FL."
+      },
+      {
+        "id": "canon-fl-600mm-f5.6",
+        "maker": "Canon",
+        "name": "FL 600mm F5.6",
+        "mount": "FL",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 4900,
+        "minFocusDistance": 15,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 145,
+        "length": 510,
+        "angleOfView": [
+          4.1
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl53.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl53.html"
+        },
+        "note": "Long super-tele from the FL lineup, tripod-only."
+      },
+      {
+        "id": "canon-fl-800mm-f8",
+        "maker": "Canon",
+        "name": "FL 800mm F8",
+        "mount": "FL",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 6300,
+        "minFocusDistance": 20,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 158,
+        "length": 660,
+        "angleOfView": [
+          3.1
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl54.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl54.html"
+        },
+        "note": "Super-tele for sports/wildlife, uses Focusing Unit FL."
+      },
+      {
+        "id": "canon-fl-1200mm-f11",
+        "maker": "Canon",
+        "name": "FL 1200mm F11",
+        "mount": "FL",
+        "focalLength": [
+          1200
+        ],
+        "fStop": [
+          11
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 8300,
+        "minFocusDistance": 30,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 165,
+        "length": 895,
+        "angleOfView": [
+          2
+        ],
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl55.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl55.html"
+        },
+        "note": "Longest FL super-tele. Extreme reach for professional press/sports use."
+      },
+      {
+        "id": "canon-fl-55-135mm-f3.5",
+        "maker": "Canon",
+        "name": "FL Zoom 55-135mm F3.5",
+        "mount": "FL",
+        "focalLength": [
+          55,
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 720,
+        "minFocusDistance": 1.5,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 67,
+        "length": 152,
+        "angleOfView": [
+          43,
+          18
+        ],
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl57.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl57.html"
+        },
+        "note": "Constant-aperture short-tele zoom, standard through portrait range."
+      },
+      {
+        "id": "canon-fl-85-300mm-f5",
+        "maker": "Canon",
+        "name": "FL Zoom 85-300mm F5",
+        "mount": "FL",
+        "focalLength": [
+          85,
+          300
+        ],
+        "fStop": [
+          5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 2100,
+        "minFocusDistance": 2.5,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 10,
+        "diameter": 96,
+        "length": 289,
+        "angleOfView": [
+          28.5,
+          8
+        ],
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://global.canon/ja/c-museum/product/fl56.html",
+        "urls": {
+          "official": "https://global.canon/ja/c-museum/product/fl56.html"
+        },
+        "note": "Long tele zoom — one of the earliest 3.5x tele zooms for a 35mm SLR."
+      }
+    ],
     "RF": [
       {
         "id": "4549292115796",
@@ -25439,6 +26482,1393 @@
     ]
   },
   "Minolta": {
+    "A": [
+      {
+        "id": "minolta-af-20mm-f2.8-a",
+        "maker": "Minolta",
+        "name": "AF 20mm F/2.8",
+        "mount": "A",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.25,
+        "weight": 285,
+        "bladesCount": 7,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 72,
+        "length": 44,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Original α-system ultra-wide, launched with the α-7000. Later revised as the AF 20mm F/2.8 New (1993) with a black finish. Continued as Sony 20mm F/2.8 (SAL20F28) post-2006.",
+        "angleOfView": [
+          94.5
+        ]
+      },
+      {
+        "id": "minolta-af-24mm-f2.8-a",
+        "maker": "Minolta",
+        "name": "AF 24mm F/2.8",
+        "mount": "A",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 235,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 66,
+        "length": 43,
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Compact reportage wide. Revised as the AF 24mm F/2.8 New in 1993.",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "minolta-af-28mm-f2-a",
+        "maker": "Minolta",
+        "name": "AF 28mm F/2",
+        "mount": "A",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 285,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 66,
+        "length": 47,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Fast reportage wide. Rarer than the F/2.8 variant, prized on the used market.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-af-28mm-f2.8-a",
+        "maker": "Minolta",
+        "name": "AF 28mm F/2.8",
+        "mount": "A",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 185,
+        "bladesCount": 7,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 66,
+        "length": 43,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Everyman wide — extremely common. Continued as Sony 28mm F/2.8 (SAL28F28).",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-af-35mm-f1.4-g-a",
+        "maker": "Minolta",
+        "name": "AF 35mm F/1.4 G",
+        "mount": "A",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 545,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 69,
+        "length": 76,
+        "releaseDate": "1987",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line (Grade-G) high-end fast wide — cult classic for its smooth rendering and character wide open. Successor 'New' revision released 2000. Continued as Sony 35mm F/1.4 G (SAL35F14G).",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-af-35mm-f2-a",
+        "maker": "Minolta",
+        "name": "AF 35mm F/2",
+        "mount": "A",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 235,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 7,
+        "diameter": 66,
+        "length": 45,
+        "releaseDate": "1987",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Compact fast standard-wide. Later 'New' revision (1994) with black finish.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-af-50mm-f1.4-a",
+        "maker": "Minolta",
+        "name": "AF 50mm F/1.4",
+        "mount": "A",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.45,
+        "weight": 235,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 66,
+        "length": 43,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Standard fast normal launched with the α-7000. Revised as AF 50mm F/1.4 New (1993). Continued as Sony 50mm F/1.4 (SAL50F14).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "minolta-af-50mm-f1.7-a",
+        "maker": "Minolta",
+        "name": "AF 50mm F/1.7",
+        "mount": "A",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 170,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 66,
+        "length": 40,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Everyman kit normal — extremely common and inexpensive on the used market. Praised for sharpness and gentle bokeh.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "minolta-af-50mm-f2.8-macro-a",
+        "maker": "Minolta",
+        "name": "AF 50mm F/2.8 Macro",
+        "mount": "A",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.2,
+        "weight": 295,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 72,
+        "length": 60,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Native 1:1 macro — reference-grade sharpness. Later revised as AF 50mm F/2.8 Macro New (1993) and again in 2000. Continued as Sony 50mm F/2.8 Macro (SAL50M28).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "minolta-af-100mm-f2.8-macro-a",
+        "maker": "Minolta",
+        "name": "AF 100mm F/2.8 Macro",
+        "mount": "A",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.35,
+        "weight": 520,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 75,
+        "length": 99,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Cult-classic 1:1 macro — considered one of the finest 100mm macros ever made, praised for sharpness, contrast and bokeh. Revised as AF 100mm F/2.8 Macro New (1993) and again in 2000. Continued as Sony 100mm F/2.8 Macro (SAL100M28).",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-af-100mm-f2.8-soft-focus-a",
+        "maker": "Minolta",
+        "name": "AF 100mm F/2.8 Soft Focus",
+        "mount": "A",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 260,
+        "bladesCount": 9,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 72,
+        "length": 74,
+        "hasSoftFocus": true,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Rare dedicated soft-focus portrait lens with three-position soft ring (0 / 1 / 2) that introduces controlled spherical aberration. One of very few AF soft-focus lenses ever produced.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-af-85mm-f1.4-g-a",
+        "maker": "Minolta",
+        "name": "AF 85mm F/1.4 G",
+        "mount": "A",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.85,
+        "weight": 640,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 78,
+        "length": 74,
+        "releaseDate": "1987",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Legendary G-line (Grade-G) portrait lens — one of the most revered short-teles ever made. Later revised as AF 85mm F/1.4 G(D) Limited (1999, 700 units, matte black) and AF 85mm F/1.4 G(D) (2000). Continued as Sony Planar T* 85mm F/1.4 ZA (spiritual successor) and Sony 85mm F/1.4 G.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "minolta-af-100mm-f2-a",
+        "maker": "Minolta",
+        "name": "AF 100mm F/2",
+        "mount": "A",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 460,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 72,
+        "length": 74,
+        "releaseDate": "1987",
+        "discontinued": true,
+        "discontinuedDate": "1993",
+        "note": "Rare fast short-tele; produced in small numbers, highly collectible on the used market. Praised for its smooth rendering.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-af-135mm-f2.8-stf-a",
+        "maker": "Minolta",
+        "name": "AF 135mm F/2.8 [T4.5] STF",
+        "mount": "A",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.87,
+        "weight": 730,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 80,
+        "length": 99,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "STF (Smooth Trans Focus) cult legend — uses an apodization element (radially graduated ND) to produce arguably the most beautiful, perfectly-transitioning defocus rendering ever seen from a photographic lens. Manual focus only. Two aperture rings (STF apodization T-stop 4.5, standard 9-blade iris). T4.5 transmission; f/2.8 geometric. Continued as Sony 135mm F/2.8 [T4.5] STF (SAL135F28).",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-af-135mm-f2.8-a",
+        "maker": "Minolta",
+        "name": "AF 135mm F/2.8",
+        "mount": "A",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 365,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 6,
+        "diameter": 66,
+        "length": 79,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1995",
+        "note": "Compact fast portrait tele — replaced in the lineup by the STF variant. Rare on the used market.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-af-200mm-f2.8-apo-g-a",
+        "maker": "Minolta",
+        "name": "AF 200mm F/2.8 APO G",
+        "mount": "A",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.8,
+        "weight": 790,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 80,
+        "length": 137,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line apochromatic fast 200mm — sports and action classic. Revised as AF 200mm F/2.8 APO G(D) High Speed with faster AF (1998).",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-af-200mm-f2.8-apo-g-hs-a",
+        "maker": "Minolta",
+        "name": "AF 200mm F/2.8 APO G High Speed",
+        "mount": "A",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.8,
+        "weight": 795,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 80,
+        "length": 137,
+        "releaseDate": "1998",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "High Speed (HS) revision of the 200mm F/2.8 APO G with revised AF drive for faster acquisition. G-line apochromatic.",
+        "predecessorId": "minolta-af-200mm-f2.8-apo-g-a",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-af-300mm-f2.8-apo-g-a",
+        "maker": "Minolta",
+        "name": "AF 300mm F/2.8 APO G",
+        "mount": "A",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 42,
+        "minFocusDistance": 3,
+        "weight": 2400,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "diameter": 130,
+        "length": 245,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line apochromatic fast super-tele — sports flagship. Rear 42mm drop-in filter. Revised as AF 300mm F/2.8 APO G(D) SSM in 2004 with Supersonic-Motor AF. Continued as Sony 300mm F/2.8 G.",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "minolta-af-300mm-f4-apo-g-a",
+        "maker": "Minolta",
+        "name": "AF 300mm F/4 APO G",
+        "mount": "A",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 2.5,
+        "weight": 1550,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 95,
+        "length": 220,
+        "releaseDate": "1993",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line apochromatic super-tele, lighter and cheaper alternative to the F/2.8. Praised for excellent sharpness and colour correction.",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "minolta-af-400mm-f4.5-apo-g-a",
+        "maker": "Minolta",
+        "name": "AF 400mm F/4.5 APO G",
+        "mount": "A",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 42,
+        "minFocusDistance": 3,
+        "weight": 2350,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 122,
+        "length": 292,
+        "releaseDate": "1993",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line apochromatic super-tele. Rear 42mm drop-in filter. Cult classic for wildlife and sports on Sony α bodies.",
+        "angleOfView": [
+          6.2
+        ]
+      },
+      {
+        "id": "minolta-af-500mm-f8-reflex-a",
+        "maker": "Minolta",
+        "name": "AF Reflex 500mm F/8",
+        "mount": "A",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 4,
+        "weight": 665,
+        "bladesCount": 0,
+        "elements": 7,
+        "groups": 5,
+        "diameter": 89,
+        "length": 118,
+        "maxMagnification": 0.14,
+        "releaseDate": "1989",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "The ONLY mass-produced autofocus mirror (catadioptric) lens ever made — cult legend. Compact, light for its reach; produces distinctive donut-ring bokeh from the annular aperture. Fixed F/8. Continued as Sony 500mm F/8 Reflex (SAL500F80).",
+        "angleOfView": [
+          5
+        ]
+      },
+      {
+        "id": "minolta-af-600mm-f4-apo-g-a",
+        "maker": "Minolta",
+        "name": "AF 600mm F/4 APO G High Speed",
+        "mount": "A",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 42,
+        "minFocusDistance": 5,
+        "weight": 5500,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 168,
+        "length": 456,
+        "releaseDate": "1993",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line apochromatic flagship super-tele — extremely rare and expensive. Rear 42mm drop-in filter. Produced in very small numbers.",
+        "angleOfView": [
+          4.1
+        ]
+      },
+      {
+        "id": "minolta-af-17-35mm-f2.8-4-d-a",
+        "maker": "Minolta",
+        "name": "AF 17-35mm F/2.8-4 (D)",
+        "mount": "A",
+        "focalLength": [
+          17,
+          35
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 605,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 13,
+        "diameter": 83,
+        "length": 92,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Ultra-wide zoom with (D) distance-encoder for ADI flash metering. Continued as Konica Minolta and later Sony variants.",
+        "angleOfView": [
+          103.7,
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-af-20-35mm-f3.5-4.5-a",
+        "maker": "Minolta",
+        "name": "AF 20-35mm F/3.5-4.5",
+        "mount": "A",
+        "focalLength": [
+          20,
+          35
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.5,
+        "weight": 360,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 11,
+        "diameter": 74,
+        "length": 76,
+        "releaseDate": "1997",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Compact ultra-wide zoom for full-frame film bodies.",
+        "angleOfView": [
+          94.5,
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-af-24-105mm-f3.5-4.5-d-a",
+        "maker": "Minolta",
+        "name": "AF 24-105mm F/3.5-4.5 (D)",
+        "mount": "A",
+        "focalLength": [
+          24,
+          105
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.5,
+        "weight": 395,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 72,
+        "length": 84,
+        "releaseDate": "2000",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "General-purpose full-frame standard zoom with (D) distance-encoder for ADI flash. Continued as Sony 24-105mm F/3.5-4.5 (SAL24105).",
+        "angleOfView": [
+          84.1,
+          23.3
+        ]
+      },
+      {
+        "id": "minolta-af-28-70mm-f2.8-g-a",
+        "maker": "Minolta",
+        "name": "AF 28-70mm F/2.8 G",
+        "mount": "A",
+        "focalLength": [
+          28,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.5,
+        "weight": 815,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 84,
+        "length": 108,
+        "releaseDate": "1993",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line professional constant-aperture standard zoom — flagship reportage zoom of the film era. Prized for sharpness and rendering.",
+        "angleOfView": [
+          75.4,
+          34.3
+        ]
+      },
+      {
+        "id": "minolta-af-28-85mm-f3.5-4.5-a",
+        "maker": "Minolta",
+        "name": "AF 28-85mm F/3.5-4.5",
+        "mount": "A",
+        "focalLength": [
+          28,
+          85
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.8,
+        "weight": 385,
+        "bladesCount": 7,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 71,
+        "length": 82,
+        "hasMacro": true,
+        "maxMagnification": 0.25,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1993",
+        "note": "Original α-7000 standard zoom, launched with the system in 1985. Macro switch at wide end.",
+        "angleOfView": [
+          75.4,
+          28.6
+        ]
+      },
+      {
+        "id": "minolta-af-28-135mm-f4-4.5-a",
+        "maker": "Minolta",
+        "name": "AF 28-135mm F/4-4.5",
+        "mount": "A",
+        "focalLength": [
+          28,
+          135
+        ],
+        "fStop": [
+          4,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 750,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 12,
+        "diameter": 78,
+        "length": 108,
+        "hasMacro": true,
+        "maxMagnification": 0.25,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1994",
+        "note": "Cult-classic mid-range zoom — one of the most highly regarded standard zooms of the film era, praised for sharpness rivalling primes and its distinctive rendering. Launched with the α-7000. Macro focus mode at 135mm.",
+        "angleOfView": [
+          75.4,
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-af-70-200mm-f2.8-apo-g-ssm-a",
+        "maker": "Minolta",
+        "name": "AF 70-200mm F/2.8 APO G (D) SSM",
+        "mount": "A",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.2,
+        "weight": 1340,
+        "bladesCount": 9,
+        "elements": 19,
+        "groups": 16,
+        "diameter": 87,
+        "length": 196,
+        "releaseDate": "2003",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "G-line professional constant f/2.8 tele zoom with SSM (Supersonic Motor) — Minolta's answer to Canon 70-200 F/2.8 IS and Nikon 70-200 F/2.8 VR. (D) distance-encoder for ADI. Continued as Sony 70-200mm F/2.8 G (SAL70200G).",
+        "angleOfView": [
+          34.3,
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-af-70-210mm-f4-a",
+        "maker": "Minolta",
+        "name": "AF 70-210mm F/4",
+        "mount": "A",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.1,
+        "weight": 690,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 9,
+        "diameter": 73,
+        "length": 148,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1993",
+        "note": "The cult-classic 'Beercan' — nicknamed for its cylindrical black barrel that resembles a can of beer. Constant f/4 aperture, superb sharpness and rendering, one of the most beloved Minolta AF lenses ever made and still hunted on the used market for Sony α bodies.",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "minolta-af-70-210mm-f3.5-4.5-a",
+        "maker": "Minolta",
+        "name": "AF 70-210mm F/3.5-4.5",
+        "mount": "A",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.1,
+        "weight": 620,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 73,
+        "length": 141,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Successor to the Beercan — variable-aperture tele zoom, lighter and cheaper, but never quite matched its predecessor's cult status.",
+        "predecessorId": "minolta-af-70-210mm-f4-a",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "minolta-af-80-200mm-f2.8-apo-g-hs-a",
+        "maker": "Minolta",
+        "name": "AF 80-200mm F/2.8 APO G High Speed",
+        "mount": "A",
+        "focalLength": [
+          80,
+          200
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.8,
+        "weight": 1300,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "diameter": 85,
+        "length": 190,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "G-line apochromatic constant f/2.8 tele zoom — professional flagship of the film era. White-barrel finish. Predecessor to the 70-200 F/2.8 SSM.",
+        "successorId": "minolta-af-70-200mm-f2.8-apo-g-ssm-a",
+        "angleOfView": [
+          30.3,
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-af-100-300mm-f4.5-5.6-apo-d-a",
+        "maker": "Minolta",
+        "name": "AF 100-300mm F/4.5-5.6 APO (D)",
+        "mount": "A",
+        "focalLength": [
+          100,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 490,
+        "bladesCount": 7,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 73,
+        "length": 132,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Consumer tele zoom with apochromatic AD glass and (D) distance encoder for ADI flash. Continued as Sony 100-300mm F/4.5-5.6 APO (SAL100300).",
+        "angleOfView": [
+          24.4,
+          8.2
+        ]
+      },
+      {
+        "id": "minolta-af-100-400mm-f4.5-6.7-apo-a",
+        "maker": "Minolta",
+        "name": "AF 100-400mm F/4.5-6.7 APO",
+        "mount": "A",
+        "focalLength": [
+          100,
+          400
+        ],
+        "fStop": [
+          4.5,
+          6.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2,
+        "weight": 1250,
+        "bladesCount": 8,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 80,
+        "length": 170,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "Long-reach consumer super-tele zoom with apochromatic AD glass. Cult classic for wildlife on Sony α.",
+        "angleOfView": [
+          24.4,
+          6.2
+        ]
+      },
+      {
+        "id": "konica-minolta-af-dt-11-18mm-f4.5-5.6-a",
+        "maker": "Minolta",
+        "name": "AF DT 11-18mm F/4.5-5.6 (D)",
+        "mount": "A",
+        "focalLength": [
+          11,
+          18
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.25,
+        "weight": 360,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 83,
+        "length": 81,
+        "releaseDate": "2005",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Konica Minolta era. APS-C-only DT ultra-wide zoom for the α-7 Digital / α Sweet Digital. Continued as Sony DT 11-18mm F/4.5-5.6 (SAL1118).",
+        "angleOfView": [
+          104.5,
+          76.5
+        ]
+      },
+      {
+        "id": "konica-minolta-af-dt-18-70mm-f3.5-5.6-a",
+        "maker": "Minolta",
+        "name": "AF DT 18-70mm F/3.5-5.6 (D)",
+        "mount": "A",
+        "focalLength": [
+          18,
+          70
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.38,
+        "weight": 235,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 10,
+        "diameter": 66,
+        "length": 77,
+        "releaseDate": "2004",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Konica Minolta era. APS-C-only DT kit zoom shipped with the α-7 Digital and α Sweet Digital. Continued as Sony DT 18-70mm F/3.5-5.6 (SAL1870).",
+        "angleOfView": [
+          76.5,
+          22.9
+        ]
+      },
+      {
+        "id": "konica-minolta-af-dt-18-200mm-f3.5-6.3-a",
+        "maker": "Minolta",
+        "name": "AF DT 18-200mm F/3.5-6.3 (D)",
+        "mount": "A",
+        "focalLength": [
+          18,
+          200
+        ],
+        "fStop": [
+          3.5,
+          6.3
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.45,
+        "weight": 405,
+        "bladesCount": 7,
+        "elements": 15,
+        "groups": 13,
+        "diameter": 73,
+        "length": 85,
+        "releaseDate": "2005",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Konica Minolta era. APS-C-only DT 11x superzoom. Continued as Sony DT 18-200mm F/3.5-6.3 (SAL18200).",
+        "angleOfView": [
+          76.5,
+          8.1
+        ]
+      },
+      {
+        "id": "konica-minolta-af-17-35mm-f2.8-4-d-a",
+        "maker": "Minolta",
+        "name": "AF 17-35mm F/2.8-4 (D)",
+        "mount": "A",
+        "focalLength": [
+          17,
+          35
+        ],
+        "fStop": [
+          2.8,
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.3,
+        "weight": 605,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 13,
+        "diameter": 83,
+        "length": 92,
+        "releaseDate": "2004",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Konica Minolta era. Later-generation full-frame ultra-wide zoom, black-finish revision of the Minolta AF 17-35mm F/2.8-4.",
+        "predecessorId": "minolta-af-17-35mm-f2.8-4-d-a",
+        "angleOfView": [
+          103.7,
+          63.4
+        ]
+      },
+      {
+        "id": "konica-minolta-af-28-75mm-f2.8-d-a",
+        "maker": "Minolta",
+        "name": "AF 28-75mm F/2.8 (D)",
+        "mount": "A",
+        "focalLength": [
+          28,
+          75
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.33,
+        "weight": 510,
+        "bladesCount": 7,
+        "elements": 16,
+        "groups": 14,
+        "diameter": 78,
+        "length": 94,
+        "releaseDate": "2005",
+        "discontinued": true,
+        "discontinuedDate": "2006",
+        "note": "Konica Minolta era. Constant f/2.8 standard zoom for full-frame — based on the Tamron 28-75 F/2.8 optical design. Continued as Sony 28-75mm F/2.8 SAM (SAL2875).",
+        "angleOfView": [
+          75.4,
+          32.2
+        ]
+      }
+    ],
     "MD": [
       {
         "id": "minolta-md-fisheye-rokkor-16mm-f2.8",

@@ -1,2 +1,2 @@
-import { LensData } from "../types";
-export declare const minoltaLensDataSet: LensData[];
+export * from "./md";
+export * from "./a";
