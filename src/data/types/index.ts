@@ -51,6 +51,16 @@ export type PentaxMount = "K" | "645" | "M42";
 export type SigmaMount = "SA";
 export type LeicaMount = "M" | "L" | "R";
 export type YashicaMount = "CY" | "M42";
+// Contax autofocus / medium-format ecosystems (Kyocera-Contax, 1994-2005).
+// All lenses were designed and built by Zeiss (maker: "ZEISS").
+// - G: Contax G rangefinder AF (G1 / G2 bodies, 1994-2005).
+// - N: Contax N AF SLR (N1 / NX bodies, 2000-2005).
+// - 645: Contax 645 medium-format AF (Contax 645 body, 1999-2005).
+//   Note the "645" tag collides with PentaxMount "645"; each record's
+//   `maker` disambiguates.
+export type ContaxGMount = "G";
+export type ContaxNMount = "N";
+export type Contax645Mount = "645";
 export type KonicaMount = "AR";
 export type MinoltaMount = "MD";
 // Rollei QBM (Quick Bayonet Mount) used on Rolleiflex SL35 series (1970-1982).
@@ -85,7 +95,10 @@ export type Mount =
   | MirandaMount
   | PetriMount
   | FujicaMount
-  | M42Mount;
+  | M42Mount
+  | ContaxGMount
+  | ContaxNMount
+  | Contax645Mount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
