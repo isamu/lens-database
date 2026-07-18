@@ -64,6 +64,7 @@
 | Angle of View | 31.7° |
 | Diameter | 73.5mm |
 | Length | 66.9mm |
+| MSRP | ¥247,500 |
 | Release Date | 2024-01 |
 | Official URL | https://www.cosina.co.jp/voigtlander/x-mount/nokton-50mm-f1/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/x-mount/nokton-50mm-f1/) |

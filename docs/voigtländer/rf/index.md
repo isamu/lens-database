@@ -63,6 +63,7 @@
 | Angle of View | 46.8° |
 | Diameter | 62.8mm |
 | Length | 59.9mm |
+| MSRP | ¥132,000 |
 | Release Date | 2025-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/rf-mount/apo-lanthar-50mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/rf-mount/apo-lanthar-50mm-f2/) |

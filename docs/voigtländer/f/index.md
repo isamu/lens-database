@@ -41,6 +41,7 @@
 | Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 27.5mm |
+| MSRP | ¥66,000 |
 | Release Date | 2019-07 |
 | Official URL | https://www.cosina.co.jp/voigtlander/f-mount/ultron-40mm-f2-sl-iis/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/f-mount/ultron-40mm-f2-sl-iis/) |

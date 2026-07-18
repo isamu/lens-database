@@ -88,6 +88,7 @@
 | Angle of View | 63.4° |
 | Diameter | 55mm |
 | Length | 28.7mm |
+| MSRP | ¥82,500 |
 | Release Date | 2020-10 |
 | Official URL | https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/) |
@@ -110,6 +111,7 @@
 | Angle of View | 63.4° |
 | Diameter | 55mm |
 | Length | 28.7mm |
+| MSRP | ¥82,500 |
 | Release Date | 2020-10 |
 | Official URL | https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-35mm-f1-4-ii/) |
@@ -539,6 +541,7 @@
 | Angle of View | 91.7° |
 | Diameter | 55mm |
 | Length | 29.7mm |
+| MSRP | ¥104,500 |
 | Release Date | 2018-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-21mm/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-21mm/) |
@@ -561,6 +564,7 @@
 | Angle of View | 75.4° |
 | Diameter | 55mm |
 | Length | 44.5mm |
+| MSRP | ¥85,800 |
 | Release Date | 2019-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-vintageline-28mm-f2-8/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-vintageline-28mm-f2-8/) |

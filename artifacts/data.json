@@ -11447,6 +11447,7 @@
         "id": "voigtlander-nokton-classic-35mm-f1.4-ii-sc-vm",
         "maker": "Voigtländer",
         "name": "NOKTON classic 35mm F1.4 II S.C",
+        "msrp": 82500,
         "mount": "M",
         "focalLength": [
           35
@@ -11482,6 +11483,7 @@
         "id": "voigtlander-nokton-classic-35mm-f1.4-ii-mc-vm",
         "maker": "Voigtländer",
         "name": "NOKTON classic 35mm F1.4 II MC",
+        "msrp": 82500,
         "mount": "M",
         "focalLength": [
           35
@@ -12158,6 +12160,7 @@
         "id": "voigtlander-color-skopar-21mm-f3.5-aspherical-vm",
         "maker": "Voigtländer",
         "name": "COLOR-SKOPAR 21mm F3.5 Aspherical",
+        "msrp": 104500,
         "mount": "M",
         "focalLength": [
           21
@@ -12193,6 +12196,7 @@
         "id": "voigtlander-color-skopar-vintage-line-28mm-f2.8-vm",
         "maker": "Voigtländer",
         "name": "COLOR-SKOPAR Vintage Line 28mm F2.8 Aspherical Type I",
+        "msrp": 85800,
         "mount": "M",
         "focalLength": [
           28
@@ -12626,6 +12630,7 @@
         "id": "voigtlander-nokton-60mm-f0.95-aspherical-e",
         "maker": "Voigtländer",
         "name": "NOKTON 60mm F0.95 Aspherical SE",
+        "msrp": 159500,
         "mount": "E",
         "focalLength": [
           60
@@ -12839,6 +12844,7 @@
         "id": "voigtlander-ultron-40mm-f2-aspherical-e",
         "maker": "Voigtländer",
         "name": "ULTRON 40mm F2 Aspherical SL IIs E-mount",
+        "msrp": 66000,
         "mount": "E",
         "focalLength": [
           40
@@ -13022,6 +13028,7 @@
         "id": "voigtlander-nokton-55mm-f1.2-aspherical-z",
         "maker": "Voigtländer",
         "name": "NOKTON 55mm F1.2 Aspherical Z-mount",
+        "msrp": 88000,
         "mount": "Z",
         "focalLength": [
           55
@@ -13129,6 +13136,7 @@
         "id": "voigtlander-ultron-40mm-f2-aspherical-z",
         "maker": "Voigtländer",
         "name": "ULTRON 40mm F2 Aspherical SL IIs Z-mount",
+        "msrp": 66000,
         "mount": "Z",
         "focalLength": [
           40
@@ -13238,6 +13246,7 @@
         "id": "voigtlander-nokton-50mm-f1-aspherical-x",
         "maker": "Voigtländer",
         "name": "NOKTON 50mm F1.0 Aspherical X-mount",
+        "msrp": 247500,
         "mount": "X",
         "focalLength": [
           50
@@ -13417,6 +13426,7 @@
         "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-rf",
         "maker": "Voigtländer",
         "name": "APO-LANTHAR 50mm F2 Aspherical RF-mount",
+        "msrp": 132000,
         "mount": "RF",
         "focalLength": [
           50
@@ -13490,6 +13500,7 @@
         "id": "voigtlander-ultron-40mm-f2-sl-iis-f",
         "maker": "Voigtländer",
         "name": "ULTRON 40mm F2 Aspherical SL IIs",
+        "msrp": 66000,
         "mount": "F",
         "focalLength": [
           40
@@ -16198,9 +16209,11 @@
         "filterDiameter": 43,
         "weight": 180,
         "urls": {
-          "kakaku": "https://kakaku.com/item/K0000903386/"
+          "kakaku": "https://kakaku.com/item/K0000903386/",
+          "official": "https://mall-jp.fujifilm.com/shop/g/g16580557/"
         },
         "releaseDate": "2016-10-06",
+        "msrp": 70400,
         "angleOfView": [
           63.4
         ]
@@ -16938,6 +16951,506 @@
     ]
   },
   "Hasselblad": {
+    "H": [
+      {
+        "id": "hasselblad-hcd-24mm-f4.8-h",
+        "maker": "Hasselblad",
+        "name": "HCD 24mm F4.8",
+        "mount": "H",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          4.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.38,
+        "weight": 1150,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2011",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "HCD = digital-only image circle (48x36). Widest H-system lens. Leaf shutter to 1/800s.",
+        "angleOfView": [
+          97.8
+        ]
+      },
+      {
+        "id": "hasselblad-hcd-28mm-f4-h",
+        "maker": "Hasselblad",
+        "name": "HCD 28mm F4",
+        "mount": "H",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.35,
+        "weight": 830,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2007",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "HCD wide — digital-only image circle. Aspherical / floating element design.",
+        "angleOfView": [
+          89
+        ]
+      },
+      {
+        "id": "hasselblad-hc-28mm-f4-h",
+        "maker": "Hasselblad",
+        "name": "HC 28mm F4",
+        "mount": "H",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.5,
+        "weight": 950,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2006",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Full 645 image circle super-wide. Fujinon-designed. Leaf shutter to 1/800s.",
+        "angleOfView": [
+          89
+        ]
+      },
+      {
+        "id": "hasselblad-hc-35mm-f3.5-h",
+        "maker": "Hasselblad",
+        "name": "HC 35mm F3.5",
+        "mount": "H",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.5,
+        "weight": 970,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2003",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Full 645 image-circle wide. Fujinon glass, Prontor leaf shutter.",
+        "angleOfView": [
+          76.3
+        ]
+      },
+      {
+        "id": "hasselblad-hc-50mm-f3.5-ii-h",
+        "maker": "Hasselblad",
+        "name": "HC 50mm F3.5 II",
+        "mount": "H",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.6,
+        "weight": 780,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2011",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Version II with updated coatings for high-resolution digital backs. Full 645 image circle.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "hasselblad-hc-80mm-f2.8-h",
+        "maker": "Hasselblad",
+        "name": "HC 80mm F2.8",
+        "mount": "H",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.7,
+        "weight": 640,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Cult standard prime — the H-system 'normal' inherited from the V-system Planar tradition. Kit lens on H1/H2.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "hasselblad-hc-100mm-f2.2-h",
+        "maker": "Hasselblad",
+        "name": "HC 100mm F2.2",
+        "mount": "H",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.2
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.9,
+        "weight": 970,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2005",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Fastest H-system prime and cult favorite for portraiture. Signature rendering on H4D/H5D/H6D backs.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "hasselblad-hc-120mm-f4-macro-h",
+        "maker": "Hasselblad",
+        "name": "HC Macro 120mm F4",
+        "mount": "H",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.39,
+        "weight": 970,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "releaseDate": "2003",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "1:2 macro tele. Doubles as a portrait length; long-time studio workhorse. A Macro II variant (2012) refined coatings.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "hasselblad-hc-120mm-f4-macro-ii-h",
+        "maker": "Hasselblad",
+        "name": "HC Macro 120mm F4 II",
+        "mount": "H",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.39,
+        "weight": 970,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "releaseDate": "2012",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "predecessorId": "hasselblad-hc-120mm-f4-macro-h",
+        "note": "Version II with anti-reflective coating refresh for high-res digital backs. 1:2 macro.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "hasselblad-hc-150mm-f3.2-h",
+        "maker": "Hasselblad",
+        "name": "HC 150mm F3.2",
+        "mount": "H",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          3.2
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.3,
+        "weight": 1180,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Cult portrait tele — H-system's answer to the V-system 150 Sonnar. Signature compression on 645.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "hasselblad-hc-210mm-f4-h",
+        "maker": "Hasselblad",
+        "name": "HC 210mm F4",
+        "mount": "H",
+        "focalLength": [
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.8,
+        "weight": 1370,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Studio tele — often paired with the 1.7x H-TC for a 357mm f/6.8 reach. Full 645 image circle.",
+        "angleOfView": [
+          14.9
+        ]
+      },
+      {
+        "id": "hasselblad-hc-300mm-f4.5-h",
+        "maker": "Hasselblad",
+        "name": "HC 300mm F4.5",
+        "mount": "H",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 2.5,
+        "weight": 2160,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2004",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Longest H-system prime. Rare in the field — typically studio / landscape use with a tripod collar.",
+        "angleOfView": [
+          10.5
+        ]
+      },
+      {
+        "id": "hasselblad-hcd-35-90mm-f4-5.6-h",
+        "maker": "Hasselblad",
+        "name": "HCD 35-90mm F4-5.6",
+        "mount": "H",
+        "focalLength": [
+          35,
+          90
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.7,
+        "weight": 1500,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2009",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "The only wide zoom in the H-system. HCD = digital-only image circle (48x36).",
+        "angleOfView": [
+          76.3,
+          34
+        ]
+      },
+      {
+        "id": "hasselblad-hc-50-110mm-f3.5-4.5-h",
+        "maker": "Hasselblad",
+        "name": "HC 50-110mm F3.5-4.5",
+        "mount": "H",
+        "focalLength": [
+          50,
+          110
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.8,
+        "weight": 1650,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2007",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Full 645 image circle standard zoom. Popular studio / commercial workhorse.",
+        "angleOfView": [
+          57.6,
+          28.1
+        ]
+      },
+      {
+        "id": "hasselblad-hts-1.5-tilt-shift-adapter-h",
+        "maker": "Hasselblad",
+        "name": "HTS 1.5 Tilt/Shift Adapter",
+        "mount": "H",
+        "focalLength": [
+          0
+        ],
+        "fStop": [
+          0
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasTiltShift": true,
+        "weight": 950,
+        "releaseDate": "2008",
+        "discontinued": true,
+        "discontinuedDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/h-system/h-system-lenses/",
+        "note": "Not a lens — a tilt/shift adapter for HC 28/35/50/80/100/120 lenses. 1.5x focal-length multiplier. ±10mm shift, ±10° tilt. Registered for system completeness."
+      }
+    ],
     "V": [
       {
         "id": "hasselblad-zeiss-t-biogon-38mm-f4.5-swc-v",
@@ -17431,6 +17944,478 @@
         "note": "Longer Sonnar tele — favored over the 150 for tighter compression on 6x6. Bay-60.",
         "angleOfView": [
           17.4
+        ]
+      }
+    ],
+    "XCD": [
+      {
+        "id": "hasselblad-xcd-21mm-f4-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 21mm F4",
+        "mount": "XCD",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.32,
+        "weight": 600,
+        "bladesCount": 10,
+        "elements": 13,
+        "groups": 9,
+        "releaseDate": "2018",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Widest X-system prime — ~17mm equivalent on FF. Built-in leaf shutter, weather-sealed.",
+        "angleOfView": [
+          105.3
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-25mm-f2.5-v-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 25mm F2.5 V",
+        "mount": "XCD",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.25,
+        "weight": 375,
+        "bladesCount": 10,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2023",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "V-series compact ultra-wide. Fast f/2.5 aperture, half the weight of the original XCD wides.",
+        "angleOfView": [
+          95.5
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-28mm-f4-p-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 28mm F4 P",
+        "mount": "XCD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.22,
+        "weight": 350,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2022",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "P-series compact wide. Pairs with 45P for a two-lens travel kit. Weather-sealed.",
+        "angleOfView": [
+          89
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-30mm-f3.5-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 30mm F3.5",
+        "mount": "XCD",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.32,
+        "weight": 645,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2017",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Original-generation XCD wide prime. ~24mm-equivalent field of view on 44x33.",
+        "angleOfView": [
+          85
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-35-75mm-f3.5-4.5-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 35-75mm F3.5-4.5",
+        "mount": "XCD",
+        "focalLength": [
+          35,
+          75
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.42,
+        "weight": 1100,
+        "bladesCount": 10,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2019",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "The X-system's first and only zoom — wide-to-short-tele kit lens spanning 28-60mm equivalent.",
+        "angleOfView": [
+          76.3,
+          40.3
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-38mm-f2.5-v-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 38mm F2.5 V",
+        "mount": "XCD",
+        "focalLength": [
+          38
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.3,
+        "weight": 335,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2022",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "V-series compact wide-normal — 30mm-equivalent. Launched with the X2D 100C.",
+        "angleOfView": [
+          71.8
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-45mm-f3.5-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 45mm F3.5",
+        "mount": "XCD",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.35,
+        "weight": 465,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2016",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Launch-day kit prime for the X1D-50c — ~35mm-equivalent 'reporter' normal.",
+        "angleOfView": [
+          62.9
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-45mm-f4-p-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 45mm F4 P",
+        "mount": "XCD",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.35,
+        "weight": 320,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Cult travel pancake — the smallest, lightest XCD lens. Turned the X1D II into a genuinely pocketable MF kit.",
+        "angleOfView": [
+          62.9
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-55mm-f2.5-v-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 55mm F2.5 V",
+        "mount": "XCD",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.45,
+        "weight": 345,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2022",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Cult V-series compact normal — 43mm-equivalent, the 'standard' for the X2D era. Signature rendering at f/2.5.",
+        "angleOfView": [
+          53.1
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-65mm-f2.8-v-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 65mm F2.8 V",
+        "mount": "XCD",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.5,
+        "weight": 395,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2023",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "V-series short-tele normal — ~52mm-equivalent. Compact companion to the 55V.",
+        "angleOfView": [
+          45.9
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-80mm-f1.9-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 80mm F1.9",
+        "mount": "XCD",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.7,
+        "weight": 1100,
+        "bladesCount": 10,
+        "elements": 13,
+        "groups": 8,
+        "releaseDate": "2019",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Cult status: the fastest autofocus medium-format lens ever made. ~63mm-equivalent portrait normal with unmistakable f/1.9 bokeh on 44x33.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-90mm-f2.5-v-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 90mm F2.5 V",
+        "mount": "XCD",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.6,
+        "weight": 470,
+        "bladesCount": 10,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2022",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "V-series compact portrait tele — 71mm-equivalent, fast f/2.5, half the weight of the 80/1.9.",
+        "angleOfView": [
+          34
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-90mm-f3.2-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 90mm F3.2",
+        "mount": "XCD",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          3.2
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.5,
+        "weight": 650,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2017",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Original-generation short tele — the go-to portrait lens before the 80/1.9 and 90V.",
+        "angleOfView": [
+          34
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-120mm-f3.5-macro-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 120mm F3.5 Macro",
+        "mount": "XCD",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.42,
+        "weight": 970,
+        "bladesCount": 10,
+        "elements": 10,
+        "groups": 8,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "releaseDate": "2018",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "1:2 macro — the only X-system macro. Doubles as a ~95mm-equivalent short tele portrait lens.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "hasselblad-xcd-135mm-f2.8-xcd",
+        "maker": "Hasselblad",
+        "name": "XCD 135mm F2.8",
+        "mount": "XCD",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 1,
+        "weight": 1350,
+        "bladesCount": 10,
+        "elements": 14,
+        "groups": 9,
+        "releaseDate": "2020",
+        "officialUrl": "https://www.hasselblad.com/xcd-lenses/",
+        "note": "Longest X-system prime. Pairs with the XH Converter 1.7 for a 230mm f/4.8 reach — the effective tele solution on X-system.",
+        "angleOfView": [
+          23
         ]
       }
     ]
@@ -45736,6 +46721,194 @@
       }
     ]
   },
+  "Panagor": {
+    "F": [
+      {
+        "id": "panagor-90mm-f2.8-macro-f",
+        "maker": "Panagor",
+        "name": "Panagor Auto Macro 90mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.35,
+        "weight": 470,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "Panagor 90/2.8 マクロ。単体等倍。製造は Komine (小峰光学) と目されるカルト銘玉。多マウント OEM。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "panagor-135mm-f2.8-f",
+        "maker": "Panagor",
+        "name": "Panagor Auto Tele 135mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 450,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "普及型中望遠。多マウント OEM。Nikon F 版。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "panagor-500mm-f8-mirror-f",
+        "maker": "Panagor",
+        "name": "Panagor 500mm f/8 Mirror",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 4,
+        "weight": 700,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "反射望遠500mm F8 固定。多マウント OEM。開放固定・リングボケ。",
+        "angleOfView": [
+          5
+        ]
+      }
+    ],
+    "M42": [
+      {
+        "id": "panagor-90mm-f2.8-macro-m42",
+        "maker": "Panagor",
+        "name": "Panagor Auto Macro 90mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.35,
+        "weight": 470,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "Panagor 90/2.8 マクロ、Komine 製造。M42 スクリューマウント版。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "panagor-28mm-f2.5-m42",
+        "maker": "Panagor",
+        "name": "Panagor Auto Wide 28mm f/2.5",
+        "mount": "M42",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 280,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "普及型広角。多マウント OEM。M42 版。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "panagor-200mm-f3.5-m42",
+        "maker": "Panagor",
+        "name": "Panagor Auto Tele 200mm f/3.5",
+        "mount": "M42",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "普及型望遠。多マウント OEM。M42 版。",
+        "angleOfView": [
+          12.3
+        ]
+      }
+    ]
+  },
   "Panasonic": {
     "L": [
       {
@@ -55598,6 +56771,365 @@
       }
     ]
   },
+  "PhaseOne": {
+    "645": [
+      {
+        "id": "phaseone-schneider-28mm-f4.5-aspherical-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 28mm f/4.5 Aspherical Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "minFocusDistance": 0.35,
+        "weight": 1120,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision. Ultra-wide flagship — approx. 18mm-equivalent on 645 full-frame digital back. Schneider-Kreuznach designed. Aspherical elements for corner sharpness on the IQ4 150MP.",
+        "angleOfView": [
+          89
+        ]
+      },
+      {
+        "id": "phaseone-schneider-35mm-f3.5-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 35mm f/3.5 Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "minFocusDistance": 0.4,
+        "weight": 950,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision. Wide-angle reportage lens — approx. 22mm-equivalent full-frame. Schneider-Kreuznach designed.",
+        "angleOfView": [
+          76.3
+        ]
+      },
+      {
+        "id": "phaseone-schneider-55mm-f2.8-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 55mm f/2.8 LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.5,
+        "weight": 640,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). Flash sync to 1/1600s — the reason studio / fashion shooters stay on Phase One. Approx. 35mm-equivalent full-frame. Kit-tier cult classic bundled with the XF IQ4 body.",
+        "angleOfView": [
+          53.1
+        ]
+      },
+      {
+        "id": "phaseone-schneider-80mm-f2.8-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 80mm f/2.8 LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.7,
+        "weight": 620,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). Standard normal for 645 digital — approx. 50mm-equivalent full-frame. Bundled kit lens on Phase One XF IQ4 configurations.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "phaseone-schneider-110mm-f2.8-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 110mm f/2.8 LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          110
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 72,
+        "minFocusDistance": 1,
+        "weight": 900,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). CULT — the definitive medium-format portrait lens of the digital era, often called the 'Otus of medium format'. Approx. 70mm-equivalent full-frame with the shallowest depth of field available on 645 digital.",
+        "angleOfView": [
+          28.1
+        ]
+      },
+      {
+        "id": "phaseone-schneider-120mm-f4-macro-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 120mm f/4 Macro LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.39,
+        "weight": 780,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). 1:2 macro dedicated to product / reproduction work. Approx. 75mm-equivalent full-frame.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "phaseone-schneider-150mm-f2.8-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 150mm f/2.8 LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 95,
+        "minFocusDistance": 1.3,
+        "weight": 1450,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). Fast portrait tele — approx. 95mm-equivalent full-frame. Schneider-Kreuznach designed.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "phaseone-schneider-240mm-f4.5-ls-br-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 240mm f/4.5 LS Blue Ring",
+        "mount": "645",
+        "focalLength": [
+          240
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "minFocusDistance": 1.8,
+        "weight": 1900,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2016",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Blue Ring (BR) revision with integrated Leaf Shutter (LS). Flagship long telephoto — approx. 150mm-equivalent full-frame.",
+        "angleOfView": [
+          13.1
+        ]
+      },
+      {
+        "id": "phaseone-rodenstock-43mm-f4-wide-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Rodenstock 43mm f/4 Wide",
+        "mount": "645",
+        "focalLength": [
+          43
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "minFocusDistance": 0.5,
+        "weight": 1160,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "2017",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Rare — the only Rodenstock-branded 645AF lens. Optimised for the full-frame IQ4 150MP back with an oversized image circle for perspective control. Approx. 27mm-equivalent full-frame.",
+        "angleOfView": [
+          65.2
+        ]
+      },
+      {
+        "id": "phaseone-schneider-40-80mm-f4-5.6-ls-645",
+        "maker": "PhaseOne",
+        "name": "Phase One Schneider-Kreuznach 40-80mm f/4-5.6 LS",
+        "mount": "645",
+        "focalLength": [
+          40,
+          80
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 105,
+        "minFocusDistance": 0.5,
+        "weight": 1550,
+        "bladesCount": 9,
+        "elements": 17,
+        "groups": 14,
+        "releaseDate": "2013",
+        "discontinued": false,
+        "officialUrl": "https://www.phaseone.com/",
+        "urls": {
+          "official": "https://www.phaseone.com/"
+        },
+        "note": "Wide-to-normal zoom with integrated Leaf Shutter (LS). Approx. 25-50mm-equivalent full-frame. The workhorse zoom of the 645AF system for architecture / interiors.",
+        "angleOfView": [
+          69,
+          37.9
+        ]
+      }
+    ]
+  },
   "Praktica": {
     "B": [
       {
@@ -56068,6 +57600,350 @@
         "note": "望遠単焦点。",
         "angleOfView": [
           12.3
+        ]
+      }
+    ]
+  },
+  "Rodenstock": {
+    "Copal": [
+      {
+        "id": "rodenstock-digaron-w-32mm-f4-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-W 32mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          32
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.3,
+        "weight": 620,
+        "bladesCount": 5,
+        "elements": 13,
+        "groups": 9,
+        "imageCircle": 70,
+        "releaseDate": "2010",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "CULT — the widest lens ever designed for medium-format digital. Retrofocus super-wide for technical cameras (Alpa 12, Cambo WRS, Arca-Swiss Rm3di). 70mm image circle at f/11 covers the 44x33 CMOS with modest shift. Grail among architectural / landscape technical-camera shooters. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          81.3
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-w-40mm-f4-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-W 40mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "weight": 480,
+        "bladesCount": 5,
+        "elements": 12,
+        "groups": 8,
+        "imageCircle": 90,
+        "releaseDate": "2008",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Retrofocus wide-angle for medium-format digital backs. 90mm image circle at f/11 gives generous shift for architecture. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          69
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-w-50mm-f4-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-W 50mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.5,
+        "weight": 480,
+        "bladesCount": 5,
+        "elements": 12,
+        "groups": 8,
+        "imageCircle": 90,
+        "releaseDate": "2008",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Wide-angle for medium-format digital. 90mm image circle at f/11 covers the 44x33 CMOS with substantial rise-fall / shift. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-s-60mm-f4-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-S 60mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 380,
+        "bladesCount": 5,
+        "elements": 10,
+        "groups": 8,
+        "imageCircle": 90,
+        "releaseDate": "2009",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Standard focal length for the 44x33 CMOS on technical cameras. 90mm image circle at f/11. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          49.2
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-s-90mm-f5.6-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-S 90mm f/5.6",
+        "mount": "Copal",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 340,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 110,
+        "releaseDate": "2009",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Short tele for technical cameras. 110mm image circle at f/11 gives generous movements. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          34
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-s-100mm-f4-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-S 100mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 620,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 6,
+        "imageCircle": 120,
+        "releaseDate": "2010",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "The reference resolving optic of the Rodenstock line — often used as the acceptance-test lens for IQ4 150MP / H6D-100c backs. 120mm image circle at f/11. Threads into a Copal #1 shutter.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "rodenstock-digaron-s-138mm-f6.5-hr",
+        "maker": "Rodenstock",
+        "name": "Rodenstock HR Digaron-S 138mm f/6.5",
+        "mount": "Copal",
+        "focalLength": [
+          138
+        ],
+        "fStop": [
+          6.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.4,
+        "weight": 450,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 140,
+        "releaseDate": "2011",
+        "discontinued": false,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Long tele for technical cameras. 140mm image circle at f/11 supports large shift for landscape stitching. Threads into a Copal #1 shutter.",
+        "angleOfView": [
+          22.5
+        ]
+      },
+      {
+        "id": "rodenstock-apo-sironar-digital-55mm-f4.5",
+        "maker": "Rodenstock",
+        "name": "Rodenstock Apo-Sironar-Digital 55mm f/4.5",
+        "mount": "Copal",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.55,
+        "weight": 280,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 80,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Legacy near-symmetric APO design predating the HR Digaron line. 80mm image circle at f/11 for 44x33 CMOS coverage with modest shift. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          53.1
+        ]
+      },
+      {
+        "id": "rodenstock-apo-sironar-digital-100mm-f5.6",
+        "maker": "Rodenstock",
+        "name": "Rodenstock Apo-Sironar-Digital 100mm f/5.6",
+        "mount": "Copal",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 300,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 120,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Legacy APO normal from the pre-HR era. 120mm image circle at f/11. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "rodenstock-grandagon-n-45mm-f4.5",
+        "maker": "Rodenstock",
+        "name": "Rodenstock Grandagon-N 45mm f/4.5",
+        "mount": "Copal",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.45,
+        "weight": 600,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 4,
+        "imageCircle": 125,
+        "releaseDate": "1990",
+        "discontinued": true,
+        "officialUrl": "https://www.rodenstock-photo.com/",
+        "urls": {
+          "official": "https://www.rodenstock-photo.com/"
+        },
+        "note": "Legacy super-wide originally designed for 4x5 field cameras. 125mm image circle at f/22 allows large stitching / shift on medium-format digital backs. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          62.9
         ]
       }
     ]
@@ -59218,6 +61094,352 @@
           "official": "https://www.samyanglensglobal.com/"
         },
         "note": "Pentax K DSLR fisheye. Rokinon equivalent 12mm f/2.8 ED AS NCS Fisheye. TODO verify release date."
+      }
+    ]
+  },
+  "Schneider": {
+    "Copal": [
+      {
+        "id": "schneider-apo-digitar-35mm-f5.6-xl",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 35mm f/5.6 XL",
+        "mount": "Copal",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.35,
+        "weight": 380,
+        "bladesCount": 5,
+        "elements": 10,
+        "groups": 8,
+        "imageCircle": 80,
+        "releaseDate": "2005",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "CULT — the widest Schneider designed for the technical-camera / medium-format digital segment. Retrofocus super-wide with 80mm image circle at f/11 for the 44x33 CMOS. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          76.3
+        ]
+      },
+      {
+        "id": "schneider-apo-digitar-47mm-f5.6-xl",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 47mm f/5.6 XL",
+        "mount": "Copal",
+        "focalLength": [
+          47
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.5,
+        "weight": 380,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 4,
+        "imageCircle": 120,
+        "releaseDate": "2003",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Wide-angle with 120mm image circle at f/11 — the panoramic-stitching workhorse of the Schneider digital line. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          60.7
+        ]
+      },
+      {
+        "id": "schneider-super-angulon-47mm-f5.6-xl",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Super-Angulon 47mm f/5.6 XL",
+        "mount": "Copal",
+        "focalLength": [
+          47
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.5,
+        "weight": 480,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 4,
+        "imageCircle": 166,
+        "releaseDate": "1990",
+        "discontinued": true,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Legendary 4x5 super-wide adapted to medium-format digital for extreme perspective control. 166mm image circle at f/22 gives massive shift / stitching room. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          60.7
+        ]
+      },
+      {
+        "id": "schneider-apo-digitar-60mm-f4",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 60mm f/4",
+        "mount": "Copal",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.55,
+        "weight": 260,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 80,
+        "releaseDate": "2004",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Standard for the 44x33 CMOS. 80mm image circle at f/11. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          49.2
+        ]
+      },
+      {
+        "id": "schneider-apo-digitar-72mm-f5.6-xl",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 72mm f/5.6 XL",
+        "mount": "Copal",
+        "focalLength": [
+          72
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.7,
+        "weight": 380,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 4,
+        "imageCircle": 226,
+        "releaseDate": "2003",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Wide-normal with a huge 226mm image circle at f/22 — the go-to Schneider for stitched panoramas and architectural / interiors work. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          41.8
+        ]
+      },
+      {
+        "id": "schneider-apo-digitar-90mm-f4.5",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 90mm f/4.5",
+        "mount": "Copal",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 340,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 100,
+        "releaseDate": "2004",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Short tele APO for medium-format digital. 100mm image circle at f/11. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          34
+        ]
+      },
+      {
+        "id": "schneider-apo-digitar-120mm-f5.6-macro",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Digitar 120mm f/5.6 Macro",
+        "mount": "Copal",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 1,
+        "minFocusDistance": 0.6,
+        "weight": 420,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 110,
+        "releaseDate": "2006",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "1:1 life-size macro for technical-camera product / reproduction work. 110mm image circle at f/11 at infinity, expanding with extension. Threads into a Copal #1 shutter.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "schneider-apo-symmar-digital-100mm-f5.6",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Symmar-Digital 100mm f/5.6",
+        "mount": "Copal",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 280,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 120,
+        "releaseDate": "2007",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "Near-symmetric APO normal for medium-format digital. 120mm image circle at f/11. Threads into a Copal #0 shutter.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "schneider-apo-symmar-digital-150mm-f5.6",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Apo-Symmar-Digital 150mm f/5.6",
+        "mount": "Copal",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 420,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "imageCircle": 140,
+        "releaseDate": "2007",
+        "discontinued": false,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "APO tele for medium-format digital. 140mm image circle at f/11. Threads into a Copal #1 shutter.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "schneider-super-symmar-xl-210mm-f5.6",
+        "maker": "Schneider",
+        "name": "Schneider-Kreuznach Super-Symmar-XL 210mm f/5.6",
+        "mount": "Copal",
+        "focalLength": [
+          210
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.1,
+        "weight": 950,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 6,
+        "imageCircle": 500,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "officialUrl": "https://schneiderkreuznach.com/",
+        "urls": {
+          "official": "https://schneiderkreuznach.com/"
+        },
+        "note": "LEGENDARY — the 4x5 asymmetric wide-angle tele with a 500mm image circle at f/22, the largest in the Schneider line. Cult for stitched digital-back panoramas and 8x10 field work. Threads into a Copal #1 shutter.",
+        "angleOfView": [
+          14.9
+        ]
       }
     ]
   },
@@ -80605,6 +82827,194 @@
       }
     ]
   },
+  "Soligor": {
+    "M42": [
+      {
+        "id": "soligor-35mm-f2.8-m42",
+        "maker": "Soligor",
+        "name": "Soligor Wide-Auto 35mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1971",
+        "discontinued": true,
+        "note": "普及型広角。多マウント OEM。Tokina または Sun Optical 製造ロットあり。M42 版。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "soligor-135mm-f2.8-m42",
+        "maker": "Soligor",
+        "name": "Soligor Auto Tele 135mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 445,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "note": "普及型中望遠。多マウント OEM。Sun Optical 系の設計と目される。M42 版。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "soligor-400mm-f6.3-m42",
+        "maker": "Soligor",
+        "name": "Soligor Auto Tele 400mm f/6.3",
+        "mount": "M42",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 8,
+        "weight": 1200,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1973",
+        "discontinued": true,
+        "note": "普及型超望遠。多マウント OEM。プリセット絞り機構。M42 版。",
+        "angleOfView": [
+          6.2
+        ]
+      }
+    ],
+    "F": [
+      {
+        "id": "soligor-35mm-f2.8-f",
+        "maker": "Soligor",
+        "name": "Soligor Wide-Auto 35mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1971",
+        "discontinued": true,
+        "note": "普及型広角。Nikon F 版。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "soligor-105mm-f2.8-macro-f",
+        "maker": "Soligor",
+        "name": "Soligor C/D Macro 105mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 490,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "note": "C/D シリーズ中望遠マクロ。等倍。製造は Tokina と目される。多マウント OEM。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "soligor-200mm-f3.5-f",
+        "maker": "Soligor",
+        "name": "Soligor Auto Tele 200mm f/3.5",
+        "mount": "F",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "note": "普及型望遠。多マウント OEM。Nikon F 版。",
+        "angleOfView": [
+          12.3
+        ]
+      }
+    ]
+  },
   "SONY": {
     "A": [
       {
@@ -89056,6 +91466,194 @@
         "angleOfView": [
           26.6
         ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 24mm f/2.5 Adaptall-2 (01B)",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 240,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "note": "型番01B。Adaptall-2 マウント交換式広角銘玉。1979年発売。SP = Super Performance。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-01b-f",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 17mm f/3.5 Adaptall-2 (151B)",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.25,
+        "weight": 385,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 9,
+        "note": "型番151B。Adaptall-2 超広角SP銘玉。歪曲少なく、当時のサードパーティ製17mmの最上級モデル。",
+        "releaseDate": "1980",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-02b-f",
+        "angleOfView": [
+          103.7
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 90mm f/2.5 Macro Adaptall-2 (52B)",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.39,
+        "weight": 405,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "note": "型番52B。伝説の『タムロン90マクロ』の初代SPモデル。ポートレート銘玉としてカルト人気。1:2 マクロ (専用1:1アダプター併用で等倍)。Adaptall-2。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-52b-f",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 200mm f/3.5 Adaptall-2 (04A)",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 2.5,
+        "weight": 645,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "note": "型番04A。Adaptall-2 望遠SPシリーズ。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-04a-f",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 500mm f/8 Tele Macro Adaptall-2 (55B)",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 30.5,
+        "minFocusDistance": 1.7,
+        "weight": 595,
+        "elements": 7,
+        "groups": 6,
+        "maxMagnification": 0.3,
+        "note": "型番55B。ミラーレンズ 500mm F8。最短撮影距離 1.7m の『Tele Macro』で1:3相当まで寄れる、反射望遠として異例のマクロ性能。Adaptall-2。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-55b-f",
+        "hasMacro": true,
+        "angleOfView": [
+          5
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 35-80mm f/2.8-3.8 CF Macro Adaptall-2 (17A)",
+        "focalLength": [
+          35,
+          80
+        ],
+        "fStop": [
+          2.8,
+          3.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.27,
+        "weight": 555,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 9,
+        "maxMagnification": 0.25,
+        "note": "型番17A。Adaptall-2 標準ズームSP。開放F2.8-3.8 の明るさで人気。マクロ域あり。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "mount": "F",
+        "id": "tamron-17a-f",
+        "hasMacro": true,
+        "angleOfView": [
+          63.4,
+          30.3
+        ]
       }
     ],
     "A": [
@@ -90609,6 +93207,260 @@
         "angleOfView": [
           76.5,
           6.5
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 24mm f/2.5 Adaptall-2 (01B)",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 240,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "note": "型番01B。Adaptall-2 マウント交換式広角銘玉。1979年発売。SP = Super Performance。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "K",
+        "id": "tamron-01b-k",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 17mm f/3.5 Adaptall-2 (151B)",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.25,
+        "weight": 385,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 9,
+        "note": "型番151B。Adaptall-2 超広角SP銘玉。歪曲少なく、当時のサードパーティ製17mmの最上級モデル。",
+        "releaseDate": "1980",
+        "discontinued": true,
+        "mount": "K",
+        "id": "tamron-02b-k",
+        "angleOfView": [
+          103.7
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 200mm f/3.5 Adaptall-2 (04A)",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 2.5,
+        "weight": 645,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "note": "型番04A。Adaptall-2 望遠SPシリーズ。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "K",
+        "id": "tamron-04a-k",
+        "angleOfView": [
+          12.3
+        ]
+      }
+    ],
+    "M42": [
+      {
+        "maker": "TAMRON",
+        "name": "SP 24mm f/2.5 Adaptall-2 (01B)",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 240,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "note": "型番01B。Adaptall-2 マウント交換式広角銘玉。1979年発売。SP = Super Performance。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "M42",
+        "id": "tamron-01b-m42",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 90mm f/2.5 Macro Adaptall-2 (52B)",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.39,
+        "weight": 405,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "note": "型番52B。伝説の『タムロン90マクロ』の初代SPモデル。ポートレート銘玉としてカルト人気。1:2 マクロ (専用1:1アダプター併用で等倍)。Adaptall-2。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "M42",
+        "id": "tamron-52b-m42",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 500mm f/8 Tele Macro Adaptall-2 (55B)",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 30.5,
+        "minFocusDistance": 1.7,
+        "weight": 595,
+        "elements": 7,
+        "groups": 6,
+        "maxMagnification": 0.3,
+        "note": "型番55B。ミラーレンズ 500mm F8。最短撮影距離 1.7m の『Tele Macro』で1:3相当まで寄れる、反射望遠として異例のマクロ性能。Adaptall-2。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "M42",
+        "id": "tamron-55b-m42",
+        "hasMacro": true,
+        "angleOfView": [
+          5
+        ]
+      }
+    ],
+    "MD": [
+      {
+        "maker": "TAMRON",
+        "name": "SP 90mm f/2.5 Macro Adaptall-2 (52B)",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.39,
+        "weight": 405,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "note": "型番52B。伝説の『タムロン90マクロ』の初代SPモデル。ポートレート銘玉としてカルト人気。1:2 マクロ (専用1:1アダプター併用で等倍)。Adaptall-2。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "mount": "MD",
+        "id": "tamron-52b-md",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 35-80mm f/2.8-3.8 CF Macro Adaptall-2 (17A)",
+        "focalLength": [
+          35,
+          80
+        ],
+        "fStop": [
+          2.8,
+          3.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.27,
+        "weight": 555,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 9,
+        "maxMagnification": 0.25,
+        "note": "型番17A。Adaptall-2 標準ズームSP。開放F2.8-3.8 の明るさで人気。マクロ域あり。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "mount": "MD",
+        "id": "tamron-17a-md",
+        "hasMacro": true,
+        "angleOfView": [
+          63.4,
+          30.3
         ]
       }
     ],
@@ -101265,6 +104117,669 @@
         "note": "APS-C Pro-series short telephoto (~112mm equiv.). USB-C firmware updates.",
         "angleOfView": [
           21.4
+        ]
+      }
+    ]
+  },
+  "Vivitar": {
+    "F": [
+      {
+        "id": "vivitar-series-1-24mm-f2-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 24mm f/2 VMC",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.25,
+        "weight": 400,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "Series 1 広角カルト。設計/製造は Kiron (Kino Precision)。VMC = Vivitar Multi-Coated。F2 の広角は当時としても稀有な明るさ。",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "vivitar-series-1-28mm-f1.9-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 28mm f/1.9 VMC",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.3,
+        "weight": 385,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "note": "Series 1 広角カルト。設計/製造は Komine (小峰光学)。当時世界最速級の28mm。開放でグルグル/カルテなボケ味。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "vivitar-series-1-90mm-f2.5-vmc-macro-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 90mm f/2.5 VMC Macro",
+        "mount": "F",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.41,
+        "weight": 500,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "『Bokina』の愛称で有名なポートレート/マクロカルト銘玉。設計 Ellis Betensky、初期型は Kiron 製造、後期型は Komine / Tokina 製造。1:2 マクロ (専用アダプターで 1:1)。VMC = Vivitar Multi-Coated。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "vivitar-series-1-105mm-f2.5-macro-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 105mm f/2.5 Macro",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.47,
+        "weight": 545,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "note": "Series 1 中望遠マクロカルト。設計/製造は Kiron (Kino Precision)。等倍アダプター併用で 1:1。90/2.5 の姉妹版として位置づけられる。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "vivitar-series-1-135mm-f2.3-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 135mm f/2.3 VMC",
+        "mount": "F",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 720,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "Series 1 大口径望遠カルト。設計/製造は Komine (小峰光学)。当時としては驚異的な F2.3 の135mm。VMC = Vivitar Multi-Coated。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "vivitar-series-1-200mm-f3-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 200mm f/3 VMC",
+        "mount": "F",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 2.2,
+        "weight": 780,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "Series 1 大口径望遠カルト。製造は初期 Kiron、後期 Komine ロットあり。当時最速級の200mm F3。VMC = Vivitar Multi-Coated。",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "vivitar-series-1-300mm-f5.6-solid-cat-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 300mm f/5.6 Solid Catadioptric",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 4,
+        "weight": 900,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1977",
+        "discontinued": true,
+        "note": "Series 1『Solid Cat』カルト。中身をガラスで満たしたソリッド型反射望遠(Perkin-Elmer 設計、Solid Schmidt-Cassegrain 派生)。開放固定 F5.6、リングボケ。",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "vivitar-series-1-35-85mm-f2.8-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 35-85mm f/2.8 VMC Variable Focusing",
+        "mount": "F",
+        "focalLength": [
+          35,
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.1,
+        "weight": 795,
+        "bladesCount": 8,
+        "elements": 14,
+        "groups": 12,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "note": "Series 1 の代表作にして『世界初の開放F値一定ズーム (constant-aperture zoom)』。設計 Ellis Betensky、製造 Kiron。Variable Focusing(可変フォーカス)方式でマクロ域も撮影可。",
+        "angleOfView": [
+          63.4,
+          28.6
+        ]
+      },
+      {
+        "id": "vivitar-series-1-70-210mm-f3.5-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 70-210mm f/3.5 VMC",
+        "mount": "F",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 830,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 10,
+        "maxMagnification": 0.5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "70-210mm 全域 F3.5 一定・1:2 マクロ内蔵の Series 1 望遠ズーム伝説機。設計 Ellis Betensky、製造 Kiron (Kino Precision) の1st Version が最も評価が高い。後期には Komine / Tokina / Cosina 製造版も存在。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "vivitar-series-1-90-180mm-f4.5-flat-field-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 90-180mm f/4.5 Flat Field Macro",
+        "mount": "F",
+        "focalLength": [
+          90,
+          180
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.7,
+        "weight": 1030,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 10,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "『Flat Field』の名で知られるマクロズーム・カルト銘玉。像面湾曲を抑え平面複写に強い。設計 Ellis Betensky、製造 Kiron。",
+        "angleOfView": [
+          27,
+          13.7
+        ]
+      },
+      {
+        "id": "vivitar-series-1-100-500mm-f5.6-8-vmc-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 100-500mm f/5.6-8 VMC",
+        "mount": "F",
+        "focalLength": [
+          100,
+          500
+        ],
+        "fStop": [
+          5.6,
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 2.5,
+        "weight": 1900,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "releaseDate": "1977",
+        "discontinued": true,
+        "note": "Series 1 超望遠ズームカルト。5倍ズーム。製造 Cosina。当時の民生用としては極めて広いレンジ。",
+        "angleOfView": [
+          24.4,
+          5
+        ]
+      },
+      {
+        "id": "vivitar-55mm-f2.8-macro-f",
+        "maker": "Vivitar",
+        "name": "Vivitar 55mm f/2.8 Macro",
+        "mount": "F",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.226,
+        "weight": 320,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "廉価版マクロカルト。製造は Komine (小峰光学) の 22 系列。単体で等倍マクロ可能。多マウント OEM 展開。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "vivitar-series-1-800mm-f11-solid-cat-f",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 800mm f/11 Solid Catadioptric",
+        "mount": "F",
+        "focalLength": [
+          800
+        ],
+        "fStop": [
+          11
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 15,
+        "weight": 2100,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "note": "Series 1 超望遠 Solid Cat カルト。ソリッド型反射望遠 800mm F11。Perkin-Elmer 設計譜系。開放固定・リングボケ・非常にコンパクト。",
+        "angleOfView": [
+          3.1
+        ]
+      }
+    ],
+    "K": [
+      {
+        "id": "vivitar-series-1-24mm-f2-vmc-k",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 24mm f/2 VMC",
+        "mount": "K",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.25,
+        "weight": 400,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "Series 1 広角カルト。設計/製造は Kiron (Kino Precision)。VMC = Vivitar Multi-Coated。ペンタックスKマウント版。",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "vivitar-series-1-135mm-f2.3-vmc-k",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 135mm f/2.3 VMC",
+        "mount": "K",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 720,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "Series 1 大口径望遠カルト。設計/製造は Komine (小峰光学)。ペンタックスKマウント版。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "vivitar-series-1-35-85mm-f2.8-vmc-k",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 35-85mm f/2.8 VMC Variable Focusing",
+        "mount": "K",
+        "focalLength": [
+          35,
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.1,
+        "weight": 795,
+        "bladesCount": 8,
+        "elements": 14,
+        "groups": 12,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "note": "『世界初の開放F値一定ズーム』。設計 Ellis Betensky、製造 Kiron。ペンタックスKマウント版。",
+        "angleOfView": [
+          63.4,
+          28.6
+        ]
+      },
+      {
+        "id": "vivitar-series-1-70-210mm-f3.5-vmc-k",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 70-210mm f/3.5 VMC",
+        "mount": "K",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 830,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 10,
+        "maxMagnification": 0.5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "note": "Series 1 望遠ズーム伝説機、Kiron 製 1st Version が最上級。ペンタックスKマウント版。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      }
+    ],
+    "MD": [
+      {
+        "id": "vivitar-series-1-28mm-f1.9-vmc-md",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 28mm f/1.9 VMC",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.3,
+        "weight": 385,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "note": "Series 1 広角カルト。設計/製造は Komine (小峰光学)。ミノルタMD版。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "vivitar-series-1-90mm-f2.5-vmc-macro-md",
+        "maker": "Vivitar",
+        "name": "Vivitar Series 1 90mm f/2.5 VMC Macro",
+        "mount": "MD",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.41,
+        "weight": 500,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "maxMagnification": 0.5,
+        "hasMacro": true,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "『Bokina』の愛称で有名なマクロカルト銘玉。設計 Ellis Betensky、Kiron / Komine / Tokina 製造ロットあり。ミノルタMD版。",
+        "angleOfView": [
+          27
+        ]
+      }
+    ],
+    "M42": [
+      {
+        "id": "vivitar-55mm-f2.8-macro-m42",
+        "maker": "Vivitar",
+        "name": "Vivitar 55mm f/2.8 Macro",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.226,
+        "weight": 320,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "note": "廉価版マクロカルト。製造 Komine。M42 スクリューマウント版。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "vivitar-135mm-f2.8-close-focus-m42",
+        "maker": "Vivitar",
+        "name": "Vivitar Auto Telephoto 135mm f/2.8 Close Focus",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "note": "普及型望遠。多マウント OEM。製造は Komine / Tokina / Cosina のいずれか(シリアル prefix で識別可能)。",
+        "angleOfView": [
+          18.2
         ]
       }
     ]

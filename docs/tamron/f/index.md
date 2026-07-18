@@ -872,3 +872,122 @@
 | Macro | YES |
 | Release Date | 2009 |
 | EAN/JAN Code | 4960371005430 |
+
+### SP 24mm f/2.5 Adaptall-2 (01B)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 24mm |
+| Aperture | F2.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 0.25m |
+| Weight | 240g |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 84.1° |
+| Release Date | 1979 |
+| Discontinued | YES |
+
+### SP 17mm f/3.5 Adaptall-2 (151B)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 17mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 82mm |
+| Min Focus Distance | 0.25m |
+| Weight | 385g |
+| Aperture Blades | 8 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 103.7° |
+| Release Date | 1980 |
+| Discontinued | YES |
+
+### SP 90mm f/2.5 Macro Adaptall-2 (52B)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 90mm |
+| Aperture | F2.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 55mm |
+| Min Focus Distance | 0.39m |
+| Weight | 405g |
+| Max Magnification | 0.5x |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 27° |
+| Macro | YES |
+| Release Date | 1979 |
+| Discontinued | YES |
+
+### SP 200mm f/3.5 Adaptall-2 (04A)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 200mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 2.5m |
+| Weight | 645g |
+| Aperture Blades | 8 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 12.3° |
+| Release Date | 1979 |
+| Discontinued | YES |
+
+### SP 500mm f/8 Tele Macro Adaptall-2 (55B)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 500mm |
+| Aperture | F8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 30.5mm |
+| Min Focus Distance | 1.7m |
+| Weight | 595g |
+| Max Magnification | 0.3x |
+| Optical Construction | 7 elements in 6 groups |
+| Angle of View | 5° |
+| Macro | YES |
+| Release Date | 1979 |
+| Discontinued | YES |
+
+### SP 35-80mm f/2.8-3.8 CF Macro Adaptall-2 (17A)
+|  | |
+| -- | -- |
+| Mount  | F mount |
+| Focal Length | 35 - 80mm |
+| Aperture | F2.8 - 3.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 0.27m |
+| Weight | 555g |
+| Max Magnification | 0.25x |
+| Aperture Blades | 8 |
+| Optical Construction | 12 elements in 9 groups |
+| Angle of View | 63.4° - 30.3° |
+| Macro | YES |
+| Release Date | 1984 |
+| Discontinued | YES |

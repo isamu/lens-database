@@ -112,6 +112,7 @@
 | Angle of View | 42.9° |
 | Diameter | 66.8mm |
 | Length | 66.8mm |
+| MSRP | ¥88,000 |
 | Release Date | 2022-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/z-mount/nokton-55mm-f1-2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/z-mount/nokton-55mm-f1-2/) |
@@ -180,6 +181,7 @@
 | Angle of View | 56.8° |
 | Diameter | 63mm |
 | Length | 37mm |
+| MSRP | ¥66,000 |
 | Release Date | 2024-01 |
 | Official URL | https://www.cosina.co.jp/voigtlander/z-mount/ultron-40mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/z-mount/ultron-40mm-f2/) |

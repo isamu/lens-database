@@ -503,8 +503,9 @@
 | Filter Diameter | 43mm |
 | Weight | 180g |
 | Angle of View | 63.4° |
+| MSRP | ¥70,400 |
 | Release Date | 2016-10-06 |
-| URL | [kakaku](https://kakaku.com/item/K0000903386/) |
+| URL | [kakaku](https://kakaku.com/item/K0000903386/)<br />[official](https://mall-jp.fujifilm.com/shop/g/g16580557/) |
 | EAN/JAN Code | 4547410328813 |
 
 ### XF50mmF2 R WR

@@ -244,3 +244,60 @@
 | Angle of View | 76.5° - 6.5° |
 | Macro | YES |
 | Release Date | 2007 |
+
+### SP 24mm f/2.5 Adaptall-2 (01B)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 24mm |
+| Aperture | F2.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 0.25m |
+| Weight | 240g |
+| Aperture Blades | 8 |
+| Optical Construction | 9 elements in 8 groups |
+| Angle of View | 84.1° |
+| Release Date | 1979 |
+| Discontinued | YES |
+
+### SP 17mm f/3.5 Adaptall-2 (151B)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 17mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 82mm |
+| Min Focus Distance | 0.25m |
+| Weight | 385g |
+| Aperture Blades | 8 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 103.7° |
+| Release Date | 1980 |
+| Discontinued | YES |
+
+### SP 200mm f/3.5 Adaptall-2 (04A)
+|  | |
+| -- | -- |
+| Mount  | K mount |
+| Focal Length | 200mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 2.5m |
+| Weight | 645g |
+| Aperture Blades | 8 |
+| Optical Construction | 5 elements in 5 groups |
+| Angle of View | 12.3° |
+| Release Date | 1979 |
+| Discontinued | YES |
