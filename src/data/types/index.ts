@@ -35,7 +35,11 @@ export type Maker =
   | "Meyer"
   | "Zenit"
   | "Chinon"
-  | "Ricoh";
+  | "Ricoh"
+  | "Rollei"
+  | "Miranda"
+  | "Petri"
+  | "Fujica";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
@@ -49,6 +53,16 @@ export type LeicaMount = "M" | "L" | "R";
 export type YashicaMount = "CY" | "M42";
 export type KonicaMount = "AR";
 export type MinoltaMount = "MD";
+// Rollei QBM (Quick Bayonet Mount) used on Rolleiflex SL35 series (1970-1982).
+// SL is the earlier breech-lock mount on Rolleiflex SL26/SL66 systems.
+export type RolleiMount = "QBM" | "SL";
+// Miranda bayonet used on Miranda SLR bodies (1955-1978).
+export type MirandaMount = "Miranda";
+// Petri breech-lock bayonet used on Petri SLR bodies (1959-1977).
+export type PetriMount = "Petri";
+// Fujica FX bayonet used on Fujica AX SLR bodies (1979-1984).
+// Distinct from Fujifilm X mirrorless mount — FX = Fujica bayonet.
+export type FujicaMount = "FX";
 // Universal M42 x1 screw mount used across many makers (1949-1970s).
 // Kept as a stand-alone mount so brand-independent M42 lenses can be
 // registered under any maker without extending each maker's own union.
@@ -67,6 +81,10 @@ export type Mount =
   | YashicaMount
   | KonicaMount
   | MinoltaMount
+  | RolleiMount
+  | MirandaMount
+  | PetriMount
+  | FujicaMount
   | M42Mount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";

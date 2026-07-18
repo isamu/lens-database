@@ -33,4 +33,8 @@ export * from "./meyer";
 export * from "./zenit";
 export * from "./chinon";
 export * from "./ricoh";
+export * from "./rollei";
+export * from "./miranda";
+export * from "./petri";
+export * from "./fujica";
 export * from "./types";
