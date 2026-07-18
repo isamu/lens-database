@@ -16,6 +16,7 @@
 | Max Magnification | 0.25x |
 | Optical Construction | 12 elements in 10 groups |
 | Angle of View | 104.5° - 70.7° |
+| MSRP | ¥96,800 |
 | Release Date | 2023-05-30 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b060/ |
 | EAN/JAN Code | 4960371006857 |
@@ -36,6 +37,7 @@
 | Max Magnification | 0.21x |
 | Optical Construction | 16 elements in 12 groups |
 | Angle of View | 79.7° - 22.9° |
+| MSRP | ¥107,800 |
 | Release Date | 2022 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b070/ |
 | EAN/JAN Code | 4960371006802 |
@@ -56,7 +58,8 @@
 | Max Magnification | 0.5x |
 | Optical Construction | 19 elements in 15 groups |
 | Angle of View | 76.5° - 5.4° |
-| Release Date | 2021 |
+| MSRP | ¥96,800 |
+| Release Date | 2021-11-25 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b061/ |
 | EAN/JAN Code | 4960371006772 |
 
@@ -76,6 +79,6 @@
 | Max Magnification | 0.32x |
 | Optical Construction | 25 elements in 16 groups |
 | Angle of View | 16.4° - 5° |
-| Release Date | 2022 |
+| Release Date | 2022-10-13 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a057/ |
 | EAN/JAN Code | 4960371006833 |

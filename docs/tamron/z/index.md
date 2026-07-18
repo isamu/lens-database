@@ -16,7 +16,8 @@
 | Max Magnification | 0.2x |
 | Optical Construction | 15 elements in 10 groups |
 | Angle of View | 34.3° - 8.2° |
-| Release Date | 2022 |
+| MSRP | ¥93,500 |
+| Release Date | 2022-09-29 |
 | EAN/JAN Code | 4960371006840 |
 
 ### 28-75mm F/2.8 Di III VXD G2
@@ -35,6 +36,7 @@
 | Max Magnification | 0.37x |
 | Optical Construction | 17 elements in 15 groups |
 | Angle of View | 75.4° - 32.2° |
+| MSRP | ¥154,000 |
 | Release Date | 2024-04-18 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a063/ |
 | URL | [kakaku](https://kakaku.com/item/K0001616164/)<br />[official](https://www.tamron.com/jp/consumer/lenses/a063/) |
@@ -56,6 +58,7 @@
 | Max Magnification | 0.18x |
 | Optical Construction | 21 elements in 15 groups |
 | Angle of View | 63.4° - 16.4° |
+| MSRP | ¥258,500 |
 | Release Date | 2023-09-21 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a058/ |
 | EAN/JAN Code | 4960371006888 |
@@ -76,6 +79,7 @@
 | Max Magnification | 0.5x |
 | Optical Construction | 24 elements in 18 groups |
 | Angle of View | 46.8° - 6.2° |
+| MSRP | ¥214,500 |
 | Release Date | 2024-09-19 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a067/ |
 | EAN/JAN Code | 4960371006956 |
@@ -96,6 +100,7 @@
 | Max Magnification | 0.38x |
 | Optical Construction | 20 elements in 15 groups |
 | Angle of View | 34.3° - 13.7° |
+| MSRP | ¥199,980 |
 | Release Date | 2025 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a065/ |
 | EAN/JAN Code | 4960371007045 |
@@ -117,6 +122,7 @@
 | Optical Construction | 15 elements in 12 groups |
 | Angle of View | 27° |
 | Macro | YES |
+| MSRP | ¥134,200 |
 | Release Date | 2024-10-24 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/f072/ |
 | EAN/JAN Code | 4960371006949 |
@@ -136,7 +142,8 @@
 | Max Magnification | 0.19x |
 | Optical Construction | 16 elements in 12 groups |
 | Angle of View | 107° - 71.6° |
-| Release Date | 2025 |
+| MSRP | ¥168,300 |
+| Release Date | 2025-08-22 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a064/ |
 | EAN/JAN Code | 4960371006987 |
 
@@ -155,6 +162,7 @@
 | Max Magnification | 0.3x |
 | Optical Construction | 15 elements in 13 groups |
 | Angle of View | 63.4° - 24.4° |
+| MSRP | ¥178,200 |
 | Release Date | 2026-03-26 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a078/ |
 | EAN/JAN Code | 4960371007038 |
@@ -177,6 +185,7 @@
 | Angle of View | 122° - 94.5° |
 | Diameter | 90mm |
 | Length | 121.3mm |
+| MSRP | ¥399,960 |
 | Release Date | 2026-08-27 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a084/ |
 | EAN/JAN Code | 4960371007083 |
@@ -197,6 +206,7 @@
 | Max Magnification | 0.21x |
 | Optical Construction | 16 elements in 12 groups |
 | Angle of View | 79.7° - 22.9° |
+| MSRP | ¥166,100 |
 | Release Date | 2026 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b070/ |
 | EAN/JAN Code | 4960371007090 |
@@ -217,6 +227,7 @@
 | Max Magnification | 0.5x |
 | Optical Construction | 19 elements in 15 groups |
 | Angle of View | 76.5° - 5.4° |
+| MSRP | ¥104,500 |
 | Release Date | 2025 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/b061/ |
 | EAN/JAN Code | 4960371007007 |
@@ -237,6 +248,7 @@
 | Max Magnification | 0.32x |
 | Optical Construction | 25 elements in 16 groups |
 | Angle of View | 16.4° - 5° |
+| MSRP | ¥198,000 |
 | Release Date | 2023-10-31 |
 | Official URL | https://www.tamron.com/jp/consumer/lenses/a057/ |
 | EAN/JAN Code | 4960371006895 |
