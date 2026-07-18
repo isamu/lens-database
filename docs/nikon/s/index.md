@@ -217,3 +217,103 @@
 | Angle of View | 13.7° |
 | Release Date | 1953 |
 | Discontinued | YES (1962) |
+
+### Nikkor-S 5cm F1.4 (S3 2000 reissue)
+|  | |
+| -- | -- |
+| Mount  | S mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 43mm |
+| Min Focus Distance | 0.9m |
+| Weight | 235g |
+| Aperture Blades | 10 |
+| Optical Construction | 7 elements in 3 groups |
+| Angle of View | 46.8° |
+| Predecessor | nikon-nikkor-s-c-5cm-f1.4-s |
+| Release Date | 2000-03 |
+| Discontinued | YES (2005) |
+
+### Nikkor-S 5cm F1.4 Titanium (S3 2000 limited)
+|  | |
+| -- | -- |
+| Mount  | S mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 43mm |
+| Min Focus Distance | 0.9m |
+| Weight | 240g |
+| Aperture Blades | 10 |
+| Optical Construction | 7 elements in 3 groups |
+| Angle of View | 46.8° |
+| Predecessor | nikon-nikkor-s-c-5cm-f1.4-s |
+| Release Date | 2000-03 |
+| Discontinued | YES (2000) |
+
+### W-Nikkor 3.5cm F1.8 (S3 2000-era reissue)
+|  | |
+| -- | -- |
+| Mount  | S mount |
+| Focal Length | 35mm |
+| Aperture | F1.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 43mm |
+| Min Focus Distance | 0.9m |
+| Weight | 250g |
+| Aperture Blades | 10 |
+| Optical Construction | 7 elements in 5 groups |
+| Angle of View | 63.4° |
+| Predecessor | nikon-w-nikkor-3.5cm-f1.8-s |
+| Release Date | 2002 |
+| Discontinued | YES (2005) |
+
+### Nikkor-P 10.5cm F2.5 (SP 2005 reissue)
+|  | |
+| -- | -- |
+| Mount  | S mount |
+| Focal Length | 105mm |
+| Aperture | F2.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 43mm |
+| Min Focus Distance | 1m |
+| Weight | 425g |
+| Aperture Blades | 10 |
+| Optical Construction | 5 elements in 3 groups |
+| Angle of View | 23.3° |
+| Predecessor | nikon-nikkor-p-c-10.5cm-f2.5-s |
+| Release Date | 2005-03 |
+| Discontinued | YES (2005) |
+
+### W-Nikkor 2.8cm F3.5 (SP 2005 reissue)
+|  | |
+| -- | -- |
+| Mount  | S mount |
+| Focal Length | 28mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 34.5mm |
+| Min Focus Distance | 0.9m |
+| Weight | 145g |
+| Aperture Blades | 10 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 75.4° |
+| Predecessor | nikon-w-nikkor-c-2.8cm-f3.5-s |
+| Release Date | 2005-03 |
+| Discontinued | YES (2005) |

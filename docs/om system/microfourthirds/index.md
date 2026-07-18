@@ -19,6 +19,7 @@
 | Angle of View | 84.1° - 30.3° |
 | Diameter | 69.9mm |
 | Length | 84mm |
+| MSRP | ¥134,750 |
 | Release Date | 2022-03-25 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/12-40_28pro_2/index.html)<br />[kakaku](https://kakaku.com/item/K0001421844/) |
 | EAN/JAN Code | 4545350053727 |
@@ -42,6 +43,7 @@
 | Angle of View | 30.3° - 8.2° |
 | Diameter | 68.9mm |
 | Length | 99.4mm |
+| MSRP | ¥159,500 |
 | Release Date | 2022-03-25 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/40-150_4pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001421843/) |
 | EAN/JAN Code | 4545350053772 |
@@ -88,6 +90,7 @@
 | Angle of View | 100.5° - 62° |
 | Diameter | 56.2mm |
 | Length | 49.3mm |
+| MSRP | ¥82,500 |
 | Release Date | 2024-02-23 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/9-18_40-56_2/index.html)<br />[kakaku](https://kakaku.com/item/K0001602425/) |
 | EAN/JAN Code | 4545350056001 |
@@ -111,6 +114,7 @@
 | Angle of View | 8.2° - 2.1° |
 | Diameter | 109.4mm |
 | Length | 264.4mm |
+| MSRP | ¥495,000 |
 | Release Date | 2024-03-15 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/150-600_50-63is/index.html)<br />[kakaku](https://kakaku.com/item/K0001602426/) |
 | EAN/JAN Code | 4545350056070 |
@@ -134,6 +138,7 @@
 | Angle of View | 64.9° |
 | Diameter | 57.6mm |
 | Length | 37.6mm |
+| MSRP | ¥71,500 |
 | Release Date | 2025-03-01 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/premi/17_18_2/index.html)<br />[kakaku](https://kakaku.com/item/K0001674973/) |
 | EAN/JAN Code | 4545350056643 |
@@ -157,6 +162,7 @@
 | Angle of View | 46.8° |
 | Diameter | 59.4mm |
 | Length | 42mm |
+| MSRP | ¥60,500 |
 | Release Date | 2025-03-01 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/premi/25_18_2/index.html)<br />[kakaku](https://kakaku.com/item/K0001674974/) |
 
@@ -180,6 +186,7 @@
 | Diameter | 69.8mm |
 | Length | 136mm |
 | Macro | YES |
+| MSRP | ¥231,000 |
 | Release Date | 2023-02-24 |
 | URL | [official](https://jp.omsystem.com/product/lens/macro/90_35macroispro/index.html)<br />[kakaku](https://kakaku.com/item/K0001514892/) |
 | EAN/JAN Code | 4545350053925 |

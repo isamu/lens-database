@@ -18,6 +18,7 @@
 | Angle of View | 114.2° - 75.4° |
 | Diameter | 78.9mm |
 | Length | 105.8mm |
+| MSRP | ¥264,000 |
 | Release Date | 2015-06-26 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/7-14_28pro/index.html)<br />[kakaku](https://kakaku.com/item/K0000775859/) |
 | EAN/JAN Code | 4545350047924 |
@@ -41,6 +42,7 @@
 | Angle of View | 107° - 46.8° |
 | Diameter | 77mm |
 | Length | 88.5mm |
+| MSRP | ¥176,000 |
 | Release Date | 2021-06-25 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/8-25_4pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001360933/) |
 | EAN/JAN Code | 4545350054205 |
@@ -88,6 +90,7 @@
 | Angle of View | 84.1° - 27° |
 | Diameter | 63.4mm |
 | Length | 70mm |
+| MSRP | ¥93,500 |
 | Release Date | 2020-03-27 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/12-45_4pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001231957/) |
 | EAN/JAN Code | 4545350054014 |
@@ -111,6 +114,7 @@
 | Angle of View | 84.1° - 12.3° |
 | Diameter | 77.5mm |
 | Length | 116.5mm |
+| MSRP | ¥264,000 |
 | Release Date | 2016-11-18 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/12-100_4ispro/index.html)<br />[kakaku](https://kakaku.com/item/K0000910962/) |
 | EAN/JAN Code | 4545350054151 |
@@ -134,6 +138,7 @@
 | Angle of View | 30.3° - 8.2° |
 | Diameter | 79.4mm |
 | Length | 160mm |
+| MSRP | ¥286,000 |
 | Release Date | 2014-11-29 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/40-150_28pro/index.html)<br />[kakaku](https://kakaku.com/item/K0000693529/) |
 | EAN/JAN Code | 4545350054182 |
@@ -157,6 +162,7 @@
 | Angle of View | 8.2° - 3.1° |
 | Diameter | 115.8mm |
 | Length | 314.3mm |
+| MSRP | ¥1,100,000 |
 | Release Date | 2021-01-22 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/pro/150-400_45ispro/index.html)<br />[kakaku](https://kakaku.com/item/K0001313618/) |
 | EAN/JAN Code | 4545350054175 |
@@ -180,6 +186,7 @@
 | Angle of View | 84.1° - 6.2° |
 | Diameter | 77.5mm |
 | Length | 99.7mm |
+| MSRP | ¥154,000 |
 | Release Date | 2019-03-22 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/12-200_35-63/index.html)<br />[kakaku](https://kakaku.com/item/K0001129701/) |
 | EAN/JAN Code | 4545350054236 |
@@ -203,6 +210,7 @@
 | Angle of View | 75.4° - 8.2° |
 | Diameter | 63.5mm |
 | Length | 83mm |
+| MSRP | ¥97,625 |
 | Release Date | 2015-02-20 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/14-150_40-56_2/index.html)<br />[kakaku](https://kakaku.com/item/K0000740866/) |
 | EAN/JAN Code | 4545350054021 |
@@ -226,6 +234,7 @@
 | Angle of View | 30.3° - 8.2° |
 | Diameter | 63.5mm |
 | Length | 83mm |
+| MSRP | ¥52,250 |
 | Release Date | 2011-09-03 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/40-150_40-56_r/index.html)<br />[kakaku](https://kakaku.com/item/K0000268487/) |
 | EAN/JAN Code | 4545350054274 |
@@ -249,6 +258,7 @@
 | Angle of View | 16.4° - 4.1° |
 | Diameter | 69mm |
 | Length | 116.5mm |
+| MSRP | ¥60,500 |
 | Release Date | 2013-03-01 |
 | URL | [official](https://jp.omsystem.com/product/lens/zoom/mzuiko/75-300_48-67_2/index.html)<br />[kakaku](https://kakaku.com/item/K0000463666/) |
 | EAN/JAN Code | 4545350054298 |
@@ -271,6 +281,7 @@
 | Diameter | 62mm |
 | Length | 80mm |
 | Fisheye | YES |
+| MSRP | ¥198,000 |
 | Release Date | 2015-06-26 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/8_18pro/index.html)<br />[kakaku](https://kakaku.com/item/K0000775858/) |
 | EAN/JAN Code | 4545350054212 |
@@ -294,6 +305,7 @@
 | Angle of View | 64.9° |
 | Diameter | 68.2mm |
 | Length | 87mm |
+| MSRP | ¥220,000 |
 | Release Date | 2018-01-26 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/17_12pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001008887/) |
 | EAN/JAN Code | 4545350051662 |
@@ -317,6 +329,7 @@
 | Angle of View | 56.8° |
 | Diameter | 63.4mm |
 | Length | 61.7mm |
+| MSRP | ¥104,500 |
 | Release Date | 2021-12-10 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/20_14pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001397210/) |
 | EAN/JAN Code | 4545350053758 |
@@ -340,6 +353,7 @@
 | Angle of View | 46.8° |
 | Diameter | 70mm |
 | Length | 87mm |
+| MSRP | ¥220,000 |
 | Release Date | 2016-11-18 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/25_12pro/index.html)<br />[kakaku](https://kakaku.com/item/K0000910961/) |
 | EAN/JAN Code | 4545350054144 |
@@ -363,6 +377,7 @@
 | Angle of View | 27° |
 | Diameter | 70mm |
 | Length | 84.9mm |
+| MSRP | ¥220,000 |
 | Release Date | 2017-11-24 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/45_12pro/index.html)<br />[kakaku](https://kakaku.com/item/K0001008888/) |
 | EAN/JAN Code | 4545350054168 |
@@ -386,6 +401,7 @@
 | Angle of View | 4.1° |
 | Diameter | 92.5mm |
 | Length | 227mm |
+| MSRP | ¥522,500 |
 | Release Date | 2016-02-26 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/pro/300_4ispro/index.html)<br />[kakaku](https://kakaku.com/item/K0000843555/) |
 | EAN/JAN Code | 4545350055875 |
@@ -409,6 +425,7 @@
 | Angle of View | 84.1° |
 | Diameter | 56mm |
 | Length | 43mm |
+| MSRP | ¥104,500 |
 | Release Date | 2011-07-22 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/premi/12_20/index.html)<br />[kakaku](https://kakaku.com/item/K0000687811/) |
 | EAN/JAN Code | 4545350054120 |
@@ -432,6 +449,7 @@
 | Angle of View | 27° |
 | Diameter | 56mm |
 | Length | 46mm |
+| MSRP | ¥38,500 |
 | Release Date | 2011-09-09 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/premi/45_18/index.html)<br />[kakaku](https://kakaku.com/item/K0000508919/) |
 | EAN/JAN Code | 4545350044138 |
@@ -455,6 +473,7 @@
 | Angle of View | 16.4° |
 | Diameter | 64mm |
 | Length | 69mm |
+| MSRP | ¥130,900 |
 | Release Date | 2012-07-06 |
 | URL | [official](https://jp.omsystem.com/product/lens/single/premi/75_18/index.html)<br />[kakaku](https://kakaku.com/item/K0001661803/) |
 | EAN/JAN Code | 4545350054113 |

@@ -1,4 +1,319 @@
 {
+  "Alpa": {
+    "Alpa": [
+      {
+        "id": "alpa-kern-macro-switar-50mm-f1.8-ar",
+        "maker": "Alpa",
+        "name": "Alpa Kern Macro-Switar 50mm f/1.8 AR",
+        "mount": "Alpa",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "filterDiameter": 44,
+        "minFocusDistance": 0.28,
+        "weight": 260,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kern-Paillard (Aarau, Switzerland). Alpa kit-legend standard prime — the definitive cult banner of the ALPA system. 7-element double-Gauss with continuous close focus to 0.28m (1:2 macro). AR = anti-reflection coating. Highly collectible; commands grail-tier prices on the used market.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "alpa-kern-macro-switar-75mm-f1.9-ar",
+        "maker": "Alpa",
+        "name": "Alpa Kern Macro-Switar 75mm f/1.9 AR",
+        "mount": "Alpa",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.55,
+        "weight": 380,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kern-Paillard (Switzerland). Fast short-tele portrait Macro-Switar for ALPA. Continuous close focus, 1:2 macro. Cult classic — extremely rare in native Alpa mount.",
+        "angleOfView": [
+          32.2
+        ]
+      },
+      {
+        "id": "alpa-kern-switar-50mm-f1.9-ar",
+        "maker": "Alpa",
+        "name": "Alpa Kern Switar 50mm f/1.9 AR",
+        "mount": "Alpa",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kern-Paillard (Switzerland). Pre-Macro Switar 50mm standard — the earlier non-macro sibling of the Macro-Switar 50/1.8. Double-Gauss design. Cult classic Swiss glass.",
+        "successorId": "alpa-kern-macro-switar-50mm-f1.8-ar",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "alpa-kern-yvar-100mm-f2.8-ar",
+        "maker": "Alpa",
+        "name": "Alpa Kern Yvar 100mm f/2.8 AR",
+        "mount": "Alpa",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 1.5,
+        "weight": 320,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kern-Paillard (Switzerland). Yvar is Kern's economy line — a Tessar-type 4-element portrait tele. Compact and lightweight. Cult classic.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "alpa-kern-yvar-150mm-f3.3-ar",
+        "maker": "Alpa",
+        "name": "Alpa Kern Yvar 150mm f/3.3 AR",
+        "mount": "Alpa",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          3.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 2,
+        "weight": 420,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kern-Paillard (Switzerland). Yvar 150mm Tessar-type tele. Compact medium telephoto for ALPA. Cult classic.",
+        "angleOfView": [
+          16.4
+        ]
+      },
+      {
+        "id": "alpa-angenieux-28mm-f3.5-r61",
+        "maker": "Alpa",
+        "name": "Alpa Angénieux 28mm f/3.5 Type R61 Retrofocus",
+        "mount": "Alpa",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.7,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by P. Angénieux (Paris, France). R61 retrofocus wide-angle — Angénieux invented the retrofocus formula. Alpa-mount variant is far rarer than the M42/Exakta versions. Cult classic French wide.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "alpa-angenieux-50mm-f1.5-s21",
+        "maker": "Alpa",
+        "name": "Alpa Angénieux 50mm f/1.5 Type S21",
+        "mount": "Alpa",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 320,
+        "bladesCount": 12,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by P. Angénieux (Paris, France). S21 double-Gauss fast normal — the storied Angénieux 50/1.5, dreamy Petzval-adjacent rendering wide open. Alpa-mount version is grail-tier. Cult classic among French-glass collectors.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "alpa-kinoptik-apochromat-100mm-f2",
+        "maker": "Alpa",
+        "name": "Alpa Kinoptik Apochromat 100mm f/2",
+        "mount": "Alpa",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 620,
+        "bladesCount": 15,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kinoptik (Paris, France). Cine-derived apochromat portrait tele — one of the most legendary cult grails in all of Alpa glass. Kinoptik's Apochromat correction gives razor-sharp resolution with painterly bokeh. Vanishingly rare in native Alpa mount. Deep grail tier for collectors.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "alpa-kinoptik-150mm-f2.8",
+        "maker": "Alpa",
+        "name": "Alpa Kinoptik 150mm f/2.8",
+        "mount": "Alpa",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2,
+        "weight": 780,
+        "bladesCount": 15,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Designed and manufactured by Kinoptik (Paris, France). Fast cine-derived 150mm tele. Companion piece to the Kinoptik Apochromat 100/2. Extremely rare in Alpa mount, cult grail glass.",
+        "angleOfView": [
+          16.4
+        ]
+      },
+      {
+        "id": "alpa-schneider-xenon-50mm-f1.9",
+        "maker": "Alpa",
+        "name": "Alpa Schneider Xenon 50mm f/1.9",
+        "mount": "Alpa",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 230,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1946",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Designed and manufactured by Schneider-Kreuznach (Germany). Early ALPA standard prime supplied by Schneider before Kern-Paillard took over as ALPA's main optical partner. Xenon double-Gauss. Cult classic early Alpa glass.",
+        "angleOfView": [
+          46.8
+        ]
+      }
+    ]
+  },
   "Angenieux": {
     "M42": [
       {
@@ -18317,6 +18632,462 @@
       }
     ]
   },
+  "Kiev": {
+    "ContaxRF": [
+      {
+        "id": "kiev-russar-mr-2-20mm-f5.6",
+        "maker": "Kiev",
+        "name": "Russar MR-2 20mm F5.6 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.5,
+        "weight": 100,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Cult Soviet super-wide by Mikhail Roosinov, the world's first mass-produced 20mm rangefinder lens and the pioneering design that solved corner illumination on ultra-wides (the 'Roosinov formula'). Uses external finder. KMZ Krasnogorsk. Legendary among adapted-lens shooters on modern mirrorless.",
+        "angleOfView": [
+          94.5
+        ]
+      },
+      {
+        "id": "kiev-orion-15-28mm-f6",
+        "maker": "Kiev",
+        "name": "Orion-15 28mm F6 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 130,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "discontinuedDate": "1975",
+        "note": "Symmetrical four-element Topogon-derived wide, direct descendant of the pre-war Zeiss Topogon 25/4 (Dresden). Requires external viewfinder; unusual F6 max aperture. Rare and cult. KMZ Krasnogorsk.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kiev-jupiter-12-35mm-f2.8",
+        "maker": "Kiev",
+        "name": "Jupiter-12 35mm F2.8 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 140,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Cult Soviet reissue of the pre-war Zeiss Biogon 35/2.8 (Bertele, 1937). Enormous rear element protrudes deep into the body — physically incompatible with many later cameras (SLRs, some Leica M helicoids). On Contax/Kiev RF it is a stellar performer with classic Biogon signature. KMZ Krasnogorsk, later Arsenal Kiev.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "kiev-rubin-1-37-80mm-f2.8",
+        "maker": "Kiev",
+        "name": "Rubin-1 37-80mm F2.8 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          37,
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 800,
+        "bladesCount": 8,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "The first Soviet zoom lens, shown at the 1958 Brussels World Fair and produced for the short-lived Zenit-6 / Start SLRs. Extremely rare in Contax RF mount — collector cult item. KMZ Krasnogorsk.",
+        "angleOfView": [
+          60.6,
+          30.3
+        ]
+      },
+      {
+        "id": "kiev-jupiter-8-50mm-f2",
+        "maker": "Kiev",
+        "name": "Jupiter-8 50mm F2 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 130,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1948",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Direct Soviet reissue of the pre-war Zeiss Sonnar 50/2 (Bertele, 1932). The 'kit' standard for the Kiev rangefinders. Single-coated early production, multi-coated late samples. Classic Sonnar rendering at a fraction of the Zeiss price. KMZ Krasnogorsk, later Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-jupiter-8m-50mm-f2",
+        "maker": "Kiev",
+        "name": "Jupiter-8M 50mm F2 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 140,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later click-stopped multi-coated variant of the Jupiter-8. Improved contrast and flare resistance over the un-clicked original. Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-jupiter-3-50mm-f1.5",
+        "maker": "Kiev",
+        "name": "Jupiter-3 50mm F1.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 145,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1948",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "The 'poor man's Sonnar 50/1.5' — direct Soviet reissue of the pre-war Zeiss Sonnar 50/1.5 (Bertele, 1932), built at first from captured Zeiss glass. Cult status among adapted-lens shooters for its Sonnar swirly bokeh and low-contrast pre-war rendering. Early KMZ samples are the most sought-after; late Arsenal samples are common.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-zorki-10-50mm-f1.5",
+        "maker": "Kiev",
+        "name": "Zorki-10 50mm F1.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 160,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Very rare late Soviet fast fifty — a small production run of a re-computed Sonnar 50/1.5 derivative. Almost never seen outside the former USSR; a collector curio. Factory attribution disputed (likely KMZ prototype).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-helios-103-53mm-f1.8",
+        "maker": "Kiev",
+        "name": "Helios-103 53mm F1.8 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          53
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 135,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later cult Soviet fast normal, standard on the Kiev-4AM. Double-Gauss (not Sonnar) formula, multi-coated, higher contrast than the Jupiter-8. Cult favorite for its 'modern' rendering with pre-war build quality. Arsenal Kiev.",
+        "angleOfView": [
+          44.4
+        ]
+      },
+      {
+        "id": "kiev-jupiter-9-85mm-f2",
+        "maker": "Kiev",
+        "name": "Jupiter-9 85mm F2 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.15,
+        "weight": 385,
+        "bladesCount": 15,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Soviet portrait king — reissue of the pre-war Zeiss Sonnar 85/2 (Bertele, 1936). 15-blade aperture gives near-circular out-of-focus highlights, prized for silky skin rendering and painterly bokeh. Enormous cult status on modern mirrorless (Sony E, Fujifilm X). Early black-barrel KMZ samples are the most sought-after; later Arsenal Kiev silver-barrel samples common.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "kiev-jupiter-11-135mm-f4",
+        "maker": "Kiev",
+        "name": "Jupiter-11 135mm F4 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 490,
+        "bladesCount": 11,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1948",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Soviet reissue of the pre-war Zeiss Sonnar 135/4 (1934). Common but competent classic short tele — cheap entry point into the Sonnar sound. Mounts on the outer bayonet, requires the correct RF cam for coupled focus. KMZ Krasnogorsk, later Arsenal Kiev.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "kiev-jupiter-11a-135mm-f4",
+        "maker": "Kiev",
+        "name": "Jupiter-11A 135mm F4 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 11,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later multi-coated variant of the Jupiter-11 with black barrel and preset diaphragm. Improved contrast and coatings over the original silver-barrel version. Arsenal Kiev.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "kiev-tele-helios-40-100mm-f4.5",
+        "maker": "Kiev",
+        "name": "Tele-Helios 40 100mm F4.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 320,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1975",
+        "note": "Obscure Soviet short-tele prototype series in Contax RF mount — rare production, exact spec varies by sample. Collector curio rather than a working lens. KMZ Krasnogorsk.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "kiev-jupiter-6-180mm-f2.8",
+        "maker": "Kiev",
+        "name": "Jupiter-6 180mm F2.8 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "weight": 1900,
+        "bladesCount": 14,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Direct Soviet reissue of the legendary 'Olympia-Sonnar' 180/2.8 (Zeiss Dresden, 1936 Berlin Olympics). Big, heavy, brass-and-glass; requires the Kiev-4 reflex housing 'NFK-3' for framing. Cult grail item. KMZ Krasnogorsk.",
+        "angleOfView": [
+          13.7
+        ]
+      },
+      {
+        "id": "kiev-jupiter-13-105mm-f4",
+        "maker": "Kiev",
+        "name": "Jupiter-13 105mm F4 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 350,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "discontinuedDate": "1975",
+        "note": "Compact Sonnar-formula short tele of the Jupiter family — an interesting focal length between the Jupiter-9 (85) and Jupiter-11 (135). Rare in Contax RF mount. KMZ Krasnogorsk.",
+        "angleOfView": [
+          23.3
+        ]
+      }
+    ]
+  },
   "Konica": {
     "AR": [
       {
@@ -23288,6 +24059,690 @@
         "hasMacro": true,
         "angleOfView": [
           26.6
+        ]
+      }
+    ],
+    "LTM": [
+      {
+        "id": "leica-super-angulon-21mm-f4-ltm",
+        "maker": "Leica",
+        "name": "Super-Angulon 21mm F/4 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 300,
+        "minFocusDistance": 0.4,
+        "bladesCount": 10,
+        "elements": 9,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1963",
+        "note": "Ultra-wide made by Schneider-Kreuznach for Leitz; symmetrical design, deep rear element. Requires external 21mm finder. Later re-released as an M-mount version.",
+        "angleOfView": [
+          91.7
+        ]
+      },
+      {
+        "id": "leica-hektor-28mm-f6.3-ltm",
+        "maker": "Leica",
+        "name": "Hektor 28mm F/6.3 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 185,
+        "minFocusDistance": 1,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1935",
+        "discontinued": true,
+        "discontinuedDate": "1955",
+        "note": "First Leica 28mm. Very small, slow f/6.3 aperture. A36 slip-on filter. Pre-war examples are uncoated; post-war examples are single-coated.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "leica-elmar-35mm-f3.5-ltm",
+        "maker": "Leica",
+        "name": "Elmar 35mm F/3.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 110,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1930",
+        "discontinued": true,
+        "discontinuedDate": "1948",
+        "note": "First Leica 35mm wide-angle; Tessar-type 4-element design. A36 slip-on filter. Compact and characteristic classic rendering.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "leica-summaron-35mm-f3.5-ltm",
+        "maker": "Leica",
+        "name": "Summaron 35mm F/3.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 125,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1946",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Post-war 35mm replacement for the Elmar 35/3.5. Six-element double-Gauss-derived design, coated. Cult wide with gentle contrast.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "leica-summaron-35mm-f2.8-ltm",
+        "maker": "Leica",
+        "name": "Summaron 35mm F/2.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 180,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1963",
+        "note": "Faster follow-up to the f/3.5 Summaron. Better corner performance wide-open; coated. Also produced in parallel as an M-mount.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "leica-summicron-35mm-f2-ltm",
+        "maker": "Leica",
+        "name": "Summicron 35mm F/2 (LTM, 8-element)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 160,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1963",
+        "note": "The legendary 8-element Summicron 35 in LTM. Very rare in screw mount; a cult classic on Leica M via adapter for its rendering.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "leica-elmar-50mm-f3.5-collapsible-ltm",
+        "maker": "Leica",
+        "name": "Elmar 50mm F/3.5 Collapsible (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 110,
+        "minFocusDistance": 1,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1930",
+        "discontinued": true,
+        "discontinuedDate": "1959",
+        "note": "The archetypal Leica lens. Tessar-type 4/3 collapsible design used as the kit lens on Leica I / II / III bodies for three decades. A36 slip-on filter. Nickel, chrome, and red-scale variants exist. Uncoated pre-war, coated post-war.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-elmar-50mm-f2.8-ltm",
+        "maker": "Leica",
+        "name": "Elmar 50mm F/2.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 155,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Improved Tessar-type Elmar with new glass and a faster f/2.8 aperture. Collapsible. Predominantly sold as M-mount; LTM examples are less common.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-hektor-50mm-f2.5-ltm",
+        "maker": "Leica",
+        "name": "Hektor 50mm F/2.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 230,
+        "minFocusDistance": 1,
+        "bladesCount": 15,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1931",
+        "discontinued": true,
+        "discontinuedDate": "1949",
+        "note": "First fast(er) Leica 50mm alternative to the Elmar. Triplet-derived 6/3 design (three cemented pairs). Uncoated; characteristic vintage rendering.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-summar-50mm-f2-ltm",
+        "maker": "Leica",
+        "name": "Summar 50mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 245,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1933",
+        "discontinued": true,
+        "discontinuedDate": "1940",
+        "note": "Cult classic: uncoated double-Gauss with a famously glowing, dreamlike wide-open signature. Collapsible. Front element scratches easily — pristine copies are rare.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-summitar-50mm-f2-ltm",
+        "maker": "Leica",
+        "name": "Summitar 50mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36.5,
+        "weight": 250,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 4,
+        "releaseDate": "1939",
+        "discontinued": true,
+        "discontinuedDate": "1953",
+        "note": "Cult successor to the Summar; 7-element double-Gauss, collapsible. Later coated post-war examples are marked Summitar*. Famous for its hexagonal/octagonal aperture bokeh that renders bright out-of-focus highlights as polygons.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-summicron-50mm-f2-collapsible-ltm",
+        "maker": "Leica",
+        "name": "Summicron 50mm F/2 Collapsible (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 220,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "The first Summicron — a landmark computed with rare-earth (thoriated) glass. Collapsible. Considered the reference-grade fast standard of its era and a cult classic on Leica M digital.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-summarit-50mm-f1.5-ltm",
+        "maker": "Leica",
+        "name": "Summarit 50mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 41,
+        "weight": 305,
+        "minFocusDistance": 1,
+        "bladesCount": 15,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1949",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Post-war fast standard based on the Schneider Xenon computation, coated. Soft and glowing wide-open, sharpens rapidly by f/4. E41 filter thread — hard to find modern filters.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-xenon-50mm-f1.5-ltm",
+        "maker": "Leica",
+        "name": "Xenon 50mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 340,
+        "minFocusDistance": 1,
+        "bladesCount": 15,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1949",
+        "note": "Pre-war fast fifty designed by Schneider, badged Leitz Xenon. Uncoated. Direct predecessor to the post-war Summarit 50/1.5. Cult item for pre-war character.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "leica-hektor-73mm-f1.9-ltm",
+        "maker": "Leica",
+        "name": "Hektor 73mm F/1.9 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          73
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 440,
+        "minFocusDistance": 1.5,
+        "bladesCount": 15,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1931",
+        "discontinued": true,
+        "discontinuedDate": "1946",
+        "note": "First fast Leica portrait lens; unusual 73mm focal length. Triplet-derived 6/3, uncoated. Cult rendering — smooth transitions and characteristic vintage glow.",
+        "angleOfView": [
+          33
+        ]
+      },
+      {
+        "id": "leica-summarex-85mm-f1.5-ltm",
+        "maker": "Leica",
+        "name": "Summarex 85mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 660,
+        "minFocusDistance": 1.5,
+        "bladesCount": 15,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1943",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Legendary pre-war fast portrait cult classic. Large, heavy, coated. Relatively low production count makes clean copies expensive. Considered one of the finest LTM portrait lenses ever made.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "leica-elmar-90mm-f4-ltm",
+        "maker": "Leica",
+        "name": "Elmar 90mm F/4 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 350,
+        "minFocusDistance": 1,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1931",
+        "discontinued": true,
+        "discontinuedDate": "1964",
+        "note": "Long-lived Tessar-type portrait tele. Early 'fat' variants are heavier; later 'thin' Elmar 9cm is lighter and coated. Classic understated Leica rendering.",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "leica-elmar-105mm-f6.3-mountain-ltm",
+        "maker": "Leica",
+        "name": "Mountain-Elmar 105mm F/6.3 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 230,
+        "minFocusDistance": 3,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1932",
+        "discontinued": true,
+        "discontinuedDate": "1937",
+        "note": "'Berg-Elmar' — a lightweight 105mm made for alpine and travel photographers. Rare and collectible; small production run. Tessar-type 4/3, uncoated.",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "leica-elmar-135mm-f4.5-ltm",
+        "maker": "Leica",
+        "name": "Elmar 135mm F/4.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 460,
+        "minFocusDistance": 1.5,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1931",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Standard long tele of the LTM era. Tessar-type 4/3. Requires a 135mm accessory finder or the coupled turret finder for framing.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "leica-hektor-135mm-f4.5-ltm",
+        "maker": "Leica",
+        "name": "Hektor 135mm F/4.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 36,
+        "weight": 510,
+        "minFocusDistance": 1.5,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1933",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Alternative 135mm to the Elmar with a slightly different triplet-derived design and softer rendering. Long-running post-war companion to the Elmar 13.5cm.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "leica-telyt-200mm-f4.5-ltm",
+        "maker": "Leica",
+        "name": "Telyt 200mm F/4.5 (LTM, Visoflex)",
+        "mount": "LTM",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 1000,
+        "minFocusDistance": 3,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1960",
+        "note": "Long tele requiring the Visoflex reflex housing to focus. LTM screw thread on the rear couples to the Visoflex I / II / III. Also sold in a lighter post-war version.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "leica-telyt-400mm-f5-ltm",
+        "maker": "Leica",
+        "name": "Telyt 400mm F/5 (LTM, Visoflex)",
+        "mount": "LTM",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 85,
+        "weight": 2000,
+        "minFocusDistance": 8,
+        "bladesCount": 15,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Super-tele for the Visoflex. Extremely long and heavy; sold with a dedicated tripod collar. Used extensively for wildlife and sports in the 1930s-60s.",
+        "angleOfView": [
+          6.2
         ]
       }
     ],
@@ -38432,6 +39887,166 @@
         "angleOfView": [
           13.7
         ]
+      },
+      {
+        "id": "nikon-nikkor-s-5cm-f1.4-2000-reissue-s",
+        "maker": "Nikon",
+        "name": "Nikkor-S 5cm F1.4 (S3 2000 reissue)",
+        "mount": "S",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.9,
+        "weight": 235,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "2000-03",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "predecessorId": "nikon-nikkor-s-c-5cm-f1.4-s",
+        "note": "Modern reissue accompanying the Nikon S3 Year 2000 commemorative body. Faithful reproduction of the 1950 7-element Sonnar-type optical formula, but with modern multi-coating and updated mechanical build. Sold as kit lens with the S3 2000 body. Instant collectible, extremely limited production. Cult-grail standard prime.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-nikkor-s-5cm-f1.4-titanium-2000-s",
+        "maker": "Nikon",
+        "name": "Nikkor-S 5cm F1.4 Titanium (S3 2000 limited)",
+        "mount": "S",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.9,
+        "weight": 240,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "2000-03",
+        "discontinued": true,
+        "discontinuedDate": "2000",
+        "predecessorId": "nikon-nikkor-s-c-5cm-f1.4-s",
+        "note": "Titanium-finish limited edition of the 5cm F1.4 released alongside the S3 Year 2000 Limited Edition Titanium body. Same 7-element Sonnar-type optical formula as the standard 2000 reissue; only the exterior finish differs. Very small production run — grail-tier collectible.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-3.5cm-f1.8-2000-reissue-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor 3.5cm F1.8 (S3 2000-era reissue)",
+        "mount": "S",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.9,
+        "weight": 250,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "predecessorId": "nikon-w-nikkor-3.5cm-f1.8-s",
+        "note": "Modern reissue of the world's-fastest-35mm 7-element wide. Sold to complement the S3 Year 2000 body (issued shortly after the S3 kit launch). Same optical formula as the 1956 original with modern multi-coating. Very limited production, instant collectible.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-10.5cm-f2.5-2005-reissue-s",
+        "maker": "Nikon",
+        "name": "Nikkor-P 10.5cm F2.5 (SP 2005 reissue)",
+        "mount": "S",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 1,
+        "weight": 425,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "2005-03",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "predecessorId": "nikon-nikkor-p-c-10.5cm-f2.5-s",
+        "note": "Modern reissue accompanying the Nikon SP 2005 commemorative body. Reproduction of the legendary 1954 5-element Sonnar-type portrait 105 — the David Douglas Duncan lens — with modern multi-coating. Cult grail portrait glass, sold out immediately.",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-2.8cm-f3.5-2005-reissue-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor 2.8cm F3.5 (SP 2005 reissue)",
+        "mount": "S",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 34.5,
+        "minFocusDistance": 0.9,
+        "weight": 145,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "2005-03",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "predecessorId": "nikon-w-nikkor-c-2.8cm-f3.5-s",
+        "note": "Modern reissue paired with the Nikon SP 2005 commemorative body. Reproduction of the 1952 6-element W-Nikkor 2.8cm F3.5 with contemporary multi-coating. External viewfinder still required. Very limited production, cult collectible.",
+        "angleOfView": [
+          75.4
+        ]
       }
     ],
     "Z": [
@@ -40138,6 +41753,7 @@
         "EANCode": "4545350047924",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 7-14mm F2.8 PRO",
+        "msrp": 264000,
         "mount": "MicroFourThirds",
         "focalLength": [
           7,
@@ -40177,6 +41793,7 @@
         "EANCode": "4545350054205",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 8-25mm F4.0 PRO",
+        "msrp": 176000,
         "mount": "MicroFourThirds",
         "focalLength": [
           8,
@@ -40258,6 +41875,7 @@
         "EANCode": "4545350054014",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 12-45mm F4.0 PRO",
+        "msrp": 93500,
         "mount": "MicroFourThirds",
         "focalLength": [
           12,
@@ -40298,6 +41916,7 @@
         "EANCode": "4545350054151",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 12-100mm F4.0 IS PRO",
+        "msrp": 264000,
         "mount": "MicroFourThirds",
         "focalLength": [
           12,
@@ -40338,6 +41957,7 @@
         "EANCode": "4545350054182",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 40-150mm F2.8 PRO",
+        "msrp": 286000,
         "mount": "MicroFourThirds",
         "focalLength": [
           40,
@@ -40378,6 +41998,7 @@
         "EANCode": "4545350054175",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 150-400mm F4.5 TC1.25x IS PRO",
+        "msrp": 1100000,
         "mount": "MicroFourThirds",
         "focalLength": [
           150,
@@ -40418,6 +42039,7 @@
         "EANCode": "4545350054236",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 12-200mm F3.5-6.3",
+        "msrp": 154000,
         "mount": "MicroFourThirds",
         "focalLength": [
           12,
@@ -40459,6 +42081,7 @@
         "EANCode": "4545350054021",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 14-150mm F4.0-5.6 II",
+        "msrp": 97625,
         "mount": "MicroFourThirds",
         "focalLength": [
           14,
@@ -40500,6 +42123,7 @@
         "EANCode": "4545350054274",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 40-150mm F4.0-5.6 R",
+        "msrp": 52250,
         "mount": "MicroFourThirds",
         "focalLength": [
           40,
@@ -40541,6 +42165,7 @@
         "EANCode": "4545350054298",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 75-300mm F4.8-6.7 II",
+        "msrp": 60500,
         "mount": "MicroFourThirds",
         "focalLength": [
           75,
@@ -40582,6 +42207,7 @@
         "EANCode": "4545350054212",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 8mm F1.8 Fisheye PRO",
+        "msrp": 198000,
         "mount": "MicroFourThirds",
         "focalLength": [
           8
@@ -40617,6 +42243,7 @@
         "EANCode": "4545350051662",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 17mm F1.2 PRO",
+        "msrp": 220000,
         "mount": "MicroFourThirds",
         "focalLength": [
           17
@@ -40655,6 +42282,7 @@
         "EANCode": "4545350053758",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 20mm F1.4 PRO",
+        "msrp": 104500,
         "mount": "MicroFourThirds",
         "focalLength": [
           20
@@ -40693,6 +42321,7 @@
         "EANCode": "4545350054144",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 25mm F1.2 PRO",
+        "msrp": 220000,
         "mount": "MicroFourThirds",
         "focalLength": [
           25
@@ -40731,6 +42360,7 @@
         "EANCode": "4545350054168",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 45mm F1.2 PRO",
+        "msrp": 220000,
         "mount": "MicroFourThirds",
         "focalLength": [
           45
@@ -40769,6 +42399,7 @@
         "EANCode": "4545350055875",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 300mm F4.0 IS PRO",
+        "msrp": 522500,
         "mount": "MicroFourThirds",
         "focalLength": [
           300
@@ -40807,6 +42438,7 @@
         "EANCode": "4545350054120",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 12mm F2.0",
+        "msrp": 104500,
         "mount": "MicroFourThirds",
         "focalLength": [
           12
@@ -40845,6 +42477,7 @@
         "EANCode": "4545350044138",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL 45mm F1.8",
+        "msrp": 38500,
         "mount": "MicroFourThirds",
         "focalLength": [
           45
@@ -40883,6 +42516,7 @@
         "EANCode": "4545350054113",
         "maker": "OLYMPUS",
         "name": "M.ZUIKO DIGITAL ED 75mm F1.8",
+        "msrp": 130900,
         "mount": "MicroFourThirds",
         "focalLength": [
           75
@@ -42269,6 +43903,7 @@
         "EANCode": "4545350053727",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL ED 12-40mm F2.8 PRO II",
+        "msrp": 134750,
         "mount": "MicroFourThirds",
         "focalLength": [
           12,
@@ -42309,6 +43944,7 @@
         "EANCode": "4545350053772",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL ED 40-150mm F4.0 PRO",
+        "msrp": 159500,
         "mount": "MicroFourThirds",
         "focalLength": [
           40,
@@ -42389,6 +44025,7 @@
         "EANCode": "4545350056001",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL ED 9-18mm F4.0-5.6 II",
+        "msrp": 82500,
         "mount": "MicroFourThirds",
         "focalLength": [
           9,
@@ -42430,6 +44067,7 @@
         "EANCode": "4545350056070",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL ED 150-600mm F5.0-6.3 IS",
+        "msrp": 495000,
         "mount": "MicroFourThirds",
         "focalLength": [
           150,
@@ -42471,6 +44109,7 @@
         "EANCode": "4545350056643",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL 17mm F1.8 II",
+        "msrp": 71500,
         "mount": "MicroFourThirds",
         "focalLength": [
           17
@@ -42508,6 +44147,7 @@
         "id": "omsystem-25mm-f18-ii-m43",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL 25mm F1.8 II",
+        "msrp": 60500,
         "mount": "MicroFourThirds",
         "focalLength": [
           25
@@ -42546,6 +44186,7 @@
         "EANCode": "4545350053925",
         "maker": "OM SYSTEM",
         "name": "M.ZUIKO DIGITAL ED 90mm F3.5 Macro IS PRO",
+        "msrp": 231000,
         "mount": "MicroFourThirds",
         "focalLength": [
           90
@@ -98191,6 +99832,308 @@
         "note": "Catadioptric (mirror) super-tele. Fixed F8. Very rare production; a grail item among Contarex collectors. Zeiss Oberkochen.",
         "angleOfView": [
           5
+        ]
+      }
+    ],
+    "ContaxRF": [
+      {
+        "id": "zeiss-biogon-35mm-f2.8-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Biogon 35mm F2.8 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 190,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1937",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Original Ludwig Bertele Biogon — the world's first true symmetrical wide-angle design and the direct ancestor of the post-war Biogon 21mm. Very short back-focal distance makes it a rangefinder-only design. Cult classic; almost always uncoated in pre-war production. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-biotar-40mm-f2-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Biotar 40mm F2 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 200,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Very rare Willy Merte Biotar — direct prototype of the post-war Biotar 58/2 line (Zeiss Jena) and the Helios-44 lineage. Almost never seen in the wild; a grail item among Contax RF collectors. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          56.8
+        ]
+      },
+      {
+        "id": "zeiss-tessar-50mm-f3.5-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Tessar 50mm F3.5 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 130,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1932",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Collapsible four-element Tessar 'kit' lens for the original Contax I. The everyman's Contax standard prime — sharp, small, and cheap by pre-war Zeiss standards. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-tessar-50mm-f2.8-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Tessar 50mm F2.8 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 150,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Faster rigid variant of the Tessar 50 for Contax II/III bodies. Compact travel normal with classic four-element Tessar rendering. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-50mm-f2-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Sonnar 50mm F2 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 170,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1932",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Ludwig Bertele Sonnar — six elements in three groups, low internal surface count for minimal flare in an uncoated era. The gold-standard fast 50 of the 1930s. Direct optical ancestor of the Soviet Jupiter-8. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-50mm-f1.5-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Sonnar 50mm F1.5 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 235,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1932",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "The cult legend — Ludwig Bertele's seven-element Sonnar, the fastest 50mm rangefinder lens of the 1930s and the direct optical ancestor of the Soviet Jupiter-3 50/1.5. Signature swirly bokeh and creamy tonal transitions wide open. Uncoated pre-war; post-1940 samples occasionally have single-layer 'T' coating. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-85mm-f2-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Sonnar 85mm F2 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 340,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Legendary portrait Sonnar — the prototype of the entire modern Sonnar 85 lineage (Contax C/Y, G, Loxia, Batis, Sony FE 85/2.8). Six-element / three-group Bertele design, silky rendering, painterly bokeh. One of the great portrait lenses of all time. Direct ancestor of the Soviet Jupiter-9. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-triotar-85mm-f4-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Triotar 85mm F4 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1935",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Three-element Cooke-Triplet-derived budget short tele — the entry-level Contax portrait lens. Softer wide open with pronounced glow, cult favorite for its 'pre-war look'. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-135mm-f4-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Sonnar 135mm F4 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1934",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Classic Sonnar telephoto — mounted via the outer bayonet with dedicated Contax reflex housing (Flektoskop / Panflex) or ground-glass viewer. Direct ancestor of the Soviet Jupiter-11 135/4. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "zeiss-tele-tessar-180mm-f6.3-contaxrf-prewar",
+        "maker": "ZEISS",
+        "name": "Tele-Tessar 180mm F6.3 Contax RF (pre-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3,
+        "weight": 950,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1936",
+        "discontinued": true,
+        "discontinuedDate": "1945",
+        "note": "Long tele of the Contax pre-war line, sibling to the famous 'Olympia-Sonnar' 180/2.8 introduced at the 1936 Berlin Olympics. Requires Flektoskop / Panflex reflex housing for framing. Zeiss Ikon Dresden.",
+        "angleOfView": [
+          13.7
         ]
       }
     ],

@@ -46,4 +46,6 @@ export * from "./kern";
 export * from "./meopta";
 export * from "./enna";
 export * from "./isco";
+export * from "./alpa";
+export * from "./kiev";
 export * from "./types";
