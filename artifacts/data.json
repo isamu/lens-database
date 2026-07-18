@@ -1,4 +1,300 @@
 {
+  "Angenieux": {
+    "M42": [
+      {
+        "id": "angenieux-28mm-f3.5-r61-m42",
+        "maker": "Angenieux",
+        "name": "Angénieux 28mm f/3.5 Type R61 Retrofocus",
+        "mount": "M42",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.7,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "note": "アンジェニュー28mm。レトロフォーカス広角の元祖級。R61型。M42 / Exakta版が存在。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "angenieux-50mm-f2.9-z1-m42",
+        "maker": "Angenieux",
+        "name": "Angénieux 50mm f/2.9 Type Z1",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.75,
+        "weight": 150,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "note": "Z型テッサー系4枚構成。希少な小口径標準。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "angenieux-90mm-f2.5-y1-m42",
+        "maker": "Angenieux",
+        "name": "Angénieux 90mm f/2.5 Type Y1",
+        "mount": "M42",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 380,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "note": "Y1型中望遠。テッサー系4枚構成。ポートレート向け。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "angenieux-135mm-f3.5-y12-m42",
+        "maker": "Angenieux",
+        "name": "Angénieux 135mm f/3.5 Type Y12",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.8,
+        "weight": 480,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "note": "Y12型望遠。テッサー系。中庸な望遠銘玉。",
+        "angleOfView": [
+          18.2
+        ]
+      }
+    ],
+    "Exakta": [
+      {
+        "id": "angenieux-35mm-f2.5-r1-exakta",
+        "maker": "Angenieux",
+        "name": "Angénieux 35mm f/2.5 Type R1",
+        "mount": "Exakta",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.7,
+        "weight": 200,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "note": "R1型レトロフォーカス広角。Exakta / M42版あり。カルト銘玉。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "angenieux-50mm-f1.5-s21-alpa",
+        "maker": "Angenieux",
+        "name": "Angénieux 50mm f/1.5 Type S21",
+        "mount": "Exakta",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 320,
+        "bladesCount": 12,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "note": "S21型大口径標準。Alpa / Exaktaマウント。希少なカルト大口径。ダブルガウス系。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "angenieux-50mm-f1.8-s1-exakta",
+        "maker": "Angenieux",
+        "name": "Angénieux 50mm f/1.8 Type S1",
+        "mount": "Exakta",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.75,
+        "weight": 240,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "note": "S1型標準。Exakta / M42版あり。ダブルガウス構成。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "angenieux-90mm-f1.8-p1-exakta",
+        "maker": "Angenieux",
+        "name": "Angénieux 90mm f/1.8 Type P1",
+        "mount": "Exakta",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 620,
+        "bladesCount": 12,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "note": "『P1』伝説の大口径中望遠。Exakta / M42マウント。極めて希少なカルト銘玉。柔らかな描写と独特のボケで映画関係者にも愛用された。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "angenieux-135mm-f2.5-p2-exakta",
+        "maker": "Angenieux",
+        "name": "Angénieux 135mm f/2.5 Type P2",
+        "mount": "Exakta",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.8,
+        "weight": 780,
+        "bladesCount": 12,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "note": "P型大口径望遠。ポートレート銘玉。Exakta / Alpa / M42各種。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "angenieux-180mm-f4.5-p22-exakta",
+        "maker": "Angenieux",
+        "name": "Angénieux 180mm f/4.5 Type P22",
+        "mount": "Exakta",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "weight": 950,
+        "bladesCount": 12,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1956",
+        "discontinued": true,
+        "note": "P22型長焦点望遠。プリセット絞り。希少。",
+        "angleOfView": [
+          13.7
+        ]
+      }
+    ]
+  },
   "AstrHori": {
     "E": [
       {
@@ -1958,6 +2254,510 @@
         "note": "Full-frame fast normal. 12-blade rounded aperture.",
         "angleOfView": [
           46.8
+        ]
+      }
+    ]
+  },
+  "Bronica": {
+    "ETR": [
+      {
+        "id": "bronica-zenzanon-pe-40mm-f4-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 40mm F4",
+        "mount": "ETR",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.4,
+        "weight": 480,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Wide angle for the ETR 6x4.5 system (approx. 25mm-equivalent FF). Built-in Seiko #0 leaf shutter.",
+        "angleOfView": [
+          69
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-50mm-f2.8-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 50mm F2.8",
+        "mount": "ETR",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.5,
+        "weight": 480,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 8,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Fast moderate wide (approx. 31mm-equivalent FF). Leaf shutter, full flash sync to 1/500s.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-75mm-f2.8-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 75mm F2.8",
+        "mount": "ETR",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.6,
+        "weight": 320,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Kit normal on the ETR bodies (approx. 47mm-equivalent FF). Compact, sharp, inexpensive on the used market.",
+        "angleOfView": [
+          40.3
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-105mm-f3.5-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 105mm F3.5",
+        "mount": "ETR",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1,
+        "weight": 400,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Portrait tele (approx. 65mm-equivalent FF). Preferred short portrait for the ETR system.",
+        "angleOfView": [
+          29.4
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-150mm-f3.5-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 150mm F3.5",
+        "mount": "ETR",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.5,
+        "weight": 500,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Classic tele for 6x4.5 (approx. 93mm-equivalent FF).",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-200mm-f4.5-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 200mm F4.5",
+        "mount": "ETR",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 700,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Medium tele (approx. 124mm-equivalent FF).",
+        "angleOfView": [
+          15.7
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pe-250mm-f5.6-etr",
+        "maker": "Bronica",
+        "name": "Zenzanon-PE 250mm F5.6",
+        "mount": "ETR",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 3,
+        "weight": 900,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Long tele for 6x4.5 (approx. 155mm-equivalent FF).",
+        "angleOfView": [
+          12.6
+        ]
+      }
+    ],
+    "SQ": [
+      {
+        "id": "bronica-zenzanon-ps-40mm-f4-sq",
+        "maker": "Bronica",
+        "name": "Zenzanon-PS 40mm F4",
+        "mount": "SQ",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.5,
+        "weight": 940,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Ultra-wide for the SQ 6x6 system (approx. 22mm-equivalent FF). Leaf shutter to 1/500s.",
+        "angleOfView": [
+          69
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-ps-65mm-f4-sq",
+        "maker": "Bronica",
+        "name": "Zenzanon-PS 65mm F4",
+        "mount": "SQ",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.6,
+        "weight": 520,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Moderate wide on 6x6 (approx. 36mm-equivalent FF).",
+        "angleOfView": [
+          45.9
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-ps-80mm-f2.8-sq",
+        "maker": "Bronica",
+        "name": "Zenzanon-PS 80mm F2.8",
+        "mount": "SQ",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.7,
+        "weight": 470,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Kit normal for the SQ 6x6 bodies (approx. 44mm-equivalent FF). Cult adapter lens for its rendering.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-ps-150mm-f4-sq",
+        "maker": "Bronica",
+        "name": "Zenzanon-PS 150mm F4",
+        "mount": "SQ",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 600,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Classic 6x6 short tele (approx. 83mm-equivalent FF).",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-ps-250mm-f5.6-sq",
+        "maker": "Bronica",
+        "name": "Zenzanon-PS 250mm F5.6",
+        "mount": "SQ",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 3,
+        "weight": 970,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Long tele on 6x6 (approx. 138mm-equivalent FF).",
+        "angleOfView": [
+          12.6
+        ]
+      }
+    ],
+    "GS": [
+      {
+        "id": "bronica-zenzanon-pg-50mm-f4.5-gs",
+        "maker": "Bronica",
+        "name": "Zenzanon-PG 50mm F4.5",
+        "mount": "GS",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.7,
+        "weight": 900,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "2002",
+        "note": "Ultra-wide for the GS-1 6x7 system (approx. 24mm-equivalent FF). Leaf shutter.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pg-100mm-f3.5-gs",
+        "maker": "Bronica",
+        "name": "Zenzanon-PG 100mm F3.5",
+        "mount": "GS",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1,
+        "weight": 500,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "2002",
+        "note": "Kit normal for the GS-1 (approx. 48mm-equivalent FF). Compact and sharp.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pg-150mm-f4-gs",
+        "maker": "Bronica",
+        "name": "Zenzanon-PG 150mm F4",
+        "mount": "GS",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 640,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "2002",
+        "note": "Short tele for the GS-1 (approx. 72mm-equivalent FF). Portrait staple.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "bronica-zenzanon-pg-250mm-f5.6-gs",
+        "maker": "Bronica",
+        "name": "Zenzanon-PG 250mm F5.6",
+        "mount": "GS",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 3,
+        "weight": 1150,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "2002",
+        "note": "Long tele for the GS-1 (approx. 120mm-equivalent FF).",
+        "angleOfView": [
+          12.6
         ]
       }
     ]
@@ -12536,6 +13336,630 @@
           56.8
         ]
       }
+    ],
+    "DKL": [
+      {
+        "id": "voigtlander-color-skopar-x-50mm-f2.8-dkl",
+        "maker": "Voigtländer",
+        "name": "Color-Skopar X 50mm F2.8",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system kit normal on the Deckel (DKL) leaf-shutter bayonet, shared with Kodak Retina Reflex and Contaflex Super BC. Tessar-type 4/3 Skopar with color-optimised coatings; the standard lens shipped with most Bessamatic bodies. Discontinued with the Bessamatic system in 1969.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "voigtlander-septon-50mm-f2-dkl",
+        "maker": "Voigtländer",
+        "name": "Septon 50mm F2",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system cult classic on the Deckel (DKL) mount. Xenotar-heritage 7/5 double-Gauss with a strongly curved rear surface — widely considered one of the best Voigtländer normal lenses ever produced. Heavily sought after; adapted to modern mirrorless via DKL-to-E / DKL-to-M adapters.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "voigtlander-color-lanthar-100mm-f4.8-dkl",
+        "maker": "Voigtländer",
+        "name": "Color-Lanthar 100mm F4.8",
+        "mount": "DKL",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "bladesCount": 5,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system entry portrait tele on the Deckel (DKL) mount. Classic Lanthar 3/3 triplet with lanthanum-glass elements introduced on the Prominent generation.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "voigtlander-skoparex-35mm-f3.4-dkl",
+        "maker": "Voigtländer",
+        "name": "Skoparex 35mm F3.4",
+        "mount": "DKL",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system moderate wide on the Deckel (DKL) mount. Retrofocus 6/6 wide by Tronnier; the standard wide for the Bessamatic kit.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "voigtlander-super-dynarex-135mm-f4-dkl",
+        "maker": "Voigtländer",
+        "name": "Super-Dynarex 135mm F4",
+        "mount": "DKL",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system medium tele on the Deckel (DKL) mount. Ernostar-heritage 5/4 design; the workhorse Bessamatic tele.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "voigtlander-zoomar-36-82mm-f2.8-dkl",
+        "maker": "Voigtländer",
+        "name": "Zoomar 36-82mm F2.8",
+        "mount": "DKL",
+        "focalLength": [
+          36,
+          82
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "bladesCount": 5,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system cult classic on the Deckel (DKL) mount. Designed by Frank Back at the Zoomar company (Glen Cove, NY) — one of the first consumer zoom lenses for a still-camera SLR. Constant f/2.8 across 36-82mm, 14/11 optical formula, very heavy for the era.",
+        "angleOfView": [
+          62,
+          29.6
+        ]
+      },
+      {
+        "id": "voigtlander-dynarex-90mm-f3.4-dkl",
+        "maker": "Voigtländer",
+        "name": "Dynarex 90mm F3.4",
+        "mount": "DKL",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          3.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system short portrait tele on the Deckel (DKL) mount. Tessar-type 4/3 design; compact alternative to the Super-Dynarex 135.",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "voigtlander-super-dynarex-200mm-f4-dkl",
+        "maker": "Voigtländer",
+        "name": "Super-Dynarex 200mm F4",
+        "mount": "DKL",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3.5,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer Bessamatic-system long tele on the Deckel (DKL) mount. Ernostar-heritage 5/4 formula. Longest native DKL Voigtländer lens; rare on the used market.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "voigtlander-retina-curtagon-28mm-f4-dkl",
+        "maker": "Voigtländer",
+        "name": "Retina Curtagon 28mm F4",
+        "mount": "DKL",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer-badged Schneider-Kreuznach Retina Curtagon 28/4 on the Deckel (DKL) mount. The wide end of the Bessamatic system was filled by rebadged Schneider Curtagon designs — the same optical design as the Kodak Retina Curtagon, sold in DKL fitting for Voigtländer users.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "voigtlander-retina-curtagon-35mm-f2.8-dkl",
+        "maker": "Voigtländer",
+        "name": "Retina Curtagon 35mm F2.8",
+        "mount": "DKL",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1969",
+        "note": "Pre-COSINA Voigtländer-badged Schneider-Kreuznach Retina Curtagon 35/2.8 on the Deckel (DKL) mount. A faster Schneider-designed wide alternative to Voigtländer's own Skoparex 35/3.4; retrofocus 6/6 design shared with the Kodak Retina Reflex fitting.",
+        "angleOfView": [
+          63.4
+        ]
+      }
+    ],
+    "Prominent": [
+      {
+        "id": "voigtlander-ultron-50mm-f2-prominent",
+        "maker": "Voigtländer",
+        "name": "Ultron 50mm F2",
+        "mount": "Prominent",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount kit normal (Braunschweig, 1952-1958). Tronnier double-Gauss design with a leading concave element — one of the most acclaimed 50/2 designs of the 1950s. Cult classic; adapted to modern mirrorless via Prominent-mount adapters. Predates the 1999 COSINA revival.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "voigtlander-nokton-50mm-f1.5-prominent",
+        "maker": "Voigtländer",
+        "name": "Nokton 50mm F1.5",
+        "mount": "Prominent",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount fast normal (Braunschweig, 1952-1958). Sonnar-heritage 7-element design, one of the fastest 50mm lenses of its era and a legendary cult classic. Heavily sought after and adapted to modern mirrorless via Prominent-mount adapters. Predates and inspired the later COSINA-era Nokton 50mm F1.5 (1999-).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "voigtlander-color-skopar-50mm-f3.5-prominent",
+        "maker": "Voigtländer",
+        "name": "Color-Skopar 50mm F3.5",
+        "mount": "Prominent",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount compact normal (Braunschweig, 1952-1958). Classic Tessar-type 4/3 Skopar design with the color-corrected coatings introduced on the Prominent generation. Entry option alongside the Nokton and Ultron.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "voigtlander-skoparon-35mm-f3.5-prominent",
+        "maker": "Voigtländer",
+        "name": "Skoparon 35mm F3.5",
+        "mount": "Prominent",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount wide (Braunschweig, 1953-1958). Requires the accessory Turnit finder on the Prominent body since the rangefinder frame is fixed to 50mm. Cult wide for the Prominent system.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "voigtlander-dynaron-100mm-f4.5-prominent",
+        "maker": "Voigtländer",
+        "name": "Dynaron 100mm F4.5",
+        "mount": "Prominent",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount short tele (Braunschweig, 1953-1958). Rangefinder-coupled; typically used with the Turnit finder for framing. Portrait tele for the Prominent kit.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "voigtlander-super-dynaron-150mm-f4.5-prominent",
+        "maker": "Voigtländer",
+        "name": "Super-Dynaron 150mm F4.5",
+        "mount": "Prominent",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Pre-COSINA Voigtländer Prominent-mount medium tele (Braunschweig, 1954-1958). Rare — the Prominent rangefinder cannot couple at 150mm, so shooters use a mirror-reflex housing (Focar) or ground-glass back. Longest native Prominent lens.",
+        "angleOfView": [
+          16.4
+        ]
+      }
+    ]
+  },
+  "Enna": {
+    "M42": [
+      {
+        "id": "enna-ennaston-50mm-f1.9-m42",
+        "maker": "Enna",
+        "name": "Enna Ennaston 50mm f/1.9",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 240,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "note": "エナストン標準大口径。ダブルガウス6枚構成。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "enna-ennalyt-90mm-f2.8-m42",
+        "maker": "Enna",
+        "name": "Enna Ennalyt 90mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1,
+        "weight": 320,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "エナリット90mm中望遠。ゾナー系。ポートレート向け。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "enna-ennalyt-135mm-f2.8-m42",
+        "maker": "Enna",
+        "name": "Enna Ennalyt 135mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 620,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "note": "エナリット135mm大口径望遠。プリセット絞り。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "enna-tele-ennalyt-240mm-f4.5-m42",
+        "maker": "Enna",
+        "name": "Enna Tele-Ennalyt 240mm f/4.5",
+        "mount": "M42",
+        "focalLength": [
+          240
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 3,
+        "weight": 1200,
+        "bladesCount": 12,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "note": "テレエナリット240mm長焦点。プリセット絞り。希少。",
+        "angleOfView": [
+          10.3
+        ]
+      },
+      {
+        "id": "enna-lithagon-35mm-f3.5-m42",
+        "maker": "Enna",
+        "name": "Enna Lithagon 35mm f/3.5",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 200,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "note": "リサゴン35mm広角。レトロフォーカス。",
+        "angleOfView": [
+          63.4
+        ]
+      }
     ]
   },
   "Fujica": {
@@ -15198,6 +16622,658 @@
       }
     ]
   },
+  "Hasselblad": {
+    "V": [
+      {
+        "id": "hasselblad-zeiss-t-biogon-38mm-f4.5-swc-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* Biogon 38mm F4.5 (SWC / SWC/M)",
+        "mount": "V",
+        "focalLength": [
+          38
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 63,
+        "minFocusDistance": 0.3,
+        "weight": 700,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 5,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Fixed-lens Biogon on the SWC (Superwide Camera) 6x6 body — no reflex viewing, distortion-free symmetric wide. Registered for DB completeness even though it does not detach from the body. Later variant CFi 38mm.",
+        "angleOfView": [
+          71.8
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-c-40mm-f4-distagon-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* C 40mm F4 Distagon",
+        "mount": "V",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 104,
+        "minFocusDistance": 0.5,
+        "weight": 1550,
+        "bladesCount": 5,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Original C-generation ultra-wide Distagon for the V-system. Massive front element (Bay-104 filter). T* multi-coated after 1974.",
+        "angleOfView": [
+          69
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-30mm-f3.5-distagon-fisheye-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 30mm F3.5 Distagon Fisheye",
+        "mount": "V",
+        "focalLength": [
+          30
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasFisheye": true,
+        "minFocusDistance": 0.3,
+        "weight": 1350,
+        "bladesCount": 5,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Full-frame diagonal fisheye Distagon for 6x6 — 180deg diagonal AOV. Cult classic. Built-in filter turret (yellow/orange/red/UV). No front filter thread."
+      },
+      {
+        "id": "hasselblad-zeiss-cf-40mm-f4-distagon-fle-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 40mm F4 Distagon FLE",
+        "mount": "V",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 93,
+        "minFocusDistance": 0.5,
+        "weight": 1350,
+        "bladesCount": 5,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "CF Distagon 40 with FLE (Floating Lens Element) for improved close-range correction. Bay-93 filter. Successor to the C 40/4.",
+        "angleOfView": [
+          69
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-60mm-f3.5-distagon-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 60mm F3.5 Distagon",
+        "mount": "V",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.6,
+        "weight": 750,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Compact moderate wide Distagon. Bay-60 filter. Popular travel wide.",
+        "angleOfView": [
+          49.2
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-80mm-f2.8-planar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 80mm F2.8 Planar",
+        "mount": "V",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.9,
+        "weight": 500,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Cult classic — the reference standard normal for 6x6, often called the 'kernel of medium format'. Bay-60 filter. Kit lens on 500C/M and 501C.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-120mm-f4-s-planar-makro-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 120mm F4 S-Planar Makro",
+        "mount": "V",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.8,
+        "weight": 780,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "S-Planar Makro designation — optimized for close range. Requires extension tube 55 for true 1:1. Later CFi/CFE variant reached 1:4.5 native.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-250mm-f5.6-sonnar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 250mm F5.6 Sonnar",
+        "mount": "V",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 2.5,
+        "weight": 1050,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Classic Sonnar telephoto for the V-system. Bay-60 filter. Longest 'compact' tele in the CF lineup.",
+        "angleOfView": [
+          12.6
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-350mm-f5.6-tele-tessar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 350mm F5.6 Tele-Tessar",
+        "mount": "V",
+        "focalLength": [
+          350
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 93,
+        "minFocusDistance": 3.9,
+        "weight": 2050,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Long Tele-Tessar for wildlife / architecture. Bay-93. Uses external Prontor CF shutter.",
+        "angleOfView": [
+          9
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cf-500mm-f8-tele-apotessar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CF 500mm F8 Tele-Apotessar",
+        "mount": "V",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 93,
+        "minFocusDistance": 8.5,
+        "weight": 3100,
+        "bladesCount": 5,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Longest CF telephoto — apochromatic Tele-Apotessar. Rare, heavy, tripod-only. Bay-93.",
+        "angleOfView": [
+          6.3
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-t-sonnar-250mm-f5.6-sa-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* Sonnar 250mm F5.6 SA (Super-Achromat)",
+        "mount": "V",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 2.5,
+        "weight": 1100,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Super-Achromat variant — apochromatic correction across UV/IR/visible. Preferred for reproduction and scientific work. Silver ring identifier.",
+        "angleOfView": [
+          12.6
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cb-80mm-f2.8-planar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CB 80mm F2.8 Planar",
+        "mount": "V",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.9,
+        "weight": 470,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1997",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Budget CB (Compact/Budget) Planar for the 501CM kit — simplified 6-element optical formula versus the CF/CFi 7-element. Excellent value in the used market.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cfi-50mm-f4-distagon-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CFi 50mm F4 Distagon",
+        "mount": "V",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.5,
+        "weight": 900,
+        "bladesCount": 5,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1998",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Super-wide Distagon in the improved CFi generation with Palpas anti-reflective coating and refined mechanicals. Bay-60.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cfi-100mm-f3.5-planar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CFi 100mm F3.5 Planar",
+        "mount": "V",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 0.9,
+        "weight": 730,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1998",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Reference-grade 100mm Planar — near-apochromatic across the frame. Preferred over the 80mm Planar for reproduction and studio work.",
+        "angleOfView": [
+          30.8
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cfi-150mm-f4-sonnar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CFi 150mm F4 Sonnar",
+        "mount": "V",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 1.4,
+        "weight": 780,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1998",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Classic short-tele Sonnar — the go-to portrait lens on 6x6 (approx. 85mm-equivalent). Bay-60.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "hasselblad-zeiss-cfi-180mm-f4-sonnar-v",
+        "maker": "Hasselblad",
+        "name": "Carl Zeiss T* CFi 180mm F4 Sonnar",
+        "mount": "V",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 60,
+        "minFocusDistance": 1.4,
+        "weight": 970,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1998",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Longer Sonnar tele — favored over the 150 for tighter compression on 6x6. Bay-60.",
+        "angleOfView": [
+          17.4
+        ]
+      }
+    ]
+  },
+  "Isco": {
+    "M42": [
+      {
+        "id": "isco-westar-35mm-f2.8-m42",
+        "maker": "Isco",
+        "name": "Isco-Göttingen Westar 35mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 220,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "note": "ヴェスター広角。レトロフォーカス。Schneiderの兄弟ブランド。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "isco-westanar-50mm-f2.8-m42",
+        "maker": "Isco",
+        "name": "Isco-Göttingen Westanar 50mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 150,
+        "bladesCount": 6,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "note": "ヴェスタナー標準。トリプレット3枚構成。オールドレンズらしい柔らかい描写。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "isco-westanar-50mm-f1.9-m42",
+        "maker": "Isco",
+        "name": "Isco-Göttingen Westanar 50mm f/1.9",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 240,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "ヴェスタナー大口径標準。ダブルガウス6枚構成。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "isco-tele-westanar-135mm-f3.5-m42",
+        "maker": "Isco",
+        "name": "Isco-Göttingen Tele-Westanar 135mm f/3.5",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.5,
+        "weight": 460,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "note": "テレヴェスタナー135mm望遠。テッサー系。プリセット絞り。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "isco-westrogon-24mm-f4-m42",
+        "maker": "Isco",
+        "name": "Isco-Göttingen Westrogon 24mm f/4",
+        "mount": "M42",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 260,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "note": "ヴェストロゴン24mm超広角。レトロフォーカス。カルト。極めて希少。",
+        "angleOfView": [
+          84.1
+        ]
+      }
+    ]
+  },
   "Kamlan": {
     "X": [
       {
@@ -16109,6 +18185,134 @@
         "note": "II generation for Nikon Z (APS-C / DX). Silver/black finish. MF, manual aperture.",
         "angleOfView": [
           31.7
+        ]
+      }
+    ]
+  },
+  "Kern": {
+    "M42": [
+      {
+        "id": "kern-macro-switar-50mm-f1.8-ar-m42",
+        "maker": "Kern",
+        "name": "Kern Macro-Switar 50mm f/1.8 AR",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "filterDiameter": 44,
+        "minFocusDistance": 0.28,
+        "weight": 260,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "note": "スイス製カルト銘玉。マクロスイター50mm大口径標準。ARコート。Alpaマウント版が原型で、M42改造品が流通。7枚玉ダブルガウス。極めて希少。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kern-macro-switar-75mm-f1.9-ar",
+        "maker": "Kern",
+        "name": "Kern Macro-Switar 75mm f/1.9 AR",
+        "mount": "M42",
+        "focalLength": [
+          75
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.55,
+        "weight": 380,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "マクロスイター75mm中望遠。Alpaマウント原型、M42改造品あり。ポートレート銘玉。",
+        "angleOfView": [
+          32.2
+        ]
+      },
+      {
+        "id": "kern-yvar-100mm-f2.8-ar",
+        "maker": "Kern",
+        "name": "Kern Yvar 100mm f/2.8 AR",
+        "mount": "M42",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 1,
+        "weight": 300,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "note": "イバー100mm中望遠。Alpa原型。テッサー系4枚構成。",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "kern-yvar-150mm-f3.3-ar",
+        "maker": "Kern",
+        "name": "Kern Yvar 150mm f/3.3 AR",
+        "mount": "M42",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          3.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 2,
+        "weight": 480,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "イバー150mm長焦点。プリセット絞り。Alpa / M42改造品。希少。",
+        "angleOfView": [
+          16.4
         ]
       }
     ]
@@ -23423,6 +25627,483 @@
       }
     ]
   },
+  "Mamiya": {
+    "645": [
+      {
+        "id": "mamiya-sekor-c-35mm-f3.5-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 35mm F3.5 N",
+        "mount": "645",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.45,
+        "weight": 660,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Ultra-wide for 6x4.5 (approx. 22mm-equivalent in FF terms). Rare and prized on GFX adapters for its coverage.",
+        "angleOfView": [
+          76.3
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-45mm-f2.8-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 45mm F2.8 N",
+        "mount": "645",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.45,
+        "weight": 340,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Wide-angle kit option — cult classic on Fujifilm GFX via 645-to-G adapters (approx. 28mm-equivalent full-frame).",
+        "angleOfView": [
+          62.9
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-55mm-f2.8-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 55mm F2.8 N",
+        "mount": "645",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.45,
+        "weight": 340,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Moderate wide (approx. 34mm-equivalent). Prized as an adapter lens for its rendering.",
+        "angleOfView": [
+          53.1
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-80mm-f2.8-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 80mm F2.8 N",
+        "mount": "645",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.7,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Kit normal for the M645 series (approx. 50mm-equivalent FF). Compact and inexpensive on the used market.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-80mm-f1.9-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 80mm F1.9 N",
+        "mount": "645",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.8,
+        "weight": 520,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1977",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "LEGENDARY — the fastest medium-format lens ever produced. Cult status on Fujifilm GFX adapters for its unique shallow depth and creamy rendering. f/1.9 on 6x4.5 is roughly f/1.2 full-frame equivalent DOF.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-110mm-f2.8-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 110mm F2.8 N",
+        "mount": "645",
+        "focalLength": [
+          110
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1,
+        "weight": 405,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Short portrait tele — approx. 70mm-equivalent FF. Excellent rendering.",
+        "angleOfView": [
+          28.1
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-150mm-f3.5-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 150mm F3.5 N",
+        "mount": "645",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 415,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Classic portrait tele (approx. 93mm-equivalent FF). One of the most affordable 645 lenses.",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-210mm-f4-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 210mm F4 N",
+        "mount": "645",
+        "focalLength": [
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 2,
+        "weight": 645,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Medium tele (approx. 130mm-equivalent FF).",
+        "angleOfView": [
+          14.9
+        ]
+      },
+      {
+        "id": "mamiya-sekor-c-300mm-f5.6-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor C 300mm F5.6 N",
+        "mount": "645",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 3.5,
+        "weight": 1100,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Long tele for 645 (approx. 186mm-equivalent FF).",
+        "angleOfView": [
+          10.5
+        ]
+      },
+      {
+        "id": "mamiya-sekor-macro-c-120mm-f4-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor Macro C 120mm F4 N",
+        "mount": "645",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.35,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "1:1 life-size macro on 6x4.5 with built-in helicoid extension. Highly regarded for reproduction work.",
+        "angleOfView": [
+          25.8
+        ]
+      },
+      {
+        "id": "mamiya-sekor-shift-c-50mm-f4-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor Shift C 50mm F4 N",
+        "mount": "645",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasTiltShift": true,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.5,
+        "weight": 750,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Rare shift lens for the 645 system. +/- 15mm shift for architectural / product work. Highly collectible.",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "mamiya-sekor-zoom-c-55-110mm-f4.5-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor Zoom C 55-110mm F4.5 N",
+        "mount": "645",
+        "focalLength": [
+          55,
+          110
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.85,
+        "weight": 970,
+        "bladesCount": 6,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Constant-aperture wide-to-short-tele zoom. Roughly 34-70mm-equivalent FF.",
+        "angleOfView": [
+          53.1,
+          28.1
+        ]
+      },
+      {
+        "id": "mamiya-sekor-zoom-c-105-210mm-f4.5-645",
+        "maker": "Mamiya",
+        "name": "Mamiya Sekor Zoom C 105-210mm F4.5 ULD",
+        "mount": "645",
+        "focalLength": [
+          105,
+          210
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 1.5,
+        "weight": 1300,
+        "bladesCount": 6,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "1990",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Constant-aperture tele zoom with ULD (Ultra Low Dispersion) glass. Approx. 65-130mm-equivalent FF.",
+        "angleOfView": [
+          29.4,
+          14.9
+        ]
+      },
+      {
+        "id": "mamiya-af-80mm-f2.8-d-645",
+        "maker": "Mamiya",
+        "name": "Mamiya AF 80mm F2.8 D",
+        "mount": "645",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.7,
+        "weight": 340,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "AF kit normal for the 645 AF / AFD bodies. 'D' = digital-optimized coating.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "mamiya-af-55-110mm-f4.5-645",
+        "maker": "Mamiya",
+        "name": "Mamiya AF 55-110mm F4.5",
+        "mount": "645",
+        "focalLength": [
+          55,
+          110
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 0.85,
+        "weight": 990,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2013",
+        "note": "Constant-aperture AF zoom for the 645 AFD series. Successor design to the manual C 55-110/4.5.",
+        "angleOfView": [
+          53.1,
+          28.1
+        ]
+      }
+    ]
+  },
   "Meike": {
     "E": [
       {
@@ -26115,6 +28796,160 @@
         "note": "MF 1:1 macro, 120mm FF-equivalent. MFT variant.",
         "angleOfView": [
           20.4
+        ]
+      }
+    ]
+  },
+  "Meopta": {
+    "M42": [
+      {
+        "id": "meopta-belar-50mm-f2.8-m42",
+        "maker": "Meopta",
+        "name": "Meopta Belar 50mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 140,
+        "bladesCount": 6,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "note": "ベラール。Flexaret用テッサー系トリプレット3枚構成の系譜。M42化された希少個体。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "meopta-openar-80mm-f1.9-m42",
+        "maker": "Meopta",
+        "name": "Meopta Openar 80mm f/1.9",
+        "mount": "M42",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1,
+        "weight": 340,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "note": "オペナー80mm大口径中望遠。カルト銘玉。ダブルガウス6枚構成。ポートレート向け。極めて希少。",
+        "angleOfView": [
+          30.3
+        ]
+      },
+      {
+        "id": "meopta-anaret-105mm-f4.5-m42",
+        "maker": "Meopta",
+        "name": "Meopta Anaret 105mm f/4.5",
+        "mount": "M42",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 1.2,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "アナレット。引伸レンズ由来のテッサー系4枚構成をM42化。中望遠。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "meopta-openar-150mm-f4-m42",
+        "maker": "Meopta",
+        "name": "Meopta Openar 150mm f/4",
+        "mount": "M42",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 2,
+        "weight": 480,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "note": "オペナー150mm望遠。プリセット絞り。希少。",
+        "angleOfView": [
+          16.4
+        ]
+      },
+      {
+        "id": "meopta-mirar-135mm-f3.5-m42",
+        "maker": "Meopta",
+        "name": "Meopta Mirar 135mm f/3.5",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.8,
+        "weight": 420,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "ミラー135mm望遠。テッサー系。プリセット絞り。",
+        "angleOfView": [
+          18.2
         ]
       }
     ]
@@ -78562,6 +81397,252 @@
         "angleOfView": [
           22.9,
           4.6
+        ]
+      }
+    ]
+  },
+  "Steinheil": {
+    "M42": [
+      {
+        "id": "steinheil-auto-quinar-35mm-f2.8-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Auto-Quinar 35mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 220,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "note": "オート絞りキナー広角。レトロフォーカス。M42 / Exaktaマウント。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "steinheil-auto-quinon-55mm-f1.9-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Auto-Quinon 55mm f/1.9",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 280,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "note": "カルト銘玉クイノン。大口径標準ダブルガウス。柔らかい描写と個性的なボケでオールドレンズファン垂涎の1本。M42 / Exakta。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "steinheil-auto-culminar-85mm-f2.8-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Auto-Culminar 85mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1,
+        "weight": 340,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "カルミナー中望遠。ゾナー系4枚構成。ポートレート向け。",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "steinheil-cassar-50mm-f2.8-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Cassar 50mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 130,
+        "bladesCount": 8,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1955",
+        "discontinued": true,
+        "note": "廉価版カッサー。トリプレット3枚構成。ヴィンテージらしい柔らかい描写。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "steinheil-macro-quinar-50mm-f3.5-kilar-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Macro-Quinar 50mm f/3.5 (Kilar)",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "maxMagnification": 1,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.14,
+        "weight": 200,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1956",
+        "discontinued": true,
+        "note": "キラー / マクロキナー。世界初の35mm一眼レフ用マクロレンズの流れを汲むテッサー系。等倍撮影可能。M42 / Exakta。カルト。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "steinheil-tele-quinar-135mm-f2.8-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Tele-Quinar 135mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 620,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "note": "テレキナー135mm大口径望遠。プリセット絞り。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "steinheil-culminon-135mm-f4-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Culminon 135mm f/4",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 1.5,
+        "weight": 380,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "note": "カルミノン135mm。ゾナー系4枚構成。プリセット絞り。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "steinheil-culminon-180mm-f4.5-m42",
+        "maker": "Steinheil",
+        "name": "Steinheil Culminon 180mm f/4.5",
+        "mount": "M42",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 2.5,
+        "weight": 780,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "note": "カルミノン180mm長焦点望遠。プリセット絞り。希少。",
+        "angleOfView": [
+          13.7
         ]
       }
     ]
