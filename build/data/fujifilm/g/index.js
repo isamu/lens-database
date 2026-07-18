@@ -19,6 +19,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf63mmf28-r-wr/",
         },
         releaseDate: "2017-02-28",
+        msrp: 235400,
     },
     {
         id: "4547410341034",
@@ -40,6 +41,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf32-64mmf4-r-lm-wr/",
         },
         releaseDate: "2017-02-28",
+        msrp: 361900,
     },
     {
         id: "4547410341041",
@@ -61,6 +63,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf120mmf4-r-lm-ois-wr-macro/",
         },
         releaseDate: "2017-02-28",
+        msrp: 424600,
     },
     {
         id: "4547410345452",
@@ -82,6 +85,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf23mmf4-r-lm-wr/",
         },
         releaseDate: "2017-06-22",
+        msrp: 409200,
     },
     {
         id: "4547410345445",
@@ -103,6 +107,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf2-r-lm-wr/",
         },
         releaseDate: "2017-06-22",
+        msrp: 440000,
     },
     {
         id: "4547410357493",
@@ -124,6 +129,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45mmf28-r-wr/",
         },
         releaseDate: "2017-11-16",
+        msrp: 267300,
     },
     {
         id: "4547410370133",
@@ -145,6 +151,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf250mmf4-r-lm-ois-wr/",
         },
         releaseDate: "2018-05-31",
+        msrp: 519200,
     },
     {
         id: "4547410391732",
@@ -166,6 +173,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf100-200mmf56-r-lm-ois-wr/",
         },
         releaseDate: "2019-02-14",
+        msrp: 314600,
     },
     {
         id: "4547410413045",
@@ -187,6 +195,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf50mmf35-r-lm-wr/",
         },
         releaseDate: "2019-09-26",
+        msrp: 157300,
     },
     {
         id: "4547410420333",
@@ -208,6 +217,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45-100mmf4-r-lm-ois-wr/",
         },
         releaseDate: "2020-02-27",
+        msrp: 361900,
     },
     {
         id: "4547410429091",
@@ -229,6 +239,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf35-r-wr/",
         },
         releaseDate: "2020-07-22",
+        msrp: 267300,
     },
     {
         id: "4547410437775",
@@ -250,6 +261,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf80mmf17-r-wr/",
         },
         releaseDate: "2021-02-25",
+        msrp: 361900,
     },
     {
         id: "4547410455472",
@@ -271,6 +283,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf35-70mmf45-56-wr/",
         },
         releaseDate: "2021-11-30",
+        msrp: 157300,
     },
     {
         id: "4547410483802",
@@ -292,6 +305,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf20-35mmf4-r-wr/",
         },
         releaseDate: "2022-09-29",
+        msrp: 392700,
     },
     {
         id: "4547410486803",
@@ -313,6 +327,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf55mmf17-r-wr/",
         },
         releaseDate: "2023-09-28",
+        msrp: 361900,
     },
     {
         id: "4547410518290",
@@ -334,6 +349,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf56-ts/",
         },
         releaseDate: "2023-12",
+        msrp: 629200,
     },
     {
         id: "4547410522099",
@@ -356,6 +372,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf56-ts-macro/",
         },
         releaseDate: "2023-12",
+        msrp: 551100,
     },
     {
         id: "4547410527261",
@@ -377,6 +394,7 @@ export const fujifilmGLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/gf500mmf56-r-lm-ois-wr/",
         },
         releaseDate: "2024-06-28",
+        msrp: 551100,
     },
     {
         id: "4547410559835",

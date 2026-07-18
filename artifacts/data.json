@@ -10280,6 +10280,7 @@
         "diameter": 55,
         "length": 29.7,
         "releaseDate": "2004-04-10",
+        "msrp": 55000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
@@ -10317,6 +10318,7 @@
         "diameter": 55,
         "length": 29.7,
         "releaseDate": "2004-04-10",
+        "msrp": 55000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/"
@@ -10422,6 +10424,7 @@
         "diameter": 67.6,
         "length": 54.9,
         "releaseDate": "2022-03",
+        "msrp": 165000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/"
@@ -10492,6 +10495,7 @@
         "diameter": 62.8,
         "length": 46.5,
         "releaseDate": "2020-07",
+        "msrp": 165000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/"
@@ -10527,6 +10531,7 @@
         "diameter": 55.3,
         "length": 37.7,
         "releaseDate": "2019-06",
+        "msrp": 110000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/"
@@ -10562,6 +10567,7 @@
         "diameter": 55.3,
         "length": 37.7,
         "releaseDate": "2019-06",
+        "msrp": 110000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/"
@@ -10597,6 +10603,7 @@
         "diameter": 62.6,
         "length": 65.1,
         "releaseDate": "2018-11",
+        "msrp": 137500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/"
@@ -10667,6 +10674,7 @@
         "diameter": 55,
         "length": 39.2,
         "releaseDate": "2022-04",
+        "msrp": 132000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/"
@@ -10702,6 +10710,7 @@
         "diameter": 55,
         "length": 57.2,
         "releaseDate": "2020-08",
+        "msrp": 132000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/"
@@ -10807,6 +10816,7 @@
         "diameter": 55.3,
         "length": 45.4,
         "releaseDate": "2020-01",
+        "msrp": 110000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/"
@@ -10877,6 +10887,7 @@
         "diameter": 55.3,
         "length": 28.7,
         "releaseDate": "2019-05",
+        "msrp": 99000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/"
@@ -10912,6 +10923,7 @@
         "diameter": 55,
         "length": 34.5,
         "releaseDate": "2022-03",
+        "msrp": 74800,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/"
@@ -11017,6 +11029,7 @@
         "diameter": 63.4,
         "length": 49.5,
         "releaseDate": "2016-02",
+        "msrp": 104500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/"
@@ -11122,6 +11135,7 @@
         "diameter": 55,
         "length": 23,
         "releaseDate": "2007-10",
+        "msrp": 49500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/"
@@ -11192,6 +11206,7 @@
         "diameter": 60.8,
         "length": 43.3,
         "releaseDate": "2025-06-20",
+        "msrp": 137500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/"
@@ -11229,6 +11244,7 @@
         "diameter": 62.6,
         "length": 39.5,
         "releaseDate": "2021-04",
+        "msrp": 132000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/"
@@ -11264,6 +11280,7 @@
         "diameter": 62.8,
         "length": 59.9,
         "releaseDate": "2019-11",
+        "msrp": 132000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/"
@@ -11300,6 +11317,7 @@
         "diameter": 78,
         "length": 91.3,
         "releaseDate": "2017-11",
+        "msrp": 132000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/"
@@ -11336,6 +11354,7 @@
         "diameter": 70,
         "length": 89,
         "releaseDate": "2020-11",
+        "msrp": 181500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/"
@@ -11406,6 +11425,7 @@
         "diameter": 66.8,
         "length": 59.6,
         "releaseDate": "2019-04",
+        "msrp": 148500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/"
@@ -11441,6 +11461,7 @@
         "diameter": 73.5,
         "length": 79.4,
         "releaseDate": "2022-08",
+        "msrp": 264000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/"
@@ -11476,6 +11497,7 @@
         "diameter": 66.8,
         "length": 59.4,
         "releaseDate": "2021-04",
+        "msrp": 165000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/"
@@ -11546,6 +11568,7 @@
         "diameter": 66.8,
         "length": 68.6,
         "releaseDate": "2023-11",
+        "msrp": 148500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/"
@@ -11580,6 +11603,7 @@
         "diameter": 68.8,
         "length": 66.5,
         "releaseDate": "2022-08",
+        "msrp": 170500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/"
@@ -11615,6 +11639,7 @@
         "diameter": 66.5,
         "length": 61,
         "releaseDate": "2019-01",
+        "msrp": 126500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/"
@@ -11650,6 +11675,7 @@
         "diameter": 60.6,
         "length": 27.2,
         "releaseDate": "2023-07",
+        "msrp": 93500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/"
@@ -11757,6 +11783,7 @@
         "diameter": 62.6,
         "length": 39.5,
         "releaseDate": "2023-04",
+        "msrp": 143000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/"
@@ -11792,6 +11819,7 @@
         "diameter": 62.8,
         "length": 59.9,
         "releaseDate": "2022-07",
+        "msrp": 143000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/"
@@ -11828,6 +11856,7 @@
         "diameter": 78,
         "length": 91.3,
         "releaseDate": "2022-11",
+        "msrp": 137500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/"
@@ -11864,6 +11893,7 @@
         "diameter": 66.8,
         "length": 59.6,
         "releaseDate": "2022-03",
+        "msrp": 115500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/"
@@ -11934,6 +11964,7 @@
         "diameter": 66.8,
         "length": 68.6,
         "releaseDate": "2024-04",
+        "msrp": 148500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/"
@@ -11969,6 +12000,7 @@
         "diameter": 66.5,
         "length": 61,
         "releaseDate": "2023-04",
+        "msrp": 129800,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/"
@@ -12041,6 +12073,7 @@
         "diameter": 60.6,
         "length": 46.6,
         "releaseDate": "2023-11",
+        "msrp": 99000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/"
@@ -12076,6 +12109,7 @@
         "diameter": 60.6,
         "length": 49.7,
         "releaseDate": "2022-11",
+        "msrp": 85800,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/"
@@ -12146,6 +12180,7 @@
         "diameter": 60.6,
         "length": 27.2,
         "releaseDate": "2023-07",
+        "msrp": 80300,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/"
@@ -12218,6 +12253,7 @@
         "diameter": 73.5,
         "length": 79.4,
         "releaseDate": "2024-11",
+        "msrp": 264000,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/"
@@ -12325,6 +12361,7 @@
         "diameter": 63,
         "length": 48.8,
         "releaseDate": "2019-07",
+        "msrp": 71500,
         "officialUrl": "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/",
         "urls": {
           "official": "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/"
@@ -12908,6 +12945,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf63mmf28-r-wr/"
         },
         "releaseDate": "2017-02-28",
+        "msrp": 235400,
         "angleOfView": [
           47.2
         ]
@@ -12940,6 +12978,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf32-64mmf4-r-lm-wr/"
         },
         "releaseDate": "2017-02-28",
+        "msrp": 361900,
         "angleOfView": [
           81.3,
           46.5
@@ -12972,6 +13011,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf120mmf4-r-lm-ois-wr-macro/"
         },
         "releaseDate": "2017-02-28",
+        "msrp": 424600,
         "hasMacro": true,
         "angleOfView": [
           25.8
@@ -13004,6 +13044,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf23mmf4-r-lm-wr/"
         },
         "releaseDate": "2017-06-22",
+        "msrp": 409200,
         "angleOfView": [
           100.2
         ]
@@ -13035,6 +13076,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf2-r-lm-wr/"
         },
         "releaseDate": "2017-06-22",
+        "msrp": 440000,
         "angleOfView": [
           28.1
         ]
@@ -13066,6 +13108,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45mmf28-r-wr/"
         },
         "releaseDate": "2017-11-16",
+        "msrp": 267300,
         "angleOfView": [
           62.9
         ]
@@ -13097,6 +13140,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf250mmf4-r-lm-ois-wr/"
         },
         "releaseDate": "2018-05-31",
+        "msrp": 519200,
         "angleOfView": [
           12.6
         ]
@@ -13129,6 +13173,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf100-200mmf56-r-lm-ois-wr/"
         },
         "releaseDate": "2019-02-14",
+        "msrp": 314600,
         "angleOfView": [
           30.8,
           15.7
@@ -13161,6 +13206,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf50mmf35-r-lm-wr/"
         },
         "releaseDate": "2019-09-26",
+        "msrp": 157300,
         "angleOfView": [
           57.6
         ]
@@ -13193,6 +13239,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf45-100mmf4-r-lm-ois-wr/"
         },
         "releaseDate": "2020-02-27",
+        "msrp": 361900,
         "angleOfView": [
           62.9,
           30.8
@@ -13225,6 +13272,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf35-r-wr/"
         },
         "releaseDate": "2020-07-22",
+        "msrp": 267300,
         "angleOfView": [
           85
         ]
@@ -13256,6 +13304,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf80mmf17-r-wr/"
         },
         "releaseDate": "2021-02-25",
+        "msrp": 361900,
         "angleOfView": [
           37.9
         ]
@@ -13289,6 +13338,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf35-70mmf45-56-wr/"
         },
         "releaseDate": "2021-11-30",
+        "msrp": 157300,
         "angleOfView": [
           76.3,
           42.9
@@ -13322,6 +13372,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf20-35mmf4-r-wr/"
         },
         "releaseDate": "2022-09-29",
+        "msrp": 392700,
         "angleOfView": [
           107.9,
           76.3
@@ -13354,6 +13405,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf55mmf17-r-wr/"
         },
         "releaseDate": "2023-09-28",
+        "msrp": 361900,
         "angleOfView": [
           53.1
         ]
@@ -13384,6 +13436,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf30mmf56-ts/"
         },
         "releaseDate": "2023-12",
+        "msrp": 629200,
         "angleOfView": [
           85
         ]
@@ -13415,6 +13468,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf110mmf56-ts-macro/"
         },
         "releaseDate": "2023-12",
+        "msrp": 551100,
         "hasMacro": true,
         "angleOfView": [
           28.1
@@ -13447,6 +13501,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/gf500mmf56-r-lm-ois-wr/"
         },
         "releaseDate": "2024-06-28",
+        "msrp": 551100,
         "angleOfView": [
           6.3
         ]
@@ -13582,6 +13637,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf55-200mmf35-48-r-lm-ois/"
         },
         "releaseDate": "2013-05-25",
+        "msrp": 110000,
         "angleOfView": [
           29,
           8.1
@@ -13650,6 +13706,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/"
         },
         "releaseDate": "2014-07-05",
+        "msrp": 141900,
         "angleOfView": [
           76.5,
           12
@@ -13683,6 +13740,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf50-140mmf28-r-lm-ois-wr/"
         },
         "releaseDate": "2014-11",
+        "msrp": 251900,
         "angleOfView": [
           31.7,
           11.6
@@ -13749,6 +13807,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/"
         },
         "releaseDate": "2016-02-18",
+        "msrp": 299200,
         "angleOfView": [
           16.2,
           4.1
@@ -13780,6 +13839,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf8-16mmf28-r-lm-wr/"
         },
         "releaseDate": "2018-11-29",
+        "msrp": 314600,
         "angleOfView": [
           121.2,
           83.2
@@ -13813,6 +13873,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-80mmf4-r-ois-wr/"
         },
         "releaseDate": "2019-09-26",
+        "msrp": 125400,
         "angleOfView": [
           83.2,
           20.1
@@ -13845,6 +13906,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf10-24mmf4-r-ois-wr/"
         },
         "releaseDate": "2020-11-26",
+        "msrp": 157300,
         "angleOfView": [
           109.7,
           61.2
@@ -13878,6 +13940,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/"
         },
         "releaseDate": "2021-03-18",
+        "msrp": 125400,
         "angleOfView": [
           22.9,
           5.4
@@ -13911,6 +13974,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/"
         },
         "releaseDate": "2022-07-14",
+        "msrp": 314600,
         "angleOfView": [
           10.8,
           2.7
@@ -13944,6 +14008,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf18-120mmf4-lm-pz-wr/"
         },
         "releaseDate": "2022-09-29",
+        "msrp": 141900,
         "angleOfView": [
           76.5,
           13.5
@@ -13978,6 +14043,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-50mmf28-48-r-lm-wr/"
         },
         "releaseDate": "2024-06-28",
+        "msrp": 110000,
         "angleOfView": [
           83.2,
           31.7
@@ -14011,6 +14077,7 @@
           "official": "https://fujifilm-x.com/ja-jp/products/lenses/xf16-55mmf28-r-lm-wr-ii/"
         },
         "releaseDate": "2024-12-20",
+        "msrp": 189200,
         "angleOfView": [
           83.2,
           29
@@ -14041,6 +14108,7 @@
           "kakaku": "https://kakaku.com/item/K0000336433/"
         },
         "releaseDate": "2012-02-18",
+        "msrp": 94600,
         "angleOfView": [
           44.2
         ]
@@ -14070,6 +14138,7 @@
           "kakaku": "https://kakaku.com/item/K0000336432/"
         },
         "releaseDate": "2012-02-18",
+        "msrp": 94600,
         "angleOfView": [
           76.5
         ]
@@ -14105,6 +14174,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf60mmf24-r-macro/"
         },
         "releaseDate": "2012-02-18",
+        "msrp": 102300,
         "hasMacro": true,
         "angleOfView": [
           26.6
@@ -14140,6 +14210,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf14mmf28-r/"
         },
         "releaseDate": "2013-01-19",
+        "msrp": 141900,
         "angleOfView": [
           90.8
         ]
@@ -14301,6 +14372,7 @@
           "kakaku": "https://kakaku.com/item/K0000770447/"
         },
         "releaseDate": "2015-05-21",
+        "msrp": 157300,
         "angleOfView": [
           83.2
         ]
@@ -14330,6 +14402,7 @@
           "kakaku": "https://kakaku.com/item/K0000777288/"
         },
         "releaseDate": "2015-07-16",
+        "msrp": 149600,
         "angleOfView": [
           17.9
         ]
@@ -14359,6 +14432,7 @@
           "kakaku": "https://kakaku.com/item/K0000822289/"
         },
         "releaseDate": "2015-11-19",
+        "msrp": 62700,
         "angleOfView": [
           44.2
         ]
@@ -14423,6 +14497,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf50mmf2-r-wr/"
         },
         "releaseDate": "2017-02-23",
+        "msrp": 70400,
         "angleOfView": [
           31.7
         ]
@@ -14458,6 +14533,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf80mmf28-r-lm-ois-wr-macro/"
         },
         "releaseDate": "2017-11-30",
+        "msrp": 188100,
         "hasMacro": true,
         "angleOfView": [
           20.1
@@ -14524,6 +14600,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf16mmf28-r-wr/"
         },
         "releaseDate": "2019-03-20",
+        "msrp": 62700,
         "angleOfView": [
           83.2
         ]
@@ -14553,6 +14630,7 @@
           "kakaku": "https://kakaku.com/item/K0001286475/"
         },
         "releaseDate": "2020-09-24",
+        "msrp": 235400,
         "angleOfView": [
           31.7
         ]
@@ -14582,6 +14660,7 @@
           "kakaku": "https://kakaku.com/item/K0001328213/"
         },
         "releaseDate": "2021-03-11",
+        "msrp": 62700,
         "angleOfView": [
           55.5
         ]
@@ -14611,6 +14690,7 @@
           "kakaku": "https://kakaku.com/item/K0001348957/"
         },
         "releaseDate": "2021-05-27",
+        "msrp": 157300,
         "angleOfView": [
           76.5
         ]
@@ -14640,6 +14720,7 @@
           "kakaku": "https://kakaku.com/item/K0001379950/"
         },
         "releaseDate": "2021-09-29",
+        "msrp": 125400,
         "angleOfView": [
           46.6
         ]
@@ -14669,6 +14750,7 @@
           "kakaku": "https://kakaku.com/item/K0001471399/"
         },
         "releaseDate": "2021-09-29",
+        "msrp": 157300,
         "angleOfView": [
           28.5
         ]
@@ -14698,6 +14780,7 @@
           "kakaku": "https://kakaku.com/item/K0001379949/"
         },
         "releaseDate": "2022-02-24",
+        "msrp": 141900,
         "angleOfView": [
           63.4
         ]
@@ -14733,6 +14816,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf30mmf28-r-lm-wr-macro/"
         },
         "releaseDate": "2022-11-25",
+        "msrp": 94600,
         "hasMacro": true,
         "angleOfView": [
           50.7
@@ -14766,6 +14850,7 @@
           "kakaku": "https://kakaku.com/item/K0001539680/"
         },
         "releaseDate": "2023-06-29",
+        "msrp": 125400,
         "angleOfView": [
           121.2
         ]
@@ -14802,6 +14887,7 @@
           "news": "https://www.fujifilm.com/jp/ja/news/list/11805"
         },
         "releaseDate": "2024-12-20",
+        "msrp": 471900,
         "angleOfView": [
           3.3
         ]
@@ -14838,6 +14924,7 @@
           "news": "https://www.fujifilm.com/jp/ja/news/list/12429"
         },
         "releaseDate": "2025-12-05",
+        "msrp": 63800,
         "angleOfView": [
           63.4
         ]
@@ -14988,6 +15075,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc50-230mmf45-67-ois-2/"
         },
         "releaseDate": "2015-06-25",
+        "msrp": 62700,
         "angleOfView": [
           31.7,
           7.1
@@ -15026,6 +15114,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc15-45mmf35-56-ois-pz/"
         },
         "releaseDate": "2018-03-15",
+        "msrp": 47300,
         "angleOfView": [
           86.9,
           35
@@ -15063,6 +15152,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc35mmf2/"
         },
         "releaseDate": "2020-02-27",
+        "msrp": 30800,
         "angleOfView": [
           44.2
         ]
@@ -15100,6 +15190,7 @@
           "official": "https://www.fujifilm-x.com/ja-jp/products/lenses/xc13-33mmf35-63-ois/"
         },
         "releaseDate": "2026-01-30",
+        "msrp": 55000,
         "angleOfView": [
           95.1,
           46.6
@@ -28919,6 +29010,1108 @@
         "angleOfView": [
           24.4
         ]
+      },
+      {
+        "id": "minolta-mc-w-rokkor-sg-28mm-f3.5",
+        "maker": "Minolta",
+        "name": "MC W.Rokkor-SG 28mm F/3.5",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.6,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "diameter": 65,
+        "length": 55,
+        "releaseDate": "1969",
+        "discontinued": true,
+        "discontinuedDate": "1973",
+        "note": "Early MC-I retrofocus wide; the 'SG' designator indicates 7 elements in 7 groups. Direct ancestor of the later MC Rokkor-HG and MD 28mm F/3.5 line.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-mc-w-rokkor-si-28mm-f2.5",
+        "maker": "Minolta",
+        "name": "MC W.Rokkor-SI 28mm F/2.5",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 305,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 65,
+        "length": 60,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Rare MC-X fast wide — 'SI' = 9 elements in 9 groups. Sits between the common f/3.5 and the later f/2 in the family lineage; sought after by MC collectors.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-mc-fisheye-rokkor-ok-16mm-f2.8",
+        "maker": "Minolta",
+        "name": "MC Fish-Eye Rokkor-OK 16mm F/2.8",
+        "mount": "MD",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.3,
+        "weight": 410,
+        "bladesCount": 5,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 75,
+        "length": 62,
+        "hasFisheye": true,
+        "releaseDate": "1971",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Cult MC-generation diagonal fisheye — 180-degree angle of view on full-frame. Built-in filter turret (Normal / Y52 / R60 / O56). Direct predecessor of the MD Fish-eye Rokkor 16mm F/2.8. 'OK' designator marks the specialised fisheye optical group.",
+        "successorId": "minolta-md-fisheye-rokkor-16mm-f2.8"
+      },
+      {
+        "id": "minolta-mc-rokkor-16mm-f2.8-rectilinear",
+        "maker": "Minolta",
+        "name": "MC Rokkor 16mm F/2.8 Rectilinear",
+        "mount": "MD",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.3,
+        "weight": 495,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 80,
+        "length": 70,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Very rare rectilinear (non-fisheye) 16mm ultra-wide — a prototype-scale run made in extremely limited numbers. Distinct from the OK fisheye. A grail lens for MC collectors.",
+        "angleOfView": [
+          107
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-pf-55mm-f1.7",
+        "maker": "Minolta",
+        "name": "MC Rokkor-PF 55mm F/1.7",
+        "mount": "MD",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.5,
+        "weight": 240,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 43,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Mass-market MC-generation normal — 'PF' = 6 elements in 5 groups, a modified Double Gauss. Kit lens for the SR-T 101 series and one of the most produced Minolta lenses ever.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-pf-55mm-f2",
+        "maker": "Minolta",
+        "name": "MC Rokkor-PF 55mm F/2",
+        "mount": "MD",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.5,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 42,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1973",
+        "note": "Early cult MC normal offered as a budget alternative to the f/1.7. Compact and inexpensive on the used market, prized for its simple Double Gauss rendering on mirrorless.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-pf-58mm-f1.4",
+        "maker": "Minolta",
+        "name": "MC Rokkor-PF 58mm F/1.4",
+        "mount": "MD",
+        "focalLength": [
+          58
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.6,
+        "weight": 305,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 65,
+        "length": 47,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult 58mm normal preceding the legendary Rokkor-PG 58mm F/1.2. 'PF' = 6 elements in 5 groups. Known for glowy, low-contrast rendering wide open — highly sought after on mirrorless adapters.",
+        "angleOfView": [
+          40.9
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-qf-100mm-f3.5",
+        "maker": "Minolta",
+        "name": "MC Rokkor-QF 100mm F/3.5",
+        "mount": "MD",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 280,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 6,
+        "diameter": 66,
+        "length": 68,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Compact MC-X short tele — 'QF' = 4 elements in 6 groups (uncommon layout). A pocketable non-macro 100mm; rarer than the 100mm F/2.5 sibling.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-pf-100mm-f2",
+        "maker": "Minolta",
+        "name": "MC Rokkor-PF 100mm F/2",
+        "mount": "MD",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 420,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 66,
+        "length": 75,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Rare fast MC portrait tele — 'PF' = 6/5. Very low production numbers; direct predecessor of the equally rare MD Rokkor 100mm F/2 (1980).",
+        "successorId": "minolta-md-rokkor-100mm-f2",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-mc-tele-rokkor-pf-135mm-f2.8",
+        "maker": "Minolta",
+        "name": "MC Tele Rokkor-PF 135mm F/2.8",
+        "mount": "MD",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 66,
+        "length": 94,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Early MC-II fast 135mm — 'PF' = 6/5. Built-in sliding hood. Direct predecessor of the MD Tele Rokkor 135mm F/2.8.",
+        "successorId": "minolta-md-tele-rokkor-135mm-f2.8",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-mc-tele-rokkor-qd-200mm-f3.5",
+        "maker": "Minolta",
+        "name": "MC Tele Rokkor-QD 200mm F/3.5",
+        "mount": "MD",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 720,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 4,
+        "diameter": 68,
+        "length": 145,
+        "releaseDate": "1969",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "MC-I long tele — 'QD' = 4 elements in 4 groups, an Ernostar-type. Built-in sliding hood and tripod collar. Sits between the everyday f/4 and the pro f/2.8 lineage.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-mc-rokkor-rf-250mm-f5.6-mirror",
+        "maker": "Minolta",
+        "name": "MC Rokkor 250mm F/5.6 Mirror",
+        "mount": "MD",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "weight": 520,
+        "bladesCount": 0,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 75,
+        "length": 90,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Compact catadioptric (reflex / mirror) tele — no iris (fixed f/5.6), so blade count is zero. Produces the signature donut bokeh of mirror lenses. 'RF' designator is Minolta's reflex marking. Rare and very portable for a 250mm.",
+        "angleOfView": [
+          9.9
+        ]
+      },
+      {
+        "id": "minolta-mc-tele-rokkor-400mm-f5.6",
+        "maker": "Minolta",
+        "name": "MC Tele Rokkor 400mm F/5.6",
+        "mount": "MD",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 5,
+        "weight": 1620,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 90,
+        "length": 320,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1980",
+        "note": "Rare pro-tier super-tele with built-in hood and tripod collar. Sold to press and wildlife shooters in small numbers.",
+        "angleOfView": [
+          6.2
+        ]
+      },
+      {
+        "id": "minolta-mc-tele-rokkor-600mm-f6.3",
+        "maker": "Minolta",
+        "name": "MC Tele Rokkor 600mm F/6.3",
+        "mount": "MD",
+        "focalLength": [
+          600
+        ],
+        "fStop": [
+          6.3
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 8,
+        "weight": 2500,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 110,
+        "length": 460,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1980",
+        "note": "Very rare super-tele; tripod-only. Built-in hood and rotating tripod collar. A grail lens for Minolta MC collectors.",
+        "angleOfView": [
+          4.1
+        ]
+      },
+      {
+        "id": "minolta-mc-zoom-rokkor-pe-40-80mm-f2.8",
+        "maker": "Minolta",
+        "name": "MC Zoom Rokkor-PE 40-80mm F/2.8",
+        "mount": "MD",
+        "focalLength": [
+          40,
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1,
+        "weight": 855,
+        "bladesCount": 6,
+        "elements": 14,
+        "groups": 11,
+        "diameter": 75,
+        "length": 145,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1980",
+        "note": "Rare early constant f/2.8 standard zoom — 'PE' = 5 elements in a specialised group. One of the first constant-aperture standard zooms in 35mm SLR history and a cult find on the used market.",
+        "angleOfView": [
+          56.8,
+          30.3
+        ]
+      },
+      {
+        "id": "minolta-mc-zoom-rokkor-100-200mm-f5.6",
+        "maker": "Minolta",
+        "name": "MC Zoom Rokkor 100-200mm F/5.6",
+        "mount": "MD",
+        "focalLength": [
+          100,
+          200
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 2.5,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "diameter": 66,
+        "length": 175,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Budget MC-generation constant-aperture tele zoom. Push-pull one-touch operation. Predecessor to the MD Zoom Rokkor 75-200mm F/4.5.",
+        "angleOfView": [
+          24.4,
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-20mm-f2.8-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 20mm F/2.8 (III)",
+        "mount": "MD",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 235,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 9,
+        "diameter": 65,
+        "length": 44,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Cult MD III ultra-wide — smaller and lighter than the MD II with the same optical formula, now using a 55mm filter. Popular on Sony E and Fujifilm X for its compact form on adapters.",
+        "angleOfView": [
+          94.5
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-24mm-f2.8-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 24mm F/2.8 (III)",
+        "mount": "MD",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 205,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 8,
+        "diameter": 64,
+        "length": 44,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "New MD III revision — drops the Rokkor name on later production, uses a 49mm filter and lighter plastic barrel. Optically distinct from the MD II with an added element for close-focus performance.",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-28mm-f2-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 28mm F/2 (III)",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 240,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 9,
+        "diameter": 64,
+        "length": 55,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "MD III revision of the fast 28mm — lighter than the MD II. Sits at the top of the New MD wide line alongside the f/2.8 kit.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-28mm-f3.5-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 28mm F/3.5 (III)",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 150,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "diameter": 64,
+        "length": 40,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Compact MD III budget wide — shortest of the New MD 28mm range at about 40mm long. Sold as a lightweight travel option.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-35mm-f2.8-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 35mm F/2.8 (III)",
+        "mount": "MD",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 155,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 64,
+        "length": 40,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Plastic-barrel New MD III revision of the compact 35mm F/2.8. Extremely light and small; a favourite for daily-carry rigs on mirrorless.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-45mm-f2-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 45mm F/2 (III)",
+        "mount": "MD",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.6,
+        "weight": 115,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 4,
+        "diameter": 64,
+        "length": 25,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later MD III pancake Tessar-type normal — lighter plastic barrel, shipped as kit on the X-370 / X-570. About 25mm long. Cult carry-around on adapters.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-50mm-f1.7-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 50mm F/1.7 (III)",
+        "mount": "MD",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 160,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 36,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Plastic-barrel New MD III revision — supplied as the standard kit on later X-series (X-370, X-570, X-700 late). Optically identical to the MD II but lighter.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "minolta-md-rokkor-85mm-f2-iii",
+        "maker": "Minolta",
+        "name": "MD Rokkor 85mm F/2 (III)",
+        "mount": "MD",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.85,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 64,
+        "length": 55,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Rare compact MD III portrait tele — introduced to slot below the fast f/1.7. Extremely low production; a hunt-lens for Minolta MF portraitists.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "minolta-md-zoom-rokkor-24-50mm-f4-iii",
+        "maker": "Minolta",
+        "name": "MD Zoom Rokkor 24-50mm F/4 (III)",
+        "mount": "MD",
+        "focalLength": [
+          24,
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 335,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 10,
+        "diameter": 66,
+        "length": 78,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "New MD III wide-standard constant f/4 zoom. Successor concept to the MD 24-35mm F/3.5. Well regarded on the used market for its constant aperture and compact form.",
+        "angleOfView": [
+          84.1,
+          46.8
+        ]
+      },
+      {
+        "id": "minolta-md-zoom-rokkor-35-135mm-f3.5-4.5-iii",
+        "maker": "Minolta",
+        "name": "MD Zoom 35-135mm F/3.5-4.5 (III)",
+        "mount": "MD",
+        "focalLength": [
+          35,
+          135
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 545,
+        "bladesCount": 6,
+        "elements": 15,
+        "groups": 12,
+        "diameter": 68,
+        "length": 115,
+        "hasMacro": true,
+        "maxMagnification": 0.25,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "New MD III general-purpose long-range zoom with 1:4 macro at the tele end. Successor to the 35-105mm as the do-it-all travel zoom.",
+        "angleOfView": [
+          63.4,
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-celtic-35mm-f2.8",
+        "maker": "Minolta",
+        "name": "Celtic 35mm F/2.8",
+        "mount": "MD",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 240,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 65,
+        "length": 50,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Celtic budget-line 35mm — an MC Rokkor derivative with simplified coatings and a plainer barrel. Celtic was Minolta's low-cost sub-brand aimed at the North-American entry market.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "minolta-celtic-135mm-f2.8",
+        "maker": "Minolta",
+        "name": "Celtic 135mm F/2.8",
+        "mount": "MD",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 460,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 66,
+        "length": 90,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Celtic budget rebadge of the MC Tele Rokkor 135mm F/2.8. Built-in sliding hood. Common find on the used market at a low price.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "minolta-celtic-200mm-f4",
+        "maker": "Minolta",
+        "name": "Celtic 200mm F/4",
+        "mount": "MD",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 2.5,
+        "weight": 505,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 66,
+        "length": 130,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Celtic budget rebadge of the MC Tele Rokkor 200mm F/4. Built-in sliding hood. Inexpensive entry-level long tele on the SR / MC mount.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "minolta-auto-rokkor-pf-55mm-f1.8",
+        "maker": "Minolta",
+        "name": "Auto Rokkor-PF 55mm F/1.8",
+        "mount": "MD",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.5,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 64,
+        "length": 47,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Pre-MC Auto Rokkor — the original SR-2 / SR-1 kit lens. 'PF' = 6 elements in 5 groups, a Double Gauss. Cult early Rokkor with silver-and-black barrel, no meter coupling. Mounts and stops down on later MC/MD bodies.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "minolta-auto-rokkor-pf-100mm-f2",
+        "maker": "Minolta",
+        "name": "Auto Rokkor-PF 100mm F/2",
+        "mount": "MD",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 460,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 66,
+        "length": 82,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Pre-MC fast portrait tele — a rare Auto Rokkor released alongside the SR-3. 'PF' = 6/5. Direct ancestor of the MC Rokkor-PF 100mm F/2.",
+        "successorId": "minolta-mc-rokkor-pf-100mm-f2",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-mc-macro-rokkor-qf-100mm-f4-bellows",
+        "maker": "Minolta",
+        "name": "MC Macro Rokkor-QF 100mm F/4 Bellows",
+        "mount": "MD",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.5,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 6,
+        "diameter": 62,
+        "length": 55,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Short-mount 100mm bellows macro head — no focus helicoid, designed for use with the Minolta Auto Bellows III. 'QF' = 4/6. Reaches 1:1 (and beyond) via the bellows extension. Specialty lens for high-magnification work.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "minolta-mc-auto-bellows-micro-rokkor-25mm-f2.5",
+        "maker": "Minolta",
+        "name": "MC Auto Bellows Micro Rokkor 25mm F/2.5",
+        "mount": "MD",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.05,
+        "weight": 95,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "diameter": 45,
+        "length": 30,
+        "maxMagnification": 4,
+        "hasMacro": true,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Ultra-high-magnification bellows-only optic — retrofocus reversed for extreme close-up. On the Auto Bellows III it reaches roughly 2x-4x life size. Specialty micro-photography lens; extremely rare on the used market.",
+        "angleOfView": [
+          81.7
+        ]
       }
     ]
   },
@@ -34039,6 +35232,370 @@
         "note": "Second-generation PC 35mm (multi-coated). +/-11mm shift. Manual preset aperture.",
         "angleOfView": [
           63.4
+        ]
+      }
+    ],
+    "S": [
+      {
+        "id": "nikon-w-nikkor-c-2.1cm-f4-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor.C 2.1cm F4",
+        "mount": "S",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 190,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 4,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Ultra-rare super-wide, symmetric non-retrofocus design. Requires mirror lock-up on SLRs — was a dedicated rangefinder lens. Bundled with external optical viewfinder. Nippon Kogaku K.K. Grail-tier collector item.",
+        "angleOfView": [
+          91.7
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-c-2.5cm-f4-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor.C 2.5cm F4",
+        "mount": "S",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 130,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Compact wide-angle Nikkor. External viewfinder required. Nippon Kogaku K.K. Cult classic on modern mirrorless via adapter.",
+        "angleOfView": [
+          81.7
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-c-2.8cm-f3.5-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor.C 2.8cm F3.5",
+        "mount": "S",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 145,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Classic wide reportage lens. External viewfinder required. Nippon Kogaku K.K.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-3.5cm-f2.5-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor 3.5cm F2.5",
+        "mount": "S",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 145,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Popular reportage wide with brought-in framelines on SP. Nippon Kogaku K.K. Cult favorite for street on modern mirrorless via adapter.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "nikon-w-nikkor-3.5cm-f1.8-s",
+        "maker": "Nikon",
+        "name": "W-Nikkor 3.5cm F1.8",
+        "mount": "S",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 250,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1956",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "World's fastest 35mm at launch. Grail-tier wide-angle collector item. Sonnar-inspired 7-element design. Nippon Kogaku K.K.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "nikon-nikkor-h-c-5cm-f2-s",
+        "maker": "Nikon",
+        "name": "Nikkor-H.C 5cm F2",
+        "mount": "S",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 175,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1951",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Standard kit prime, Sonnar-type 6-element design. 'H' = Hex (6 elements), '.C' = coated. Nippon Kogaku K.K. Later replaced by the Nikkor-S 5cm F1.4.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-nikkor-s-c-5cm-f1.4-s",
+        "maker": "Nikon",
+        "name": "Nikkor-S.C 5cm F1.4",
+        "mount": "S",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 235,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Cult-classic fast Sonnar-type normal. Legendary rendering — smooth gradation, dreamy bokeh wide open, sharp stopped down. Kit lens for the SP. 'S' here = Septet (7 elements), not Sonnar. Highly sought on Sony E / Leica M via adapter. Nippon Kogaku K.K.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-micro-nikkor-5cm-f3.5-s",
+        "maker": "Nikon",
+        "name": "Micro-Nikkor 5cm F3.5",
+        "mount": "S",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.45,
+        "weight": 240,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1956",
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "One of the world's first 35mm macro lenses. Originally designed for microfilm document copying. Ancestor of the entire Micro-Nikkor line. Nippon Kogaku K.K.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-c-8.5cm-f2-s",
+        "maker": "Nikon",
+        "name": "Nikkor-P.C 8.5cm F2",
+        "mount": "S",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 460,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1948",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Sonnar-type short tele portrait lens. 'P' = Penta (5 elements). One of the earliest Nikkor lenses. Cult classic portrait glass. Nippon Kogaku K.K.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-c-10.5cm-f2.5-s",
+        "maker": "Nikon",
+        "name": "Nikkor-P.C 10.5cm F2.5",
+        "mount": "S",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 425,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Legendary Sonnar-type 105 — arguably the most famous Nikkor rangefinder lens. Renowned for creamy bokeh and painterly gradation, cult portrait classic. Optical formula carried straight into the F-mount 105/2.5. David Douglas Duncan's Korean War lens. Nippon Kogaku K.K.",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "nikon-nikkor-q-c-13.5cm-f3.5-s",
+        "maker": "Nikon",
+        "name": "Nikkor-Q.C 13.5cm F3.5",
+        "mount": "S",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 425,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Classic tele lens. 'Q' = Quart (4 elements). Nippon Kogaku K.K.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "nikon-nikkor-t-18cm-f2.5-s",
+        "maker": "Nikon",
+        "name": "Nikkor-T 18cm F2.5",
+        "mount": "S",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3,
+        "weight": 2000,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Fast super-telephoto for press/sports, requires dedicated reflex housing on rangefinder bodies. 'T' = Tele. Rare cult item. Nippon Kogaku K.K.",
+        "angleOfView": [
+          13.7
         ]
       }
     ],
@@ -45352,6 +46909,980 @@
         "note": "反射式（ミラー）1000mm。リング状ボケが特徴。虹彩絞りなし、F11固定。",
         "angleOfView": [
           2.5
+        ]
+      },
+      {
+        "id": "pentax-auto-takumar-55mm-f1.8",
+        "maker": "PENTAX",
+        "name": "Auto-Takumar 55mm F1.8",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.45,
+        "weight": 225,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "Auto-Takumar世代の標準大口径。セミオートマチック絞り（撮影後手動でチャージ）。単層コーティング。Asahi Pentax S2/S3時代の名玉。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "pentax-auto-takumar-55mm-f2.2",
+        "maker": "PENTAX",
+        "name": "Auto-Takumar 55mm F2.2",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.45,
+        "weight": 205,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "エントリー標準レンズ。Auto-Takumar世代のセミオート絞り機構。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "pentax-auto-takumar-85mm-f1.9",
+        "maker": "PENTAX",
+        "name": "Auto-Takumar 85mm F1.9",
+        "mount": "M42",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1,
+        "weight": 435,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "大口径ポートレート。Auto-Takumar期の初期銘玉。開放描写がやわらかいカルト級。",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "pentax-auto-takumar-135mm-f3.5",
+        "maker": "PENTAX",
+        "name": "Auto-Takumar 135mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 1.5,
+        "weight": 400,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "望遠のAuto-Takumar。プリセット的なセミオート絞り。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-17mm-f4-fisheye",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 17mm F4 Fisheye",
+        "mount": "M42",
+        "focalLength": [
+          17
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.2,
+        "weight": 310,
+        "bladesCount": 5,
+        "elements": 11,
+        "groups": 7,
+        "diameter": 68,
+        "length": 45,
+        "releaseDate": "1967",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasFisheye": true,
+        "note": "対角魚眼180度。内蔵フィルター（Skylight/Y2/O2/R2）。Super-Takumar期の魚眼銘玉。フルオート絞り。"
+      },
+      {
+        "id": "pentax-super-takumar-18mm-f11-fisheye",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 18mm F11 Fisheye",
+        "mount": "M42",
+        "focalLength": [
+          18
+        ],
+        "fStop": [
+          11
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 90,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasFisheye": true,
+        "note": "F11固定・パンフォーカスの小型フィッシュアイ。虹彩絞りなし。極めて希少。"
+      },
+      {
+        "id": "pentax-super-takumar-20mm-f4.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 20mm F4.5",
+        "mount": "M42",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.35,
+        "weight": 230,
+        "bladesCount": 6,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 73,
+        "length": 44,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "レトロフォーカス超広角。SMC化前の初代20mm。",
+        "angleOfView": [
+          94.5
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-24mm-f3.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 24mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.25,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 8,
+        "diameter": 65,
+        "length": 45,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "広角Super-Takumar。フルオート絞り。",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-28mm-f3.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 28mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.4,
+        "weight": 235,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "diameter": 63,
+        "length": 47,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "定番の広角Super-Takumar。逆光には弱いがヴィンテージ描写。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-35mm-f2",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 35mm F2",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 7,
+        "diameter": 63,
+        "length": 48,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "明るい広角の【カルト銘玉】。開放から使える描写、独特のフレア。アダプター経由でミラーレスでも人気。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-35mm-f3.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 35mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 175,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 60,
+        "length": 39,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "軽量コンパクトな広角Super-Takumar。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-50mm-f1.4-8-element",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 50mm F1.4 (8-element)",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 265,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 6,
+        "diameter": 63,
+        "length": 39,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "【伝説の8枚玉】初期の希少バージョン（1965-1966、約6ヶ月間のみ製造）。放射性トリウム含有ガラス未使用のためニュートラルな発色。ミラーレスアダプター界のカルトキング。前玉深く凹み・製造番号早期が識別ポイント。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-50mm-f1.4-7-element",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 50mm F1.4 (7-element)",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 245,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "diameter": 63,
+        "length": 39,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "後期7枚玉版。放射性トリウム（酸化トリウム）含有の高屈折率ガラス採用（イエロータクマー現象）。8枚玉より安価で入手しやすいがこちらも人気。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-55mm-f1.8",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 55mm F1.8",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 42,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "【カルト定番】膨大な生産量で中古市場に潤沢、安価で描写は極めて良好。アダプター遊びの入口として世界的に愛される。開放から解像・軽量。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-55mm-f2",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 55mm F2",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 63,
+        "length": 42,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "エントリー向け標準Super-Takumar。フルオート絞り採用。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-85mm-f1.9",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 85mm F1.9",
+        "mount": "M42",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.85,
+        "weight": 340,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 65,
+        "length": 65,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "【カルトポートレート】Auto-Takumar 85/1.9のSuper世代への発展。柔らかい開放描写と美しいボケでポートレート愛好家に高評価。",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-85mm-f1.8",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 85mm F1.8",
+        "mount": "M42",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.85,
+        "weight": 355,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 65,
+        "length": 65,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "【カルトポートレート銘玉】85/1.9の後継。開放から立体感のある描写。ミラーレスでポートレートに愛される。",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-105mm-f2.8",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 105mm F2.8",
+        "mount": "M42",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.2,
+        "weight": 385,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 65,
+        "length": 79,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "中望遠Super-Takumar。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-120mm-f2.8",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 120mm F2.8",
+        "mount": "M42",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.5,
+        "weight": 425,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 63,
+        "length": 91,
+        "releaseDate": "1971",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "希少な中望遠120mm。短期間のみ生産されSMC世代へ移行。",
+        "angleOfView": [
+          20.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-135mm-f2.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 135mm F2.5",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 560,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 6,
+        "diameter": 65,
+        "length": 91,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "明るい望遠Super-Takumar。前期6群6枚版。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-135mm-f3.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 135mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.5,
+        "weight": 340,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 4,
+        "diameter": 60,
+        "length": 88,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "軽量な望遠Super-Takumar。中古市場でよく見かける定番。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-150mm-f4",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 150mm F4",
+        "mount": "M42",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.8,
+        "weight": 500,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 65,
+        "length": 116,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "望遠Super-Takumar。",
+        "angleOfView": [
+          16.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-200mm-f4",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 200mm F4",
+        "mount": "M42",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 2.5,
+        "weight": 605,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 65,
+        "length": 138,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "定番の望遠Super-Takumar。",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-300mm-f4",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 300mm F4",
+        "mount": "M42",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 5.5,
+        "weight": 1550,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 5,
+        "diameter": 85,
+        "length": 217,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "大口径望遠Super-Takumar。三脚座付属。",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-500mm-f4.5",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 500mm F4.5",
+        "mount": "M42",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 10,
+        "weight": 4400,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "diameter": 137,
+        "length": 400,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "note": "超望遠大砲Super-Takumar。三脚座・専用ケース付き。",
+        "angleOfView": [
+          5
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-35mm-f3.5-macro",
+        "maker": "PENTAX",
+        "name": "Super-Macro-Takumar 35mm F3.5",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.13,
+        "weight": 210,
+        "maxMagnification": 1,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasMacro": true,
+        "note": "広角マクロ。専用Life-Size Adapter使用で等倍撮影可能。希少。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-50mm-f4-macro",
+        "maker": "PENTAX",
+        "name": "Super-Macro-Takumar 50mm F4",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.234,
+        "weight": 240,
+        "maxMagnification": 0.5,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "diameter": 63,
+        "length": 60,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasMacro": true,
+        "note": "【カルトマクロ】1/2倍まで単体対応、専用リングで等倍まで。テッサー型4枚玉の高解像で今も現役の人気。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-100mm-f4-macro",
+        "maker": "PENTAX",
+        "name": "Super-Macro-Takumar 100mm F4",
+        "mount": "M42",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 480,
+        "maxMagnification": 0.5,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 3,
+        "diameter": 65,
+        "length": 128,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasMacro": true,
+        "note": "1/2倍中望遠マクロ。ワーキングディスタンスに余裕。",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "pentax-bellows-takumar-100mm-f4",
+        "maker": "PENTAX",
+        "name": "Bellows-Takumar 100mm F4",
+        "mount": "M42",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "weight": 250,
+        "maxMagnification": 1,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasMacro": true,
+        "note": "ベローズ専用マクロヘッド。ヘリコイド無しでベローズユニット必須。等倍以上の高倍率撮影用。",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "pentax-super-takumar-200mm-f5.6-macro",
+        "maker": "PENTAX",
+        "name": "Super-Takumar 200mm F5.6 (Tele-Macro)",
+        "mount": "M42",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 2.5,
+        "weight": 545,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1969",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "hasMacro": true,
+        "note": "望遠マクロ的用途で使える200mm。中間リングで近接撮影対応。希少バリエーション。",
+        "angleOfView": [
+          12.3
         ]
       }
     ]
@@ -88967,6 +91498,7 @@
         "diameter": 84.5,
         "length": 103.7,
         "releaseDate": "2023-05",
+        "msrp": 109800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-16mm-f1-8",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-16mm-f1-8",
@@ -89004,6 +91536,7 @@
         "diameter": 65,
         "length": 52,
         "releaseDate": "2024-03",
+        "msrp": 33300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-20mm-f2-8",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-20mm-f2-8"
@@ -89112,6 +91645,7 @@
         "diameter": 62,
         "length": 15,
         "releaseDate": "2024-06",
+        "msrp": 19800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-28mm-f4-5",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-28mm-f4-5"
@@ -89148,6 +91682,7 @@
         "diameter": 87,
         "length": 130,
         "releaseDate": "2025",
+        "msrp": 181800,
         "officialUrl": "https://viltroxstore.com/",
         "urls": {
           "official": "https://viltroxstore.com/"
@@ -89184,6 +91719,7 @@
         "diameter": 65,
         "length": 40,
         "releaseDate": "2024-07",
+        "msrp": 27540,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-40mm-f2-5",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-40mm-f2-5"
@@ -89256,6 +91792,7 @@
         "diameter": 65,
         "length": 55,
         "releaseDate": "2025",
+        "msrp": 36000,
         "officialUrl": "https://viltroxstore.com/",
         "urls": {
           "official": "https://viltroxstore.com/"
@@ -89292,6 +91829,7 @@
         "diameter": 87,
         "length": 128,
         "releaseDate": "2025",
+        "msrp": 97200,
         "officialUrl": "https://viltroxstore.com/",
         "urls": {
           "official": "https://viltroxstore.com/"
@@ -89328,6 +91866,7 @@
         "diameter": 87,
         "length": 108,
         "releaseDate": "2023-12",
+        "msrp": 109800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-85mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-85mm-f1-4"
@@ -89400,6 +91939,7 @@
         "diameter": 93,
         "length": 145,
         "releaseDate": "2024-11",
+        "msrp": 168300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab"
@@ -89553,6 +92093,7 @@
         "diameter": 74,
         "length": 92,
         "releaseDate": "2022-10",
+        "msrp": 91800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4"
@@ -89625,6 +92166,7 @@
         "diameter": 65,
         "length": 55,
         "releaseDate": "2024-10",
+        "msrp": 33300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-25mm-f1-7-air",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-25mm-f1-7-air"
@@ -89661,6 +92203,7 @@
         "diameter": 72,
         "length": 92,
         "releaseDate": "2023-12",
+        "msrp": 107100,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro"
@@ -89733,6 +92276,7 @@
         "diameter": 65,
         "length": 55,
         "releaseDate": "2024-11",
+        "msrp": 33300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-35mm-f1-7-air",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-35mm-f1-7-air"
@@ -89769,6 +92313,7 @@
         "diameter": 65,
         "length": 74,
         "releaseDate": "2021-11",
+        "msrp": 39400,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4"
@@ -89805,6 +92350,7 @@
         "diameter": 65,
         "length": 55,
         "releaseDate": "2024-12",
+        "msrp": 33300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-56mm-f1-7-air",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-56mm-f1-7-air"
@@ -89841,6 +92387,7 @@
         "diameter": 72,
         "length": 105,
         "releaseDate": "2024-04",
+        "msrp": 97200,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro"
@@ -90285,6 +92832,7 @@
         "diameter": 74,
         "length": 92,
         "releaseDate": "2022-10",
+        "msrp": 91800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4"
@@ -90429,6 +92977,7 @@
         "diameter": 72,
         "length": 92,
         "releaseDate": "2023-04",
+        "msrp": 107100,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro"
@@ -90501,6 +93050,7 @@
         "diameter": 65,
         "length": 74,
         "releaseDate": "2021-11",
+        "msrp": 39400,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4"
@@ -90537,6 +93087,7 @@
         "diameter": 72,
         "length": 105,
         "releaseDate": "2023-11",
+        "msrp": 97200,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro"
@@ -90612,6 +93163,7 @@
         "diameter": 84.5,
         "length": 103.7,
         "releaseDate": "2023-06",
+        "msrp": 109800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-16mm-f1-8",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-16mm-f1-8"
@@ -90648,6 +93200,7 @@
         "diameter": 65,
         "length": 52,
         "releaseDate": "2024-05",
+        "msrp": 33300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-20mm-f2-8",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-20mm-f2-8"
@@ -90756,6 +93309,7 @@
         "diameter": 62,
         "length": 15,
         "releaseDate": "2024-07",
+        "msrp": 19800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-28mm-f4-5",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-28mm-f4-5"
@@ -90792,6 +93346,7 @@
         "diameter": 87,
         "length": 130,
         "releaseDate": "2025",
+        "msrp": 181800,
         "officialUrl": "https://viltroxstore.com/",
         "urls": {
           "official": "https://viltroxstore.com/"
@@ -90828,6 +93383,7 @@
         "diameter": 65,
         "length": 40,
         "releaseDate": "2024-08",
+        "msrp": 32400,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-40mm-f2-5",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-40mm-f2-5"
@@ -90972,6 +93528,7 @@
         "diameter": 93,
         "length": 145,
         "releaseDate": "2024-12",
+        "msrp": 168300,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab"
@@ -91125,6 +93682,7 @@
         "diameter": 74,
         "length": 92,
         "releaseDate": "2023-04",
+        "msrp": 91800,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-13mm-f1-4"
@@ -91269,6 +93827,7 @@
         "diameter": 72,
         "length": 92,
         "releaseDate": "2024-02",
+        "msrp": 107100,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro"
@@ -91341,6 +93900,7 @@
         "diameter": 65,
         "length": 74,
         "releaseDate": "2022-08",
+        "msrp": 39400,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-56mm-f1-4"
@@ -91377,6 +93937,7 @@
         "diameter": 72,
         "length": 105,
         "releaseDate": "2024-06",
+        "msrp": 97200,
         "officialUrl": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro",
         "urls": {
           "official": "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro"
@@ -92186,6 +94747,369 @@
         "note": "Cult apochromatic 1:1 macro for medium format. Reference-class flat-field rendering, prized by product and reproduction shooters. Made in Germany.",
         "angleOfView": [
           25.8
+        ]
+      }
+    ],
+    "Contarex": [
+      {
+        "id": "zeiss-distagon-25mm-f2.8-contarex",
+        "maker": "ZEISS",
+        "name": "Distagon 25mm F2.8 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.19,
+        "weight": 380,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Retrofocus wide by Erhard Glatzel. Very close 0.19 m minimum focus for the era. Cult classic for its 3D microcontrast. Zeiss Oberkochen. System EOL 1974.",
+        "angleOfView": [
+          81.7
+        ]
+      },
+      {
+        "id": "zeiss-distagon-35mm-f2-contarex",
+        "maker": "ZEISS",
+        "name": "Distagon 35mm F2 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.35,
+        "weight": 450,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Fast reportage wide by Glatzel. Extremely rare, one of the most sought-after Contarex primes. Cult status among collectors. Zeiss Oberkochen.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-distagon-35mm-f4-contarex",
+        "maker": "ZEISS",
+        "name": "Distagon 35mm F4 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.3,
+        "weight": 300,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Compact affordable Distagon wide for Contarex. Zeiss Oberkochen. System EOL 1974.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-planar-50mm-f2-contarex",
+        "maker": "ZEISS",
+        "name": "Planar 50mm F2 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.33,
+        "weight": 300,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Kit standard prime for the original Contarex Bullseye (1958). Classic double-Gauss Planar. Zeiss Oberkochen.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-planar-55mm-f1.4-contarex",
+        "maker": "ZEISS",
+        "name": "Planar 55mm F1.4 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.5,
+        "weight": 460,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Cult-classic fast normal — legendary Planar rendering with painterly bokeh. One of the most desirable Contarex lenses on modern mirrorless via adapter. Zeiss Oberkochen.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "zeiss-planar-85mm-f1.4-contarex",
+        "maker": "ZEISS",
+        "name": "Planar 85mm F1.4 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 720,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Extremely rare fast portrait Planar — arguably the rarest Contarex lens, produced only in the final years. Grail-tier collector item. Zeiss Oberkochen.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-85mm-f2-contarex",
+        "maker": "ZEISS",
+        "name": "Sonnar 85mm F2 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 460,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Classic Sonnar short tele for portraits. Smooth gradation and creamy bokeh, cult favorite on modern mirrorless. Zeiss Oberkochen.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-135mm-f4-contarex",
+        "maker": "ZEISS",
+        "name": "Sonnar 135mm F4 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Compact Sonnar telephoto. Common Contarex tele — a great entry point into the system. Zeiss Oberkochen.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-180mm-f2.8-contarex",
+        "maker": "ZEISS",
+        "name": "Sonnar 180mm F2.8 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.8,
+        "weight": 1550,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Heir to the pre-war 'Olympia-Sonnar' 180/2.8 heritage (1936 Berlin Olympics). Fast tele for sports/press. Cult classic. Zeiss Oberkochen.",
+        "angleOfView": [
+          13.7
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-250mm-f4-contarex",
+        "maker": "ZEISS",
+        "name": "Sonnar 250mm F4 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3.5,
+        "weight": 1400,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Longest common Sonnar tele for Contarex. Zeiss Oberkochen. System EOL 1974.",
+        "angleOfView": [
+          9.9
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-40-120mm-f2.8-contarex",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar 40-120mm F2.8 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          40,
+          120
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 1800,
+        "bladesCount": 6,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Pioneering constant-F2.8 SLR zoom, one of the earliest fast pro zooms. Extremely rare, very heavy. Zeiss Oberkochen.",
+        "angleOfView": [
+          56.8,
+          20.4
+        ]
+      },
+      {
+        "id": "zeiss-mirotar-500mm-f8-contarex",
+        "maker": "ZEISS",
+        "name": "Mirotar 500mm F8 Contarex",
+        "mount": "Contarex",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 4,
+        "weight": 2600,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1974",
+        "note": "Catadioptric (mirror) super-tele. Fixed F8. Very rare production; a grail item among Contarex collectors. Zeiss Oberkochen.",
+        "angleOfView": [
+          5
         ]
       }
     ],

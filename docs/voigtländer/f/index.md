@@ -18,6 +18,7 @@
 | Angle of View | 40.9° |
 | Diameter | 63mm |
 | Length | 48.8mm |
+| MSRP | ¥71,500 |
 | Release Date | 2019-07 |
 | Official URL | https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/) |

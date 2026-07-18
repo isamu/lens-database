@@ -17,6 +17,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0000336433/",
         },
         releaseDate: "2012-02-18",
+        msrp: 94600,
     },
     {
         id: "4547410206142",
@@ -36,6 +37,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0000336432/",
         },
         releaseDate: "2012-02-18",
+        msrp: 94600,
     },
     {
         id: "4547410206166",
@@ -61,6 +63,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf60mmf24-r-macro/",
         },
         releaseDate: "2012-02-18",
+        msrp: 102300,
     },
     {
         id: "4547410227598",
@@ -85,6 +88,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf14mmf28-r/",
         },
         releaseDate: "2013-01-19",
+        msrp: 141900,
     },
     {
         id: "4547410251388",
@@ -196,6 +200,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0000770447/",
         },
         releaseDate: "2015-05-21",
+        msrp: 157300,
     },
     {
         id: "4547410302776",
@@ -215,6 +220,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0000777288/",
         },
         releaseDate: "2015-07-16",
+        msrp: 149600,
     },
     {
         id: "4547410310405",
@@ -234,6 +240,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0000822289/",
         },
         releaseDate: "2015-11-19",
+        msrp: 62700,
     },
     {
         id: "4547410328813",
@@ -278,6 +285,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf50mmf2-r-wr/",
         },
         releaseDate: "2017-02-23",
+        msrp: 70400,
     },
     {
         id: "4547410357479",
@@ -303,6 +311,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf80mmf28-r-lm-ois-wr-macro/",
         },
         releaseDate: "2017-11-30",
+        msrp: 188100,
     },
     {
         id: "4547410376111",
@@ -348,6 +357,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf16mmf28-r-wr/",
         },
         releaseDate: "2019-03-20",
+        msrp: 62700,
     },
     {
         id: "4547410435856",
@@ -367,6 +377,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001286475/",
         },
         releaseDate: "2020-09-24",
+        msrp: 235400,
     },
     {
         id: "4547410440386",
@@ -386,6 +397,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001328213/",
         },
         releaseDate: "2021-03-11",
+        msrp: 62700,
     },
     {
         id: "4547410442557",
@@ -405,6 +417,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001348957/",
         },
         releaseDate: "2021-05-27",
+        msrp: 157300,
     },
     {
         id: "4547410455465",
@@ -424,6 +437,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001379950/",
         },
         releaseDate: "2021-09-29",
+        msrp: 125400,
     },
     {
         id: "4547410471045",
@@ -443,6 +457,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001471399/",
         },
         releaseDate: "2021-09-29",
+        msrp: 157300,
     },
     {
         id: "4547410464344",
@@ -462,6 +477,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001379949/",
         },
         releaseDate: "2022-02-24",
+        msrp: 141900,
     },
     {
         id: "4547410485868",
@@ -487,6 +503,7 @@ export const fujifilmXPrimeLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xf30mmf28-r-lm-wr-macro/",
         },
         releaseDate: "2022-11-25",
+        msrp: 94600,
     },
     {
         id: "4547410493856",
@@ -509,6 +526,7 @@ export const fujifilmXPrimeLensDataSet = [
             kakaku: "https://kakaku.com/item/K0001539680/",
         },
         releaseDate: "2023-06-29",
+        msrp: 125400,
     },
     {
         id: "4547410547412",
@@ -535,6 +553,7 @@ export const fujifilmXPrimeLensDataSet = [
             news: "https://www.fujifilm.com/jp/ja/news/list/11805",
         },
         releaseDate: "2024-12-20",
+        msrp: 471900,
     },
     {
         id: "4547410554656",
@@ -561,5 +580,6 @@ export const fujifilmXPrimeLensDataSet = [
             news: "https://www.fujifilm.com/jp/ja/news/list/12429",
         },
         releaseDate: "2025-12-05",
+        msrp: 63800,
     },
 ];

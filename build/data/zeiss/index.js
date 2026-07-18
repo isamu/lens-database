@@ -8,3 +8,4 @@ export * from "./m42";
 export * from "./g";
 export * from "./n";
 export * from "./645";
+export * from "./contarex";

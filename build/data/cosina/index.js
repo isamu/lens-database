@@ -51,6 +51,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 29.7,
         releaseDate: "2004-04-10",
+        msrp: 55000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
@@ -79,6 +80,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 29.7,
         releaseDate: "2004-04-10",
+        msrp: 55000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-classic-40mm-f1-4/",
@@ -157,6 +159,7 @@ export const cosinaLensDataSet = [
         diameter: 67.6,
         length: 54.9,
         releaseDate: "2022-03",
+        msrp: 165000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-21mm-f1-4/",
@@ -209,6 +212,7 @@ export const cosinaLensDataSet = [
         diameter: 62.8,
         length: 46.5,
         releaseDate: "2020-07",
+        msrp: 165000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-50mm-f1-2/",
@@ -235,6 +239,7 @@ export const cosinaLensDataSet = [
         diameter: 55.3,
         length: 37.7,
         releaseDate: "2019-06",
+        msrp: 110000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
@@ -261,6 +266,7 @@ export const cosinaLensDataSet = [
         diameter: 55.3,
         length: 37.7,
         releaseDate: "2019-06",
+        msrp: 110000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-vintageline-50mm-f1-5-ii/",
@@ -287,6 +293,7 @@ export const cosinaLensDataSet = [
         diameter: 62.6,
         length: 65.1,
         releaseDate: "2018-11",
+        msrp: 137500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-75mm-f1-5/",
@@ -339,6 +346,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 39.2,
         releaseDate: "2022-04",
+        msrp: 132000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-35mm-f2/",
@@ -365,6 +373,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 57.2,
         releaseDate: "2020-08",
+        msrp: 132000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-50mm-f2/",
@@ -443,6 +452,7 @@ export const cosinaLensDataSet = [
         diameter: 55.3,
         length: 45.4,
         releaseDate: "2020-01",
+        msrp: 110000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-28mm-f2/",
@@ -495,6 +505,7 @@ export const cosinaLensDataSet = [
         diameter: 55.3,
         length: 28.7,
         releaseDate: "2019-05",
+        msrp: 99000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/ultron-vintageline-35mm-f2/",
@@ -521,6 +532,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 34.5,
         releaseDate: "2022-03",
+        msrp: 74800,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/heliar-classic-40mm-f2-8/",
@@ -599,6 +611,7 @@ export const cosinaLensDataSet = [
         diameter: 63.4,
         length: 49.5,
         releaseDate: "2016-02",
+        msrp: 104500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/superwideheliar-15mm-f4-5-iii/",
@@ -677,6 +690,7 @@ export const cosinaLensDataSet = [
         diameter: 55,
         length: 23,
         releaseDate: "2007-10",
+        msrp: 49500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/color-skopar-35mm-f2-5-p-ii/",
@@ -729,6 +743,7 @@ export const cosinaLensDataSet = [
         diameter: 60.8,
         length: 43.3,
         releaseDate: "2025-06-20",
+        msrp: 137500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/vm-mount/nokton-40mm-f1-2-ii/",
@@ -758,6 +773,7 @@ export const cosinaLensDataSet = [
         diameter: 62.6,
         length: 39.5,
         releaseDate: "2021-04",
+        msrp: 132000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/",
@@ -784,6 +800,7 @@ export const cosinaLensDataSet = [
         diameter: 62.8,
         length: 59.9,
         releaseDate: "2019-11",
+        msrp: 132000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/",
@@ -811,6 +828,7 @@ export const cosinaLensDataSet = [
         diameter: 78,
         length: 91.3,
         releaseDate: "2017-11",
+        msrp: 132000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/",
@@ -837,6 +855,7 @@ export const cosinaLensDataSet = [
         diameter: 70,
         length: 89,
         releaseDate: "2020-11",
+        msrp: 181500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/",
@@ -889,6 +908,7 @@ export const cosinaLensDataSet = [
         diameter: 66.8,
         length: 59.6,
         releaseDate: "2019-04",
+        msrp: 148500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/",
@@ -915,6 +935,7 @@ export const cosinaLensDataSet = [
         diameter: 73.5,
         length: 79.4,
         releaseDate: "2022-08",
+        msrp: 264000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/",
@@ -941,6 +962,7 @@ export const cosinaLensDataSet = [
         diameter: 66.8,
         length: 59.4,
         releaseDate: "2021-04",
+        msrp: 165000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/",
@@ -993,6 +1015,7 @@ export const cosinaLensDataSet = [
         diameter: 66.8,
         length: 68.6,
         releaseDate: "2023-11",
+        msrp: 148500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/",
@@ -1018,6 +1041,7 @@ export const cosinaLensDataSet = [
         diameter: 68.8,
         length: 66.5,
         releaseDate: "2022-08",
+        msrp: 170500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/",
@@ -1044,6 +1068,7 @@ export const cosinaLensDataSet = [
         diameter: 66.5,
         length: 61,
         releaseDate: "2019-01",
+        msrp: 126500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/",
@@ -1070,6 +1095,7 @@ export const cosinaLensDataSet = [
         diameter: 60.6,
         length: 27.2,
         releaseDate: "2023-07",
+        msrp: 93500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/",
@@ -1151,6 +1177,7 @@ export const cosinaLensDataSet = [
         diameter: 62.6,
         length: 39.5,
         releaseDate: "2023-04",
+        msrp: 143000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-35mm-f2/",
@@ -1177,6 +1204,7 @@ export const cosinaLensDataSet = [
         diameter: 62.8,
         length: 59.9,
         releaseDate: "2022-07",
+        msrp: 143000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/apo-lanthar-50mm-f2/",
@@ -1204,6 +1232,7 @@ export const cosinaLensDataSet = [
         diameter: 78,
         length: 91.3,
         releaseDate: "2022-11",
+        msrp: 137500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/macro-apo-lanthar-65mm-f2/",
@@ -1230,6 +1259,7 @@ export const cosinaLensDataSet = [
         diameter: 66.8,
         length: 59.6,
         releaseDate: "2022-03",
+        msrp: 115500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/nokton-40mm-f1-2/",
@@ -1282,6 +1312,7 @@ export const cosinaLensDataSet = [
         diameter: 66.8,
         length: 68.6,
         releaseDate: "2024-04",
+        msrp: 148500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/nokton-75mm-f1-5/",
@@ -1308,6 +1339,7 @@ export const cosinaLensDataSet = [
         diameter: 66.5,
         length: 61,
         releaseDate: "2023-04",
+        msrp: 129800,
         officialUrl: "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/z-mount/superwideheliar-15mm-f4-5-iii/",
@@ -1363,6 +1395,7 @@ export const cosinaLensDataSet = [
         diameter: 60.6,
         length: 46.6,
         releaseDate: "2023-11",
+        msrp: 99000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/",
@@ -1389,6 +1422,7 @@ export const cosinaLensDataSet = [
         diameter: 60.6,
         length: 49.7,
         releaseDate: "2022-11",
+        msrp: 85800,
         officialUrl: "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/",
@@ -1441,6 +1475,7 @@ export const cosinaLensDataSet = [
         diameter: 60.6,
         length: 27.2,
         releaseDate: "2023-07",
+        msrp: 80300,
         officialUrl: "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/",
@@ -1496,6 +1531,7 @@ export const cosinaLensDataSet = [
         diameter: 73.5,
         length: 79.4,
         releaseDate: "2024-11",
+        msrp: 264000,
         officialUrl: "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/",
@@ -1577,6 +1613,7 @@ export const cosinaLensDataSet = [
         diameter: 63,
         length: 48.8,
         releaseDate: "2019-07",
+        msrp: 71500,
         officialUrl: "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/",
         urls: {
             official: "https://www.cosina.co.jp/voigtlander/f-mount/nokton-58mm-f1-4-sl-iis/",

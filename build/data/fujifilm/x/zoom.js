@@ -39,6 +39,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf55-200mmf35-48-r-lm-ois/",
         },
         releaseDate: "2013-05-25",
+        msrp: 110000,
     },
     {
         id: "4547410263923",
@@ -82,6 +83,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/",
         },
         releaseDate: "2014-07-05",
+        msrp: 141900,
     },
     {
         id: "4547410289862",
@@ -103,6 +105,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf50-140mmf28-r-lm-ois-wr/",
         },
         releaseDate: "2014-11",
+        msrp: 251900,
     },
     {
         id: "4547410289879",
@@ -144,6 +147,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/",
         },
         releaseDate: "2016-02-18",
+        msrp: 299200,
     },
     {
         id: "4547410379464",
@@ -163,6 +167,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf8-16mmf28-r-lm-wr/",
         },
         releaseDate: "2018-11-29",
+        msrp: 314600,
     },
     {
         id: "4547410416572",
@@ -184,6 +189,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf16-80mmf4-r-ois-wr/",
         },
         releaseDate: "2019-09-26",
+        msrp: 125400,
     },
     {
         id: "4547410437881",
@@ -204,6 +210,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf10-24mmf4-r-ois-wr/",
         },
         releaseDate: "2020-11-26",
+        msrp: 157300,
     },
     {
         id: "4547410437980",
@@ -224,6 +231,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/",
         },
         releaseDate: "2021-03-18",
+        msrp: 125400,
     },
     {
         id: "4547410467031",
@@ -244,6 +252,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/",
         },
         releaseDate: "2022-07-14",
+        msrp: 314600,
     },
     {
         id: "4547410470901",
@@ -265,6 +274,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf18-120mmf4-lm-pz-wr/",
         },
         releaseDate: "2022-09-29",
+        msrp: 141900,
     },
     {
         id: "4547410522129",
@@ -286,6 +296,7 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf16-50mmf28-48-r-lm-wr/",
         },
         releaseDate: "2024-06-28",
+        msrp: 110000,
     },
     {
         id: "4547410540208",
@@ -307,5 +318,6 @@ export const fujifilmXZoonLensDataSet = [
             official: "https://fujifilm-x.com/ja-jp/products/lenses/xf16-55mmf28-r-lm-wr-ii/",
         },
         releaseDate: "2024-12-20",
+        msrp: 189200,
     },
 ];

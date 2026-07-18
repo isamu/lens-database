@@ -18,6 +18,7 @@
 | Angle of View | 63.4° |
 | Diameter | 62.6mm |
 | Length | 39.5mm |
+| MSRP | ¥132,000 |
 | Release Date | 2021-04 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-35mm-f2/) |
@@ -40,6 +41,7 @@
 | Angle of View | 46.8° |
 | Diameter | 62.8mm |
 | Length | 59.9mm |
+| MSRP | ¥132,000 |
 | Release Date | 2019-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/apo-lanthar-50mm-f2/) |
@@ -64,6 +66,7 @@
 | Diameter | 78mm |
 | Length | 91.3mm |
 | Macro | YES |
+| MSRP | ¥132,000 |
 | Release Date | 2017-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/macro-apo-lanthar-65mm-f2/) |
@@ -86,6 +89,7 @@
 | Angle of View | 91.7° |
 | Diameter | 70mm |
 | Length | 89mm |
+| MSRP | ¥181,500 |
 | Release Date | 2020-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/nokton-21mm-f1-4/) |
@@ -130,6 +134,7 @@
 | Angle of View | 56.8° |
 | Diameter | 66.8mm |
 | Length | 59.6mm |
+| MSRP | ¥148,500 |
 | Release Date | 2019-04 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/nokton-40mm-f1-2/) |
@@ -152,6 +157,7 @@
 | Angle of View | 46.8° |
 | Diameter | 73.5mm |
 | Length | 79.4mm |
+| MSRP | ¥264,000 |
 | Release Date | 2022-08 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1/) |
@@ -174,6 +180,7 @@
 | Angle of View | 46.8° |
 | Diameter | 66.8mm |
 | Length | 59.4mm |
+| MSRP | ¥165,000 |
 | Release Date | 2021-04 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/nokton-50mm-f1-2/) |
@@ -218,6 +225,7 @@
 | Angle of View | 32.2° |
 | Diameter | 66.8mm |
 | Length | 68.6mm |
+| MSRP | ¥148,500 |
 | Release Date | 2023-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/nokton-75mm-f1-5/) |
@@ -239,6 +247,7 @@
 | Angle of View | 130.4° |
 | Diameter | 68.8mm |
 | Length | 66.5mm |
+| MSRP | ¥170,500 |
 | Release Date | 2022-08 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/heliar-hyperwide-10mm-f5-6/) |
@@ -261,6 +270,7 @@
 | Angle of View | 110.5° |
 | Diameter | 66.5mm |
 | Length | 61mm |
+| MSRP | ¥126,500 |
 | Release Date | 2019-01 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/superwideheliar-15mm-f4-5-iii/) |
@@ -283,6 +293,7 @@
 | Angle of View | 55.5° |
 | Diameter | 60.6mm |
 | Length | 27.2mm |
+| MSRP | ¥93,500 |
 | Release Date | 2023-07 |
 | Official URL | https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/e-mount/ultron-27mm-f2/) |

@@ -31,6 +31,7 @@
 | Min Focus Distance | 1.1m |
 | Weight | 580g |
 | Angle of View | 29° - 8.1° |
+| MSRP | ¥110,000 |
 | Release Date | 2013-05-25 |
 | URL | [kakaku](https://kakaku.com/item/K0000502111/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf55-200mmf35-48-r-lm-ois/) |
 | EAN/JAN Code | 4547410248524 |
@@ -68,6 +69,7 @@
 | Min Focus Distance | 0.45m |
 | Weight | 490g |
 | Angle of View | 76.5° - 12° |
+| MSRP | ¥141,900 |
 | Release Date | 2014-07-05 |
 | URL | [kakaku](https://kakaku.com/item/K0000665111/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/) |
 | EAN/JAN Code | 4547410282320 |
@@ -86,6 +88,7 @@
 | Min Focus Distance | 1m |
 | Weight | 995g |
 | Angle of View | 31.7° - 11.6° |
+| MSRP | ¥251,900 |
 | Release Date | 2014-11 |
 | URL | [kakaku](https://kakaku.com/item/K0000692177/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf50-140mmf28-r-lm-ois-wr/) |
 | EAN/JAN Code | 4547410289862 |
@@ -121,6 +124,7 @@
 | Min Focus Distance | 1.75m |
 | Weight | 1375g |
 | Angle of View | 16.2° - 4.1° |
+| MSRP | ¥299,200 |
 | Release Date | 2016-02-18 |
 | URL | [kakaku](https://kakaku.com/item/K0000845885/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/) |
 | EAN/JAN Code | 4547410316193 |
@@ -137,6 +141,7 @@
 | Dust / Moisture Resistance | YES  |
 | Weight | 805g |
 | Angle of View | 121.2° - 83.2° |
+| MSRP | ¥314,600 |
 | Release Date | 2018-11-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001073851/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf8-16mmf28-r-lm-wr/) |
 | EAN/JAN Code | 4547410379464 |
@@ -155,6 +160,7 @@
 | Min Focus Distance | 0.35m |
 | Weight | 440g |
 | Angle of View | 83.2° - 20.1° |
+| MSRP | ¥125,400 |
 | Release Date | 2019-09-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001175406/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf16-80mmf4-r-ois-wr/) |
 | EAN/JAN Code | 4547410416572 |
@@ -172,6 +178,7 @@
 | Filter Diameter | 72mm |
 | Weight | 385g |
 | Angle of View | 109.7° - 61.2° |
+| MSRP | ¥157,300 |
 | Release Date | 2020-11-26 |
 | URL | [kakaku](https://kakaku.com/item/K0001302657/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf10-24mmf4-r-ois-wr/) |
 | EAN/JAN Code | 4547410437881 |
@@ -189,6 +196,7 @@
 | Filter Diameter | 67mm |
 | Weight | 580g |
 | Angle of View | 22.9° - 5.4° |
+| MSRP | ¥125,400 |
 | Release Date | 2021-03-18 |
 | URL | [kakaku](https://kakaku.com/item/K0001328214/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/) |
 | EAN/JAN Code | 4547410437980 |
@@ -206,6 +214,7 @@
 | Filter Diameter | 82mm |
 | Weight | 1605g |
 | Angle of View | 10.8° - 2.7° |
+| MSRP | ¥314,600 |
 | Release Date | 2022-07-14 |
 | URL | [kakaku](https://kakaku.com/item/K0001446804/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/) |
 | EAN/JAN Code | 4547410467031 |
@@ -224,6 +233,7 @@
 | Min Focus Distance | 0.6m |
 | Weight | 460g |
 | Angle of View | 76.5° - 13.5° |
+| MSRP | ¥141,900 |
 | Release Date | 2022-09-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001446803/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf18-120mmf4-lm-pz-wr/) |
 | EAN/JAN Code | 4547410470901 |
@@ -242,6 +252,7 @@
 | Min Focus Distance | 0.24m |
 | Weight | 240g |
 | Angle of View | 83.2° - 31.7° |
+| MSRP | ¥110,000 |
 | Release Date | 2024-06-28 |
 | URL | [kakaku](https://kakaku.com/item/K0001625881/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf16-50mmf28-48-r-lm-wr/) |
 | EAN/JAN Code | 4547410522129 |
@@ -260,6 +271,7 @@
 | Min Focus Distance | 0.3m |
 | Weight | 410g |
 | Angle of View | 83.2° - 29° |
+| MSRP | ¥189,200 |
 | Release Date | 2024-12-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001658464/)<br />[official](https://fujifilm-x.com/ja-jp/products/lenses/xf16-55mmf28-r-lm-wr-ii/) |
 | EAN/JAN Code | 4547410540208 |
@@ -277,6 +289,7 @@
 | Filter Diameter | 52mm |
 | Weight | 187g |
 | Angle of View | 44.2° |
+| MSRP | ¥94,600 |
 | Release Date | 2012-02-18 |
 | URL | [kakaku](https://kakaku.com/item/K0000336433/) |
 | EAN/JAN Code | 4547410206159 |
@@ -294,6 +307,7 @@
 | Filter Diameter | 52mm |
 | Weight | 116g |
 | Angle of View | 76.5° |
+| MSRP | ¥94,600 |
 | Release Date | 2012-02-18 |
 | URL | [kakaku](https://kakaku.com/item/K0000336432/) |
 | EAN/JAN Code | 4547410206142 |
@@ -316,6 +330,7 @@
 | Optical Construction | 10 elements in 8 groups |
 | Angle of View | 26.6° |
 | Macro | YES |
+| MSRP | ¥102,300 |
 | Release Date | 2012-02-18 |
 | URL | [kitamura](https://shop.kitamura.jp/ec/pd/4547410206166)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf60mmf24-r-macro/) |
 | EAN/JAN Code | 4547410206166 |
@@ -336,6 +351,7 @@
 | Aperture Blades | 7 |
 | Optical Construction | 10 elements in 7 groups |
 | Angle of View | 90.8° |
+| MSRP | ¥141,900 |
 | Release Date | 2013-01-19 |
 | URL | [kakaku](https://kakaku.com/item/K0000418423/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf14mmf28-r/) |
 | EAN/JAN Code | 4547410227598 |
@@ -433,6 +449,7 @@
 | Filter Diameter | 67mm |
 | Weight | 375g |
 | Angle of View | 83.2° |
+| MSRP | ¥157,300 |
 | Release Date | 2015-05-21 |
 | URL | [kakaku](https://kakaku.com/item/K0000770447/) |
 | EAN/JAN Code | 4547410302783 |
@@ -450,6 +467,7 @@
 | Filter Diameter | 62mm |
 | Weight | 540g |
 | Angle of View | 17.9° |
+| MSRP | ¥149,600 |
 | Release Date | 2015-07-16 |
 | URL | [kakaku](https://kakaku.com/item/K0000777288/) |
 | EAN/JAN Code | 4547410302776 |
@@ -467,6 +485,7 @@
 | Filter Diameter | 43mm |
 | Weight | 170g |
 | Angle of View | 44.2° |
+| MSRP | ¥62,700 |
 | Release Date | 2015-11-19 |
 | URL | [kakaku](https://kakaku.com/item/K0000822289/) |
 | EAN/JAN Code | 4547410310405 |
@@ -505,6 +524,7 @@
 | Aperture Blades | 9 |
 | Optical Construction | 9 elements in 7 groups |
 | Angle of View | 31.7° |
+| MSRP | ¥70,400 |
 | Release Date | 2017-02-23 |
 | URL | [kakaku](https://kakaku.com/item/K0000936473/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf50mmf2-r-wr/) |
 | EAN/JAN Code | 4547410340990 |
@@ -527,6 +547,7 @@
 | Optical Construction | 16 elements in 12 groups |
 | Angle of View | 20.1° |
 | Macro | YES |
+| MSRP | ¥188,100 |
 | Release Date | 2017-11-30 |
 | URL | [kakaku](https://kakaku.com/item/K0000994970/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf80mmf28-r-lm-ois-wr-macro/) |
 | EAN/JAN Code | 4547410357479 |
@@ -564,6 +585,7 @@
 | Weight | 155g |
 | Optical Construction | 10 elements in 8 groups |
 | Angle of View | 83.2° |
+| MSRP | ¥62,700 |
 | Release Date | 2019-03-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001130073/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf16mmf28-r-wr/) |
 | EAN/JAN Code | 4547410397307 |
@@ -581,6 +603,7 @@
 | Filter Diameter | 77mm |
 | Weight | 845g |
 | Angle of View | 31.7° |
+| MSRP | ¥235,400 |
 | Release Date | 2020-09-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001286475/) |
 | EAN/JAN Code | 4547410435856 |
@@ -598,6 +621,7 @@
 | Filter Diameter | 39mm |
 | Weight | 84g |
 | Angle of View | 55.5° |
+| MSRP | ¥62,700 |
 | Release Date | 2021-03-11 |
 | URL | [kakaku](https://kakaku.com/item/K0001328213/) |
 | EAN/JAN Code | 4547410440386 |
@@ -615,6 +639,7 @@
 | Filter Diameter | 62mm |
 | Weight | 370g |
 | Angle of View | 76.5° |
+| MSRP | ¥157,300 |
 | Release Date | 2021-05-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001348957/) |
 | EAN/JAN Code | 4547410442557 |
@@ -632,6 +657,7 @@
 | Filter Diameter | 58mm |
 | Weight | 360g |
 | Angle of View | 46.6° |
+| MSRP | ¥125,400 |
 | Release Date | 2021-09-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001379950/) |
 | EAN/JAN Code | 4547410455465 |
@@ -649,6 +675,7 @@
 | Filter Diameter | 67mm |
 | Weight | 445g |
 | Angle of View | 28.5° |
+| MSRP | ¥157,300 |
 | Release Date | 2021-09-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001471399/) |
 | EAN/JAN Code | 4547410471045 |
@@ -666,6 +693,7 @@
 | Filter Diameter | 58mm |
 | Weight | 375g |
 | Angle of View | 63.4° |
+| MSRP | ¥141,900 |
 | Release Date | 2022-02-24 |
 | URL | [kakaku](https://kakaku.com/item/K0001379949/) |
 | EAN/JAN Code | 4547410464344 |
@@ -688,6 +716,7 @@
 | Optical Construction | 11 elements in 9 groups |
 | Angle of View | 50.7° |
 | Macro | YES |
+| MSRP | ¥94,600 |
 | Release Date | 2022-11-25 |
 | URL | [kakaku](https://kakaku.com/item/K0001489404/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf30mmf28-r-lm-wr-macro/) |
 | EAN/JAN Code | 4547410485868 |
@@ -705,6 +734,7 @@
 | Filter Diameter | 62mm |
 | Weight | 215g |
 | Angle of View | 121.2° |
+| MSRP | ¥125,400 |
 | Release Date | 2023-06-29 |
 | URL | [kakaku](https://kakaku.com/item/K0001539680/) |
 | EAN/JAN Code | 4547410493856 |
@@ -726,6 +756,7 @@
 | Aperture Blades | 9 |
 | Optical Construction | 21 elements in 14 groups |
 | Angle of View | 3.3° |
+| MSRP | ¥471,900 |
 | Release Date | 2024-12-20 |
 | URL | [kakaku](https://kakaku.com/item/K0001658465/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf500mmf56-r-lm-ois-wr/)<br />[news](https://www.fujifilm.com/jp/ja/news/list/11805) |
 | EAN/JAN Code | 4547410547412 |
@@ -747,6 +778,7 @@
 | Aperture Blades | 11 |
 | Optical Construction | 8 elements in 6 groups |
 | Angle of View | 63.4° |
+| MSRP | ¥63,800 |
 | Release Date | 2025-12-05 |
 | URL | [kakaku](https://kakaku.com/item/K0001694181/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xf23mmf28-r-wr/)<br />[news](https://www.fujifilm.com/jp/ja/news/list/12429) |
 | EAN/JAN Code | 4547410554656 |
@@ -830,6 +862,7 @@
 | Max Magnification | 0.2x |
 | Optical Construction | 13 elements in 10 groups |
 | Angle of View | 31.7° - 7.1° |
+| MSRP | ¥62,700 |
 | Release Date | 2015-06-25 |
 | URL | [kakaku](https://kakaku.com/item/K0000777299/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xc50-230mmf45-67-ois-2/) |
 | EAN/JAN Code | 4547410301496 |
@@ -851,6 +884,7 @@
 | Aperture Blades | 7 |
 | Optical Construction | 10 elements in 9 groups |
 | Angle of View | 86.9° - 35° |
+| MSRP | ¥47,300 |
 | Release Date | 2018-03-15 |
 | URL | [kakaku](https://kakaku.com/item/K0001029930/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xc15-45mmf35-56-ois-pz/) |
 | EAN/JAN Code | 4547410363517 |
@@ -873,6 +907,7 @@
 | Optical Construction | 9 elements in 6 groups |
 | Angle of View | 44.2° |
 | Internal Focus | YES |
+| MSRP | ¥30,800 |
 | Release Date | 2020-02-27 |
 | URL | [kakaku](https://kakaku.com/item/K0001227599/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xc35mmf2/) |
 | EAN/JAN Code | 4547410425604 |
@@ -894,6 +929,7 @@
 | Aperture Blades | 9 |
 | Optical Construction | 10 elements in 9 groups |
 | Angle of View | 95.1° - 46.6° |
+| MSRP | ¥55,000 |
 | Release Date | 2026-01-30 |
 | URL | [kakaku](https://kakaku.com/item/K0001716315/)<br />[official](https://www.fujifilm-x.com/ja-jp/products/lenses/xc13-33mmf35-63-ois/) |
 | EAN/JAN Code | 4547410562330 |

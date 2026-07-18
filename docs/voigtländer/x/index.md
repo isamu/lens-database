@@ -18,6 +18,7 @@
 | Angle of View | 63.4° |
 | Diameter | 60.6mm |
 | Length | 46.6mm |
+| MSRP | ¥99,000 |
 | Release Date | 2023-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/x-mount/nokton-23mm-f1-2/) |
@@ -40,6 +41,7 @@
 | Angle of View | 44.2° |
 | Diameter | 60.6mm |
 | Length | 49.7mm |
+| MSRP | ¥85,800 |
 | Release Date | 2022-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/x-mount/nokton-35mm-f1-2/) |
@@ -84,6 +86,7 @@
 | Angle of View | 55.5° |
 | Diameter | 60.6mm |
 | Length | 27.2mm |
+| MSRP | ¥80,300 |
 | Release Date | 2023-07 |
 | Official URL | https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/x-mount/ultron-27mm-f2/) |

@@ -18,6 +18,7 @@
 | Angle of View | 46.8° |
 | Diameter | 73.5mm |
 | Length | 79.4mm |
+| MSRP | ¥264,000 |
 | Release Date | 2024-11 |
 | Official URL | https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/ |
 | URL | [official](https://www.cosina.co.jp/voigtlander/rf-mount/nokton-50mm-f1/) |

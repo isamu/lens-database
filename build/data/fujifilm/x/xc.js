@@ -97,6 +97,7 @@ export const fujifilmXCLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xc50-230mmf45-67-ois-2/",
         },
         releaseDate: "2015-06-25",
+        msrp: 62700,
     },
     {
         id: "4547410363517",
@@ -122,6 +123,7 @@ export const fujifilmXCLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xc15-45mmf35-56-ois-pz/",
         },
         releaseDate: "2018-03-15",
+        msrp: 47300,
     },
     {
         id: "4547410425604",
@@ -148,6 +150,7 @@ export const fujifilmXCLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xc35mmf2/",
         },
         releaseDate: "2020-02-27",
+        msrp: 30800,
     },
     {
         id: "4547410562330",
@@ -173,5 +176,6 @@ export const fujifilmXCLensDataSet = [
             official: "https://www.fujifilm-x.com/ja-jp/products/lenses/xc13-33mmf35-63-ois/",
         },
         releaseDate: "2026-01-30",
+        msrp: 55000,
     },
 ];

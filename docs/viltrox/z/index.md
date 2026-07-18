@@ -19,6 +19,7 @@
 | Angle of View | 107° |
 | Diameter | 84.5mm |
 | Length | 103.7mm |
+| MSRP | ¥109,800 |
 | Release Date | 2023-06 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-16mm-f1-8 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-16mm-f1-8) |
@@ -41,6 +42,7 @@
 | Angle of View | 94.5° |
 | Diameter | 65mm |
 | Length | 52mm |
+| MSRP | ¥33,300 |
 | Release Date | 2024-05 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-20mm-f2-8 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-20mm-f2-8) |
@@ -107,6 +109,7 @@
 | Angle of View | 75.4° |
 | Diameter | 62mm |
 | Length | 15mm |
+| MSRP | ¥19,800 |
 | Release Date | 2024-07 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-28mm-f4-5 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-28mm-f4-5) |
@@ -129,6 +132,7 @@
 | Angle of View | 63.4° |
 | Diameter | 87mm |
 | Length | 130mm |
+| MSRP | ¥181,800 |
 | Release Date | 2025 |
 | Official URL | https://viltroxstore.com/ |
 | URL | [official](https://viltroxstore.com/) |
@@ -151,6 +155,7 @@
 | Angle of View | 56.8° |
 | Diameter | 65mm |
 | Length | 40mm |
+| MSRP | ¥32,400 |
 | Release Date | 2024-08 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-40mm-f2-5 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-40mm-f2-5) |
@@ -239,6 +244,7 @@
 | Angle of View | 18.2° |
 | Diameter | 93mm |
 | Length | 145mm |
+| MSRP | ¥168,300 |
 | Release Date | 2024-12 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-135mm-f1-8-lab) |
@@ -327,6 +333,7 @@
 | Angle of View | 95.1° |
 | Diameter | 74mm |
 | Length | 92mm |
+| MSRP | ¥91,800 |
 | Release Date | 2023-04 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-13mm-f1-4 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-13mm-f1-4) |
@@ -415,6 +422,7 @@
 | Angle of View | 55.5° |
 | Diameter | 72mm |
 | Length | 92mm |
+| MSRP | ¥107,100 |
 | Release Date | 2024-02 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro) |
@@ -459,6 +467,7 @@
 | Angle of View | 28.5° |
 | Diameter | 65mm |
 | Length | 74mm |
+| MSRP | ¥39,400 |
 | Release Date | 2022-08 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-56mm-f1-4 |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-56mm-f1-4) |
@@ -481,6 +490,7 @@
 | Angle of View | 21.4° |
 | Diameter | 72mm |
 | Length | 105mm |
+| MSRP | ¥97,200 |
 | Release Date | 2024-06 |
 | Official URL | https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro |
 | URL | [official](https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro) |
