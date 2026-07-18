@@ -9161,6 +9161,535 @@
         "note": "Long tele zoom — one of the earliest 3.5x tele zooms for a 35mm SLR."
       }
     ],
+    "LTM": [
+      {
+        "id": "canon-25mm-f3.5-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 25mm F/3.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 130,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "angleOfView": [
+          82
+        ],
+        "releaseDate": "1956",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult super-wide for Canon rangefinder. Requires external 25mm finder. Retrofocus-style symmetric design; well regarded on Leica M via LTM-to-M adapter."
+      },
+      {
+        "id": "canon-28mm-f2.8-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 28mm F/2.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 175,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          75
+        ],
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Compact wide with 40mm filter. Requires 28mm brightline finder for accurate framing on Canon rangefinders."
+      },
+      {
+        "id": "canon-35mm-f2.8-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 35mm F/2.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 34,
+        "weight": 150,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Compact 5-element wide. Modest but well-regarded performer, small and light on Canon P / VI / 7."
+      },
+      {
+        "id": "canon-35mm-f2-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 35mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 240,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 4,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1962",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult wide; considered one of the finest 35mm rangefinder lenses of its era. Popular on Leica M digital via LTM-to-M adapter."
+      },
+      {
+        "id": "canon-35mm-f1.8-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 35mm F/1.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 200,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 4,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Fast compact 35mm wide. Well-loved character lens, precursor to the 35mm F/1.5."
+      },
+      {
+        "id": "canon-35mm-f1.5-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 35mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 350,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 4,
+        "angleOfView": [
+          63
+        ],
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult classic. The fastest 35mm lens for the Leica screw mount at the time of release; sought after for its glow and character wide open on Leica M digital."
+      },
+      {
+        "id": "canon-serenar-50mm-f1.9-ltm",
+        "maker": "Canon",
+        "name": "Canon Serenar 50mm F/1.9 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 200,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1949",
+        "discontinued": true,
+        "discontinuedDate": "1955",
+        "note": "The first fast Canon 50 in the Serenar line; Gauss-type six-element design that established Canon's postwar reputation. Coated single-layer."
+      },
+      {
+        "id": "canon-50mm-f2-ltm",
+        "maker": "Canon",
+        "name": "Canon Serenar 50mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 195,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1947",
+        "discontinued": true,
+        "discontinuedDate": "1956",
+        "note": "Canon's first postwar 50mm. Serenar branding; collapsible early variants exist. Gauss-derived design."
+      },
+      {
+        "id": "canon-50mm-f1.8-ii-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 50mm F/1.8 II (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 235,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1956",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult sharp value 50. The Type II uses a revised Gauss formula and is regarded as one of the best-value Canon LTM 50s. Chrome finish, small and light."
+      },
+      {
+        "id": "canon-50mm-f1.5-serenar-ltm",
+        "maker": "Canon",
+        "name": "Canon Serenar 50mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40,
+        "weight": 305,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1958",
+        "note": "Cult Sonnar-copy 50 — 7-elements-in-3-groups classic Sonnar formula, rendering glow and swirly bokeh wide open. Early samples branded Serenar; later relabelled Canon Lens."
+      },
+      {
+        "id": "canon-50mm-f1.4-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 50mm F/1.4 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 245,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult classic — widely regarded as the best Canon LTM 50. Modernized double-Gauss design, superb across the frame stopped down, glowing wide-open character. A staple on Leica M digital via LTM-to-M adapter."
+      },
+      {
+        "id": "canon-50mm-f0.95-ltm-dream-lens",
+        "maker": "Canon",
+        "name": "Canon Lens 50mm F/0.95 \"Dream Lens\"",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          0.95
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 600,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "angleOfView": [
+          46
+        ],
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Legendary \"Dream Lens.\" Released with the Canon 7 as the fastest 35mm-format still-photo lens of its era, and among the fastest ever made. Uses a proprietary Canon-7 outer bayonet (not a simple screw mount); many surviving copies are converted to Leica M by specialty shops. Iconic swirl and glow wide open."
+      },
+      {
+        "id": "canon-serenar-85mm-f2-ltm",
+        "maker": "Canon",
+        "name": "Canon Serenar 85mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 48,
+        "weight": 425,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "angleOfView": [
+          28.5
+        ],
+        "releaseDate": "1952",
+        "discontinued": true,
+        "discontinuedDate": "1963",
+        "note": "Serenar-branded fast 85; Sonnar-derived 5-element design. Classic portrait rendering, chrome barrel."
+      },
+      {
+        "id": "canon-85mm-f1.8-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 85mm F/1.8 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 500,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          28.5
+        ],
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult portrait telephoto. Modernized double-Gauss design, launched alongside the Canon 7. Excellent on Leica M digital via LTM-to-M adapter."
+      },
+      {
+        "id": "canon-85mm-f1.5-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 85mm F/1.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 640,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 4,
+        "angleOfView": [
+          28.5
+        ],
+        "releaseDate": "1954",
+        "discontinued": true,
+        "discontinuedDate": "1963",
+        "note": "Cult fast portrait — extremely rare, one of the fastest 85mm lenses of its era. Chrome heavyweight; swirled highlights and glow wide open, sharpens up beautifully by f/4."
+      },
+      {
+        "id": "canon-100mm-f3.5-ltm",
+        "maker": "Canon",
+        "name": "Canon Serenar 100mm F/3.5 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 34,
+        "weight": 210,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "angleOfView": [
+          24.5
+        ],
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult compact tele — remarkably small for a 100mm rangefinder lens. Serenar branding on early copies, Canon Lens branding later. Well corrected, popular on Leica M digital."
+      },
+      {
+        "id": "canon-100mm-f2-ltm",
+        "maker": "Canon",
+        "name": "Canon Lens 100mm F/2 (LTM)",
+        "mount": "LTM",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 590,
+        "minFocusDistance": 1,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "angleOfView": [
+          24.5
+        ],
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Cult fast telephoto. One of the fastest 100mm rangefinder lenses of its era; classic portrait rendering with three-dimensional separation. Sought after on Leica M digital via LTM-to-M adapter."
+      }
+    ],
     "RF": [
       {
         "id": "4549292115796",
@@ -20467,6 +20996,494 @@
         "note": "中判望遠。Zeiss Sonnar 250/4系のソ連版、F3.5と明るい。三脚座付き、大柄。Arsenal Kiev製、マルチコート。",
         "angleOfView": [
           12.6
+        ]
+      }
+    ]
+  },
+  "Kiron": {
+    "F": [
+      {
+        "id": "kiron-24mm-f2-f",
+        "maker": "Kiron",
+        "name": "Kiron 24mm f/2",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.25,
+        "weight": 400,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。Vivitar Series 1 24mm F2 の姉妹品で、同じ光学設計を Kiron ブランドで販売。F2 の明るい広角として珍しい存在。",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "kiron-28mm-f2-f",
+        "maker": "Kiron",
+        "name": "Kiron 28mm f/2",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 310,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。開放F2 の明るい広角プライム。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kiron-28mm-f2.8-f",
+        "maker": "Kiron",
+        "name": "Kiron 28mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。コンパクトな標準広角。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kiron-35mm-f2.8-f",
+        "maker": "Kiron",
+        "name": "Kiron 35mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。コンパクトな準広角プライム。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "kiron-105mm-f2.8-macro-f",
+        "maker": "Kiron",
+        "name": "Kiron 105mm f/2.8 Macro",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.38,
+        "weight": 460,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造の等倍マクロ銘玉。単体で 1:1 まで寄れるマクロレンズとして当時としても稀有で、アダプター遊びコミュニティで人気。Vivitar Series 1 マクロ系譜の兄弟。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "kiron-70-150mm-f4-f",
+        "maker": "Kiron",
+        "name": "Kiron 70-150mm f/4",
+        "mount": "F",
+        "focalLength": [
+          70,
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 505,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。開放固定F4のコンパクトな中望遠ズーム。",
+        "angleOfView": [
+          34.3,
+          16.4
+        ]
+      },
+      {
+        "id": "kiron-70-210mm-f4-f",
+        "maker": "Kiron",
+        "name": "Kiron 70-210mm f/4",
+        "mount": "F",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.9,
+        "weight": 780,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "maxMagnification": 0.33,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造の開放固定F4望遠ズーム銘玉。マクロ寄り域あり。Vivitar Series 1 70-210 の兄弟品として、アダプター遊びコミュニティで長らく人気。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "kiron-80-200mm-f4.5-f",
+        "maker": "Kiron",
+        "name": "Kiron 80-200mm f/4.5",
+        "mount": "F",
+        "focalLength": [
+          80,
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.2,
+        "weight": 640,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。開放固定F4.5のコンパクトな望遠ズーム。",
+        "angleOfView": [
+          30.3,
+          12.3
+        ]
+      }
+    ],
+    "K": [
+      {
+        "id": "kiron-24mm-f2-k",
+        "maker": "Kiron",
+        "name": "Kiron 24mm f/2",
+        "mount": "K",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.25,
+        "weight": 400,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "kiron-28mm-f2-k",
+        "maker": "Kiron",
+        "name": "Kiron 28mm f/2",
+        "mount": "K",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 310,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kiron-28mm-f2.8-k",
+        "maker": "Kiron",
+        "name": "Kiron 28mm f/2.8",
+        "mount": "K",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.25,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kiron-35mm-f2.8-k",
+        "maker": "Kiron",
+        "name": "Kiron 35mm f/2.8",
+        "mount": "K",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "kiron-105mm-f2.8-macro-k",
+        "maker": "Kiron",
+        "name": "Kiron 105mm f/2.8 Macro",
+        "mount": "K",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.38,
+        "weight": 460,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "maxMagnification": 1,
+        "hasMacro": true,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造の等倍マクロ銘玉。ペンタックスKマウント版。",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "kiron-70-150mm-f4-k",
+        "maker": "Kiron",
+        "name": "Kiron 70-150mm f/4",
+        "mount": "K",
+        "focalLength": [
+          70,
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 505,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          34.3,
+          16.4
+        ]
+      },
+      {
+        "id": "kiron-70-210mm-f4-k",
+        "maker": "Kiron",
+        "name": "Kiron 70-210mm f/4",
+        "mount": "K",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.9,
+        "weight": 780,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "maxMagnification": 0.33,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造の開放固定F4望遠ズーム銘玉。ペンタックスKマウント版。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "kiron-80-200mm-f4.5-k",
+        "maker": "Kiron",
+        "name": "Kiron 80-200mm f/4.5",
+        "mount": "K",
+        "focalLength": [
+          80,
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.2,
+        "weight": 640,
+        "bladesCount": 8,
+        "elements": 13,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Kino Precision (Kiron) 設計・製造。ペンタックスKマウント版。",
+        "angleOfView": [
+          30.3,
+          12.3
         ]
       }
     ]
@@ -42021,6 +43038,455 @@
         "angleOfView": [
           63.4
         ]
+      },
+      {
+        "id": "nikon-nikkor-u-auto-20mm-f3.5-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-U Auto 20mm f/3.5 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 240,
+        "minFocusDistance": 0.3,
+        "bladesCount": 7,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Nikon's first true 20mm super-wide for the F-mount. 'U' prefix denotes eleven elements. Original pre-Ai release; later replaced by Ai and Ai-S 20/3.5 versions. Many were factory Ai-converted to allow use on Ai bodies.",
+        "angleOfView": [
+          94.5
+        ]
+      },
+      {
+        "id": "nikon-nikkor-n-auto-24mm-f2.8-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-N Auto 24mm f/2.8 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          24
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 310,
+        "minFocusDistance": 0.3,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1967",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Nikon's first retrofocus 24mm f/2.8 and one of the earliest close-range-correction (CRC) designs. 'N' prefix denotes nine elements. Original pre-Ai release; later Ai / Ai-S 24/2.8 inherited the same optical formula. Many were factory Ai-converted.",
+        "angleOfView": [
+          84.1
+        ]
+      },
+      {
+        "id": "nikon-nikkor-h-auto-28mm-f3.5-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-H Auto 28mm f/3.5 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 235,
+        "minFocusDistance": 0.6,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1960",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "One of the very earliest F-mount wides — an original 1960 release. 'H' prefix denotes six elements. Non-CRC retrofocus. Original pre-Ai release; commonly factory Ai-converted for use on Ai bodies.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "nikon-nikkor-o-auto-35mm-f2-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-O Auto 35mm f/2 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 250,
+        "minFocusDistance": 0.3,
+        "bladesCount": 7,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Original F-mount 35mm f/2. 'O' prefix denotes eight elements. Notable for compact size and characteristic slightly warm rendering. Pre-Ai; later replaced by Nikkor 35/2 K and Ai / Ai-S versions.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "nikon-nikkor-n-auto-35mm-f1.4-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-N Auto 35mm f/1.4 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 400,
+        "minFocusDistance": 0.3,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Cult classic — Nikon's first f/1.4 wide. 'N' prefix denotes nine elements. Famous for pronounced coma wide open (loved by film/astro shooters) and characteristic 35/1.4 rendering. Original pre-Ai release; Ai and Ai-S versions kept the same optical formula. Frequently factory Ai-converted.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "nikon-gn-auto-nikkor-45mm-f2.8-pre-ai",
+        "maker": "Nikon",
+        "name": "GN Auto Nikkor 45mm f/2.8 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 135,
+        "minFocusDistance": 0.8,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Rare pancake Tessar-type 45mm. 'GN' = Guide Number: the aperture ring couples to the focus ring for guide-number-based flash exposure. Precursor to the later Ai-P 45/2.8P. Cult collector pancake.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "nikon-nikkor-s-auto-50mm-f1.4-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-S Auto 50mm f/1.4 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 310,
+        "minFocusDistance": 0.6,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "The original F-mount fast normal. 'S' prefix denotes seven elements. Double-Gauss derivative shared with the S-mount rangefinder Nikkor-S. Pre-Ai; replaced by New-Nikkor 50/1.4 K (1974) then Ai / Ai-S 50/1.4. Widely factory Ai-converted.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "nikon-micro-nikkor-p-auto-55mm-f3.5-pre-ai",
+        "maker": "Nikon",
+        "name": "Micro-Nikkor-P Auto 55mm f/3.5 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 52,
+        "weight": 245,
+        "minFocusDistance": 0.241,
+        "maxMagnification": 0.5,
+        "bladesCount": 7,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Nikon's first F-mount macro (originally 55mm f/3.5 with 1:2 native, 1:1 with M-tube). 'P' prefix denotes five elements. Highly regarded flat-field performer for repro work. Pre-Ai; later Micro-Nikkor 55/3.5 Ai and Ai-S 55/2.8 succeeded it.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "nikon-nikkor-h-auto-85mm-f1.8-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-H Auto 85mm f/1.8 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 460,
+        "minFocusDistance": 0.9,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Cult portrait lens — 'Ryohei' 85 among Japanese collectors, after designer Ryohei Suzuki. 'H' prefix denotes six elements. Praised for its smooth mid-tone rendering and painterly bokeh; a classic Sonnar-influenced short tele. Frequently Ai-converted.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-auto-105mm-f2.5-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-P Auto 105mm f/2.5 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 430,
+        "minFocusDistance": 1.2,
+        "bladesCount": 7,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1971",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "The original F-mount 105/2.5 — a Sonnar-type five-element design, one of the very first Nikkors for the Nikon F (1959). 'P' prefix denotes five elements. In 1971 Nikon switched to a Gauss-type formula (still 5 elements, 4 groups) that carried through the Ai / Ai-S generations used by Steve McCurry for the 'Afghan Girl' portrait. Sonnar-era rendering is the collector's grail.",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-auto-135mm-f2.8-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-P Auto 135mm f/2.8 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 635,
+        "minFocusDistance": 1.5,
+        "bladesCount": 7,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Original F-mount 135/2.8. 'P' prefix denotes five elements. Built-in retractable hood. Solid classical tele rendering. Pre-Ai; later replaced by Nikkor-Q 135/2.8 (four-element) and the Ai / Ai-S 135/2.8.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "nikon-nikkor-q-auto-200mm-f4-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-Q Auto 200mm f/4 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 810,
+        "minFocusDistance": 2.5,
+        "bladesCount": 7,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "The original F-mount 200mm. 'Q' prefix denotes four elements — a simple air-spaced tele. Built-in retractable hood, tripod collar. Pre-Ai; later 200mm f/4 Q.C (multi-coated), Ai, and Ai-S versions kept the same formula.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "nikon-nikkor-p-auto-300mm-f4.5-pre-ai",
+        "maker": "Nikon",
+        "name": "Nikkor-P Auto 300mm f/4.5 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "weight": 1700,
+        "minFocusDistance": 4,
+        "bladesCount": 9,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Original F-mount 300/4.5. 'P' prefix denotes five elements. Built-in tripod collar and retractable hood. Pre-Ai; later Nikkor 300/4.5 (K), ED-IF, Ai, and Ai-S ED-IF versions replaced it.",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "nikon-reflex-nikkor-500mm-f8-pre-ai",
+        "maker": "Nikon",
+        "name": "Reflex-Nikkor 500mm f/8 (pre-Ai)",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 39,
+        "weight": 1000,
+        "minFocusDistance": 4,
+        "elements": 5,
+        "groups": 5,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "officialUrl": "https://imaging.nikon.com/imaging/history/chronicle/history-nikkor/",
+        "note": "Early F-mount catadioptric (mirror) super-tele. Fixed f/8 (mirror lenses have no iris — no aperture blades). Rear 39mm filters. Distinctive donut bokeh from the annular pupil. Pre-Ai; later replaced by the Reflex-Nikkor 500/8 New / Ai and the 500/8 P.",
+        "angleOfView": [
+          5
+        ]
       }
     ],
     "S": [
@@ -46392,6 +47858,412 @@
         "discontinuedDate": "1985",
         "note": "Early compact tele zoom. Multi-coated. Superseded by the 65-200 f/4 and 75-150 f/4."
       }
+    ],
+    "PenF": [
+      {
+        "id": "olympus-penf-zuiko-fisheye-8mm-f2.8",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Fisheye 8mm F/2.8",
+        "mount": "PenF",
+        "focalLength": [
+          8
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasFisheye": true,
+        "minFocusDistance": 0.2,
+        "bladesCount": 5,
+        "angleOfView": [
+          180
+        ],
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Rare half-frame fisheye for the Pen F system, 180-degree diagonal on half-frame (approx 12mm equivalent in 35mm full-frame terms). Built-in turret filters. Extremely scarce — cult collector piece."
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-w-20mm-f3.5",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-W 20mm F/3.5",
+        "mount": "PenF",
+        "focalLength": [
+          20
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.2,
+        "weight": 150,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Half-frame super-wide (approx 28mm equivalent in 35mm terms). Retrofocus design by Yoshihisa Maitani's optical team. Uncommon and highly regarded on mirrorless for its compact form and characteristic Zuiko rendering.",
+        "angleOfView": [
+          70.7
+        ]
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-w-25mm-f2.8",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-W 25mm F/2.8",
+        "mount": "PenF",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.35,
+        "weight": 130,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Half-frame wide (approx 35mm equivalent). Cult classic on Sony E and Fujifilm X via PenF adapters — praised for smooth mid-tone rendering and a compact silver barrel.",
+        "angleOfView": [
+          59.2
+        ]
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-w-25mm-f4",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-W 25mm F/4",
+        "mount": "PenF",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.35,
+        "weight": 90,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Half-frame wide (approx 35mm equivalent), slower and simpler cousin of the 25/2.8. Very compact pancake-like design suited to the original Pen F body.",
+        "angleOfView": [
+          59.2
+        ]
+      },
+      {
+        "id": "olympus-penf-f-zuiko-auto-s-38mm-f1.8",
+        "maker": "OLYMPUS",
+        "name": "F.Zuiko Auto-S 38mm F/1.8",
+        "mount": "PenF",
+        "focalLength": [
+          38
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 0.35,
+        "weight": 165,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "The cult kit lens of the Pen F. 'F.' prefix denotes six elements. Approx 52mm equivalent in 35mm terms — a classic normal. Famous for its rendering and abundant used supply; the go-to pairing with the Pen F body.",
+        "angleOfView": [
+          41
+        ]
+      },
+      {
+        "id": "olympus-penf-g-zuiko-auto-s-40mm-f1.4",
+        "maker": "OLYMPUS",
+        "name": "G.Zuiko Auto-S 40mm F/1.4",
+        "mount": "PenF",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.35,
+        "weight": 205,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "The fastest normal in the Pen F line-up. 'G.' prefix denotes seven elements. Approx 56mm equivalent — a cult fast normal, prized on mirrorless for its low-light look and gentle out-of-focus rendering.",
+        "angleOfView": [
+          39.1
+        ]
+      },
+      {
+        "id": "olympus-penf-f-zuiko-auto-s-42mm-f1.2",
+        "maker": "OLYMPUS",
+        "name": "F.Zuiko Auto-S 42mm F/1.2",
+        "mount": "PenF",
+        "focalLength": [
+          42
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1969",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "The 'grail' Pen F lens — a fast portrait normal (approx 60mm equivalent). Late-production and rare; famous for its dreamy wide-open rendering. One of the most sought-after Zuiko half-frame lenses on Sony E / Fujifilm X.",
+        "angleOfView": [
+          37.4
+        ]
+      },
+      {
+        "id": "olympus-penf-f-zuiko-auto-t-60mm-f1.5",
+        "maker": "OLYMPUS",
+        "name": "F.Zuiko Auto-T 60mm F/1.5",
+        "mount": "PenF",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.6,
+        "weight": 295,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Fast portrait tele for the Pen F (approx 85mm equivalent). Cult classic — famed for silky bokeh and a slightly warm rendering.",
+        "angleOfView": [
+          26.6
+        ]
+      },
+      {
+        "id": "olympus-penf-e-zuiko-auto-t-100mm-f3.5",
+        "maker": "OLYMPUS",
+        "name": "E.Zuiko Auto-T 100mm F/3.5",
+        "mount": "PenF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 1.5,
+        "weight": 250,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Compact medium-tele (approx 140mm equivalent). 'E.' prefix denotes five elements. Cult tele for its lightweight portrait/street reach on mirrorless.",
+        "angleOfView": [
+          16.2
+        ]
+      },
+      {
+        "id": "olympus-penf-g-zuiko-auto-t-150mm-f4",
+        "maker": "OLYMPUS",
+        "name": "G.Zuiko Auto-T 150mm F/4",
+        "mount": "PenF",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 43,
+        "minFocusDistance": 2,
+        "weight": 385,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Half-frame tele (approx 210mm equivalent). Built-in retractable hood. Solid sharpness — a niche adapted-lens choice for mirrorless portraiture at a distance.",
+        "angleOfView": [
+          10.8
+        ]
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-t-250mm-f5",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-T 250mm F/5",
+        "mount": "PenF",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 3.5,
+        "weight": 640,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Long tele for the Pen F (approx 350mm equivalent). Rare in the used market — the longest native Pen F prime.",
+        "angleOfView": [
+          6.5
+        ]
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-zoom-50-90mm-f3.5",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-Zoom 50-90mm F/3.5",
+        "mount": "PenF",
+        "focalLength": [
+          50,
+          90
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 51,
+        "minFocusDistance": 1.2,
+        "weight": 490,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 7,
+        "releaseDate": "1967",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "First Olympus zoom — a constant-aperture short tele zoom for the Pen F system (approx 70-125mm equivalent). Historically important; adapted use is rare but interesting.",
+        "angleOfView": [
+          31.7,
+          17.9
+        ]
+      },
+      {
+        "id": "olympus-penf-zuiko-auto-zoom-100-200mm-f5",
+        "maker": "OLYMPUS",
+        "name": "Zuiko Auto-Zoom 100-200mm F/5",
+        "mount": "PenF",
+        "focalLength": [
+          100,
+          200
+        ],
+        "fStop": [
+          5
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 51,
+        "minFocusDistance": 2.5,
+        "weight": 745,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1970",
+        "note": "Second Olympus zoom, a long tele zoom for the Pen F (approx 140-280mm equivalent). Constant f/5. Uncommon and heavy — collector interest.",
+        "angleOfView": [
+          16.2,
+          8.1
+        ]
+      }
     ]
   },
   "OM SYSTEM": {
@@ -46717,6 +48589,374 @@
         "hasMacro": true,
         "angleOfView": [
           13.7
+        ]
+      }
+    ]
+  },
+  "Osawa": {
+    "F": [
+      {
+        "id": "osawa-28mm-f2.8-f",
+        "maker": "Osawa",
+        "name": "Osawa 28mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランドレンズ。実質的な設計・製造は Cosina または Sun Optical の OEM とされる、入門向けの広角プライム。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "osawa-135mm-f2.8-f",
+        "maker": "Osawa",
+        "name": "Osawa 135mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 430,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランド中望遠プライム。当時定番の 135/2.8 スペックで、実体は Sun Optical / Sigma / Cosina のいずれかの OEM とされる。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "osawa-35-70mm-f3.5-f",
+        "maker": "Osawa",
+        "name": "Osawa 35-70mm f/3.5",
+        "mount": "F",
+        "focalLength": [
+          35,
+          70
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.8,
+        "weight": 355,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘の標準ズーム。80年代前半の定番スペック 35-70mm F3.5、実体は Cosina / Tokina いずれかの OEM。",
+        "angleOfView": [
+          63.4,
+          34.3
+        ]
+      },
+      {
+        "id": "osawa-70-210mm-f4-5.6-f",
+        "maker": "Osawa",
+        "name": "Osawa 70-210mm f/4-5.6",
+        "mount": "F",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.2,
+        "weight": 545,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘の望遠ズーム。当時廉価帯の定番スペック 70-210mm F4-5.6、実体は Cosina / Sun / Tokina のいずれかの OEM。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "osawa-500mm-f8-mirror-f",
+        "maker": "Osawa",
+        "name": "Osawa 500mm f/8 Mirror",
+        "mount": "F",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 30.5,
+        "minFocusDistance": 1.7,
+        "weight": 620,
+        "elements": 6,
+        "groups": 5,
+        "maxMagnification": 0.25,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のミラー式超望遠。実体は Sigma / Sun Optical いずれかの OEM とされる、廉価な 500mm F8 反射望遠。",
+        "angleOfView": [
+          5
+        ]
+      }
+    ],
+    "K": [
+      {
+        "id": "osawa-28mm-f2.8-k",
+        "maker": "Osawa",
+        "name": "Osawa 28mm f/2.8",
+        "mount": "K",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランド広角。ペンタックスKマウント版。実体は Cosina / Sun Optical OEM。",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "osawa-135mm-f2.8-k",
+        "maker": "Osawa",
+        "name": "Osawa 135mm f/2.8",
+        "mount": "K",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 430,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランド中望遠。ペンタックスKマウント版。",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "osawa-35-70mm-f3.5-k",
+        "maker": "Osawa",
+        "name": "Osawa 35-70mm f/3.5",
+        "mount": "K",
+        "focalLength": [
+          35,
+          70
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.8,
+        "weight": 355,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘の標準ズーム。ペンタックスKマウント版。",
+        "angleOfView": [
+          63.4,
+          34.3
+        ]
+      },
+      {
+        "id": "osawa-70-210mm-f4-5.6-k",
+        "maker": "Osawa",
+        "name": "Osawa 70-210mm f/4-5.6",
+        "mount": "K",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.2,
+        "weight": 545,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 9,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘の望遠ズーム。ペンタックスKマウント版。",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "id": "osawa-500mm-f8-mirror-k",
+        "maker": "Osawa",
+        "name": "Osawa 500mm f/8 Mirror",
+        "mount": "K",
+        "focalLength": [
+          500
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 30.5,
+        "minFocusDistance": 1.7,
+        "weight": 620,
+        "elements": 6,
+        "groups": 5,
+        "maxMagnification": 0.25,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のミラー式超望遠。ペンタックスKマウント版。",
+        "angleOfView": [
+          5
+        ]
+      }
+    ],
+    "MD": [
+      {
+        "id": "osawa-28mm-f2.8-md",
+        "maker": "Osawa",
+        "name": "Osawa 28mm f/2.8",
+        "mount": "MD",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランド広角。ミノルタMDマウント版。実体は Cosina / Sun Optical OEM。",
+        "angleOfView": [
+          75.4
+        ]
+      }
+    ],
+    "M42": [
+      {
+        "id": "osawa-28mm-f2.8-m42",
+        "maker": "Osawa",
+        "name": "Osawa 28mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "discontinued": true,
+        "note": "Osawa (大沢商会) 銘のリブランド広角。M42スクリューマウント版。実体は Cosina / Sun Optical OEM。",
+        "angleOfView": [
+          75.4
         ]
       }
     ]
@@ -91654,6 +93894,304 @@
           63.4,
           30.3
         ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/2.8 LD-IF Adaptall-2 (60B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 2.5,
+        "weight": 2450,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "isInternalFocus": true,
+        "note": "型番60B。Adaptall-2 の SP フラッグシップ超望遠。LD = Low Dispersion 硝材 + IF (内焦式) の望遠銘玉。中古市場で希少・高値。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-60b-f",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/5.6 Adaptall-2 (54B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 585,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "note": "型番54B。Adaptall-2 SP 超望遠の廉価版。F5.6 のコンパクトな 300mm 単焦点。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-54b-f",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 400mm f/4 LD-IF Adaptall-2 (65B)",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 4,
+        "weight": 2530,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "isInternalFocus": true,
+        "note": "型番65B。Adaptall-2 の希少な 400mm F4 SP LD-IF。生産数少なく中古市場で稀。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-65b-f",
+        "angleOfView": [
+          6.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 35-105mm f/2.8 Aspherical Adaptall-2 (65A)",
+        "focalLength": [
+          35,
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.4,
+        "weight": 900,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番65A。Adaptall-2 の開放固定F2.8 標準ズーム銘玉。非球面採用の当時としては野心的な設計で、35-105mm F2.8 通しのカルト人気モデル。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-65a-f",
+        "angleOfView": [
+          63.4,
+          23.3
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 70-210mm f/3.5 Adaptall-2 (19AH)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.75,
+        "weight": 890,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "maxMagnification": 0.25,
+        "note": "型番19AH。Adaptall-2 の開放固定F3.5 望遠ズーム。当時の 70-210mm クラスとして明るく、SP らしい描写で人気。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-19ah-f",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 28-135mm f/4-4.5 Adaptall-2 (28A)",
+        "focalLength": [
+          28,
+          135
+        ],
+        "fStop": [
+          4,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 660,
+        "bladesCount": 8,
+        "elements": 16,
+        "groups": 12,
+        "note": "型番28A。Adaptall-2 の高倍率トラベルズーム SP。広角から中望遠まで一本で賄える便利さと SP らしい描写で人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-28a-f",
+        "angleOfView": [
+          75.4,
+          18.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 60-300mm f/3.8-5.4 Adaptall-2 (23A)",
+        "focalLength": [
+          60,
+          300
+        ],
+        "fStop": [
+          3.8,
+          5.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.9,
+        "weight": 720,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番23A。Adaptall-2 の 5倍ズーム SP。60-300mm という当時としては野心的な焦点域で、レンジの広さがカルト人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-23a-f",
+        "angleOfView": [
+          39.7,
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "28mm f/2.5 Adaptall-2 (02B)",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "note": "型番02B。Adaptall-2 の非SPライン広角。F2.5 の明るさとコンパクトさで実用人気。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-02b-28-f",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "70-210mm f/4-5.6 Adaptall-2 (46A)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.9,
+        "weight": 465,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "maxMagnification": 0.25,
+        "note": "型番46A。Adaptall-2 の非SP望遠ズーム。軽量コンパクトで、当時の実用ズームとして定番。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "F",
+        "id": "tamron-46a-f",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
       }
     ],
     "A": [
@@ -93298,6 +95836,304 @@
         "angleOfView": [
           12.3
         ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/2.8 LD-IF Adaptall-2 (60B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 2.5,
+        "weight": 2450,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "isInternalFocus": true,
+        "note": "型番60B。Adaptall-2 の SP フラッグシップ超望遠。LD = Low Dispersion 硝材 + IF (内焦式) の望遠銘玉。中古市場で希少・高値。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-60b-k",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/5.6 Adaptall-2 (54B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 585,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "note": "型番54B。Adaptall-2 SP 超望遠の廉価版。F5.6 のコンパクトな 300mm 単焦点。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-54b-k",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 400mm f/4 LD-IF Adaptall-2 (65B)",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 4,
+        "weight": 2530,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "isInternalFocus": true,
+        "note": "型番65B。Adaptall-2 の希少な 400mm F4 SP LD-IF。生産数少なく中古市場で稀。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-65b-k",
+        "angleOfView": [
+          6.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 35-105mm f/2.8 Aspherical Adaptall-2 (65A)",
+        "focalLength": [
+          35,
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.4,
+        "weight": 900,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番65A。Adaptall-2 の開放固定F2.8 標準ズーム銘玉。非球面採用の当時としては野心的な設計で、35-105mm F2.8 通しのカルト人気モデル。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-65a-k",
+        "angleOfView": [
+          63.4,
+          23.3
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 70-210mm f/3.5 Adaptall-2 (19AH)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.75,
+        "weight": 890,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "maxMagnification": 0.25,
+        "note": "型番19AH。Adaptall-2 の開放固定F3.5 望遠ズーム。当時の 70-210mm クラスとして明るく、SP らしい描写で人気。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-19ah-k",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 28-135mm f/4-4.5 Adaptall-2 (28A)",
+        "focalLength": [
+          28,
+          135
+        ],
+        "fStop": [
+          4,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 660,
+        "bladesCount": 8,
+        "elements": 16,
+        "groups": 12,
+        "note": "型番28A。Adaptall-2 の高倍率トラベルズーム SP。広角から中望遠まで一本で賄える便利さと SP らしい描写で人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-28a-k",
+        "angleOfView": [
+          75.4,
+          18.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 60-300mm f/3.8-5.4 Adaptall-2 (23A)",
+        "focalLength": [
+          60,
+          300
+        ],
+        "fStop": [
+          3.8,
+          5.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.9,
+        "weight": 720,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番23A。Adaptall-2 の 5倍ズーム SP。60-300mm という当時としては野心的な焦点域で、レンジの広さがカルト人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-23a-k",
+        "angleOfView": [
+          39.7,
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "28mm f/2.5 Adaptall-2 (02B)",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "note": "型番02B。Adaptall-2 の非SPライン広角。F2.5 の明るさとコンパクトさで実用人気。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-02b-28-k",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "70-210mm f/4-5.6 Adaptall-2 (46A)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.9,
+        "weight": 465,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "maxMagnification": 0.25,
+        "note": "型番46A。Adaptall-2 の非SP望遠ズーム。軽量コンパクトで、当時の実用ズームとして定番。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "K",
+        "id": "tamron-46a-k",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
       }
     ],
     "M42": [
@@ -93461,6 +96297,272 @@
         "angleOfView": [
           63.4,
           30.3
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/2.8 LD-IF Adaptall-2 (60B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 112,
+        "minFocusDistance": 2.5,
+        "weight": 2450,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "isInternalFocus": true,
+        "note": "型番60B。Adaptall-2 の SP フラッグシップ超望遠。LD = Low Dispersion 硝材 + IF (内焦式) の望遠銘玉。中古市場で希少・高値。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-60b-md",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 300mm f/5.6 Adaptall-2 (54B)",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 585,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "note": "型番54B。Adaptall-2 SP 超望遠の廉価版。F5.6 のコンパクトな 300mm 単焦点。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-54b-md",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 35-105mm f/2.8 Aspherical Adaptall-2 (65A)",
+        "focalLength": [
+          35,
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.4,
+        "weight": 900,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番65A。Adaptall-2 の開放固定F2.8 標準ズーム銘玉。非球面採用の当時としては野心的な設計で、35-105mm F2.8 通しのカルト人気モデル。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-65a-md",
+        "angleOfView": [
+          63.4,
+          23.3
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 70-210mm f/3.5 Adaptall-2 (19AH)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.75,
+        "weight": 890,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 11,
+        "maxMagnification": 0.25,
+        "note": "型番19AH。Adaptall-2 の開放固定F3.5 望遠ズーム。当時の 70-210mm クラスとして明るく、SP らしい描写で人気。",
+        "releaseDate": "1984",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-19ah-md",
+        "angleOfView": [
+          34.3,
+          11.8
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 28-135mm f/4-4.5 Adaptall-2 (28A)",
+        "focalLength": [
+          28,
+          135
+        ],
+        "fStop": [
+          4,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 660,
+        "bladesCount": 8,
+        "elements": 16,
+        "groups": 12,
+        "note": "型番28A。Adaptall-2 の高倍率トラベルズーム SP。広角から中望遠まで一本で賄える便利さと SP らしい描写で人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-28a-md",
+        "angleOfView": [
+          75.4,
+          18.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "SP 60-300mm f/3.8-5.4 Adaptall-2 (23A)",
+        "focalLength": [
+          60,
+          300
+        ],
+        "fStop": [
+          3.8,
+          5.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.9,
+        "weight": 720,
+        "bladesCount": 8,
+        "elements": 15,
+        "groups": 12,
+        "maxMagnification": 0.25,
+        "note": "型番23A。Adaptall-2 の 5倍ズーム SP。60-300mm という当時としては野心的な焦点域で、レンジの広さがカルト人気。",
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-23a-md",
+        "angleOfView": [
+          39.7,
+          8.2
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "28mm f/2.5 Adaptall-2 (02B)",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.25,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "note": "型番02B。Adaptall-2 の非SPライン広角。F2.5 の明るさとコンパクトさで実用人気。",
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-02b-28-md",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "maker": "TAMRON",
+        "name": "70-210mm f/4-5.6 Adaptall-2 (46A)",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.9,
+        "weight": 465,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 8,
+        "maxMagnification": 0.25,
+        "note": "型番46A。Adaptall-2 の非SP望遠ズーム。軽量コンパクトで、当時の実用ズームとして定番。",
+        "releaseDate": "1986",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "mount": "MD",
+        "id": "tamron-46a-md",
+        "angleOfView": [
+          34.3,
+          11.8
         ]
       }
     ],

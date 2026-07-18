@@ -1,9 +1,9 @@
-export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa" | "Samyang" | "Meike" | "Zhongyi" | "AstrHori" | "Sirui" | "Yashica" | "Konica" | "Minolta" | "Pergear" | "Brightin" | "Kamlan" | "Kowa" | "Meyer" | "Zenit" | "Chinon" | "Ricoh" | "Rollei" | "Miranda" | "Petri" | "Fujica" | "Hasselblad" | "Mamiya" | "Bronica" | "Angenieux" | "Steinheil" | "Kern" | "Meopta" | "Enna" | "Isco" | "Kiev" | "Alpa" | "Pentacon" | "Kodak" | "Praktica" | "Yongnuo" | "Vivitar" | "Panagor" | "Soligor" | "PhaseOne" | "Rodenstock" | "Schneider";
-export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
+export type Maker = "Canon" | "Fujifilm" | "SONY" | "Nikon" | "Leica" | "ZEISS" | "SIGMA" | "TAMRON" | "Panasonic" | "OLYMPUS" | "OM SYSTEM" | "PENTAX" | "Tokina" | "COSINA" | "Voigtländer" | "TTArtisan" | "7Artisans" | "SG-image" | "Thypoch" | "Viltrox" | "Laowa" | "Samyang" | "Meike" | "Zhongyi" | "AstrHori" | "Sirui" | "Yashica" | "Konica" | "Minolta" | "Pergear" | "Brightin" | "Kamlan" | "Kowa" | "Meyer" | "Zenit" | "Chinon" | "Ricoh" | "Rollei" | "Miranda" | "Petri" | "Fujica" | "Hasselblad" | "Mamiya" | "Bronica" | "Angenieux" | "Steinheil" | "Kern" | "Meopta" | "Enna" | "Isco" | "Kiev" | "Alpa" | "Pentacon" | "Kodak" | "Praktica" | "Yongnuo" | "Vivitar" | "Kiron" | "Osawa" | "Panagor" | "Soligor" | "PhaseOne" | "Rodenstock" | "Schneider";
+export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL" | "LTM";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F" | "S";
-export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
+export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM" | "PenF";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645" | "M42";
 export type SigmaMount = "SA";
