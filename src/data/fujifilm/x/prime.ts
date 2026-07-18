@@ -261,8 +261,11 @@ export const fujifilmXPrimeLensDataSet: LensData[] = [
     weight: 180,
     urls: {
       kakaku: "https://kakaku.com/item/K0000903386/",
+      official:
+        "https://mall-jp.fujifilm.com/shop/g/g16580557/",
     },
     releaseDate: "2016-10-06",
+    msrp: 70400,
   },
   {
     id: "4547410340990",

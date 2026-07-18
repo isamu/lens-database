@@ -54,7 +54,13 @@ export type Maker =
   | "Pentacon"
   | "Kodak"
   | "Praktica"
-  | "Yongnuo";
+  | "Yongnuo"
+  | "Vivitar"
+  | "Panagor"
+  | "Soligor"
+  | "PhaseOne"
+  | "Rodenstock"
+  | "Schneider";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
@@ -111,12 +117,23 @@ export type PetriMount = "Petri";
 // Fujica FX bayonet used on Fujica AX SLR bodies (1979-1984).
 // Distinct from Fujifilm X mirrorless mount — FX = Fujica bayonet.
 export type FujicaMount = "FX";
-// Hasselblad V-system bayonet used on the 500 series / 501 / 503 / 555 SLR
-// bodies and the SWC (Superwide Camera) family (1957-2013). All V-system
-// lenses were designed by Carl Zeiss (T* coating). Generations: C, CF,
-// CB, CFi, CFE. Cult-classic medium-format mount, heavily adapted to
-// modern mirrorless (GFX, digital-back on 500-series, etc.).
-export type HasselbladMount = "V";
+// Hasselblad medium-format mounts:
+// - V:   V-system bayonet used on the 500 series / 501 / 503 / 555 SLR
+//        bodies and the SWC (Superwide Camera) family (1957-2013).
+//        All V-system lenses were designed by Carl Zeiss (T* coating).
+//        Generations: C, CF, CB, CFi, CFE. Cult-classic medium-format
+//        mount, heavily adapted to modern mirrorless (GFX, digital-back
+//        on 500-series, etc.).
+// - H:   H-system AF 645 bayonet (2002-2020). AF lenses for the H1 /
+//        H2 / H2F / H3D / H4D / H5D / H6D bodies, developed with Fujifilm
+//        (Fujinon glass for early HC, Hasselblad-designed HCD later).
+//        HC = full-frame 645 film image circle; HCD = digital-optimized
+//        smaller image circle. Discontinued 2020 as Hasselblad shifted
+//        to the X-system.
+// - XCD: X-system mirrorless bayonet (2016-current). AF lenses for the
+//        44x33 CMOS X1D / X1D II 50C / X2D 100C bodies. Weather-sealed;
+//        the 2022+ V-series (P) subline emphasizes compact size.
+export type HasselbladMount = "V" | "H" | "XCD";
 // Mamiya 645 bayonet used on the M645 (1975), 645 Super/Pro/Pro TL, and
 // the 645 AF / AFD autofocus series (through 2013). Sekor "C" / "N"
 // lenses are MF; "AF" lenses are electronic. The mount name "645"
@@ -179,6 +196,20 @@ export type AlpaMount = "Alpa";
 // KMZ / LOMO (Volna, Vega, Mir, Kaleinar, Jupiter). Cult classic on
 // modern mirrorless and digital medium format via specialty adapters.
 export type PentaconSixMount = "P6";
+// Phase One / Mamiya 645AF bayonet (Phase One acquired Mamiya's camera
+// business in 2015). The Blue Ring (BR) and Sk (Schneider-Kreuznach)
+// AF lenses share the electronic Mamiya 645AF bayonet used on the
+// 645DF / 645DF+ / XF bodies coupled to Phase One / Leaf digital backs.
+// The mount name "645" collides with PentaxMount / MamiyaMount /
+// Contax645Mount "645"; each record's `maker` disambiguates.
+export type PhaseOneMount = "645";
+// Technical / view-camera lenses (Rodenstock Digaron, Schneider-Kreuznach
+// Digitar / Apo-Digitar / Super-Symmar / Apo-Symmar) do not use a fixed
+// bayonet — they are supplied as bare cells that thread into a Copal
+// leaf-shutter (Copal #0 or Copal #1) and mount onto a lens board of
+// the host system (Alpa, Cambo WRS, Silvestri, Arca-Swiss, Linhof).
+// "Copal" is used as a shared mount tag for this technical-camera segment.
+export type TechnicalCameraMount = "Copal";
 
 export type Mount =
   | CanonMount
@@ -211,7 +242,9 @@ export type Mount =
   | ContaxRFMount
   | AlpaMount
   | PentaconSixMount
-  | PrakticaBMount;
+  | PrakticaBMount
+  | PhaseOneMount
+  | TechnicalCameraMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
