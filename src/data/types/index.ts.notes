@@ -1,0 +1,2 @@
+# Kick off image collection for new additions
+python3 /tmp/img-collect/wikimedia.py "Hasselblad,Mamiya,Bronica,Angenieux,Steinheil,Meopta,Enna,Isco,Kern,PENTAX,Minolta,ZEISS" 500 > /tmp/img-collect/wm7.log 2>&1

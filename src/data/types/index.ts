@@ -48,7 +48,9 @@ export type Maker =
   | "Kern"
   | "Meopta"
   | "Enna"
-  | "Isco";
+  | "Isco"
+  | "Kiev"
+  | "Alpa";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
@@ -58,7 +60,16 @@ export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645" | "M42";
 export type SigmaMount = "SA";
-export type LeicaMount = "M" | "L" | "R";
+// Leica lens mounts:
+// - M: M-mount rangefinder bayonet (1954-, current)
+// - L: L-mount mirrorless bayonet (2014-, current; TL/CL/SL/S1)
+// - R: R-mount SLR bayonet (1964-2009)
+// - LTM: Leica Thread Mount / L39 / M39 x1 screw mount rangefinder
+//   (1930-1960s). The original Leica rangefinder mount used on Leica
+//   I / II / III / IIIa / IIIf / IIIg. Cult classic on Leica M via
+//   LTM-to-M adapter and hugely popular on Sony E / Fujifilm X via
+//   specialty adapters.
+export type LeicaMount = "M" | "L" | "R" | "LTM";
 export type YashicaMount = "CY" | "M42";
 // Contax autofocus / medium-format ecosystems (Kyocera-Contax, 1994-2005).
 // All lenses were designed and built by Zeiss (maker: "ZEISS").
@@ -127,6 +138,25 @@ export type ProminentMount = "Prominent";
 // All Voigtländer DKL lenses (Color-Skopar X, Septon 50/2, Skoparex,
 // Super-Dynarex, Zoomar 36-82) use it. Distinct from AR / M42 / Exakta.
 export type BessamaticMount = "DKL";
+// Zeiss Ikon Contax rangefinder bayonet (Dresden / Jena / Stuttgart,
+// 1932-1945 pre-war, and revived post-war on Contax IIa/IIIa 1950-1962).
+// Zeiss Ikon's answer to the Leica screw mount, with an interchangeable
+// inner/outer bayonet for standard and wide/tele lenses. The same physical
+// mount was cloned by the Soviet Union after WWII on the Kiev rangefinders
+// (Kiev / Kiev-2 / Kiev-4, Arsenal factory), and Soviet Jupiter / Helios /
+// Orion / Russar lenses in the Kiev RF mount are physically and (nearly)
+// mechanically interchangeable with pre-war Zeiss Contax bodies.
+// Distinct from Contax C/Y (SLR), Contax G (AF rangefinder), Contax N (AF SLR).
+export type ContaxRFMount = "ContaxRF";
+// Alpa proprietary bayonet (Pignons SA, Ballaigues, Switzerland, 1944-1990).
+// Used across the Alpa Reflex I-III / 4-7 / 9 / 10 / 11 series of Swiss
+// 35mm SLR cameras. Native lenses were manufactured by Kern-Paillard
+// (Switzerland), Kinoptik (Paris), P. Angénieux (France), Schneider
+// Kreuznach and others — all in the same Alpa bayonet. Cult-grail glass,
+// heavily collected. The maker "Alpa" here refers to the CAMERA maker
+// Pignons SA; the optical designer is credited in each record's `note`.
+// Distinct from the modern ALPA of Switzerland (medium format, 1996-).
+export type AlpaMount = "Alpa";
 
 export type Mount =
   | CanonMount
@@ -155,7 +185,9 @@ export type Mount =
   | MamiyaMount
   | BronicaMount
   | ProminentMount
-  | BessamaticMount;
+  | BessamaticMount
+  | ContaxRFMount
+  | AlpaMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
