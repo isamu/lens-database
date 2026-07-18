@@ -1,5 +1,8 @@
 import { LensData } from "../types";
 
+export * from "./prominent";
+export * from "./dkl";
+
 export const cosinaLensDataSet: LensData[] = [
   // ============================================================
   // VM mount (Leica M-compatible, mount = "M", MF)

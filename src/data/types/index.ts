@@ -39,7 +39,16 @@ export type Maker =
   | "Rollei"
   | "Miranda"
   | "Petri"
-  | "Fujica";
+  | "Fujica"
+  | "Hasselblad"
+  | "Mamiya"
+  | "Bronica"
+  | "Angenieux"
+  | "Steinheil"
+  | "Kern"
+  | "Meopta"
+  | "Enna"
+  | "Isco";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
@@ -78,10 +87,46 @@ export type PetriMount = "Petri";
 // Fujica FX bayonet used on Fujica AX SLR bodies (1979-1984).
 // Distinct from Fujifilm X mirrorless mount — FX = Fujica bayonet.
 export type FujicaMount = "FX";
+// Hasselblad V-system bayonet used on the 500 series / 501 / 503 / 555 SLR
+// bodies and the SWC (Superwide Camera) family (1957-2013). All V-system
+// lenses were designed by Carl Zeiss (T* coating). Generations: C, CF,
+// CB, CFi, CFE. Cult-classic medium-format mount, heavily adapted to
+// modern mirrorless (GFX, digital-back on 500-series, etc.).
+export type HasselbladMount = "V";
+// Mamiya 645 bayonet used on the M645 (1975), 645 Super/Pro/Pro TL, and
+// the 645 AF / AFD autofocus series (through 2013). Sekor "C" / "N"
+// lenses are MF; "AF" lenses are electronic. The mount name "645"
+// collides with PentaxMount "645" and Contax645Mount "645"; each
+// record's `maker` disambiguates.
+export type MamiyaMount = "645";
+// Zenza Bronica bayonet systems (Tokyo, 1959-2005). Three medium-format
+// families, all with dedicated Zenzanon-branded lenses:
+// - ETR: 6x4.5 SLR (ETR / ETRS / ETRSi / ETRC), 1976-2004.
+// - SQ:  6x6  SLR (SQ / SQ-A / SQ-Ai / SQ-B),     1980-2005.
+// - GS:  6x7  SLR (GS-1),                           1983-2002.
+// Zenzanon-PE = ETR; Zenzanon-PS = SQ; Zenzanon-PG = GS.
+export type BronicaMount = "ETR" | "SQ" | "GS";
 // Universal M42 x1 screw mount used across many makers (1949-1970s).
 // Kept as a stand-alone mount so brand-independent M42 lenses can be
 // registered under any maker without extending each maker's own union.
 export type M42Mount = "M42";
+// Exakta bayonet (Ihagee, Germany, 1936-1980).
+// Used by Angénieux, Steinheil, Schneider, Meyer, Zeiss Jena, and others
+// for photo primes on Exakta / Exa SLR bodies.
+export type ExaktaMount = "Exakta";
+// Voigtländer Prominent interchangeable-lens 35mm rangefinder mount
+// (Braunschweig, Germany, 1952-1958). A helical screw-in mount used on
+// the post-war Prominent I / II bodies. Native lenses (Ultron 50/2,
+// Nokton 50/1.5, Color-Skopar 50/3.5, Skoparon 35/3.5, Dynaron 100/4.5,
+// Super-Dynaron 150/4.5) are cult classics on modern mirrorless via
+// specialty adapters. Distinct from the pre-war Prominent 6x9 folder.
+export type ProminentMount = "Prominent";
+// Deckel bayonet (DKL) leaf-shutter SLR mount, developed by Friedrich
+// Deckel in Munich and shared across Voigtländer Bessamatic / Ultramatic
+// (1959-1969), Kodak Retina Reflex, and Zeiss Ikon Contaflex Super BC.
+// All Voigtländer DKL lenses (Color-Skopar X, Septon 50/2, Skoparex,
+// Super-Dynarex, Zoomar 36-82) use it. Distinct from AR / M42 / Exakta.
+export type BessamaticMount = "DKL";
 
 export type Mount =
   | CanonMount
@@ -101,10 +146,16 @@ export type Mount =
   | PetriMount
   | FujicaMount
   | M42Mount
+  | ExaktaMount
   | ContaxGMount
   | ContaxNMount
   | Contax645Mount
-  | ContarexMount;
+  | ContarexMount
+  | HasselbladMount
+  | MamiyaMount
+  | BronicaMount
+  | ProminentMount
+  | BessamaticMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
