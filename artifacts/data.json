@@ -89475,6 +89475,290 @@
     ]
   },
   "ZEISS": {
+    "645": [
+      {
+        "id": "zeiss-distagon-35mm-f3.5-c645",
+        "maker": "ZEISS",
+        "name": "Distagon T* 35mm F3.5",
+        "mount": "645",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.5,
+        "weight": 1230,
+        "bladesCount": 8,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Super-wide for medium format (approx. 21mm-equiv on 35mm). Made in Germany. Rare and prized on GFX / Hasselblad H adapters.",
+        "angleOfView": [
+          76.3
+        ]
+      },
+      {
+        "id": "zeiss-distagon-45mm-f2.8-c645",
+        "maker": "ZEISS",
+        "name": "Distagon T* 45mm F2.8",
+        "mount": "645",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.45,
+        "weight": 750,
+        "bladesCount": 8,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Cult moderate wide for medium format (approx. 28mm-equiv). Made in Germany. Highly regarded rendering.",
+        "angleOfView": [
+          62.9
+        ]
+      },
+      {
+        "id": "zeiss-planar-55mm-f3.5-c645",
+        "maker": "ZEISS",
+        "name": "Planar T* 55mm F3.5",
+        "mount": "645",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.5,
+        "weight": 620,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Rare mild-wide Planar (approx. 35mm-equiv). Small production run. Made in Germany.",
+        "angleOfView": [
+          53.1
+        ]
+      },
+      {
+        "id": "zeiss-planar-80mm-f2-c645",
+        "maker": "ZEISS",
+        "name": "Planar T* 80mm F2",
+        "mount": "645",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.7,
+        "weight": 700,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Kit standard prime — cult classic, widely regarded as one of the finest medium-format 80mm ever designed. Signature 3D rendering and creamy bokeh. Made in Germany. Highly sought-after on Fujifilm GFX bodies.",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-140mm-f2.8-c645",
+        "maker": "ZEISS",
+        "name": "Sonnar T* 140mm F2.8",
+        "mount": "645",
+        "focalLength": [
+          140
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 1.4,
+        "weight": 990,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Fast portrait tele (approx. 85mm-equiv). Classic Sonnar rendering. Made in Germany.",
+        "angleOfView": [
+          22.2
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-210mm-f4-c645",
+        "maker": "ZEISS",
+        "name": "Sonnar T* 210mm F4",
+        "mount": "645",
+        "focalLength": [
+          210
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 1.75,
+        "weight": 1080,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Medium tele for medium format (approx. 130mm-equiv). Made in Germany.",
+        "angleOfView": [
+          14.9
+        ]
+      },
+      {
+        "id": "zeiss-tele-apotessar-350mm-f4-c645",
+        "maker": "ZEISS",
+        "name": "Tele-Apotessar T* 350mm F4",
+        "mount": "645",
+        "focalLength": [
+          350
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3,
+        "weight": 3200,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Rare apochromatic super-tele for medium format (approx. 220mm-equiv). Small production run. Made in Germany.",
+        "angleOfView": [
+          9
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-45-90mm-f4.5-c645",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 45-90mm F4.5",
+        "mount": "645",
+        "focalLength": [
+          45,
+          90
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.7,
+        "weight": 1650,
+        "bladesCount": 8,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Constant F4.5 wide-to-standard zoom for the Contax 645. Rare — only medium-format Zeiss AF zoom of this class. Made in Germany.",
+        "angleOfView": [
+          62.9,
+          34
+        ]
+      },
+      {
+        "id": "zeiss-apo-makro-planar-120mm-f4-c645",
+        "maker": "ZEISS",
+        "name": "Apo-Makro-Planar T* 120mm F4",
+        "mount": "645",
+        "focalLength": [
+          120
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.51,
+        "maxMagnification": 1,
+        "weight": 1000,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Cult apochromatic 1:1 macro for medium format. Reference-class flat-field rendering, prized by product and reproduction shooters. Made in Germany.",
+        "angleOfView": [
+          25.8
+        ]
+      }
+    ],
     "CY": [
       {
         "id": "zeiss-distagon-15mm-f3.5-cy",
@@ -92006,6 +92290,227 @@
         ]
       }
     ],
+    "G": [
+      {
+        "id": "zeiss-hologon-16mm-f8-g",
+        "maker": "ZEISS",
+        "name": "Hologon T* 16mm F8 G",
+        "mount": "G",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.3,
+        "weight": 120,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Ultra-rare Hologon rectilinear ultra-wide. Fixed F8, no diaphragm, non-focusing (hyperfocal). Ships with dedicated center-graduated ND filter. Made in Japan. Compatible with Contax G1/G2 bodies.",
+        "angleOfView": [
+          107
+        ]
+      },
+      {
+        "id": "zeiss-biogon-21mm-f2.8-g",
+        "maker": "ZEISS",
+        "name": "Biogon T* 21mm F2.8 G",
+        "mount": "G",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.5,
+        "weight": 200,
+        "bladesCount": 8,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Symmetric Biogon design. Cult classic wide-angle rangefinder lens. Requires external optical viewfinder GF-21 on Contax G1/G2. Made in Japan.",
+        "angleOfView": [
+          91.7
+        ]
+      },
+      {
+        "id": "zeiss-biogon-28mm-f2.8-g",
+        "maker": "ZEISS",
+        "name": "Biogon T* 28mm F2.8 G",
+        "mount": "G",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 155,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1996",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Compact Biogon wide. Introduced with G2. Cult classic on Sony E / Leica M via adapters. Made in Japan.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "zeiss-planar-35mm-f2-g",
+        "maker": "ZEISS",
+        "name": "Planar T* 35mm F2 G",
+        "mount": "G",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 160,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Fast reportage-length prime with classic Planar rendering. Made in Japan. Compatible with G1/G2 (G1 requires green-dot compatibility for full AF range).",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-planar-45mm-f2-g",
+        "maker": "ZEISS",
+        "name": "Planar T* 45mm F2 G",
+        "mount": "G",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.5,
+        "weight": 190,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "hoodModel": "GG-2 / GB-53",
+        "note": "Kit standard prime. Cult classic — widely regarded as one of the sharpest 45mm ever made, with reference-grade micro-contrast. Iconic hood GB-53. Made in Japan.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-90mm-f2.8-g",
+        "maker": "ZEISS",
+        "name": "Sonnar T* 90mm F2.8 G",
+        "mount": "G",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 1,
+        "weight": 240,
+        "bladesCount": 8,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1994",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Classic Sonnar short tele for portraits. G1 AF is limited beyond mid range without ROM upgrade; G2 supports full AF. Made in Japan.",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-35-70mm-f3.5-5.6-g",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 35-70mm F3.5-5.6 G",
+        "mount": "G",
+        "focalLength": [
+          35,
+          70
+        ],
+        "fStop": [
+          3.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 1,
+        "weight": 260,
+        "bladesCount": 8,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "1999",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Rare rangefinder zoom, requires Contax G2 body (G1 not supported). Small production run. Made in Japan.",
+        "angleOfView": [
+          63.4,
+          34.3
+        ]
+      }
+    ],
     "M42": [
       {
         "id": "zeiss-jena-flektogon-20mm-f4",
@@ -92924,6 +93429,302 @@
         },
         "angleOfView": [
           28.6
+        ]
+      }
+    ],
+    "N": [
+      {
+        "id": "zeiss-distagon-17-35mm-f2.8-n",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 17-35mm F2.8 N",
+        "mount": "N",
+        "focalLength": [
+          17,
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 0.5,
+        "weight": 900,
+        "bladesCount": 9,
+        "elements": 16,
+        "groups": 13,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Constant F2.8 pro ultra-wide zoom for the Contax N system. Rare — small production run. Made in Japan.",
+        "angleOfView": [
+          103.7,
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-24-85mm-f3.5-4.5-n",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 24-85mm F3.5-4.5 N",
+        "mount": "N",
+        "focalLength": [
+          24,
+          85
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.4,
+        "weight": 570,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 12,
+        "releaseDate": "2000",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Kit standard zoom for the Contax N1. Made in Japan.",
+        "angleOfView": [
+          84.1,
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-70-200mm-f3.5-4.5-n",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 70-200mm F3.5-4.5 N",
+        "mount": "N",
+        "focalLength": [
+          70,
+          200
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 890,
+        "bladesCount": 9,
+        "elements": 15,
+        "groups": 11,
+        "releaseDate": "2000",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Pro-grade tele zoom for the Contax N system. Made in Japan.",
+        "angleOfView": [
+          34.3,
+          12.3
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-70-300mm-f4-5.6-n",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 70-300mm F4-5.6 N",
+        "mount": "N",
+        "focalLength": [
+          70,
+          300
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.5,
+        "weight": 720,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Extended tele zoom for the Contax N system. Made in Japan.",
+        "angleOfView": [
+          34.3,
+          8.2
+        ]
+      },
+      {
+        "id": "zeiss-vario-sonnar-100-300mm-f4.5-5.6-n",
+        "maker": "ZEISS",
+        "name": "Vario-Sonnar T* 100-300mm F4.5-5.6 N",
+        "mount": "N",
+        "focalLength": [
+          100,
+          300
+        ],
+        "fStop": [
+          4.5,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.6,
+        "weight": 830,
+        "bladesCount": 9,
+        "elements": 14,
+        "groups": 11,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Long tele zoom for the Contax N system. Made in Japan.",
+        "angleOfView": [
+          24.4,
+          8.2
+        ]
+      },
+      {
+        "id": "zeiss-planar-50mm-f1.4-n",
+        "maker": "ZEISS",
+        "name": "Planar T* 50mm F1.4 N",
+        "mount": "N",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 0.45,
+        "weight": 400,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Fast standard prime — Zeiss's first AF 50/1.4 design. Cult classic due to small production. Made in Japan.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-planar-85mm-f1.4-n",
+        "maker": "ZEISS",
+        "name": "Planar T* 85mm F1.4 N",
+        "mount": "N",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1,
+        "weight": 680,
+        "bladesCount": 9,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Cult portrait king — Zeiss's first AF 85/1.4. Praised for signature 3D pop and creamy bokeh. Extremely rare. Made in Japan.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-makro-sonnar-100mm-f2.8-n",
+        "maker": "ZEISS",
+        "name": "Makro-Sonnar T* 100mm F2.8 N",
+        "mount": "N",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.44,
+        "maxMagnification": 1,
+        "weight": 700,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2002",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "1:1 native macro AF lens for the Contax N system. Reference-class rendering. Made in Japan.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "zeiss-tele-apotessar-400mm-f4-n",
+        "maker": "ZEISS",
+        "name": "Tele-Apotessar T* 400mm F4 N",
+        "mount": "N",
+        "focalLength": [
+          400
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 3,
+        "weight": 4800,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2004",
+        "discontinued": true,
+        "discontinuedDate": "2005",
+        "note": "Rare pro super-telephoto — apochromatic Tessar formula. Very small production run before the system was discontinued. Made in Japan.",
+        "angleOfView": [
+          6.2
         ]
       }
     ],
