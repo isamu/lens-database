@@ -316,3 +316,4 @@ export const meyerLensDataSet = [
         note: "レトロフォーカス広角。後年Pentacon 29mm f/2.8として継承。",
     },
 ];
+export * from "./p6";

@@ -19085,6 +19085,801 @@
         "angleOfView": [
           23.3
         ]
+      },
+      {
+        "id": "kiev-jupiter-3m-50mm-f1.5",
+        "maker": "Kiev",
+        "name": "Jupiter-3M 50mm F1.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 150,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later multi-coated iteration of the Jupiter-3 Sonnar 50/1.5 copy — improved contrast and flare over the original single-coated version while preserving classic pre-war Sonnar rendering. Arsenal Kiev / KMZ Krasnogorsk.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-jupiter-3mc-50mm-f1.5",
+        "maker": "Kiev",
+        "name": "Jupiter-3MC 50mm F1.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 150,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Final multi-coated (МЦ) generation of the Jupiter-3 family — cult grail among Sonnar-copy shooters for having modern coatings on a pre-war Bertele Sonnar 50/1.5 recipe. Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-jupiter-8nb-50mm-f2",
+        "maker": "Kiev",
+        "name": "Jupiter-8NB 50mm F2 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 145,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later black-body Jupiter-8 variant, click-stopped and multi-coated. Uncommon export version of the Sonnar 50/2 copy. Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-jupiter-12m-35mm-f2.8",
+        "maker": "Kiev",
+        "name": "Jupiter-12M 35mm F2.8 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 140,
+        "bladesCount": 9,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Later multi-coated variant of the Jupiter-12 Biogon 35/2.8 copy. Still carries the deeply protruding rear element that makes body compatibility a puzzle, but modern coatings tame the classic Biogon flare. Arsenal Kiev.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "kiev-jupiter-17m-50mm-f2",
+        "maker": "Kiev",
+        "name": "Jupiter-17M 50mm F2 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.8,
+        "weight": 150,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1985",
+        "note": "Very rare late Soviet 50/2 for Kiev RF — a small-run prototype series in the Jupiter line. Collector curio, factory attribution disputed. KMZ / Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-helios-94-50mm-f1.4",
+        "maker": "Kiev",
+        "name": "Helios-94 50mm F1.4 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 260,
+        "bladesCount": 8,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Extremely rare Soviet fast fifty in Contax RF mount — a Planar-derived double-Gauss going beyond the Helios-103's F1.8. Almost never seen in the wild; collector grail. Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kiev-volna-3-50mm-f1.5",
+        "maker": "Kiev",
+        "name": "Volna-3 50mm F1.5 (Kiev RF)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 160,
+        "bladesCount": 11,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Rare Kiev RF variant of the Volna-3 fast fifty (better known in Pentacon Six as a 80/2.8). Sonnar-family multi-coated glass, cult collector item. Arsenal Kiev.",
+        "angleOfView": [
+          46.8
+        ]
+      }
+    ],
+    "P6": [
+      {
+        "id": "kiev-60-volna-3-80mm-f2.8-p6",
+        "maker": "Kiev",
+        "name": "Volna-3 80mm f/2.8 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.6,
+        "weight": 500,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Kiev 6C / Kiev 60 / Kiev 88CM の標準キットレンズ。Zeiss Biometar 80/2.8譜系の6枚玉ダブルガウス。マルチコート後期型はカルト。Arsenal Kiev製。",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "kiev-60-vega-12b-90mm-f2.8-p6",
+        "maker": "Kiev",
+        "name": "Vega-12B 90mm f/2.8 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.6,
+        "weight": 570,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "中望遠ポートレート。Zeiss Sonnar系4枚玉Tessar-like構成。Kiev 60用でBiometarより一段長い焦点距離。Arsenal Kiev製。",
+        "angleOfView": [
+          34
+        ]
+      },
+      {
+        "id": "kiev-60-mir-38b-65mm-f3.5-p6",
+        "maker": "Kiev",
+        "name": "Mir-38B 65mm f/3.5 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          65
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.5,
+        "weight": 750,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1995",
+        "note": "Zeiss Flektogon 65/2.8譜系の中判広角。Kiev 60 の実用的な広角として人気。Arsenal Kiev製、マルチコート。",
+        "angleOfView": [
+          45.9
+        ]
+      },
+      {
+        "id": "kiev-60-mir-26b-45mm-f3.5-p6",
+        "maker": "Kiev",
+        "name": "Mir-26B 45mm f/3.5 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 82,
+        "minFocusDistance": 0.5,
+        "weight": 1000,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1995",
+        "note": "中判6×6超広角。Zeiss Flektogon 50/4に相当する画角より広い、Kiev 60のフラッグシップ広角。カルト銘玉。Arsenal Kiev製、マルチコート。",
+        "angleOfView": [
+          62.9
+        ]
+      },
+      {
+        "id": "kiev-60-kaleinar-3b-150mm-f2.8-p6",
+        "maker": "Kiev",
+        "name": "Kaleinar-3B 150mm f/2.8 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          150
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 72,
+        "minFocusDistance": 1.8,
+        "weight": 1400,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1995",
+        "note": "中判ポートレート望遠。F2.8の大口径中望遠として重厚だが柔らかい描写で人気。Arsenal Kiev製、マルチコート。",
+        "angleOfView": [
+          20.8
+        ]
+      },
+      {
+        "id": "kiev-60-jupiter-36b-250mm-f3.5-p6",
+        "maker": "Kiev",
+        "name": "Jupiter-36B 250mm f/3.5 (Kiev 60 P6)",
+        "mount": "P6",
+        "focalLength": [
+          250
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 95,
+        "minFocusDistance": 3,
+        "weight": 2400,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1995",
+        "note": "中判望遠。Zeiss Sonnar 250/4系のソ連版、F3.5と明るい。三脚座付き、大柄。Arsenal Kiev製、マルチコート。",
+        "angleOfView": [
+          12.6
+        ]
+      }
+    ]
+  },
+  "Kodak": {
+    "DKL": [
+      {
+        "id": "kodak-retina-curtagon-28mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Curtagon 28mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.4,
+        "weight": 190,
+        "bladesCount": 5,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1963",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Curtagon 28/4 retrofocus wide for the Kodak Retina Reflex system on the Deckel (DKL) mount. Widest native Retina Reflex lens and a genuine cult classic — the same optical design was also badged for Voigtländer Bessamatic. Seven-element / seven-group retrofocus with single-layer coating; pronounced sharpness fall-off and glow wide open, tightens up nicely by f/5.6.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "kodak-retina-curtar-xenon-35mm-f2.8-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Curtar-Xenon 35mm F2.8 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 175,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Curtar-Xenon retrofocus moderate wide for Retina Reflex on the DKL mount. The 'Curtar' prefix denotes the Retina-fitting variant of the Curtagon design; six-element / six-group with single-layer coating. Standard wide option in the Retina Reflex kit alongside the 28/4.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "kodak-retina-xenon-50mm-f1.9-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Xenon 50mm F1.9 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 195,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Xenon 50/1.9 double-Gauss on the Deckel (DKL) mount — the kit normal shipped with most Kodak Retina Reflex bodies. Six-element / four-group Xenon, direct descendant of the Retina IIIC folding-camera Xenon. Cult classic for its creamy tonal transitions and swirly wide-open rendering; heavily adapted to modern mirrorless.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kodak-retina-xenon-50mm-f1.9-ii-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Xenon 50mm F1.9 II DKL",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 195,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Later Schneider-Kreuznach Xenon 50/1.9 revision for Retina Reflex IV — improved dual-layer coating and modernised barrel. Same 6/4 optical formula as the original Retina-Xenon 50/1.9. Higher contrast and better flare control than the earlier single-coated version.",
+        "predecessorId": "kodak-retina-xenon-50mm-f1.9-dkl",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kodak-retina-xenar-50mm-f2.8-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Xenar 50mm F2.8 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 130,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Xenar 50/2.8 Tessar-type kit standard for entry-level Retina Reflex bodies on the DKL mount. Four-element / three-group Xenar, single-coated. The economy alternative to the faster Xenon 50/1.9 — very sharp stopped down, characteristic Tessar rendering.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kodak-retina-heligon-50mm-f1.9-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Heligon 50mm F1.9 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 200,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Rare Rodenstock Heligon 50/1.9 double-Gauss variant of the Retina Reflex kit normal — Kodak dual-sourced its 50mm fast normals from Schneider (Xenon) and Rodenstock (Heligon) on select Retina Reflex production. Slightly warmer, glowier rendering than the Xenon; cult favourite. Six-element / four-group with single-layer coating.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kodak-retina-heligon-50mm-f2-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Heligon 50mm F2 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.6,
+        "weight": 175,
+        "bladesCount": 5,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Rodenstock Heligon 50/2 double-Gauss variant for entry Retina Reflex bodies on the DKL mount — a compact mid-speed alternative to the Heligon 50/1.9 and Xenon 50/1.9. Warmer rendering than the equivalent Xenar, six-element / four-group double-Gauss with single-layer coating.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "kodak-retina-longar-xenon-80mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Longar-Xenon 80mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 180,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Longar-Xenon 80/4 short portrait tele on the Deckel (DKL) mount. Compact five-element / four-group tele; 'Longar' denoted the Retina line's longer-focus Xenon derivatives. Single-coated, gentle rendering — the standard Retina Reflex portrait choice below the 135mm Tele-Xenar.",
+        "angleOfView": [
+          30.3
+        ]
+      },
+      {
+        "id": "kodak-retina-xenon-85mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Xenon 85mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 190,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Xenon 85/4 short portrait tele on the Deckel (DKL) mount — an alternative to the Longar-Xenon 80/4 sold on the Retina Reflex S / III catalogue. Five-element / four-group with single-layer coating; softer wide open than the modern equivalents.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "kodak-retina-tele-xenar-135mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Tele-Xenar 135mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2.5,
+        "weight": 460,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Tele-Xenar 135/4 classic Retina Reflex telephoto on the Deckel (DKL) mount. Five-element / four-group Ernostar-derived design; single-coated on early samples, dual-coated on late. Compact and light for the era; the workhorse tele of the Retina Reflex system.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "kodak-retina-tele-arton-85mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Tele-Arton 85mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.2,
+        "weight": 210,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Schneider-Kreuznach Tele-Arton 85/4 short tele variant on the Deckel (DKL) mount — the 'Arton' family is Schneider's proper telephoto design (physical length shorter than focal length). Four-element / four-group. Slightly higher-contrast rendering than the Longar-Xenon 80/4 sibling.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "kodak-retina-rotelar-200mm-f4.8-dkl",
+        "maker": "Kodak",
+        "name": "Retina-Rotelar 200mm F4.8 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 4,
+        "weight": 780,
+        "bladesCount": 5,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1961",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Rodenstock Rotelar 200/4.8 telephoto — the longest native Retina Reflex lens on the Deckel (DKL) mount. Rodenstock-designed Ernostar-heritage 5/4 formula, single-coated. Rare in the wild; the DKL system's limited exit pupil geometry makes long teles unusual.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "kodak-retina-zoom-28-80mm-f4-dkl",
+        "maker": "Kodak",
+        "name": "Retina Zoom 28-80mm F4 DKL",
+        "mount": "DKL",
+        "focalLength": [
+          28,
+          80
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 850,
+        "bladesCount": 5,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "1964",
+        "discontinued": true,
+        "discontinuedDate": "1966",
+        "note": "Very rare Schneider-Kreuznach-designed wide-standard zoom for late Retina Reflex IV on the Deckel (DKL) mount. One of the earliest wide-to-short-tele SLR zooms — thirteen elements in ten groups, constant f/4. Cult grail item; extremely limited production before the Retina Reflex line was discontinued in 1966.",
+        "angleOfView": [
+          75.4,
+          30.3
+        ]
       }
     ]
   },
@@ -20032,6 +20827,162 @@
         "angleOfView": [
           30.3,
           12.3
+        ]
+      }
+    ],
+    "LTM": [
+      {
+        "id": "konishiroku-hexar-50mm-f3.5-ltm",
+        "maker": "Konica",
+        "name": "Konishiroku Hexar 50mm f/3.5",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 130,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1948",
+        "discontinued": true,
+        "discontinuedDate": "1955",
+        "note": "Konishiroku's first LTM standard lens — a collapsible Tessar-type shipped on the early Konica rangefinders. Cult-status vintage glass, prized for its classic rendering when adapted to modern digital rangefinders and mirrorless.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "konica-hexanon-60mm-f1.2-ltm",
+        "maker": "Konica",
+        "name": "Hexanon 60mm f/1.2 LTM",
+        "mount": "LTM",
+        "focalLength": [
+          60
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.8,
+        "weight": 420,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "The LTM \"grail\" — a 2001 limited-run ultra-fast standard released to celebrate the Hexar RF program. One of the fastest LTM lenses ever produced; extremely small production numbers make this a top-tier collector piece. Multi-coated. Production ended around the 2003 Konica-Minolta merger.",
+        "angleOfView": [
+          39.7
+        ]
+      },
+      {
+        "id": "konica-hexanon-50mm-f2.4-ltm",
+        "maker": "Konica",
+        "name": "Hexanon 50mm f/2.4 LTM",
+        "mount": "LTM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.9,
+        "weight": 100,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "Hexar RF-era pancake-style standard. A modernized reinterpretation of the original Konishiroku Hexar 50/3.5 concept, with a slightly faster aperture and multi-coating. Limited reissue; production ended around the 2003 Konica-Minolta merger.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "konica-m-hexanon-90mm-f2.8-ltm",
+        "maker": "Konica",
+        "name": "M-Hexanon 90mm f/2.8 LTM",
+        "mount": "LTM",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 1,
+        "weight": 300,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "Rare LTM version of the M-mount M-Hexanon 90/2.8 short telephoto for the Hexar RF. Multi-coated. Very small production run; largely eclipsed by the M-bayonet original. Production ended around the 2003 Konica-Minolta merger.",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "konica-uc-hexanon-35mm-f2-ltm",
+        "maker": "Konica",
+        "name": "UC-Hexanon 35mm f/2 LTM",
+        "mount": "LTM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "minFocusDistance": 0.8,
+        "weight": 220,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "2001",
+        "discontinued": true,
+        "discontinuedDate": "2003",
+        "note": "\"UC\" = Ultimate Coating — Konica's premium multi-coating designation. A high-end fast 35mm wide from the Hexar RF era, released in limited quantities. Production ended around the 2003 Konica-Minolta merger.",
+        "angleOfView": [
+          63.4
         ]
       }
     ]
@@ -28309,6 +29260,218 @@
         "angleOfView": [
           19
         ]
+      },
+      {
+        "id": "meike-12mm-f2-air-e",
+        "maker": "Meike",
+        "name": "12mm f/2 Air",
+        "mount": "E",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 180,
+        "minFocusDistance": 0.18,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Air series compact APS-C ultra-wide AF prime for Sony E. STM autofocus, USB-C firmware updates. 35mm-equivalent ≈18mm.",
+        "angleOfView": [
+          99.6
+        ]
+      },
+      {
+        "id": "meike-af-16mm-f1.4-stm-e",
+        "maker": "Meike",
+        "name": "AF 16mm f/1.4 STM",
+        "mount": "E",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 340,
+        "minFocusDistance": 0.2,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 11,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "APS-C wide fast AF prime for Sony E. STM autofocus. 35mm-equivalent ≈24mm.",
+        "angleOfView": [
+          83.2
+        ]
+      },
+      {
+        "id": "meike-35mm-f1.4-stm-air-e",
+        "maker": "Meike",
+        "name": "35mm f/1.4 STM Air",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 250,
+        "minFocusDistance": 0.35,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Air series compact APS-C standard AF prime for Sony E. STM autofocus, USB-C firmware updates. 35mm-equivalent ≈52mm.",
+        "angleOfView": [
+          44.2
+        ]
+      },
+      {
+        "id": "meike-af-45mm-f1.7-stm-e",
+        "maker": "Meike",
+        "name": "AF 45mm f/1.7 STM",
+        "mount": "E",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 300,
+        "minFocusDistance": 0.45,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Full-frame standard AF prime for Sony E. STM autofocus, USB-C firmware updates.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "meike-af-85mm-f1.8-se-ii-e",
+        "maker": "Meike",
+        "name": "AF 85mm f/1.8 SE II",
+        "mount": "E",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2025",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "SE II 2025 refresh full-frame portrait AF prime for Sony E. STM autofocus, USB-C firmware updates.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "meike-af-105mm-f2-macro-e",
+        "maker": "Meike",
+        "name": "AF 105mm f/2 Macro",
+        "mount": "E",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 680,
+        "minFocusDistance": 0.31,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "hasMacro": true,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Full-frame 1:1 macro / portrait tele AF prime for Sony E. STM autofocus, USB-C firmware updates.",
+        "angleOfView": [
+          23.3
+        ]
       }
     ],
     "Z": [
@@ -28866,6 +30029,148 @@
         "angleOfView": [
           44.2
         ]
+      },
+      {
+        "id": "meike-35mm-f1.4-stm-air-z",
+        "maker": "Meike",
+        "name": "35mm f/1.4 STM Air",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 250,
+        "minFocusDistance": 0.35,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Air series compact APS-C standard AF prime for Nikon Z (DX). STM autofocus. 35mm-equivalent ≈52mm.",
+        "angleOfView": [
+          44.2
+        ]
+      },
+      {
+        "id": "meike-af-45mm-f1.7-stm-z",
+        "maker": "Meike",
+        "name": "AF 45mm f/1.7 STM",
+        "mount": "Z",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 300,
+        "minFocusDistance": 0.45,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Full-frame standard AF prime for Nikon Z. STM autofocus, USB-C firmware updates.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "meike-af-85mm-f1.8-se-ii-z",
+        "maker": "Meike",
+        "name": "AF 85mm f/1.8 SE II",
+        "mount": "Z",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2025",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "SE II 2025 refresh full-frame portrait AF prime for Nikon Z. STM autofocus.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "meike-af-105mm-f2-macro-z",
+        "maker": "Meike",
+        "name": "AF 105mm f/2 Macro",
+        "mount": "Z",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 680,
+        "minFocusDistance": 0.31,
+        "maxMagnification": 1,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 10,
+        "hasMacro": true,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Full-frame 1:1 macro / portrait tele AF prime for Nikon Z. STM autofocus.",
+        "angleOfView": [
+          23.3
+        ]
       }
     ],
     "X": [
@@ -29345,6 +30650,146 @@
         "note": "MF portrait prime marketed for APS-C mirrorless. Fujifilm X variant.",
         "angleOfView": [
           19
+        ]
+      },
+      {
+        "id": "meike-12mm-f2-air-x",
+        "maker": "Meike",
+        "name": "12mm f/2 Air",
+        "mount": "X",
+        "focalLength": [
+          12
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 180,
+        "minFocusDistance": 0.18,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 9,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Air series compact APS-C ultra-wide AF prime for Fujifilm X. STM autofocus, USB-C firmware updates. 35mm-equivalent ≈18mm.",
+        "angleOfView": [
+          99.6
+        ]
+      },
+      {
+        "id": "meike-af-16mm-f1.4-stm-x",
+        "maker": "Meike",
+        "name": "AF 16mm f/1.4 STM",
+        "mount": "X",
+        "focalLength": [
+          16
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "weight": 340,
+        "minFocusDistance": 0.2,
+        "bladesCount": 9,
+        "elements": 13,
+        "groups": 11,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "APS-C wide fast AF prime for Fujifilm X. STM autofocus. 35mm-equivalent ≈24mm.",
+        "angleOfView": [
+          83.2
+        ]
+      },
+      {
+        "id": "meike-35mm-f1.4-stm-air-x",
+        "maker": "Meike",
+        "name": "35mm f/1.4 STM Air",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 250,
+        "minFocusDistance": 0.35,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "Air series compact APS-C standard AF prime for Fujifilm X. STM autofocus. 35mm-equivalent ≈52mm.",
+        "angleOfView": [
+          44.2
+        ]
+      },
+      {
+        "id": "meike-af-55mm-f1.4-stm-x",
+        "maker": "Meike",
+        "name": "AF 55mm f/1.4 STM",
+        "mount": "X",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 380,
+        "minFocusDistance": 0.5,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "APS-C portrait AF prime for Fujifilm X. STM autofocus. 35mm-equivalent ≈83mm.",
+        "angleOfView": [
+          29
         ]
       }
     ],
@@ -29858,6 +31303,41 @@
           "official": "https://meikeglobal.com/"
         },
         "note": "Pro-series MF FF portrait prime. Canon RF variant.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "meike-af-85mm-f1.8-se-ii-rf",
+        "maker": "Meike",
+        "name": "AF 85mm f/1.8 SE II",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 8,
+        "releaseDate": "2025",
+        "discontinued": false,
+        "officialUrl": "https://www.meikeglobal.com/",
+        "urls": {
+          "official": "https://www.meikeglobal.com/"
+        },
+        "note": "SE II 2025 refresh full-frame portrait AF prime for Canon RF. STM autofocus.",
         "angleOfView": [
           28.6
         ]
@@ -30858,6 +32338,39 @@
         "note": "レトロフォーカス広角。後年Pentacon 29mm f/2.8として継承。",
         "angleOfView": [
           73.4
+        ]
+      }
+    ],
+    "P6": [
+      {
+        "id": "meyer-domiplan-80mm-f2.8-p6",
+        "maker": "Meyer",
+        "name": "Meyer-Optik Görlitz Domiplan 80mm f/2.8 (P6)",
+        "mount": "P6",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.9,
+        "weight": 480,
+        "bladesCount": 5,
+        "elements": 3,
+        "groups": 3,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "希少なMeyer中判標準。3枚玉クックトリプレット構成の廉価版80/2.8で、Pentacon Six初期の入門キットに同梱された。1968年のPentacon統合後はPentaconブランドへ移行。Meyer-Optik Görlitz東独。",
+        "angleOfView": [
+          37.9
         ]
       }
     ]
@@ -46009,6 +47522,72 @@
       }
     ]
   },
+  "Pentacon": {
+    "P6": [
+      {
+        "id": "pentacon-80mm-f2.8-p6",
+        "maker": "Pentacon",
+        "name": "Pentacon 80mm f/2.8 MC (P6)",
+        "mount": "P6",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.9,
+        "weight": 520,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Pentacon Six / Praktisix標準キットレンズ。Meyer-Optik Görlitz Primotarの系譜を汲む標準。マルチコート化された後期型はカルト人気。VEB Pentacon Dresden製。",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "pentacon-flektogon-50mm-f4-mc-p6",
+        "maker": "Pentacon",
+        "name": "Pentacon 50mm f/4 Flektogon MC (P6)",
+        "mount": "P6",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 86,
+        "minFocusDistance": 0.5,
+        "weight": 900,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Carl Zeiss Jena Flektogon 50/4のPentacon銘リブランド。ゼブラ/ブラック後期MC型。中判用超広角銘玉。CZJ設計、VEB Pentacon Dresdenブランド。カルト。",
+        "angleOfView": [
+          57.6
+        ]
+      }
+    ]
+  },
   "PENTAX": {
     "645": [
       {
@@ -54015,6 +55594,326 @@
         "note": "Long telephoto for Petri system.",
         "angleOfView": [
           12.3
+        ]
+      }
+    ]
+  },
+  "Praktica": {
+    "B": [
+      {
+        "id": "praktica-prakticar-28mm-f2.8-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 28mm f/2.8 MC",
+        "mount": "B",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.33,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Retrofocus wide with a Meyer-Optik / Pentacon Lydith-derived optical formula, adapted to the electronic B bayonet. Multi-coated (MC). Common kit-companion wide for the Praktica B-series.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "praktica-prakticar-35mm-f2.4-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 35mm f/2.4 MC",
+        "mount": "B",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.35,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Fast wide reporter's prime with a Carl Zeiss Jena-derived Flektogon-lineage formula, adapted to the B bayonet. Multi-coated (MC). Unusual f/2.4 specification for the era.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "praktica-prakticar-50mm-f1.8-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 50mm f/1.8 MC",
+        "mount": "B",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.35,
+        "weight": 175,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "The standard kit lens for the Praktica B-series (B100 / BC1 / BX20). Optical design by Carl Zeiss Jena — a Pancolar-lineage double-Gauss formula adapted to the electronic B bayonet. Multi-coated (MC). Excellent value-for-money reference lens.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "praktica-prakticar-50mm-f2.4-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 50mm f/2.4 MC",
+        "mount": "B",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.6,
+        "weight": 130,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1983",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Budget-tier standard — a Meyer-Optik-derived triplet/Tessar-lineage design (Domiplan / Trioplan heritage) adapted to the B bayonet. Multi-coated (MC). The affordable kit alternative to the f/1.8; very compact and light.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "praktica-prakticar-80mm-f1.8-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 80mm f/1.8 MC",
+        "mount": "B",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.8,
+        "weight": 430,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Cult-classic short-tele portrait lens — the \"Pancolar 80\" in B-mount trim. Optical design by Carl Zeiss Jena, adapting the Pancolar 80/1.8 formula to the electronic B bayonet. Multi-coated (MC). Highly sought after on modern mirrorless via B-mount adapters for its creamy rendering and shallow depth of field.",
+        "angleOfView": [
+          30.3
+        ]
+      },
+      {
+        "id": "praktica-prakticar-135mm-f2.8-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 135mm f/2.8 MC",
+        "mount": "B",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Fast telephoto with a Carl Zeiss Jena Sonnar-lineage design adapted to the B bayonet. Multi-coated (MC). A staple portrait / short-tele lens for the Praktica B system.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "praktica-prakticar-200mm-f4-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 200mm f/4 MC",
+        "mount": "B",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 2.5,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 5,
+        "releaseDate": "1981",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Telephoto prime derived from a Meyer-Optik / Pentacon Orestegor-lineage design, adapted to the B bayonet. Multi-coated (MC). Built-in retractable hood.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "praktica-prakticar-300mm-f4-mc",
+        "maker": "Praktica",
+        "name": "Prakticar 300mm f/4 MC",
+        "mount": "B",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 77,
+        "minFocusDistance": 4,
+        "weight": 1650,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Fast super-telephoto — the top prime tele of the Praktica B system. Meyer-Optik / Pentacon Orestegor-lineage optical design in a B-mount barrel. Multi-coated (MC). Tripod collar and integrated hood. Rare on the used market.",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "praktica-prakticar-zoom-28-80mm-f3.5-4.5",
+        "maker": "Praktica",
+        "name": "Prakticar Zoom 28-80mm f/3.5-4.5",
+        "mount": "B",
+        "focalLength": [
+          28,
+          80
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.6,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Wide-to-normal standard zoom — a Pentacon in-house design for the B-series. Multi-coated (MC). Push-pull one-touch zoom/focus. Later-era Praktica B kit lens.",
+        "angleOfView": [
+          75.4,
+          30.3
+        ]
+      },
+      {
+        "id": "praktica-prakticar-zoom-70-210mm-f4-5.6",
+        "maker": "Praktica",
+        "name": "Prakticar Zoom 70-210mm f/4-5.6",
+        "mount": "B",
+        "focalLength": [
+          70,
+          210
+        ],
+        "fStop": [
+          4,
+          5.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 640,
+        "bladesCount": 6,
+        "elements": 13,
+        "groups": 9,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Telephoto zoom — a Pentacon in-house design for the B-series, covering short tele to portrait tele. Multi-coated (MC). Push-pull one-touch zoom/focus. Common consumer tele-zoom of the late Praktica B era.",
+        "angleOfView": [
+          34.3,
+          11.8
         ]
       }
     ]
@@ -77076,6 +78975,230 @@
         "angleOfView": [
           21.4
         ]
+      },
+      {
+        "id": "sirui-sniper-23mm-f1.2-ii-e",
+        "maker": "Sirui",
+        "name": "Sniper 23mm f/1.2 II AF",
+        "mount": "E",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 380,
+        "minFocusDistance": 0.35,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 74,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Sony E. Improved STM autofocus and coatings over the original Sniper 23mm f/1.2.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "sirui-sniper-33mm-f1.2-ii-e",
+        "maker": "Sirui",
+        "name": "Sniper 33mm f/1.2 II AF",
+        "mount": "E",
+        "focalLength": [
+          33
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 400,
+        "minFocusDistance": 0.4,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Sony E. Standard-normal APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          46.6
+        ]
+      },
+      {
+        "id": "sirui-sniper-56mm-f1.2-ii-e",
+        "maker": "Sirui",
+        "name": "Sniper 56mm f/1.2 II AF",
+        "mount": "E",
+        "focalLength": [
+          56
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 410,
+        "minFocusDistance": 0.6,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Sony E. Portrait APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          28.5
+        ]
+      },
+      {
+        "id": "sirui-aurora-35mm-f1.4-e",
+        "maker": "Sirui",
+        "name": "Aurora 35mm f/1.4 AF",
+        "mount": "E",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 560,
+        "minFocusDistance": 0.3,
+        "bladesCount": 11,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 76,
+        "length": 100,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF wide prime for Sony E. STM autofocus, weather sealing at mount, USB-C firmware updates, click/de-click aperture ring.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "sirui-aurora-50mm-f1.4-e",
+        "maker": "Sirui",
+        "name": "Aurora 50mm f/1.4 AF",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 620,
+        "minFocusDistance": 0.45,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 76,
+        "length": 105,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF standard prime for Sony E. STM autofocus, weather sealing at mount, USB-C firmware updates.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "sirui-aurora-24-70mm-f2.8-e",
+        "maker": "Sirui",
+        "name": "Aurora 24-70mm f/2.8 AF",
+        "mount": "E",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 900,
+        "minFocusDistance": 0.38,
+        "bladesCount": 11,
+        "elements": 17,
+        "groups": 13,
+        "diameter": 88,
+        "length": 125,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF standard zoom for Sony E. First Sirui FF zoom. STM autofocus, weather sealing at mount, USB-C firmware updates.",
+        "angleOfView": [
+          84.1,
+          34.3
+        ]
       }
     ],
     "X": [
@@ -77360,6 +79483,153 @@
         "note": "T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime for Fujifilm X. Cine gears, de-clicked aperture.",
         "angleOfView": [
           21.4
+        ]
+      },
+      {
+        "id": "sirui-sniper-23mm-f1.2-ii-x",
+        "maker": "Sirui",
+        "name": "Sniper 23mm f/1.2 II AF",
+        "mount": "X",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 380,
+        "minFocusDistance": 0.35,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 74,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Fujifilm X. Improved STM autofocus and coatings over the original Sniper 23mm f/1.2. USB-C firmware updates.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "sirui-sniper-33mm-f1.2-ii-x",
+        "maker": "Sirui",
+        "name": "Sniper 33mm f/1.2 II AF",
+        "mount": "X",
+        "focalLength": [
+          33
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 400,
+        "minFocusDistance": 0.4,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Fujifilm X. Standard-normal APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          46.6
+        ]
+      },
+      {
+        "id": "sirui-sniper-56mm-f1.2-ii-x",
+        "maker": "Sirui",
+        "name": "Sniper 56mm f/1.2 II AF",
+        "mount": "X",
+        "focalLength": [
+          56
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 410,
+        "minFocusDistance": 0.6,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Fujifilm X. Portrait APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          28.5
+        ]
+      },
+      {
+        "id": "sirui-night-walker-55mm-t1.2-ii-x",
+        "maker": "Sirui",
+        "name": "Night Walker 55mm T1.2 II S35",
+        "mount": "X",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 650,
+        "minFocusDistance": 0.55,
+        "bladesCount": 13,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 75,
+        "length": 90,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Night Walker II 2024 refresh for Fujifilm X. T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime.",
+        "angleOfView": [
+          29
         ]
       }
     ],
@@ -77681,6 +79951,266 @@
         "note": "T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime for Nikon Z DX. Cine gears, de-clicked aperture.",
         "angleOfView": [
           21.4
+        ]
+      },
+      {
+        "id": "sirui-sniper-23mm-f1.2-ii-z",
+        "maker": "Sirui",
+        "name": "Sniper 23mm f/1.2 II AF",
+        "mount": "Z",
+        "focalLength": [
+          23
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 380,
+        "minFocusDistance": 0.35,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 74,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Nikon Z (DX). Improved STM autofocus and coatings over the original Sniper 23mm f/1.2.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "sirui-sniper-33mm-f1.2-ii-z",
+        "maker": "Sirui",
+        "name": "Sniper 33mm f/1.2 II AF",
+        "mount": "Z",
+        "focalLength": [
+          33
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 400,
+        "minFocusDistance": 0.4,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 9,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Nikon Z (DX). Standard-normal APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          46.6
+        ]
+      },
+      {
+        "id": "sirui-sniper-56mm-f1.2-ii-z",
+        "maker": "Sirui",
+        "name": "Sniper 56mm f/1.2 II AF",
+        "mount": "Z",
+        "focalLength": [
+          56
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 410,
+        "minFocusDistance": 0.6,
+        "bladesCount": 11,
+        "elements": 11,
+        "groups": 8,
+        "diameter": 68,
+        "length": 78,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Sniper II series 2024 update for Nikon Z (DX). Portrait APS-C AF prime with improved STM AF and coatings.",
+        "angleOfView": [
+          28.5
+        ]
+      },
+      {
+        "id": "sirui-aurora-35mm-f1.4-z",
+        "maker": "Sirui",
+        "name": "Aurora 35mm f/1.4 AF",
+        "mount": "Z",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 560,
+        "minFocusDistance": 0.3,
+        "bladesCount": 11,
+        "elements": 12,
+        "groups": 10,
+        "diameter": 76,
+        "length": 100,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF wide prime for Nikon Z. STM autofocus, weather sealing at mount, USB-C firmware updates.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "sirui-aurora-50mm-f1.4-z",
+        "maker": "Sirui",
+        "name": "Aurora 50mm f/1.4 AF",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 67,
+        "weight": 620,
+        "minFocusDistance": 0.45,
+        "bladesCount": 11,
+        "elements": 13,
+        "groups": 10,
+        "diameter": 76,
+        "length": 105,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF standard prime for Nikon Z. STM autofocus, weather sealing at mount, USB-C firmware updates.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "sirui-aurora-24-70mm-f2.8-z",
+        "maker": "Sirui",
+        "name": "Aurora 24-70mm f/2.8 AF",
+        "mount": "Z",
+        "focalLength": [
+          24,
+          70
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": true,
+        "filterDiameter": 82,
+        "weight": 900,
+        "minFocusDistance": 0.38,
+        "bladesCount": 11,
+        "elements": 17,
+        "groups": 13,
+        "diameter": 88,
+        "length": 125,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Aurora series full-frame AF standard zoom for Nikon Z. STM autofocus, weather sealing at mount, USB-C firmware updates.",
+        "angleOfView": [
+          84.1,
+          34.3
+        ]
+      },
+      {
+        "id": "sirui-night-walker-55mm-t1.2-ii-z",
+        "maker": "Sirui",
+        "name": "Night Walker 55mm T1.2 II S35",
+        "mount": "Z",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 650,
+        "minFocusDistance": 0.55,
+        "bladesCount": 13,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 75,
+        "length": 90,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Night Walker II 2024 refresh for Nikon Z (DX). T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime.",
+        "angleOfView": [
+          29
         ]
       }
     ],
@@ -78035,6 +80565,42 @@
         "note": "T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime for Canon RF (crop). Cine gears, de-clicked aperture.",
         "angleOfView": [
           21.4
+        ]
+      },
+      {
+        "id": "sirui-night-walker-55mm-t1.2-ii-rf",
+        "maker": "Sirui",
+        "name": "Night Walker 55mm T1.2 II S35",
+        "mount": "RF",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "weight": 650,
+        "minFocusDistance": 0.55,
+        "bladesCount": 13,
+        "elements": 10,
+        "groups": 7,
+        "diameter": 75,
+        "length": 90,
+        "releaseDate": "2024",
+        "discontinued": false,
+        "officialUrl": "https://store.siruinet.com/",
+        "urls": {
+          "official": "https://store.siruinet.com/"
+        },
+        "note": "Night Walker II 2024 refresh for Canon RF. T1.2 rating (fStop set to 1.2). Super35/APS-C hybrid photo/cine MF prime. Cine gears, de-clicked aperture.",
+        "angleOfView": [
+          29
         ]
       }
     ]
@@ -83284,6 +85850,38 @@
         "note": "カルミノン180mm長焦点望遠。プリセット絞り。希少。",
         "angleOfView": [
           13.7
+        ]
+      }
+    ],
+    "ContaxRF": [
+      {
+        "id": "steinheil-culminon-85mm-f2.8-contaxrf",
+        "maker": "Steinheil",
+        "name": "Culminon 85mm F2.8 Contax RF",
+        "mount": "ContaxRF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 300,
+        "bladesCount": 10,
+        "elements": 5,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Rare third-party Contax RF short tele from C.A. Steinheil Söhne (Munich) — a Sonnar-competitor design in an original Steinheil housing for Contax IIa / IIIa. Steinheil also offered this optic in Exakta, LTM and Leica M mounts; the Contax RF variant is the scarcest. Softer, warmer rendering than the Zeiss Sonnar 85/2; cult curio for Contax RF collectors.",
+        "angleOfView": [
+          28.6
         ]
       }
     ]
@@ -99187,6 +101785,650 @@
       }
     ]
   },
+  "Yongnuo": {
+    "X": [
+      {
+        "id": "yongnuo-yn-11mm-f1.8-da-dsm-wl-x",
+        "maker": "Yongnuo",
+        "name": "YN 11mm f/1.8 DA DSM WL",
+        "mount": "X",
+        "focalLength": [
+          11
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 240,
+        "minFocusDistance": 0.19,
+        "bladesCount": 9,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "2023",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "APS-C ultra-wide AF prime. DSM (stepping) autofocus. WL = wireless firmware update support (Yongnuo companion app). 35mm-equivalent ≈16.5mm.",
+        "angleOfView": [
+          104.5
+        ]
+      },
+      {
+        "id": "yongnuo-yn-33mm-f1.4-da-dsm-x",
+        "maker": "Yongnuo",
+        "name": "YN 33mm f/1.4 DA DSM",
+        "mount": "X",
+        "focalLength": [
+          33
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 240,
+        "minFocusDistance": 0.35,
+        "bladesCount": 9,
+        "elements": 11,
+        "groups": 10,
+        "releaseDate": "2022",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "APS-C standard AF prime. DSM stepping AF; USB-C firmware updates. 35mm-equivalent ≈50mm.",
+        "angleOfView": [
+          46.6
+        ]
+      },
+      {
+        "id": "yongnuo-yn-35mm-f2-da-dsm-wl-x",
+        "maker": "Yongnuo",
+        "name": "YN 35mm f/2 DA DSM WL",
+        "mount": "X",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "APS-C",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 175,
+        "minFocusDistance": 0.35,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "2023",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "APS-C compact AF prime for Fujifilm X. DSM stepping AF; WL = wireless firmware update via companion app. 35mm-equivalent ≈52mm.",
+        "angleOfView": [
+          44.2
+        ]
+      }
+    ],
+    "MicroFourThirds": [
+      {
+        "id": "yongnuo-yn-42.5mm-f1.7m-ii-mft",
+        "maker": "Yongnuo",
+        "name": "YN 42.5mm f/1.7M II",
+        "mount": "MicroFourThirds",
+        "focalLength": [
+          42.5
+        ],
+        "fStop": [
+          1.7
+        ],
+        "format": "FourThirds",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 46,
+        "weight": 130,
+        "minFocusDistance": 0.35,
+        "bladesCount": 7,
+        "elements": 9,
+        "groups": 8,
+        "releaseDate": "2021",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Micro Four Thirds standard-portrait AF prime. Second generation (II). 35mm-equivalent ≈85mm.",
+        "angleOfView": [
+          28.6
+        ]
+      }
+    ],
+    "E": [
+      {
+        "id": "yongnuo-yn-50mm-f1.4-ii-e",
+        "maker": "Yongnuo",
+        "name": "YN 50mm f/1.4 II",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 350,
+        "minFocusDistance": 0.5,
+        "bladesCount": 9,
+        "elements": 10,
+        "groups": 8,
+        "releaseDate": "2022",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Full-frame standard AF prime for Sony E. Second generation (II) with updated coatings and improved AF over the original YN 50mm f/1.4.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "yongnuo-yn-50mm-f1.8-ii-e",
+        "maker": "Yongnuo",
+        "name": "YN 50mm f/1.8 II",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 240,
+        "minFocusDistance": 0.45,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "2021",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame nifty-fifty AF prime for Sony E. Second generation (II).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "yongnuo-yn-50mm-f1.8s-da-dsm-e",
+        "maker": "Yongnuo",
+        "name": "YN 50mm f/1.8S DA DSM",
+        "mount": "E",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 280,
+        "minFocusDistance": 0.45,
+        "bladesCount": 9,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "2023",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Full-frame AF prime for Sony E. DSM stepping motor autofocus, updated optics over the YN 50mm f/1.8 II. S = premium optics grade.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "yongnuo-yn-85mm-f1.8-ii-e",
+        "maker": "Yongnuo",
+        "name": "YN 85mm f/1.8 II",
+        "mount": "E",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2022",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame portrait AF prime for Sony E. Second generation (II).",
+        "angleOfView": [
+          28.6
+        ]
+      }
+    ],
+    "Z": [
+      {
+        "id": "yongnuo-yn-50mm-f1.8-ii-z",
+        "maker": "Yongnuo",
+        "name": "YN 50mm f/1.8 II",
+        "mount": "Z",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 240,
+        "minFocusDistance": 0.45,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "2022",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame nifty-fifty AF prime for Nikon Z. Second generation (II).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "yongnuo-yn-85mm-f1.8-ii-z",
+        "maker": "Yongnuo",
+        "name": "YN 85mm f/1.8 II",
+        "mount": "Z",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2023",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame portrait AF prime for Nikon Z. Second generation (II).",
+        "angleOfView": [
+          28.6
+        ]
+      }
+    ],
+    "RF": [
+      {
+        "id": "yongnuo-yn-50mm-f1.8-ii-rf",
+        "maker": "Yongnuo",
+        "name": "YN 50mm f/1.8 II",
+        "mount": "RF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "weight": 240,
+        "minFocusDistance": 0.45,
+        "bladesCount": 7,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "2022",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame nifty-fifty AF prime for Canon RF. Second generation (II).",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "yongnuo-yn-85mm-f1.8-ii-rf",
+        "maker": "Yongnuo",
+        "name": "YN 85mm f/1.8 II",
+        "mount": "RF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 480,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2023",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame portrait AF prime for Canon RF. Second generation (II) with USB-C firmware updates.",
+        "angleOfView": [
+          28.6
+        ]
+      }
+    ],
+    "EF": [
+      {
+        "id": "yongnuo-yn-85mm-f1.8-ii-ef",
+        "maker": "Yongnuo",
+        "name": "YN 85mm f/1.8 II",
+        "mount": "EF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 500,
+        "minFocusDistance": 0.85,
+        "bladesCount": 9,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "2019",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame portrait AF prime for Canon EF DSLR. Second generation (II).",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "yongnuo-yn-100mm-f2-ef",
+        "maker": "Yongnuo",
+        "name": "YN 100mm f/2",
+        "mount": "EF",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "weight": 480,
+        "minFocusDistance": 0.9,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "2018",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Cult budget short-tele AF prime for Canon EF DSLR. Positioned as an ultra-affordable portrait tele alternative.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "yongnuo-yn-14mm-f2.8-ef",
+        "maker": "Yongnuo",
+        "name": "YN 14mm f/2.8",
+        "mount": "EF",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 720,
+        "minFocusDistance": 0.2,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 10,
+        "releaseDate": "2018",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget ultra-wide AF prime for Canon EF DSLR. Bulbous front element (no front filter thread).",
+        "angleOfView": [
+          114.2
+        ]
+      },
+      {
+        "id": "yongnuo-yn-35mm-f2-ef",
+        "maker": "Yongnuo",
+        "name": "YN 35mm f/2",
+        "mount": "EF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 260,
+        "minFocusDistance": 0.25,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "2015",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame wide AF prime for Canon EF DSLR.",
+        "angleOfView": [
+          63.4
+        ]
+      }
+    ],
+    "F": [
+      {
+        "id": "yongnuo-yn-14mm-f2.8-f",
+        "maker": "Yongnuo",
+        "name": "YN 14mm f/2.8",
+        "mount": "F",
+        "focalLength": [
+          14
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "weight": 720,
+        "minFocusDistance": 0.2,
+        "bladesCount": 7,
+        "elements": 14,
+        "groups": 10,
+        "releaseDate": "2019",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget ultra-wide AF prime for Nikon F DSLR. Bulbous front element (no front filter thread).",
+        "angleOfView": [
+          114.2
+        ]
+      },
+      {
+        "id": "yongnuo-yn-35mm-f2-f",
+        "maker": "Yongnuo",
+        "name": "YN 35mm f/2",
+        "mount": "F",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "AF",
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "weight": 285,
+        "minFocusDistance": 0.25,
+        "bladesCount": 7,
+        "elements": 7,
+        "groups": 5,
+        "releaseDate": "2018",
+        "discontinued": false,
+        "officialUrl": "https://www.hkyongnuo.com/",
+        "urls": {
+          "official": "https://www.hkyongnuo.com/"
+        },
+        "note": "Budget full-frame wide AF prime for Nikon F DSLR.",
+        "angleOfView": [
+          63.4
+        ]
+      }
+    ]
+  },
   "ZEISS": {
     "645": [
       {
@@ -100134,6 +103376,276 @@
         "note": "Long tele of the Contax pre-war line, sibling to the famous 'Olympia-Sonnar' 180/2.8 introduced at the 1936 Berlin Olympics. Requires Flektoskop / Panflex reflex housing for framing. Zeiss Ikon Dresden.",
         "angleOfView": [
           13.7
+        ]
+      },
+      {
+        "id": "zeiss-opton-sonnar-50mm-f1.5-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Sonnar 50mm F1.5 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 240,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "West German Zeiss Oberkochen revival of the legendary Bertele Sonnar 50/1.5 for Contax IIa / IIIa, initially branded 'Zeiss-Opton' to distinguish it from the Zeiss Jena product of the East. Single-coated ('T'), 7 elements / 3 groups. Cult classic — the direct optical successor to the pre-war 50/1.5 and the last of the true rangefinder Sonnars until the modern C-Sonnar 50/1.5 ZM. Discontinued with the Contax RF system in 1962.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-opton-sonnar-50mm-f2-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Sonnar 50mm F2 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 175,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "West German Zeiss Oberkochen post-war revival of the classic Bertele Sonnar 50/2 for Contax IIa / IIIa. Initially 'Zeiss-Opton' branded; the 'Opton' prefix was dropped ~1954 in favour of plain 'Carl Zeiss'. Six-element / three-group with single-layer T coating — the everyman's post-war Contax normal, softer and glowier wide open than the modern planar-based standards. Cult classic. Discontinued 1962.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-opton-tessar-45mm-f2.8-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Tessar 45mm F2.8 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          45
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 100,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1953",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Rare pancake Tessar sold as the compact 'travel' normal for the Contax IIIa, mostly bundled with the light-meter body. Four-element / three-group Tessar with single-layer T coating; extremely low profile. Highly sought after by Contax RF collectors — one of the rarest post-war Zeiss Oberkochen rangefinder lenses.",
+        "angleOfView": [
+          51.4
+        ]
+      },
+      {
+        "id": "zeiss-opton-tessar-50mm-f3.5-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Tessar 50mm F3.5 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 130,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1950",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "West German Zeiss Oberkochen post-war collapsible Tessar for Contax IIa. Zeiss-Opton branding on the earliest run; single-coated 'T'. The direct successor to the pre-war Contax I kit Tessar 50/3.5. Compact, sharp stopped down, characteristically low-contrast wide open. Discontinued 1962.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zeiss-opton-biogon-21mm-f4.5-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Biogon 21mm F4.5 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          21
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 200,
+        "bladesCount": 10,
+        "elements": 8,
+        "groups": 5,
+        "releaseDate": "1954",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Super-wide cult classic — Ludwig Bertele's post-war Biogon 21/4.5, one of the finest wides of the 1950s and a direct ancestor of the Contax G Biogon 21/2.8 and Zeiss Ikon ZM Biogon 21/2.8. Symmetrical near-telecentric design with an extremely short back-focal distance; ships with dedicated external finder. Requires shim-corrected adapters on modern digital because the deep-set rear element sits close to the sensor stack. Grail-tier Contax RF glass.",
+        "angleOfView": [
+          91.7
+        ]
+      },
+      {
+        "id": "zeiss-opton-biogon-35mm-f2.8-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Opton Biogon 35mm F2.8 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 195,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1951",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "West German Zeiss Oberkochen post-war revival of the Bertele Biogon 35/2.8. Single-layer T coating, six-element / four-group symmetrical wide with characteristically flat field and extremely low distortion. Requires shim correction on modern digital. The direct optical parent of the Contax G Biogon 28/2.8 lineage.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-85mm-f2-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Sonnar 85mm F2 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1,
+        "weight": 345,
+        "bladesCount": 10,
+        "elements": 6,
+        "groups": 3,
+        "releaseDate": "1951",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Post-war Zeiss Oberkochen revival of the legendary Bertele Sonnar 85/2 portrait lens for Contax IIa / IIIa. T-coated six-element / three-group Sonnar; the direct optical parent of the modern Contax G Sonnar 90/2.8, Loxia 85/2.4 and Batis 85/1.8. Silky rendering, painterly bokeh — one of the great portrait lenses of the 20th century. Cult grail. Discontinued 1962.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "zeiss-sonnar-135mm-f4-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Sonnar 135mm F4 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 1.5,
+        "weight": 470,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1951",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Post-war Zeiss Oberkochen classic Sonnar telephoto — mounted via the outer bayonet with the Contax IIa/IIIa's dedicated Panflex reflex housing for reliable framing. T-coated. The direct successor to the pre-war Sonnar 135/4 and the ancestor of the Soviet Jupiter-11 135/4.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "zeiss-distagon-35mm-f4-contaxrf-postwar",
+        "maker": "ZEISS",
+        "name": "Distagon 35mm F4 Contax RF (post-war)",
+        "mount": "ContaxRF",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 0.9,
+        "weight": 210,
+        "bladesCount": 10,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1958",
+        "discontinued": true,
+        "discontinuedDate": "1962",
+        "note": "Very rare late Zeiss Oberkochen retrofocus wide for Contax IIa/IIIa — a small production run that previewed the Distagon designs that would dominate the Contarex SLR system from 1958. Cult grail item; very few produced before the Contax RF system wound down in 1962.",
+        "angleOfView": [
+          63.4
         ]
       }
     ],
@@ -104106,6 +107618,101 @@
         ]
       }
     ],
+    "P6": [
+      {
+        "id": "zeiss-czj-biometar-80mm-f2.8-p6",
+        "maker": "ZEISS",
+        "name": "Carl Zeiss Jena Biometar 80mm f/2.8 MC (P6)",
+        "mount": "P6",
+        "focalLength": [
+          80
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 0.9,
+        "weight": 520,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1957",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Pentacon Six/Praktisixの標準銘玉。Harry Zöllner設計の5枚玉ダブルガウス、後期MCマルチコート版はデジタル中判で今も現役級の描写。Carl Zeiss Jena東独。カルト。",
+        "angleOfView": [
+          37.9
+        ]
+      },
+      {
+        "id": "zeiss-czj-flektogon-50mm-f4-p6",
+        "maker": "ZEISS",
+        "name": "Carl Zeiss Jena Flektogon 50mm f/4 MC (P6)",
+        "mount": "P6",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 86,
+        "minFocusDistance": 0.5,
+        "weight": 900,
+        "bladesCount": 6,
+        "elements": 8,
+        "groups": 6,
+        "releaseDate": "1959",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "中判レトロフォーカス広角の名作。ゼブラ/ブラック鏡胴の変遷を経て、後期MC版は逆光性能が飛躍。Harry Zöllner設計。Carl Zeiss Jena東独。カルト。",
+        "angleOfView": [
+          57.6
+        ]
+      },
+      {
+        "id": "zeiss-czj-sonnar-180mm-f2.8-p6",
+        "maker": "ZEISS",
+        "name": "Carl Zeiss Jena Sonnar 180mm f/2.8 MC (P6)",
+        "mount": "P6",
+        "focalLength": [
+          180
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Large",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 86,
+        "minFocusDistance": 2.4,
+        "weight": 1900,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1965",
+        "discontinued": true,
+        "discontinuedDate": "1990",
+        "note": "Bertele Sonnar譜系の中判大口径ポートレート望遠。'Olympia-Sonnar'の中判版と呼ぶ人も。柔らかいボケと立体感でカルト銘玉。Carl Zeiss Jena東独。",
+        "angleOfView": [
+          17.4
+        ]
+      }
+    ],
     "X": [
       {
         "id": "zeiss-touit-2-8-12-x",
@@ -104570,6 +108177,279 @@
         "note": "反射式（ミラー）500mm超望遠。リング状ボケが特徴。F5.6固定。マルチコート版。",
         "angleOfView": [
           5
+        ]
+      },
+      {
+        "id": "zenit-volna-9-50mm-f2.8-macro",
+        "maker": "Zenit",
+        "name": "MC Volna-9 50mm f/2.8 Macro",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.24,
+        "weight": 250,
+        "bladesCount": 8,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "hasMacro": true,
+        "maxMagnification": 0.5,
+        "note": "Industar系譜のマクロ標準。等倍近くまで寄れるカルト銘玉としてアダプタ遊びで人気。マルチコート。LZOS製。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zenit-mir-24h-35mm-f2",
+        "maker": "Zenit",
+        "name": "MC Mir-24H 35mm f/2",
+        "mount": "M42",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 0.24,
+        "weight": 340,
+        "bladesCount": 8,
+        "elements": 8,
+        "groups": 7,
+        "releaseDate": "1982",
+        "discontinued": true,
+        "note": "希少な高性能広角。ソ連時代末期のMir系列で最も設計が新しい部類。マルチコート。KMZ Krasnogorsk / Arsenal Kiev。カルト。",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "zenit-vega-12-90mm-f2.8",
+        "maker": "Zenit",
+        "name": "Vega-12 90mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          90
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.8,
+        "weight": 320,
+        "bladesCount": 10,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "note": "Zeiss Sonnar系譜のポートレート銘玉。柔らかいボケが特徴。Arsenal Kiev製。",
+        "angleOfView": [
+          27
+        ]
+      },
+      {
+        "id": "zenit-vega-11u-50mm-f2.8",
+        "maker": "Zenit",
+        "name": "Vega-11U 50mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 40.5,
+        "minFocusDistance": 0.3,
+        "weight": 130,
+        "bladesCount": 5,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1975",
+        "discontinued": true,
+        "hasMacro": true,
+        "note": "希少な引き伸ばし・マクロ用途向けVega。Tessar系4群3枚。マクロベローズと合わせてカルト人気。LOMO製。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zenit-zenitar-m-50mm-f2",
+        "maker": "Zenit",
+        "name": "MC Zenitar-M 50mm f/2",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.45,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "note": "F1.7版のコンパクト廉価バリエーション。マルチコート。KMZ Krasnogorsk。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zenit-industar-50-2-50mm-f3.5",
+        "maker": "Zenit",
+        "name": "Industar-50-2 50mm f/3.5",
+        "mount": "M42",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 35.5,
+        "minFocusDistance": 0.65,
+        "weight": 80,
+        "bladesCount": 8,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1962",
+        "discontinued": true,
+        "note": "Zeiss Tessar系譜のパンケーキ標準。極薄・軽量で M42 パンケーキとしてカルト人気。単層コート。KMZ Krasnogorsk。",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "zenit-industar-61-ld-55mm-f2.8",
+        "maker": "Zenit",
+        "name": "Industar-61 L/D 55mm f/2.8",
+        "mount": "M42",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 150,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "note": "L=ランタンガラス採用、D=改良版のTessar系4枚玉。開放から解像度が高く、絞りが星型になる独特のボケでカルト人気。LOMO製。",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "zenit-rubinar-300mm-f4.5",
+        "maker": "Zenit",
+        "name": "MC Rubinar 300mm f/4.5",
+        "mount": "M42",
+        "focalLength": [
+          300
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 2,
+        "weight": 750,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 90,
+        "length": 130,
+        "releaseDate": "1985",
+        "discontinued": true,
+        "note": "反射式（ミラー）300mm超望遠。F4.5固定。リング状ボケが特徴。マルチコート。LZOS Lytkarino。",
+        "angleOfView": [
+          8.2
+        ]
+      },
+      {
+        "id": "zenit-rubinar-1000mm-f10",
+        "maker": "Zenit",
+        "name": "MC Rubinar 1000mm f/10",
+        "mount": "M42",
+        "focalLength": [
+          1000
+        ],
+        "fStop": [
+          10
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "minFocusDistance": 8,
+        "weight": 3500,
+        "elements": 6,
+        "groups": 5,
+        "diameter": 175,
+        "length": 340,
+        "releaseDate": "1988",
+        "discontinued": true,
+        "note": "極端な反射式1000mm超々望遠。F10固定。バードウォッチング・天体観測用途のカルト銘玉。強烈なリング状ボケ。マルチコート。LZOS Lytkarino。",
+        "angleOfView": [
+          2.5
         ]
       }
     ]

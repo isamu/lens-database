@@ -229,3 +229,177 @@
 | Length | 170mm |
 | Release Date | 1988 |
 | Discontinued | YES |
+
+### MC Volna-9 50mm f/2.8 Macro
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 50mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.24m |
+| Weight | 250g |
+| Max Magnification | 0.5x |
+| Aperture Blades | 8 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
+| Macro | YES |
+| Release Date | 1980 |
+| Discontinued | YES |
+
+### MC Mir-24H 35mm f/2
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 35mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 0.24m |
+| Weight | 340g |
+| Aperture Blades | 8 |
+| Optical Construction | 8 elements in 7 groups |
+| Angle of View | 63.4° |
+| Release Date | 1982 |
+| Discontinued | YES |
+
+### Vega-12 90mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 90mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.8m |
+| Weight | 320g |
+| Aperture Blades | 10 |
+| Optical Construction | 4 elements in 3 groups |
+| Angle of View | 27° |
+| Release Date | 1970 |
+| Discontinued | YES |
+
+### Vega-11U 50mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 50mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 40.5mm |
+| Min Focus Distance | 0.3m |
+| Weight | 130g |
+| Aperture Blades | 5 |
+| Optical Construction | 4 elements in 3 groups |
+| Angle of View | 46.8° |
+| Macro | YES |
+| Release Date | 1975 |
+| Discontinued | YES |
+
+### MC Zenitar-M 50mm f/2
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.45m |
+| Weight | 210g |
+| Aperture Blades | 6 |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1988 |
+| Discontinued | YES |
+
+### Industar-50-2 50mm f/3.5
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 50mm |
+| Aperture | F3.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 35.5mm |
+| Min Focus Distance | 0.65m |
+| Weight | 80g |
+| Aperture Blades | 8 |
+| Optical Construction | 4 elements in 3 groups |
+| Angle of View | 46.8° |
+| Release Date | 1962 |
+| Discontinued | YES |
+
+### Industar-61 L/D 55mm f/2.8
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 55mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 49mm |
+| Min Focus Distance | 0.5m |
+| Weight | 150g |
+| Aperture Blades | 6 |
+| Optical Construction | 4 elements in 3 groups |
+| Angle of View | 42.9° |
+| Release Date | 1970 |
+| Discontinued | YES |
+
+### MC Rubinar 300mm f/4.5
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 300mm |
+| Aperture | F4.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 2m |
+| Weight | 750g |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 8.2° |
+| Diameter | 90mm |
+| Length | 130mm |
+| Release Date | 1985 |
+| Discontinued | YES |
+
+### MC Rubinar 1000mm f/10
+|  | |
+| -- | -- |
+| Mount  | M42 mount |
+| Focal Length | 1000mm |
+| Aperture | F10 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 8m |
+| Weight | 3500g |
+| Optical Construction | 6 elements in 5 groups |
+| Angle of View | 2.5° |
+| Diameter | 175mm |
+| Length | 340mm |
+| Release Date | 1988 |
+| Discontinued | YES |

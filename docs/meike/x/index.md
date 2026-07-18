@@ -284,3 +284,83 @@
 | Angle of View | 19° |
 | Official URL | https://meikeglobal.com/ |
 | URL | [official](https://meikeglobal.com/) |
+
+### 12mm f/2 Air
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 12mm |
+| Aperture | F2 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.18m |
+| Weight | 180g |
+| Aperture Blades | 9 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 99.6° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 16mm f/1.4 STM
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 16mm |
+| Aperture | F1.4 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 0.2m |
+| Weight | 340g |
+| Aperture Blades | 9 |
+| Optical Construction | 13 elements in 11 groups |
+| Angle of View | 83.2° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### 35mm f/1.4 STM Air
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 35mm |
+| Aperture | F1.4 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.35m |
+| Weight | 250g |
+| Aperture Blades | 9 |
+| Optical Construction | 10 elements in 8 groups |
+| Angle of View | 44.2° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 55mm f/1.4 STM
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 55mm |
+| Aperture | F1.4 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 55mm |
+| Min Focus Distance | 0.5m |
+| Weight | 380g |
+| Aperture Blades | 9 |
+| Optical Construction | 11 elements in 8 groups |
+| Angle of View | 29° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |

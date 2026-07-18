@@ -447,3 +447,125 @@
 | Angle of View | 19° |
 | Official URL | https://meikeglobal.com/ |
 | URL | [official](https://meikeglobal.com/) |
+
+### 12mm f/2 Air
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 12mm |
+| Aperture | F2 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.18m |
+| Weight | 180g |
+| Aperture Blades | 9 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 99.6° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 16mm f/1.4 STM
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 16mm |
+| Aperture | F1.4 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 62mm |
+| Min Focus Distance | 0.2m |
+| Weight | 340g |
+| Aperture Blades | 9 |
+| Optical Construction | 13 elements in 11 groups |
+| Angle of View | 83.2° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### 35mm f/1.4 STM Air
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 35mm |
+| Aperture | F1.4 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 52mm |
+| Min Focus Distance | 0.35m |
+| Weight | 250g |
+| Aperture Blades | 9 |
+| Optical Construction | 10 elements in 8 groups |
+| Angle of View | 44.2° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 45mm f/1.7 STM
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 45mm |
+| Aperture | F1.7 |
+| Format  | Full-Frame |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 55mm |
+| Min Focus Distance | 0.45m |
+| Weight | 300g |
+| Aperture Blades | 9 |
+| Optical Construction | 9 elements in 7 groups |
+| Angle of View | 51.4° |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 85mm f/1.8 SE II
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 85mm |
+| Aperture | F1.8 |
+| Format  | Full-Frame |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.85m |
+| Weight | 480g |
+| Aperture Blades | 9 |
+| Optical Construction | 11 elements in 8 groups |
+| Angle of View | 28.6° |
+| Release Date | 2025 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |
+
+### AF 105mm f/2 Macro
+|  | |
+| -- | -- |
+| Mount  | E mount |
+| Focal Length | 105mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.31m |
+| Weight | 680g |
+| Max Magnification | 1x |
+| Aperture Blades | 9 |
+| Optical Construction | 13 elements in 10 groups |
+| Angle of View | 23.3° |
+| Macro | YES |
+| Release Date | 2024 |
+| Official URL | https://www.meikeglobal.com/ |
+| URL | [official](https://www.meikeglobal.com/) |

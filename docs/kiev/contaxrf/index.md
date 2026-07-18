@@ -269,3 +269,129 @@
 | Angle of View | 23.3° |
 | Release Date | 1955 |
 | Discontinued | YES (1975) |
+
+### Jupiter-3M 50mm F1.5 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F1.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 1m |
+| Weight | 150g |
+| Aperture Blades | 11 |
+| Optical Construction | 7 elements in 3 groups |
+| Angle of View | 46.8° |
+| Release Date | 1975 |
+| Discontinued | YES (1985) |
+
+### Jupiter-3MC 50mm F1.5 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F1.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 1m |
+| Weight | 150g |
+| Aperture Blades | 11 |
+| Optical Construction | 7 elements in 3 groups |
+| Angle of View | 46.8° |
+| Release Date | 1980 |
+| Discontinued | YES (1990) |
+
+### Jupiter-8NB 50mm F2 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.9m |
+| Weight | 145g |
+| Aperture Blades | 9 |
+| Optical Construction | 6 elements in 3 groups |
+| Angle of View | 46.8° |
+| Release Date | 1978 |
+| Discontinued | YES (1985) |
+
+### Jupiter-12M 35mm F2.8 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 35mm |
+| Aperture | F2.8 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 1m |
+| Weight | 140g |
+| Aperture Blades | 9 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 63.4° |
+| Release Date | 1978 |
+| Discontinued | YES (1985) |
+
+### Jupiter-17M 50mm F2 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F2 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.8m |
+| Weight | 150g |
+| Aperture Blades | 8 |
+| Optical Construction | 6 elements in 4 groups |
+| Angle of View | 46.8° |
+| Release Date | 1980 |
+| Discontinued | YES (1985) |
+
+### Helios-94 50mm F1.4 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F1.4 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.9m |
+| Weight | 260g |
+| Aperture Blades | 8 |
+| Optical Construction | 7 elements in 5 groups |
+| Angle of View | 46.8° |
+| Release Date | 1985 |
+| Discontinued | YES (1990) |
+
+### Volna-3 50mm F1.5 (Kiev RF)
+|  | |
+| -- | -- |
+| Mount  | ContaxRF mount |
+| Focal Length | 50mm |
+| Aperture | F1.5 |
+| Format  | Full-Frame |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Min Focus Distance | 0.9m |
+| Weight | 160g |
+| Aperture Blades | 11 |
+| Optical Construction | 7 elements in 3 groups |
+| Angle of View | 46.8° |
+| Release Date | 1980 |
+| Discontinued | YES (1990) |

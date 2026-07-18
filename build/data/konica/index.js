@@ -707,3 +707,4 @@ export const konicaLensDataSet = [
         note: "Constant f/4 telephoto zoom — the pro tele-zoom of the AR system. Push-pull one-touch design with built-in tripod collar on some later runs.",
     },
 ];
+export * from "./ltm";

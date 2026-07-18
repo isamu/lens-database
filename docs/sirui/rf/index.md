@@ -109,3 +109,25 @@
 | Release Date | 2024 |
 | Official URL | https://store.siruinet.com/products/night-walker-75mm-t1-2-s35-manual-focus-cine-lens |
 | URL | [official](https://store.siruinet.com/products/night-walker-75mm-t1-2-s35-manual-focus-cine-lens) |
+
+### Night Walker 55mm T1.2 II S35
+|  | |
+| -- | -- |
+| Mount  | RF mount |
+| Focal Length | 55mm |
+| Aperture | F1.2 |
+| Format  | APS-C |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.55m |
+| Weight | 650g |
+| Aperture Blades | 13 |
+| Optical Construction | 10 elements in 7 groups |
+| Angle of View | 29° |
+| Diameter | 75mm |
+| Length | 90mm |
+| Release Date | 2024 |
+| Official URL | https://store.siruinet.com/ |
+| URL | [official](https://store.siruinet.com/) |

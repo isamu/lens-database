@@ -48,4 +48,8 @@ export * from "./enna";
 export * from "./isco";
 export * from "./alpa";
 export * from "./kiev";
+export * from "./kodak";
+export * from "./pentacon";
+export * from "./praktica";
+export * from "./yongnuo";
 export * from "./types";

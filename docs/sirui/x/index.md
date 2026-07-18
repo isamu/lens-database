@@ -175,3 +175,91 @@
 | Release Date | 2023-11 |
 | Official URL | https://store.siruinet.com/products/night-walker-75mm-t1-2-s35-manual-focus-cine-lens |
 | URL | [official](https://store.siruinet.com/products/night-walker-75mm-t1-2-s35-manual-focus-cine-lens) |
+
+### Sniper 23mm f/1.2 II AF
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 23mm |
+| Aperture | F1.2 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 0.35m |
+| Weight | 380g |
+| Aperture Blades | 11 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 63.4° |
+| Diameter | 68mm |
+| Length | 74mm |
+| Release Date | 2024 |
+| Official URL | https://store.siruinet.com/ |
+| URL | [official](https://store.siruinet.com/) |
+
+### Sniper 33mm f/1.2 II AF
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 33mm |
+| Aperture | F1.2 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 0.4m |
+| Weight | 400g |
+| Aperture Blades | 11 |
+| Optical Construction | 11 elements in 9 groups |
+| Angle of View | 46.6° |
+| Diameter | 68mm |
+| Length | 78mm |
+| Release Date | 2024 |
+| Official URL | https://store.siruinet.com/ |
+| URL | [official](https://store.siruinet.com/) |
+
+### Sniper 56mm f/1.2 II AF
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 56mm |
+| Aperture | F1.2 |
+| Format  | APS-C |
+| Focus | AF, MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 58mm |
+| Min Focus Distance | 0.6m |
+| Weight | 410g |
+| Aperture Blades | 11 |
+| Optical Construction | 11 elements in 8 groups |
+| Angle of View | 28.5° |
+| Diameter | 68mm |
+| Length | 78mm |
+| Release Date | 2024 |
+| Official URL | https://store.siruinet.com/ |
+| URL | [official](https://store.siruinet.com/) |
+
+### Night Walker 55mm T1.2 II S35
+|  | |
+| -- | -- |
+| Mount  | X mount |
+| Focal Length | 55mm |
+| Aperture | F1.2 |
+| Format  | APS-C |
+| Focus | MF |
+| Image Stabilizer  | NO  |
+| Dust / Moisture Resistance | NO  |
+| Filter Diameter | 67mm |
+| Min Focus Distance | 0.55m |
+| Weight | 650g |
+| Aperture Blades | 13 |
+| Optical Construction | 10 elements in 7 groups |
+| Angle of View | 29° |
+| Diameter | 75mm |
+| Length | 90mm |
+| Release Date | 2024 |
+| Official URL | https://store.siruinet.com/ |
+| URL | [official](https://store.siruinet.com/) |
