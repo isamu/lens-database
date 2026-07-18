@@ -24,7 +24,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 12,
       note: `型番A036。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.39m`,
     },
-    [{ mount: "E", releaseDate: "2018-05-24" }],
+    [{ mount: "E", releaseDate: "2018-05-24", msrp: 110000 }],
   ),
   ...tamronVariants(
     "a046",
@@ -45,7 +45,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 11,
       note: `型番A046。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.26m`,
     },
-    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006635" }],
+    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006635", msrp: 137500 }],
   ),
   ...tamronVariants(
     "f050",
@@ -66,7 +66,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 9,
       note: `型番F050。${MOISTURE_NOTE}`,
     },
-    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006642" }],
+    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006642", msrp: 50600 }],
   ),
   ...tamronVariants(
     "f051",
@@ -87,7 +87,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 9,
       note: `型番F051。${MOISTURE_NOTE}`,
     },
-    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006659" }],
+    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006659", msrp: 50600 }],
   ),
   ...tamronVariants(
     "f053",
@@ -108,7 +108,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 9,
       note: `型番F053。${MOISTURE_NOTE}`,
     },
-    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006673" }],
+    [{ mount: "E", releaseDate: "2019", EANCode: "4960371006673", msrp: 50600 }],
   ),
   ...tamronVariants(
     "a056",
@@ -129,7 +129,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 14,
       note: `型番A056。${MOISTURE_NOTE}。最短撮影距離はワイド端0.27m(MF時)/テレ端0.85m`,
     },
-    [{ mount: "E", releaseDate: "2020-05-14" }],
+    [{ mount: "E", releaseDate: "2020-05-14", msrp: 165000 }],
   ),
   ...tamronVariants(
     "a071",
@@ -150,7 +150,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       groups: 14,
       note: `型番A071。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.8m`,
     },
-    [{ mount: "E", releaseDate: "2020-06-25", EANCode: "4960371006703" }],
+    [{ mount: "E", releaseDate: "2020-06-25", EANCode: "4960371006703", msrp: 129800 }],
   ),
   ...tamronVariants(
     "a047",
@@ -172,8 +172,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A047。${MOISTURE_NOTE}。最短撮影距離はワイド端0.8m/テレ端1.5m`,
     },
     [
-      { mount: "E", releaseDate: "2020-10-29", EANCode: "4960371006727" },
-      { mount: "Z", releaseDate: "2022", EANCode: "4960371006840" },
+      { mount: "E", releaseDate: "2020-10-29", EANCode: "4960371006727", msrp: 77000 },
+      { mount: "Z", releaseDate: "2022-09-29", EANCode: "4960371006840", msrp: 93500 },
     ],
   ),
   ...tamronVariants(
@@ -201,6 +201,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
         mount: "E",
         releaseDate: "2021-10-28",
         EANCode: "4960371006796",
+        msrp: 149600,
         urls: {
           kakaku: "https://kakaku.com/item/K0001388145/",
           official: "https://www.tamron.com/jp/consumer/lenses/a063/",
@@ -210,6 +211,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
         mount: "Z",
         releaseDate: "2024-04-18",
         EANCode: "4960371006901",
+        msrp: 154000,
         urls: {
           kakaku: "https://kakaku.com/item/K0001616164/",
           official: "https://www.tamron.com/jp/consumer/lenses/a063/",
@@ -238,8 +240,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A058。${MOISTURE_NOTE}。最短撮影距離はワイド端0.33m/テレ端0.85m`,
     },
     [
-      { mount: "E", releaseDate: "2021", EANCode: "4960371006789" },
-      { mount: "Z", releaseDate: "2023-09-21", EANCode: "4960371006888" },
+      { mount: "E", releaseDate: "2021-10-28", EANCode: "4960371006789", msrp: 253000 },
+      { mount: "Z", releaseDate: "2023-09-21", EANCode: "4960371006888", msrp: 258500 },
     ],
   ),
   ...tamronVariants(
@@ -262,7 +264,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       officialUrl: "https://www.tamron.com/jp/consumer/lenses/a062/",
       note: `型番A062。${MOISTURE_NOTE}。最短撮影距離はワイド端0.17m/テレ端0.29m`,
     },
-    [{ mount: "E", releaseDate: "2022-10-27", EANCode: "4960371006826" }],
+    [{ mount: "E", releaseDate: "2022-10-27", EANCode: "4960371006826", msrp: 118800 }],
   ),
   ...tamronVariants(
     "a067",
@@ -285,8 +287,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A067。${MOISTURE_NOTE}。最短撮影距離はワイド端0.25m(MF時1:2マクロ)/テレ端1.5m`,
     },
     [
-      { mount: "E", releaseDate: "2022-09-22", EANCode: "4960371006819" },
-      { mount: "Z", releaseDate: "2024-09-19", EANCode: "4960371006956" },
+      { mount: "E", releaseDate: "2022-09-22", EANCode: "4960371006819", msrp: 195800 },
+      { mount: "Z", releaseDate: "2024-09-19", EANCode: "4960371006956", msrp: 214500 },
     ],
   ),
   ...tamronVariants(
@@ -310,8 +312,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A065。${MOISTURE_NOTE}。最短撮影距離はワイド端0.3m/テレ端0.85m`,
     },
     [
-      { mount: "E", releaseDate: "2023-10-12", EANCode: "4960371006871" },
-      { mount: "Z", releaseDate: "2025", EANCode: "4960371007045" },
+      { mount: "E", releaseDate: "2023-10-12", EANCode: "4960371006871", msrp: 195800 },
+      { mount: "Z", releaseDate: "2025", EANCode: "4960371007045", msrp: 199980 },
     ],
   ),
   ...tamronVariants(
@@ -334,7 +336,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       officialUrl: "https://www.tamron.com/jp/consumer/lenses/a068/",
       note: `型番A068。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.3m`,
     },
-    [{ mount: "E", releaseDate: "2023-10-19", EANCode: "4960371006864" }],
+    [{ mount: "E", releaseDate: "2023-10-19", EANCode: "4960371006864", msrp: 119900 }],
   ),
   ...tamronVariants(
     "a069",
@@ -356,7 +358,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       officialUrl: "https://www.tamron.com/jp/consumer/lenses/a069/",
       note: `型番A069。${MOISTURE_NOTE}。最短撮影距離はワイド端0.22m(MF時1:2マクロ)/テレ端0.9m`,
     },
-    [{ mount: "E", releaseDate: "2024-06-27", EANCode: "4960371006918" }],
+    [{ mount: "E", releaseDate: "2024-06-27", EANCode: "4960371006918", msrp: 154000 }],
   ),
   ...tamronVariants(
     "a074",
@@ -378,7 +380,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       officialUrl: "https://www.tamron.com/jp/consumer/lenses/a074/",
       note: `型番A074。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.99m`,
     },
-    [{ mount: "E", releaseDate: "2024-08-29", EANCode: "4960371006925" }],
+    [{ mount: "E", releaseDate: "2024-08-29", EANCode: "4960371006925", msrp: 165000 }],
   ),
   ...tamronVariants(
     "f072",
@@ -401,8 +403,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番F072。等倍マクロ。${MOISTURE_NOTE}`,
     },
     [
-      { mount: "E", releaseDate: "2024-10-24", EANCode: "4960371006932" },
-      { mount: "Z", releaseDate: "2024-10-24", EANCode: "4960371006949" },
+      { mount: "E", releaseDate: "2024-10-24", EANCode: "4960371006932", msrp: 126500 },
+      { mount: "Z", releaseDate: "2024-10-24", EANCode: "4960371006949", msrp: 134200 },
     ],
   ),
   ...tamronVariants(
@@ -425,8 +427,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A064。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.3m`,
     },
     [
-      { mount: "E", releaseDate: "2025", EANCode: "4960371006970" },
-      { mount: "Z", releaseDate: "2025", EANCode: "4960371006987" },
+      { mount: "E", releaseDate: "2025-07-31", EANCode: "4960371006970", msrp: 159500 },
+      { mount: "Z", releaseDate: "2025-08-22", EANCode: "4960371006987", msrp: 168300 },
     ],
   ),
   ...tamronVariants(
@@ -443,7 +445,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       officialUrl: "https://www.tamron.com/jp/consumer/lenses/a075/",
       note: `型番A075。${MOISTURE_NOTE}`,
     },
-    [{ mount: "E", releaseDate: "2025-11-20", EANCode: "4960371007014" }],
+    [{ mount: "E", releaseDate: "2025-11-20", EANCode: "4960371007014", msrp: 148500 }],
   ),
   ...tamronVariants(
     "a078",
@@ -465,8 +467,8 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A078。${MOISTURE_NOTE}。最短撮影距離はワイド端0.22m/テレ端0.65m`,
     },
     [
-      { mount: "E", releaseDate: "2026-03-26", EANCode: "4960371007021" },
-      { mount: "Z", releaseDate: "2026-03-26", EANCode: "4960371007038" },
+      { mount: "E", releaseDate: "2026-03-26", EANCode: "4960371007021", msrp: 173800 },
+      { mount: "Z", releaseDate: "2026-03-26", EANCode: "4960371007038", msrp: 178200 },
     ],
   ),
   ...tamronVariants(
@@ -492,8 +494,9 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
     [
       {
         mount: "E",
-        releaseDate: "2026-08-27",
+        releaseDate: "2026-07-30",
         EANCode: "4960371007076",
+        msrp: 379500,
         weight: 570,
         length: 119.3,
       },
@@ -501,6 +504,7 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
         mount: "Z",
         releaseDate: "2026-08-27",
         EANCode: "4960371007083",
+        msrp: 399960,
         weight: 585,
         length: 121.3,
       },
@@ -528,12 +532,13 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番B060。${MOISTURE_NOTE}。最短撮影距離はワイド端0.15m/テレ端0.24m`,
     },
     [
-      { mount: "E", releaseDate: "2021-06-24", EANCode: "4960371006758" },
-      { mount: "X", releaseDate: "2023-05-30", EANCode: "4960371006857" },
+      { mount: "E", releaseDate: "2021-06-24", EANCode: "4960371006758", msrp: 96800 },
+      { mount: "X", releaseDate: "2023-05-30", EANCode: "4960371006857", msrp: 96800 },
       {
         mount: "RF",
         releaseDate: "2024-12-12",
         EANCode: "4960371006963",
+        msrp: 106700,
         note: `型番B060。タムロン初のキヤノンRFマウント用レンズ。${MOISTURE_NOTE}`,
       },
     ],
@@ -559,10 +564,10 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番B070。${MOISTURE_NOTE}。最短撮影距離はワイド端0.19m/テレ端0.39m`,
     },
     [
-      { mount: "E", releaseDate: "2021-01-14", EANCode: "4960371006734" },
-      { mount: "X", releaseDate: "2022", EANCode: "4960371006802" },
-      { mount: "Z", releaseDate: "2026", EANCode: "4960371007090" },
-      { mount: "RF", releaseDate: "2026", EANCode: "4960371007106" },
+      { mount: "E", releaseDate: "2021-01-14", EANCode: "4960371006734", msrp: 107800 },
+      { mount: "X", releaseDate: "2022", EANCode: "4960371006802", msrp: 107800 },
+      { mount: "Z", releaseDate: "2026", EANCode: "4960371007090", msrp: 166100 },
+      { mount: "RF", releaseDate: "2026", EANCode: "4960371007106", msrp: 168300 },
     ],
   ),
   ...tamronVariants(
@@ -586,10 +591,10 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番B061。${MOISTURE_NOTE}。最短撮影距離はワイド端0.15m/テレ端0.99m`,
     },
     [
-      { mount: "E", releaseDate: "2021", EANCode: "4960371006765" },
-      { mount: "X", releaseDate: "2021", EANCode: "4960371006772" },
-      { mount: "Z", releaseDate: "2025", EANCode: "4960371007007" },
-      { mount: "RF", releaseDate: "2025", EANCode: "4960371006994" },
+      { mount: "E", releaseDate: "2021-10-14", EANCode: "4960371006765", msrp: 96800 },
+      { mount: "X", releaseDate: "2021-11-25", EANCode: "4960371006772", msrp: 96800 },
+      { mount: "Z", releaseDate: "2025", EANCode: "4960371007007", msrp: 104500 },
+      { mount: "RF", releaseDate: "2025", EANCode: "4960371006994", msrp: 106700 },
     ],
   ),
   ...tamronVariants(
@@ -613,9 +618,9 @@ export const tamronMirrorlessLensDataSet: LensData[] = [
       note: `型番A057。${MOISTURE_NOTE}。最短撮影距離はワイド端0.6m/テレ端1.8m`,
     },
     [
-      { mount: "E", releaseDate: "2021-06-10", EANCode: "4960371006741" },
-      { mount: "X", releaseDate: "2022", EANCode: "4960371006833" },
-      { mount: "Z", releaseDate: "2023-10-31", EANCode: "4960371006895" },
+      { mount: "E", releaseDate: "2021-06-10", EANCode: "4960371006741", msrp: 187000 },
+      { mount: "X", releaseDate: "2022-10-13", EANCode: "4960371006833" },
+      { mount: "Z", releaseDate: "2023-10-31", EANCode: "4960371006895", msrp: 198000 },
     ],
   ),
   // ---- Di III (旧世代ミラーレス) ----

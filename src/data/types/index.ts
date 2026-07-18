@@ -31,7 +31,11 @@ export type Maker =
   | "Pergear"
   | "Brightin"
   | "Kamlan"
-  | "Kowa";
+  | "Kowa"
+  | "Meyer"
+  | "Zenit"
+  | "Chinon"
+  | "Ricoh";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
 export type FujifilmMount = "X" | "G" | "R";
@@ -39,12 +43,16 @@ export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F";
 export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
-export type PentaxMount = "K" | "645";
+export type PentaxMount = "K" | "645" | "M42";
 export type SigmaMount = "SA";
 export type LeicaMount = "M" | "L" | "R";
-export type YashicaMount = "CY";
+export type YashicaMount = "CY" | "M42";
 export type KonicaMount = "AR";
 export type MinoltaMount = "MD";
+// Universal M42 x1 screw mount used across many makers (1949-1970s).
+// Kept as a stand-alone mount so brand-independent M42 lenses can be
+// registered under any maker without extending each maker's own union.
+export type M42Mount = "M42";
 
 export type Mount =
   | CanonMount
@@ -58,7 +66,8 @@ export type Mount =
   | LeicaMount
   | YashicaMount
   | KonicaMount
-  | MinoltaMount;
+  | MinoltaMount
+  | M42Mount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 

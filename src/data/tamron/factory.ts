@@ -13,6 +13,7 @@ type TamronVariant = Partial<
     | "note"
     | "urls"
     | "officialUrl"
+    | "msrp"
   >
 > & { mount: Mount };
 
