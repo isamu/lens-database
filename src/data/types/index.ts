@@ -50,7 +50,11 @@ export type Maker =
   | "Enna"
   | "Isco"
   | "Kiev"
-  | "Alpa";
+  | "Alpa"
+  | "Pentacon"
+  | "Kodak"
+  | "Praktica"
+  | "Yongnuo";
 
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
@@ -86,7 +90,16 @@ export type Contax645Mount = "645";
 // All lenses were made by Carl Zeiss Oberkochen (maker: "ZEISS").
 // Legendary cult-classic glass adaptable to modern mirrorless via specialty adapters.
 export type ContarexMount = "Contarex";
-export type KonicaMount = "AR";
+// Konica lens mounts:
+// - AR: Konica AR SLR bayonet (1965-1988)
+// - LTM: L39 screw. Konishiroku Hexar 50/3.5 (1948) and Konica Hexanon
+//   reissues for the 2001 Hexar RF era (Konica Hexanon 60/1.2 LTM cult).
+export type KonicaMount = "AR" | "LTM";
+// Praktica B (electronic) SLR bayonet, VEB Pentacon Dresden (1979-1990).
+// Used on Praktica B-series bodies (B100 / BC1 / BC-A / BCA / BX20 etc.).
+// Native Prakticar lenses were designed by Carl Zeiss Jena, Meyer-Optik,
+// Schneider Kreuznach with a B-mount adaptation of their existing designs.
+export type PrakticaBMount = "B";
 export type MinoltaMount = "MD" | "A";
 // Rollei QBM (Quick Bayonet Mount) used on Rolleiflex SL35 series (1970-1982).
 // SL is the earlier breech-lock mount on Rolleiflex SL26/SL66 systems.
@@ -157,6 +170,15 @@ export type ContaxRFMount = "ContaxRF";
 // Pignons SA; the optical designer is credited in each record's `note`.
 // Distinct from the modern ALPA of Switzerland (medium format, 1996-).
 export type AlpaMount = "Alpa";
+// Pentacon Six / Kiev 60 bayonet (P6), a medium-format 6×6 SLR mount.
+// Introduced by VEB Pentacon (Dresden, East Germany) on the Praktisix
+// (1957) and Pentacon Six (1966-1990), and cloned by Arsenal (Kiev, USSR)
+// for the Kiev 6C / Kiev 60 / Kiev 88CM medium-format SLRs. Native lenses
+// were made by Carl Zeiss Jena (Biometar, Flektogon, Sonnar), Meyer-Optik
+// (Domiplan, Orestegor), Schneider Kreuznach, VEB Pentacon, and Arsenal
+// KMZ / LOMO (Volna, Vega, Mir, Kaleinar, Jupiter). Cult classic on
+// modern mirrorless and digital medium format via specialty adapters.
+export type PentaconSixMount = "P6";
 
 export type Mount =
   | CanonMount
@@ -187,7 +209,9 @@ export type Mount =
   | ProminentMount
   | BessamaticMount
   | ContaxRFMount
-  | AlpaMount;
+  | AlpaMount
+  | PentaconSixMount
+  | PrakticaBMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
