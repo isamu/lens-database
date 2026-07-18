@@ -23,6 +23,7 @@ export const viltroxXLensDataSet: LensData[] = [
     diameter: 74,
     length: 92,
     releaseDate: "2022-10",
+    msrp: 91800,
     officialUrl: "https://viltroxstore.com/products/viltrox-af-13mm-f1-4",
     urls: {
       official: "https://viltroxstore.com/products/viltrox-af-13mm-f1-4",
@@ -127,6 +128,7 @@ export const viltroxXLensDataSet: LensData[] = [
     diameter: 72,
     length: 92,
     releaseDate: "2023-04",
+    msrp: 107100,
     officialUrl: "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro",
     urls: {
       official: "https://viltroxstore.com/products/viltrox-af-27mm-f1-2-pro",
@@ -179,6 +181,7 @@ export const viltroxXLensDataSet: LensData[] = [
     diameter: 65,
     length: 74,
     releaseDate: "2021-11",
+    msrp: 39400,
     officialUrl: "https://viltroxstore.com/products/viltrox-af-56mm-f1-4",
     urls: {
       official: "https://viltroxstore.com/products/viltrox-af-56mm-f1-4",
@@ -205,6 +208,7 @@ export const viltroxXLensDataSet: LensData[] = [
     diameter: 72,
     length: 105,
     releaseDate: "2023-11",
+    msrp: 97200,
     officialUrl: "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro",
     urls: {
       official: "https://viltroxstore.com/products/viltrox-af-75mm-f1-2-pro",

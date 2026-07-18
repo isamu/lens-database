@@ -44,7 +44,7 @@ export type Maker =
 export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
-export type NikonMount = "Z" | "F";
+export type NikonMount = "Z" | "F" | "S";
 export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645" | "M42";
@@ -61,6 +61,11 @@ export type YashicaMount = "CY" | "M42";
 export type ContaxGMount = "G";
 export type ContaxNMount = "N";
 export type Contax645Mount = "645";
+// Zeiss Ikon Contarex bayonet (1958-1974, West Germany).
+// Used on the Contarex "Bullseye", Super, Professional, Electronic, and SE.
+// All lenses were made by Carl Zeiss Oberkochen (maker: "ZEISS").
+// Legendary cult-classic glass adaptable to modern mirrorless via specialty adapters.
+export type ContarexMount = "Contarex";
 export type KonicaMount = "AR";
 export type MinoltaMount = "MD" | "A";
 // Rollei QBM (Quick Bayonet Mount) used on Rolleiflex SL35 series (1970-1982).
@@ -98,7 +103,8 @@ export type Mount =
   | M42Mount
   | ContaxGMount
   | ContaxNMount
-  | Contax645Mount;
+  | Contax645Mount
+  | ContarexMount;
 
 export type Format = "Large" | "Full-Frame" | "APS-C" | "FourThirds";
 
