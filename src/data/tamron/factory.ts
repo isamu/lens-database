@@ -10,6 +10,7 @@ type TamronVariant = Partial<
     | "length"
     | "releaseDate"
     | "discontinued"
+    | "discontinuedDate"
     | "note"
     | "urls"
     | "officialUrl"

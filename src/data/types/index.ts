@@ -56,17 +56,29 @@ export type Maker =
   | "Praktica"
   | "Yongnuo"
   | "Vivitar"
+  | "Kiron"
+  | "Osawa"
   | "Panagor"
   | "Soligor"
   | "PhaseOne"
   | "Rodenstock"
   | "Schneider";
 
-export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
+export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL" | "LTM";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F" | "S";
-export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM";
+// Olympus mounts:
+// - FourThirds:      DSLR 4/3 System bayonet (2003-2010, with Olympus E-1..E-5).
+// - MicroFourThirds: mirrorless Micro Four Thirds (2008-, PEN / OM-D / OM SYSTEM).
+// - OM:              35mm SLR OM System bayonet (1972-2003, Zuiko MF).
+// - PenF:            Olympus Pen F half-frame SLR bayonet (1963-1970).
+//                    18x24mm "half-frame" 35mm SLR — half the height of a
+//                    standard 35mm frame. F.Zuiko / G.Zuiko / E.Zuiko Auto
+//                    lenses in this mount are cult classics on Sony E,
+//                    Fujifilm X, and MFT via specialty adapters (the
+//                    half-frame image circle roughly matches APS-C).
+export type OlympusMount = "FourThirds" | "MicroFourThirds" | "OM" | "PenF";
 export type PanasonicMount = "L" | "FourThirds" | "MicroFourThirds";
 export type PentaxMount = "K" | "645" | "M42";
 export type SigmaMount = "SA";

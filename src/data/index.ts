@@ -53,6 +53,8 @@ export * from "./pentacon";
 export * from "./praktica";
 export * from "./yongnuo";
 export * from "./vivitar";
+export * from "./kiron";
+export * from "./osawa";
 export * from "./panagor";
 export * from "./soligor";
 export * from "./phaseone";
