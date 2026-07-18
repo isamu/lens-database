@@ -11361,6 +11361,479 @@
           27
         ]
       }
+    ],
+    "QBM": [
+      {
+        "id": "rollei-voigtlander-color-ultron-50mm-f1.8-qbm",
+        "maker": "Voigtländer",
+        "name": "Voigtländer Color-Ultron 50mm F1.8",
+        "mount": "QBM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Voigtländer-badged standard prime for Rollei QBM. Ultron double-Gauss.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "rollei-voigtlander-super-dynarex-135mm-f4-qbm",
+        "maker": "Voigtländer",
+        "name": "Voigtländer Super-Dynarex 135mm F4",
+        "mount": "QBM",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 54,
+        "minFocusDistance": 1.5,
+        "weight": 420,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Voigtländer telephoto for Rollei QBM system.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "rollei-voigtlander-40mm-f2.8-pancake-qbm",
+        "maker": "Voigtländer",
+        "name": "Rollei-Voigtländer 40mm F2.8 (Pancake)",
+        "mount": "QBM",
+        "focalLength": [
+          40
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.5,
+        "weight": 110,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Pancake for Rollei SL35E. Compact Tessar-type design. Cult wide-normal.",
+        "angleOfView": [
+          56.8
+        ]
+      }
+    ]
+  },
+  "Fujica": {
+    "FX": [
+      {
+        "id": "fujica-fujinon-ebc-50mm-f1.4-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 50mm F1.4",
+        "mount": "FX",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.45,
+        "weight": 285,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Cult classic fast normal. Fujinon EBC coating. Double-Gauss.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-50mm-f1.6-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 50mm F1.6",
+        "mount": "FX",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.6
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 205,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Mid-tier standard prime. EBC multi-coating.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-50mm-f1.9-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 50mm F1.9",
+        "mount": "FX",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 175,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Budget kit lens for Fujica AX bodies.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-55mm-f2.2-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 55mm F2.2",
+        "mount": "FX",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          2.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.6,
+        "weight": 155,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Budget pancake-ish normal. Ultra-compact.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-28mm-f2.8-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 28mm F2.8",
+        "mount": "FX",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.3,
+        "weight": 245,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Retrofocus wide-angle prime with EBC coating.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-28mm-f3.5-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 28mm F3.5",
+        "mount": "FX",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.3,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Budget wide-angle.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-35mm-f2.8-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 35mm F2.8",
+        "mount": "FX",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 195,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Compact 35mm prime with EBC coating.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-85mm-f2.2-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 85mm F2.2",
+        "mount": "FX",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.2
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.85,
+        "weight": 265,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Compact 85mm portrait lens. EBC multi-coating.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-100mm-f2.8-macro-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 100mm F2.8 Macro",
+        "mount": "FX",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasMacro": true,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.45,
+        "maxMagnification": 0.5,
+        "weight": 420,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "1:2 macro short telephoto. Fujinon EBC coating.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-135mm-f2.5-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 135mm F2.5",
+        "mount": "FX",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 58,
+        "minFocusDistance": 1.5,
+        "weight": 570,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Fast 135mm telephoto with EBC coating.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-135mm-f3.5-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 135mm F3.5",
+        "mount": "FX",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1.5,
+        "weight": 380,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1979",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Budget 135mm tele with EBC coating.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "fujica-fujinon-ebc-200mm-f4.5-fx",
+        "maker": "Fujica",
+        "name": "Fujica X-Fujinon EBC 200mm F4.5",
+        "mount": "FX",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 2.5,
+        "weight": 560,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1980",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Long telephoto for Fujica AX SLRs.",
+        "angleOfView": [
+          12.3
+        ]
+      }
     ]
   },
   "Fujifilm": {
@@ -26015,6 +26488,324 @@
         "successorId": "minolta-md-macro-rokkor-100mm-f3.5",
         "angleOfView": [
           24.4
+        ]
+      }
+    ]
+  },
+  "Miranda": {
+    "Miranda": [
+      {
+        "id": "miranda-auto-50mm-f1.4-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 50mm F1.4",
+        "mount": "Miranda",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.6,
+        "weight": 320,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Cult fast normal for Miranda SLR system. Double-Gauss design.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "miranda-auto-50mm-f1.9-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 50mm F1.9",
+        "mount": "Miranda",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.9
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.6,
+        "weight": 210,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Standard kit lens for Miranda Sensorex / Sensomat bodies.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "miranda-auto-28mm-f2.8-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 28mm F2.8",
+        "mount": "Miranda",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.3,
+        "weight": 260,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Retrofocus wide for Miranda system.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "miranda-auto-35mm-f2.8-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 35mm F2.8",
+        "mount": "Miranda",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.4,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Compact wide-angle prime.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "miranda-soligor-auto-50mm-f1.8-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Soligor Auto 50mm F1.8",
+        "mount": "Miranda",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.6,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Soligor-made standard for later Miranda bodies. OEM production.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "miranda-zoom-43-86mm-f3.5-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Zoom 43-86mm F3.5",
+        "mount": "Miranda",
+        "focalLength": [
+          43,
+          86
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.2,
+        "weight": 490,
+        "bladesCount": 6,
+        "elements": 9,
+        "groups": 7,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Early standard zoom for Miranda system.",
+        "angleOfView": [
+          53.4,
+          28.2
+        ]
+      },
+      {
+        "id": "miranda-zoom-80-200mm-f3.5-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Zoom 80-200mm F3.5",
+        "mount": "Miranda",
+        "focalLength": [
+          80,
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 1.5,
+        "weight": 820,
+        "bladesCount": 6,
+        "elements": 13,
+        "groups": 9,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Constant-aperture tele zoom.",
+        "angleOfView": [
+          30.3,
+          12.3
+        ]
+      },
+      {
+        "id": "miranda-auto-105mm-f2.8-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 105mm F2.8",
+        "mount": "Miranda",
+        "focalLength": [
+          105
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1,
+        "weight": 380,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Short telephoto portrait lens.",
+        "angleOfView": [
+          23.3
+        ]
+      },
+      {
+        "id": "miranda-auto-135mm-f2.8-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 135mm F2.8",
+        "mount": "Miranda",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 450,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Classic 135mm telephoto.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "miranda-auto-200mm-f4-miranda",
+        "maker": "Miranda",
+        "name": "Miranda Auto 200mm F4",
+        "mount": "Miranda",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1978",
+        "note": "Long telephoto for Miranda system.",
+        "angleOfView": [
+          12.3
         ]
       }
     ]
@@ -43539,6 +44330,258 @@
       }
     ]
   },
+  "Petri": {
+    "Petri": [
+      {
+        "id": "petri-auto-55mm-f1.4-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 55mm F1.4",
+        "mount": "Petri",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.6,
+        "weight": 320,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Cult fast normal for Petri FT/FTII SLRs. Double-Gauss.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "petri-auto-55mm-f1.8-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 55mm F1.8",
+        "mount": "Petri",
+        "focalLength": [
+          55
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.6,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 4,
+        "releaseDate": "1966",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Standard kit lens for Petri Flex / FT bodies.",
+        "angleOfView": [
+          42.9
+        ]
+      },
+      {
+        "id": "petri-auto-28mm-f3.5-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 28mm F3.5",
+        "mount": "Petri",
+        "focalLength": [
+          28
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.4,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 7,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Retrofocus wide-angle for Petri SLRs.",
+        "angleOfView": [
+          75.4
+        ]
+      },
+      {
+        "id": "petri-auto-35mm-f2.8-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 35mm F2.8",
+        "mount": "Petri",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 0.4,
+        "weight": 200,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Compact wide prime.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "petri-auto-100mm-f3.5-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 100mm F3.5",
+        "mount": "Petri",
+        "focalLength": [
+          100
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 1.2,
+        "weight": 340,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Short telephoto portrait lens.",
+        "angleOfView": [
+          24.4
+        ]
+      },
+      {
+        "id": "petri-auto-135mm-f2.8-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 135mm F2.8",
+        "mount": "Petri",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 460,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1970",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Fast 135mm portrait / short tele.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "petri-auto-135mm-f3.5-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 135mm F3.5",
+        "mount": "Petri",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 52,
+        "minFocusDistance": 1.5,
+        "weight": 380,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 4,
+        "releaseDate": "1968",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Budget 135mm tele.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "petri-auto-200mm-f4-petri",
+        "maker": "Petri",
+        "name": "Petri Auto 200mm F4",
+        "mount": "Petri",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 62,
+        "minFocusDistance": 2.5,
+        "weight": 640,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1977",
+        "note": "Long telephoto for Petri system.",
+        "angleOfView": [
+          12.3
+        ]
+      }
+    ]
+  },
   "Ricoh": {
     "M42": [
       {
@@ -43689,6 +44732,419 @@
         "note": "望遠単焦点。",
         "angleOfView": [
           12.3
+        ]
+      }
+    ]
+  },
+  "Rollei": {
+    "QBM": [
+      {
+        "id": "rollei-distagon-hft-25mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Distagon HFT 25mm F2.8",
+        "mount": "QBM",
+        "focalLength": [
+          25
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.25,
+        "weight": 430,
+        "bladesCount": 6,
+        "elements": 10,
+        "groups": 9,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Zeiss Distagon design with Rollei HFT coating. West German build. Cult wide angle.",
+        "angleOfView": [
+          81.7
+        ]
+      },
+      {
+        "id": "rollei-distagon-hft-35mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Distagon HFT 35mm F2.8",
+        "mount": "QBM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.4,
+        "weight": 220,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 6,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Zeiss Distagon retrofocus wide with Rollei HFT coating.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "rollei-planar-hft-50mm-f1.4-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Planar HFT 50mm F1.4",
+        "mount": "QBM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 270,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Zeiss Planar 50/1.4 with Rollei HFT coating. Reference-grade standard prime.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "rollei-planar-hft-50mm-f1.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Planar HFT 50mm F1.8",
+        "mount": "QBM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          1.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 190,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Compact Planar with Rollei HFT. Later Singapore production.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "rollei-planar-hft-85mm-f1.4-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Planar HFT 85mm F1.4",
+        "mount": "QBM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          1.4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1,
+        "weight": 640,
+        "bladesCount": 6,
+        "elements": 6,
+        "groups": 5,
+        "releaseDate": "1976",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Extremely rare cult portrait Planar. HFT coating. West German build.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "rollei-sonnar-hft-85mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Sonnar HFT 85mm F2.8",
+        "mount": "QBM",
+        "focalLength": [
+          85
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 1,
+        "weight": 270,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Compact Sonnar portrait lens with Rollei HFT coating.",
+        "angleOfView": [
+          28.6
+        ]
+      },
+      {
+        "id": "rollei-sonnar-hft-135mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Sonnar HFT 135mm F2.8",
+        "mount": "QBM",
+        "focalLength": [
+          135
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 1.5,
+        "weight": 480,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Zeiss Sonnar 135/2.8 with Rollei HFT coating.",
+        "angleOfView": [
+          18.2
+        ]
+      },
+      {
+        "id": "rollei-sonnar-hft-200mm-f3.5-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Sonnar HFT 200mm F3.5",
+        "mount": "QBM",
+        "focalLength": [
+          200
+        ],
+        "fStop": [
+          3.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 2.5,
+        "weight": 800,
+        "bladesCount": 6,
+        "elements": 5,
+        "groups": 4,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Long Sonnar telephoto with HFT coating.",
+        "angleOfView": [
+          12.3
+        ]
+      },
+      {
+        "id": "rollei-tessar-50mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Tessar 50mm F2.8",
+        "mount": "QBM",
+        "focalLength": [
+          50
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 49,
+        "minFocusDistance": 0.45,
+        "weight": 140,
+        "bladesCount": 6,
+        "elements": 4,
+        "groups": 3,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Budget kit Tessar. Classic four-element design.",
+        "angleOfView": [
+          46.8
+        ]
+      },
+      {
+        "id": "rollei-vario-sonnar-hft-28-85mm-f3.5-4.5-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Vario-Sonnar HFT 28-85mm F3.5-4.5",
+        "mount": "QBM",
+        "focalLength": [
+          28,
+          85
+        ],
+        "fStop": [
+          3.5,
+          4.5
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.8,
+        "weight": 620,
+        "bladesCount": 6,
+        "elements": 12,
+        "groups": 10,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Standard zoom with HFT coating. Zeiss Vario-Sonnar design.",
+        "angleOfView": [
+          75.4,
+          28.6
+        ]
+      },
+      {
+        "id": "rollei-vario-sonnar-hft-80-200mm-f4-qbm",
+        "maker": "Rollei",
+        "name": "Rollei Vario-Sonnar HFT 80-200mm F4",
+        "mount": "QBM",
+        "focalLength": [
+          80,
+          200
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 67,
+        "minFocusDistance": 1.5,
+        "weight": 780,
+        "bladesCount": 6,
+        "elements": 13,
+        "groups": 10,
+        "releaseDate": "1978",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Constant-aperture tele zoom with HFT coating.",
+        "angleOfView": [
+          30.3,
+          12.3
+        ]
+      },
+      {
+        "id": "rollei-schneider-curtagon-35mm-f2.8-qbm",
+        "maker": "Rollei",
+        "name": "Schneider Curtagon 35mm F2.8 (Rollei QBM)",
+        "mount": "QBM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          2.8
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "filterDiameter": 55,
+        "minFocusDistance": 0.4,
+        "weight": 240,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1972",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Schneider-Kreuznach Curtagon retrofocus wide for Rollei SL35.",
+        "angleOfView": [
+          63.4
+        ]
+      },
+      {
+        "id": "rollei-schneider-curtagon-35mm-f4-pa-qbm",
+        "maker": "Rollei",
+        "name": "Schneider PA-Curtagon 35mm F4 (Perspective Control, Rollei QBM)",
+        "mount": "QBM",
+        "focalLength": [
+          35
+        ],
+        "fStop": [
+          4
+        ],
+        "format": "Full-Frame",
+        "focus": [
+          "MF"
+        ],
+        "hasStabilizer": false,
+        "hasDustMoistureResistance": false,
+        "hasTiltShift": true,
+        "filterDiameter": 67,
+        "minFocusDistance": 0.5,
+        "weight": 380,
+        "bladesCount": 6,
+        "elements": 7,
+        "groups": 6,
+        "releaseDate": "1974",
+        "discontinued": true,
+        "discontinuedDate": "1982",
+        "note": "Shift-capable perspective-control Curtagon. Rare architectural lens.",
+        "angleOfView": [
+          63.4
         ]
       }
     ]
