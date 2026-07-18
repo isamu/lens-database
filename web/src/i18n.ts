@@ -116,6 +116,10 @@ const en = {
     empty: "Pin lenses from the list or detail pages to compare them here.",
     exportCsv: "Export CSV",
     trayLabel: "{n}/{max} pinned",
+    ask: "Ask about these {n} lenses",
+    askPlaceholder: "e.g. Which of these is best for astrophotography?",
+    copyUrl: "Copy URL",
+    copied: "Copied",
     row: {
       maker: "Maker",
       mount: "Mount",
@@ -259,6 +263,10 @@ const ja = {
     empty: "一覧や詳細から比較したいレンズを追加してください。",
     exportCsv: "CSV 書き出し",
     trayLabel: "{n}/{max} 本選択中",
+    ask: "選んだ{n}本について質問",
+    askPlaceholder: "例：この中で星景に一番向いてるのは？",
+    copyUrl: "URLをコピー",
+    copied: "コピーしました",
     row: {
       maker: "メーカー",
       mount: "マウント",
