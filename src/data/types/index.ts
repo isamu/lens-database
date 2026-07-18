@@ -41,7 +41,7 @@ export type Maker =
   | "Petri"
   | "Fujica";
 
-export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD";
+export type CanonMount = "RF" | "RF-S" | "EF" | "EF-S" | "EF-M" | "FD" | "FL";
 export type FujifilmMount = "X" | "G" | "R";
 export type SonyMount = "A" | "E";
 export type NikonMount = "Z" | "F";
@@ -62,7 +62,7 @@ export type ContaxGMount = "G";
 export type ContaxNMount = "N";
 export type Contax645Mount = "645";
 export type KonicaMount = "AR";
-export type MinoltaMount = "MD";
+export type MinoltaMount = "MD" | "A";
 // Rollei QBM (Quick Bayonet Mount) used on Rolleiflex SL35 series (1970-1982).
 // SL is the earlier breech-lock mount on Rolleiflex SL26/SL66 systems.
 export type RolleiMount = "QBM" | "SL";
