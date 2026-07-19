@@ -6,7 +6,7 @@ import { computed, ref } from "vue";
 // (module-level ref) so every component sees the same list.
 
 const STORAGE_KEY = "lens-compare-ids";
-export const MAX_COMPARE = 4;
+export const MAX_COMPARE = 5;
 
 const readInitial = (): string[] => {
   if (typeof window === "undefined") return [];
